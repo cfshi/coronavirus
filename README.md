@@ -7,6 +7,10 @@ https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3213&view=c
 
 3/4:  proposal due
 
+# Research Questions:
+
+Mapping Coronavirus outbreak timeline, media coverage and public and national and international reaction and guidlines
+
 # Data and Sources
 * Data and sources:
   - https://www.cdc.gov/coronavirus/index.html
