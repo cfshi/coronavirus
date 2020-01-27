@@ -15,6 +15,8 @@ Mapping Coronavirus outbreak timeline, media coverage and public and national an
 
   - https://www.aljazeera.com/news/2020/01/timeline-china-coronavirus-spread-200126061554884.html
 
+# Coronavirus death tolls timeline
+
 # Data and Sources
 * Data and sources:
   - https://www.cdc.gov/coronavirus/index.html
