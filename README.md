@@ -23,6 +23,14 @@ Mapping Coronavirus outbreak timeline, media coverage and public and national an
 
   - Pandemic flu (2018) https://jamanetwork.com/journals/jama/fullarticle/2705303
 
+# Collaborators
+- China
+- Taiwan
+- H.K.
+- England
+- USA
+- Japan and Korea?
+
 # Method
 * Media:
   - twitter:  using "Using Twitter search network API, tweets with "flu" keyword were collected and tabulated. Network centralities were calculated with network analysis tool, NodeXL. The collected Twitters accounts were content analyzed and categorized by multiple coders." (https://www.ncbi.nlm.nih.gov/pubmed/27185510, YunMori16)
