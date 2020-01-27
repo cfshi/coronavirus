@@ -2,14 +2,21 @@
 
 https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3213&view=currentOpps&org=CIHR&type=EXACT&resultCount=25&sort=program&next=1&all=1&masterList=true
 
+# Title
+Mapping Coronavirus outbreak timeline, media coverage and public and national and international reaction and guidlines
+(It's very brief.  I would like to have modeling ideas in this project but WHAT???)
+
 # Working Time Table
 2/5:  registration
 
 3/4:  proposal due
 
 # Research Questions:
-
-Mapping Coronavirus outbreak timeline, media coverage and public and national and international reaction and guidlines
+The questions are  tenative and brief.
+- How media coverage, public reaction, health institutes interplay the coronavirus spread?
+- How modeling predictions (from scientifc communinity) are produced and used?
+- How norm (e.g., social sanction) correlate with health behavior in contributing/reducing/avoding the infection?
+- Modeling the outbreak with media (and other factors) in the model
 
 # Coronavirus spread timeline
 
