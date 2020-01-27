@@ -1,7 +1,7 @@
 # CIHR proposal
 # Time Table
 # Data and Sources
-# * Data and sources:
+* Data and sources:
   - https://www.cdc.gov/coronavirus/index.html
 
 * Articles:
