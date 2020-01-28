@@ -28,7 +28,7 @@ The questions are  tenative and brief.
 * Data and sources:
   - https://www.cdc.gov/coronavirus/index.html
   - https://isaric.tghn.org/articles/new-pop-coronavirus-knowledge-hub-global-health-network/
-    -- https://coronavirus.tghn.org/resources-dashboard/case-location-map/
+    - https://coronavirus.tghn.org/resources-dashboard/case-location-map/
 
 * Articles:
 
