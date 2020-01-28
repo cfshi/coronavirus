@@ -27,6 +27,8 @@ The questions are  tenative and brief.
 # Data and Sources
 * Data and sources:
   - https://www.cdc.gov/coronavirus/index.html
+  - https://isaric.tghn.org/articles/new-pop-coronavirus-knowledge-hub-global-health-network/
+    -- https://coronavirus.tghn.org/resources-dashboard/case-location-map/
 
 * Articles:
 
@@ -34,7 +36,7 @@ The questions are  tenative and brief.
 
 # Collaborators
 - China
-- Taiwan
+- Taiwan (get names from J)
 - H.K.
 - England
 - USA
