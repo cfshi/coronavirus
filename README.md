@@ -38,7 +38,7 @@ The questions are tenative and brief.
 - China
 - Taiwan (get names from J; find someone who does media study)
 - H.K.
-- England
+- England (Chng Nai Rui)
 - USA
 - Japan and Korea?
 
