@@ -33,6 +33,7 @@ The questions are tenative and brief.
 * Articles:
 
   - Pandemic flu (2018) https://jamanetwork.com/journals/jama/fullarticle/2705303
+  - MERS.  Social Big Data Analysis of Information Spread https://www.ncbi.nlm.nih.gov/pubmed/28051336
 
 # Collaborators
 - China
