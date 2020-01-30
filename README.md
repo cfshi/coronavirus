@@ -13,9 +13,14 @@ Mapping Coronavirus (19-nCoV) outbreak timeline, media coverage and public and n
 
 # Research Questions:
 
-I'd like to study the following variables and incorporate them all in a model to map a transmission route/pattern in this infectious disease (19-nCov or Wuhan virus in this case): media (mass and social) coverage, public (from media content, or?)reaction, institutional decision and transmission speed/region/scales.   Are there a pattern
+To study the following factors and incorporate them all in a model to map a transmission route/pattern of infectious disease (19-nCov/Wuhan virus in this case): media (mass and social) coverage, public (from media content, or?)reaction, institutional decision (goverments and WHO etc) and transmission speed/region/scales.   
 
-Studyig spreading route.  E.g., From Wuhan to Taipei:  flight route, how many people got contacted and when the report/tract stu
+Regarding spreading route, e.g., from Wuhan to Taipei:  flight route, how many people got infected and whom they contacted.  We will need data from governments (e.g., Taiwan CDC)
+
+Regarding media content, we may do data mining to collect media content from big data base and do data mining (or not?).  
+
+
+
 The questions are tenative and brief.  One main challenge is how to conbime J's expertize and mine.  I.e., media analyais, media impacts, public reaction, policy update and disease transmission pattern/route.  
 
 - How media coverage, public reaction, health institutes interplay the coronavirus spread?
