@@ -20,9 +20,10 @@ The questions are tenative and brief.
 - How norm (e.g., social sanction) correlate with health behavior in contributing/reducing/avoding the infection?
 - Modeling the outbreak with media (and other factors) in the model
 
-# Coronavirus spread timeline
+# Coronavirus spread timeline and area:
 
-  - https://www.aljazeera.com/news/2020/01/timeline-china-coronavirus-spread-200126061554884.html
+  - timeline: https://www.aljazeera.com/news/2020/01/timeline-china-coronavirus-spread-200126061554884.html
+  - area: https://www.theguardian.com/science/2020/jan/22/where-has-coronavirus-spread
 
 # Coronavirus death tolls timeline
 
