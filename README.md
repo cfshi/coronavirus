@@ -14,7 +14,8 @@ Mapping Coronavirus (19-nCoV) outbreak timeline, media coverage and public and n
 # Research Questions:
 
 Studyig spreading route.  E.g., From Wuhan to Taipei:  flight route, how many people got contacted and when the report/tract stu
-The questions are tenative and brief.
+The questions are tenative and brief.  One main challenge is how to conbime J's expertize and mine.  I.e., media analyais, media impacts, public reaction, policy update and disease transmission pattern/route.  
+
 - How media coverage, public reaction, health institutes interplay the coronavirus spread?
 - How modeling predictions (from scientifc communinity) are produced and used?
 - How norm (e.g., social sanction) correlate with health behavior in contributing/reducing/avoding the infection?
