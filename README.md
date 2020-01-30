@@ -34,6 +34,7 @@ The questions are tenative and brief.  One main challenge is how to conbime J's 
   - https://www.cdc.gov/coronavirus/index.html
   - https://isaric.tghn.org/articles/new-pop-coronavirus-knowledge-hub-global-health-network/
     - https://coronavirus.tghn.org/resources-dashboard/case-location-map/
+  - figures:  google trend search, Topsy or similar data search
 
 * Articles:
 
@@ -49,7 +50,7 @@ The questions are tenative and brief.  One main challenge is how to conbime J's 
 - Japan and Korea?
 
 # Method
-* Media: (big data mining?)
+* big data mining for media?
   - twitter:  using "Using Twitter search network API, tweets with "flu" keyword were collected and tabulated. Network centralities were calculated with network analysis tool, NodeXL. The collected Twitters accounts were content analyzed and categorized by multiple coders." (https://www.ncbi.nlm.nih.gov/pubmed/27185510, YunMori16)
   
   - Popular data sources included Twitter, Reddit, various online health communities, and Facebook.
