@@ -11,9 +11,11 @@ Mapping Coronavirus (19-nCoV) outbreak timeline, media coverage and public and n
 
 3/4:  proposal due
 
-# Main Context (guidance, warning, policy etc)
-- quarantine
-- closing cities (e.g. Wuhan no exit/entry); banning flights; banning visitors, 
+# Main Context (guidance, warning, policy of prevention and treatment)
+- quarantine of suspected and infected individuals
+- quarantine of cities (e.g. Wuhan no exit/entry); 
+- travel restriction:  banning flights; banning visitors, 
+- airport screening (temperature)
 - wearing masks (https://www.reuters.com/article/us-china-health-masks-safety/to-mask-or-not-to-mask-confusion-spreads-over-coronavirus-protection-idUSKBN1ZU0PH, 
 - countries evacuating their citizens out of Wuhan via aircrafts
 
