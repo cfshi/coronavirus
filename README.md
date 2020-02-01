@@ -15,6 +15,7 @@ Mapping Coronavirus (19-nCoV) outbreak timeline, media coverage and public and n
 - quarantine
 - closing cities (e.g. Wuhan no exit/entry); banning flights; banning visitors, 
 - wearing masks (https://www.reuters.com/article/us-china-health-masks-safety/to-mask-or-not-to-mask-confusion-spreads-over-coronavirus-protection-idUSKBN1ZU0PH, 
+- countries evacuating their citizens out of Wuhan via aircrafts
 
 
 # Research Questions:
