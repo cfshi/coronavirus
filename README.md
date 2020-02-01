@@ -11,6 +11,12 @@ Mapping Coronavirus (19-nCoV) outbreak timeline, media coverage and public and n
 
 3/4:  proposal due
 
+# Main Context (guidance, warning, policy etc)
+- quarantine
+- closing cities (e.g. Wuhan no exit/entry); banning flights; banning visitors, 
+- wearing masks (https://www.reuters.com/article/us-china-health-masks-safety/to-mask-or-not-to-mask-confusion-spreads-over-coronavirus-protection-idUSKBN1ZU0PH, 
+
+
 # Research Questions:
 
 To study the following factors and incorporate them all in a model to map a transmission route/pattern of infectious disease (19-nCov/Wuhan virus in this case): media (mass and social) coverage, public (from media content, or?)reaction, institutional decision (goverments and WHO etc) and transmission speed/region/scales.   
