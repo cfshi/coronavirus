@@ -19,6 +19,8 @@ Mapping Coronavirus (19-nCoV) outbreak timeline, media coverage and public and n
 - wearing masks (https://www.reuters.com/article/us-china-health-masks-safety/to-mask-or-not-to-mask-confusion-spreads-over-coronavirus-protection-idUSKBN1ZU0PH, 
 - countries evacuating their citizens out of Wuhan via aircrafts
 
+Is context same as noise in modeling (e.g., Park and Dushoff 2020):  dynamical or process; noise(randomness directly or indirectly affecting disease transmission); observation noise(randomness underlying how many true caases reported).  Based on their definion, how do context or media, public reation and pubic policy-guideline fit into models?  Is it a right question?
+
 
 # Research Questions:
 
