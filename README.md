@@ -7,9 +7,7 @@ Mapping Coronavirus (19-nCoV) outbreak timeline, media coverage and public and n
 (It's very brief.  (I would like to have modeling ideas in this project but WHAT???  Also, how workable is it to compare this coronavirus to 2012 MERS and 2002 SARS in terms of the spread and reaction context (media coverage, public and institutional reaction and modeling prediction?)
 
 # Working Time Table
-2/5:  registration
 
-3/4:  proposal due
 
 # Main Context (guidance, warning, policy of prevention and treatment)
 - quarantine of suspected and infected individuals
@@ -28,7 +26,8 @@ To study the following factors and incorporate them all in a model to map a tran
 
 Regarding spreading route, e.g., from Wuhan to Taipei:  flight route, how many people got infected and whom they contacted.  We will need data from governments (e.g., Taiwan CDC)
 
-Regarding media content, we may do data mining to collect media content from big data base and do data mining (or not?).  
+Regarding media content, we may do data mining to collect media content from big data base and do data mining (or not?).
+WHO reaction was politicalized.  The chairman, who is Ethiopia, first commented that China was efficient and did a good job curtailing the virus; that was different from common belief.  Did the WHO's position delay the world's reaction to the virus?
 
 
 
