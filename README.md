@@ -1,6 +1,7 @@
 # CIHR proposal for planning and dissemination:
 
-https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3209&view=currentOpps&org=CIHR&type=EXACT&resultCount=25&sort=program&next=1&all=1&masterList=true#partnerdescription-icrh
+https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3209&printfriendly=true#partnerdescription
+https://cihr-irsc.gc.ca/e/36396.html
 
 # Title
 Mapping Coronavirus (19-nCoV) outbreak timeline, media coverage and public and national and international reaction and guidlines
