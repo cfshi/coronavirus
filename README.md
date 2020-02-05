@@ -1,6 +1,6 @@
-# CIHR proposal 
+# CIHR proposal for planning and dissemination:
 
-https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3213&view=currentOpps&org=CIHR&type=EXACT&resultCount=25&sort=program&next=1&all=1&masterList=true
+https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3209&view=currentOpps&org=CIHR&type=EXACT&resultCount=25&sort=program&next=1&all=1&masterList=true#partnerdescription-icrh
 
 # Title
 Mapping Coronavirus (19-nCoV) outbreak timeline, media coverage and public and national and international reaction and guidlines
@@ -29,7 +29,7 @@ Regarding spreading route, e.g., from Wuhan to Taipei:  flight route, how many p
 Regarding media content, we may do data mining to collect media content from big data base and do data mining (or not?).
 WHO reaction was politicalized.  The chairman, who is Ethiopia, first commented that China was efficient and did a good job curtailing the virus; that was different from common belief.  Did the WHO's position delay the world's reaction to the virus?
 
-
+"This case report highlights the importance of clinicians eliciting a recent history of travel or exposure to sick contacts in any patient presenting for medical care with acute illness symptoms, in order to ensure appropriate identification and prompt isolation of patients who may be at risk for 2019-nCoV infection and to help reduce further transmission. Finally, this report highlights the need to determine the full spectrum and natural history of clinical disease, pathogenesis, and duration of viral shedding associated with 2019-nCoV infection to inform clinical management and public health decision making." \cite{HolsDebo20}
 
 The questions are tenative and brief.  One main challenge is how to conbime J's expertize and mine.  I.e., media analyais, media impacts, public reaction, policy update and disease transmission pattern/route.  
 
