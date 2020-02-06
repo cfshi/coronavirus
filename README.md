@@ -40,6 +40,15 @@ The questions are tenative and brief.  One main challenge is how to conbime J's 
 - Modeling the outbreak with media (and other factors) in the model
 - How does the 19-nCoV different from 2012 MERS-CoV and 2002 SARS-CoV?  This is a big question and I don't know if it's workable.
 
+Another perspective will be summarize, compare and analysis of international reaction and pulbic policy:
+
+- media report
+- cases:  by countries, region
+- policy:  quarentine, flight control, boarder control, hospital preparation, sources distributin (mask etc)
+- WHO position:  from day 1 till now
+- economic impact (maybe not this one)
+Based on our findigs to propose for preparation and recommmendation for future outbreak (or even this 19-nCov)
+
 # Coronavirus spread timeline and area:
 
   - timeline: https://www.aljazeera.com/news/2020/01/timeline-china-coronavirus-spread-200126061554884.html and https://www.aljazeera.com/news/2020/01/cloneofcloneofcloneofchina-battles-coronavirus-o-200129233906291.html
