@@ -2,7 +2,9 @@
 
 https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3209&printfriendly=true#partnerdescription
 
-https://cihr-irsc.gc.ca/e/36396.html
+https://cihr-irsc.gc.ca/e/36396.html (Due March 17!)
+
+Or https://cihr-irsc.gc.ca/e/51868.html (due Feb 17!!!)
 
 # Title
 Mapping Coronavirus (19-nCoV) outbreak timeline, media coverage and public and national and international reaction and guidlines
