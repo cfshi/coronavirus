@@ -4,7 +4,14 @@ https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3209&printf
 
 https://cihr-irsc.gc.ca/e/36396.html (Due March 17!)
 
-Or https://cihr-irsc.gc.ca/e/51868.html (due Feb 17!!!)
+Or special coronavirus call: https://cihr-irsc.gc.ca/e/51868.html (due Feb 17!!!)
+- Social and policy countermeasures research:
+- Cultural dimensions of the epidemic such as, examining how individuals and communities understand and react to the disease;
+- Studying the public health response;
+- Developing strategies to combat misinformation, stigma, and fear;
+- Studying logistical (e.g., infrastructure, transport, evacuation) and economic impacts;
+- Studying international relations, global coordination, response systems and crisis management; and
+- Considering the social dynamics of transmission.
 
 # Title
 Mapping Coronavirus (19-nCoV) outbreak timeline, media coverage and public and national and international reaction and guidlines
