@@ -29,12 +29,12 @@ understanding and reaction, and national and international guidelines.
 - wearing masks (https://www.reuters.com/article/us-china-health-masks-safety/to-mask-or-not-to-mask-confusion-spreads-over-coronavirus-protection-idUSKBN1ZU0PH, 
 - countries evacuating their citizens out of Wuhan via aircrafts
 
-Is context same as noise in modeling (e.g., Park and Dushoff 2020):  dynamical or process; noise(randomness directly or indirectly affecting disease transmission); observation noise(randomness underlying how many true caases reported).  Based on their definion, how do context or media, public reation and pubic policy-guideline fit into models?  Is it a right question?
+Is context same as noise in modelling (e.g., Park and Dushoff 2020):  dynamical or process; noise(randomness directly or indirectly affecting disease transmission); observation noise(randomness underlying how many true cases reported).  Based on their definition, how do context or media, public reaction and pubic policy-guideline fit into models?  Is it a right question?
 
 
 # Research Questions:
 
-To study the following factors and incorporate them all in a model to map a transmission route/pattern of infectious disease (19-nCov/Wuhan virus in this case): media (mass and social) coverage, public (from media content, or?)reaction, institutional decision (goverments and WHO etc) and transmission speed/region/scales.   
+To study the following factors and incorporate them all in a model to map a transmission route/pattern of infectious disease (19-nCov/Wuhan virus in this case): media (mass and social) coverage, public (from media content, or?)reaction, institutional decision (governments and WHO etc) and transmission speed/region/scales.   
 
 Regarding spreading route, e.g., from Wuhan to Taipei:  flight route, how many people got infected and whom they contacted.  We will need data from governments (e.g., Taiwan CDC)
 
@@ -43,22 +43,30 @@ WHO reaction was politicalized.  The chairman, who is Ethiopia, first commented 
 
 "This case report highlights the importance of clinicians eliciting a recent history of travel or exposure to sick contacts in any patient presenting for medical care with acute illness symptoms, in order to ensure appropriate identification and prompt isolation of patients who may be at risk for 2019-nCoV infection and to help reduce further transmission. Finally, this report highlights the need to determine the full spectrum and natural history of clinical disease, pathogenesis, and duration of viral shedding associated with 2019-nCoV infection to inform clinical management and public health decision making." \cite{HolsDebo20}
 
-The questions are tenative and brief.  One main challenge is how to conbime J's expertize and mine.  I.e., media analyais, media impacts, public reaction, policy update and disease transmission pattern/route.  
+The questions are tetative and brief.  One main challenge is how to combine J's expertise and mine.  I.e., media analysis, media impacts, public reaction, policy update and disease transmission pattern/route.  
 
 - How media coverage, public reaction, health institutes interplay the coronavirus spread?
-- How modeling predictions (from scientifc communinity) are produced and used?
-- How norm (e.g., social sanction) correlate with health behavior in contributing/reducing/avoding the infection?
-- Modeling the outbreak with media (and other factors) in the model
-- How does the 19-nCoV different from 2012 MERS-CoV and 2002 SARS-CoV?  This is a big question and I don't know if it's workable.
+	— We will need to work on theme for content analysis, either quantitative (via computer) or qualitative
+	— Media content can present a picture of what was communicated among the public, the government and the international communities.  It gives story of what was the virus like and how it was perceived.
+- How policy correlate with health behavior in contributing/reducing/avoiding the infection?
+	— This is important.  We will compare what policies imposed by selected countries  to contain and prevent the spread of the infection and its progress.  This will allow us to propose recommendation for future outbreak (or even this one).
+	— We will go to official website (also media content?) such as WHO, US CDC etc for information.
+	— Although WHO position in the beginning of the virus spread was questioned (https://www.washingtonpost.com/world/asia_pacific/chinese-officials-note-serious-problems-in-coronavirus-response-the-world-health-organization-keeps-praising-them/2020/02/08/b663dd7c-4834-11ea-91ab-ce439aa5c7c1_story.html) , how to interpret WHO information and recommendation	need to be cautious.  So what does it mean?  How do we use their info?
+- How people react to the virus?  
+	— We will use google trend (by countries, time and categories) and the daily infected cases and fatality (via WHO?) and study the correlation of the two patterns.
 
-Another perspective will be summarize, compare and analysis of international reaction and pulbic policy:
+- How does the 19-nCoV different from 2012 MERS-CoV and 2002 SARS-CoV?  This is a big question and I don't know if it's workable.
+- Modelling the outbreak with media (and other factors) in the model
+- How modelling predictions (from scientific community) are produced and used? (maybe this is outside the scope of this proposal)
+	— comparing modelling prediction 
+Another perspective will be summarize, compare and analysis of international reaction and public policy:
 
 - media report
 - cases:  by countries, region
-- policy:  quarentine, flight control, boarder control, hospital preparation, sources distributin (mask etc)
+- policy:  quarantine, flight control, boarder control, hospital preparation, sources distribution (mask etc)
 - WHO position:  from day 1 till now
 - economic impact (maybe not this one)
-Based on our findigs to propose for preparation and recommmendation for future outbreak (or even this 19-nCov)
+Based on our findings to propose for preparation and recommendation for future outbreak (or even this 19-nCov)
 
 # Coronavirus spread timeline and area:
 
@@ -83,8 +91,9 @@ Based on our findigs to propose for preparation and recommmendation for future o
 - China
 - Taiwan (get names from J; find someone who does media study)
 - H.K.
-- England (Chng Nai Rui)
+- England/Singapore (Chng Nai Rui)
 - USA
+- Canada:  we need someone with epidemiology background
 - Japan and Korea?
 
 # Method
@@ -97,22 +106,27 @@ Based on our findigs to propose for preparation and recommmendation for future o
   
   - https://www.ncbi.nlm.nih.gov/pubmed/30923270 Managing Influenza Outbreaks Through Social Interaction on Social Media: Research Transformation Through an Engaged Scholarship Approach. (BunkEhni19)
 
-* modeling:  incorporating media coverage, public and institutional reaction and report (which can be based on modeling resutls by scientific community and WHO etc), time travelling and spread network (geographical)
+* modeling:  incorporating media coverage, public and institutional reaction and report (which can be based on modelling results by scientific community and WHO etc), time travelling and spread network (geographical)
   
   
 # Background:
 China alerted WHO on December 31, 2019 to several cases of pneumonia in Wuhan, a port city of 11 million people in the central Hubei province. The virus was unknown.
 On January 7th, according to the WHO, China announced they had identified a new virus named 2019-nCoV, identified as belonging to the coronavirus family, 
 which includes SARS and common cold. "Coronaviruses spread through being in proximity to an infected person and inhaling droplets generated 
-when they cough or sneeze, or touching a surface where these droplets land and then touching one's face or nose."  The first death was announced on Janaury 11th in Chia.
-Since then, the virus was reported in Thailand, Japan, Singapore, Taiwan, Philipine, United States, Germany and many other countries (up to xx at the writing)
-By Febuary 9th, the death toll reached to over 800 cases, passed the fatality caused by 2002-3 SARS.
+when they cough or sneeze, or touching a surface where these droplets land and then touching one's face or nose."  The first death was announced on January 11th in Chia.
+Since then, the virus was reported in Thailand, Japan, Singapore, Taiwan, Philippine, United States, Germany and many other countries (up to xx at the writing)
+By February 9th, the death toll reached to over 800 cases, passed the fatality caused by 2002-3 SARS.
 
 # Literature Review:
+- Studies about coronavirus
+- media and SARS
+- how SARS was contained (in affected countries)
+- how WHO dealt with SARS
+
 # Data and sources:
 # Methods
 # Timeline
-# Expected Results and Contrubution
+# Expected Results and Contribution
 
 # Appendix:
 - map: https://coronavirus.tghn.org/resources-dashboard/case-location-map/
