@@ -54,6 +54,7 @@ The questions are tetative and brief.  One main challenge is how to combine J's 
 	— Although WHO position in the beginning of the virus spread was questioned (https://www.washingtonpost.com/world/asia_pacific/chinese-officials-note-serious-problems-in-coronavirus-response-the-world-health-organization-keeps-praising-them/2020/02/08/b663dd7c-4834-11ea-91ab-ce439aa5c7c1_story.html) , how to interpret WHO information and recommendation	need to be cautious.  So what does it mean?  How do we use their info?
 - How people react to the virus?  
 	— We will use google trend (by countries, time and categories) and the daily infected cases and fatality (via WHO?) and study the correlation of the two patterns.
+	— focus on social anxiety and racism?
 
 - How does the 19-nCoV different from 2012 MERS-CoV and 2002 SARS-CoV?  This is a big question and I don't know if it's workable.
 - Modelling the outbreak with media (and other factors) in the model
@@ -111,11 +112,12 @@ Based on our findings to propose for preparation and recommendation for future o
   
 # Background:
 China alerted WHO on December 31, 2019 to several cases of pneumonia in Wuhan, a port city of 11 million people in the central Hubei province. The virus was unknown.
-On January 7th, according to the WHO, China announced they had identified a new virus named 2019-nCoV, identified as belonging to the coronavirus family, 
-which includes SARS and common cold. "Coronaviruses spread through being in proximity to an infected person and inhaling droplets generated 
+On January 7th, according to the WHO, China announced they had identified a new virus named 2019-nCoV or novel coronavirus, identified as belonging to the coronavirus family, which includes SARS and common cold. It originates from mammals and attacks the respiratory system, and individuals affected can feel symptoms from mild cold to severe disease and death.  “Coronaviruses spread through being in proximity to an infected person and inhaling droplets generated 
 when they cough or sneeze, or touching a surface where these droplets land and then touching one's face or nose."  The first death was announced on January 11th in Chia.
 Since then, the virus was reported in Thailand, Japan, Singapore, Taiwan, Philippine, United States, Germany and many other countries (up to xx at the writing)
-By February 9th, the death toll reached to over 800 cases, passed the fatality caused by 2002-3 SARS.
+By February 9th, the death toll reached to over 800 cases, passed the fatality caused by 2002-3 SARS.  There were xxx confirmed cases and d xxx death in worldwide (cite) and xxx and xxx respectively in China (http://www.nhc.gov.cn/xcs/yqtb/202002/4a611bc7fa20411f8ba1c8084426c0d4.shtml,) by Feb xx.  Five million people left Wuhan before the city shut down (https://www.businessinsider.com/wuhan-coronavirus-officials-quarantine-entire-city-2020-10 ).  One of the challenges in containing the outbreak is that a substantial fraction of infected people show only mild symptoms (https://www.businessinsider.com/wuhan-coronavirus-officials-quarantine-entire-city-2020-1)
+
+Public anxiety and fear rises when public health threats are not contained (cite).  With no vaccine treatment, no he 2019-nCov 
 
 # Literature Review:
 - Studies about coronavirus
