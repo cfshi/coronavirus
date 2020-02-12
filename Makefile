@@ -15,6 +15,7 @@ Sources += auto.rmu ## Old-style ref machinery
 ## Sources += outbreak_timeline.md proposal.md README.md
 Sources += $(wildcard *.md)
 
+Ignore += *.gh.html
 ## proposal.gh.html: proposal.md
 
 ## Not working; it shows the master README (but nothing else)
