@@ -76,8 +76,8 @@ Based on our findings to propose for preparation and recommendation for future o
 
 # Data and Sources
 - Official: 
-	- WHO, CDC etc
-			- https://www.cdc.gov/coronavirus/index.html
+	- WHO, [CDC] (https://www.cdc.gov/coronavirus/index.html), [National Health Commission of PRC] (http://en.nhc.gov.cn/index.html) etc
+			- 
 -  media
 -  general public:
 	- Google Trend 
