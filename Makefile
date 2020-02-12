@@ -10,8 +10,7 @@ current: target
 
 # Content
 
-vim_session:
-	bash -cl "vmt"
+Sources += auto.rmu ## Old-style ref machinery
 
 ######################################################################
 
