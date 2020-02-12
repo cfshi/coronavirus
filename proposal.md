@@ -46,9 +46,12 @@ The questions are tentative and brief.  One main challenge is how to combine J's
 		* Media content can present a picture of what was communicated among the public, the government and the international communities.  It gives story of what was the virus like and how it was perceived.
 
 	2. How does the general public understand and react to the virus (analyzing google trends data and media content)? (i.e., Study of the public health response)
-		* We will use google trend (by countries, time and categories) and the daily infected cases and fatality (via WHO?) and study the correlation of the two patterns.
+		* We will use google trend (by countries, time and categories) and the daily infected cases and fatality (via WHO?) and study the correlation of the two patterns.  Google Search Trends and media coverage served as a proxy indicator for information dissemination  (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663).
 
-	3. How does the national and international community react to the virus spread and with what guidelines (analyzing official websites, such as WHO, CDC, Chinese Center for Disease Control and Prevention, etc) (i.e., analysis of social and policy countermeasures)
+	3. How science community report Ro of the virus transmission?  The epidemic findings is part of the information the public, media and international community rely on. Preprints can play a powerful role during public health crises due to the time urgency with which they can disseminate new information, accurate or not. (ref: [Early in the Epidemic: Impact of preprints on global discourse of 2019-nCoV transmissibility] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663))
+		* We can also check findings of preprint (speedy information delivery, lack of peer review) in terms of accuracy and how misinformation get circulated based on those findings. (see [examples] in (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663))
+
+	4. How does the national and international community react to the virus spread and with what guidelines (analyzing official websites, such as WHO, CDC, Chinese Center for Disease Control and Prevention, etc) (i.e., analysis of social and policy countermeasures)
 
 - How policy correlate with health behavior in contributing/reducing/avoiding the infection?
 		* This is important.  We will compare what policies imposed by selected countries  to contain and prevent the spread of the infection and its progress.  This will allow us to propose recommendation for future outbreak (or even this one).
@@ -79,10 +82,12 @@ Based on our findings to propose for preparation and recommendation for future o
 -  general public:
 	- Google Trend 
 		- e.g. https://trends.google.com/trends/explore?date=today%201-m&geo=SG&q=%2Fm%2F01cpyy,wuhan%20virus,19-nCov,sars,flu ,(export google trend data: https://support.google.com/trends/answer/4365538?hl=en )
+		- Google Trend data can be very confusing, e.g., https://trends.google.com/trends/explore?date=today%201-m&geo=TW&gprop=images&q=coronavirus,sars,%2Fm%2F0l3cy,wuhan%20virus,%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E , why would Wuhan topped coronavirus and 武漢肺炎 in Taiwan?
 	- https://isaric.tghn.org/articles/new-pop-coronavirus-knowledge-hub-global-health-network/
     	- https://coronavirus.tghn.org/resources-dashboard/case-location-map/
   	- figures:  google trend search, Topsy or similar data search
-	
+- science, R0 publication
+
 How do we collect public data in China (We Chat or?)
 
  Articles:
@@ -125,6 +130,8 @@ How do we collect public data in China (We Chat or?)
 	- sanction of information about the disease inside China (e.g., https://www.washingtonpost.com/world/2020/02/04/chinese-doctor-has-coronavirus/)
 	- distrust:  among people, communities, countries etc
 	- economic impact
+	- international relations, global coordination, response systems and crisis management
+
 * How do we attribute theme weight?  Based on which paragraph key concept (via words) appear.  For example, 3 points to that in the first 3 paragraphs, 2 to 4-6 and 1 to the afterwards.
 
 * We will do a contextual analysis based on the (semi) quantitative findings.
@@ -151,7 +158,7 @@ By February 9th, the death toll reached to over 800 cases, passed the fatality c
 Top newspaper, twitters and youtube.
 * Media in USA: 
 
-Associated Press (AP) newswire; U.S. English-language newspapers of top x high-circulation; the 50 most popular websites among the 12–17 and/or 18–24 age groups for each quarter, according to Nielsen ratings; and broadcast news transcripts from top networks.  Lexis-Nexis was used to collect texts from the first three sources, and the MIT MediaCloud database was used to collect texts from websites. Texts were collected from both sources using 12 broad search terms \cite{LiuSieg19}
+Associated Press (AP) newswire; U.S. English-language newspapers of top x high-circulation; the xx most popular websites, according to Nielsen ratings; and broadcast news transcripts from top networks.  Lexis-Nexis will be used to collect texts from the first three sources, and the MIT MediaCloud database to collect texts from websites. Texts were collected from both sources using xx broad search terms \cite{LiuSieg19} 
 
 * Media in Canada:
 * Media in Taiwan: https://www.ncl.edu.tw/.
