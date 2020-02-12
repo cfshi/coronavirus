@@ -72,20 +72,20 @@ Based on our findings to propose for preparation and recommendation for future o
 # Coronavirus death tolls timeline
 
 # Data and Sources
-	- Official: 
-		- WHO, CDC etc
+- Official: 
+	- WHO, CDC etc
 			- https://www.cdc.gov/coronavirus/index.html
-	-  media
-	-  general public:
-		- Google Trend 
-			- e.g. https://trends.google.com/trends/explore?date=today%201-m&geo=SG&q=%2Fm%2F01cpyy,wuhan%20virus,19-nCov,sars,flu ,(export google trend data: https://support.google.com/trends/answer/4365538?hl=en )
-		- https://isaric.tghn.org/articles/new-pop-coronavirus-knowledge-hub-global-health-network/
-    		- https://coronavirus.tghn.org/resources-dashboard/case-location-map/
-  		- figures:  google trend search, Topsy or similar data search
+-  media
+-  general public:
+	- Google Trend 
+		- e.g. https://trends.google.com/trends/explore?date=today%201-m&geo=SG&q=%2Fm%2F01cpyy,wuhan%20virus,19-nCov,sars,flu ,(export google trend data: https://support.google.com/trends/answer/4365538?hl=en )
+	- https://isaric.tghn.org/articles/new-pop-coronavirus-knowledge-hub-global-health-network/
+    	- https://coronavirus.tghn.org/resources-dashboard/case-location-map/
+  	- figures:  google trend search, Topsy or similar data search
 	
-	how do we collect public data in China (We Chat or?)
+How do we collect public data in China (We Chat or?)
 
-* Articles:
+ Articles:
 
   - Pandemic flu (2018) https://jamanetwork.com/journals/jama/fullarticle/2705303
   - MERS.  Social Big Data Analysis of Information Spread https://www.ncbi.nlm.nih.gov/pubmed/28051336
