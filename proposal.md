@@ -40,7 +40,7 @@ WHO reaction was politicalized.  The chairman, who is Ethiopia, first commented 
 
 The questions are tentative and brief.  One main challenge is how to combine J's expertise and mine.  I.e., media analysis, media impacts, public reaction, policy update and disease transmission pattern/route.  
 
-## How media coverage, public reaction, health institutes interplay the coronavirus spread?
+- How media coverage, public reaction, health institutes interplay the coronavirus spread?
 	 1. How does the media (mass and social) cover the virus? (i.e., analysis of cultural dimensions of the epidemic and public health response)
 		* We will need to work on theme for content analysis, either quantitative (via computer) or qualitative
 		* Media content can present a picture of what was communicated among the public, the government and the international communities.  It gives story of what was the virus like and how it was perceived.
@@ -49,7 +49,8 @@ The questions are tentative and brief.  One main challenge is how to combine J's
 		* We will use google trend (by countries, time and categories) and the daily infected cases and fatality (via WHO?) and study the correlation of the two patterns.
 
 	3. How does the national and international community react to the virus spread and with what guidelines (analyzing official websites, such as WHO, CDC, Chinese Center for Disease Control and Prevention, etc) (i.e., analysis of social and policy countermeasures)
-## How policy correlate with health behavior in contributing/reducing/avoiding the infection?
+
+- How policy correlate with health behavior in contributing/reducing/avoiding the infection?
 		* This is important.  We will compare what policies imposed by selected countries  to contain and prevent the spread of the infection and its progress.  This will allow us to propose recommendation for future outbreak (or even this one).
 		* We will go to official website (also media content?) such as WHO, US CDC etc for information.
 		* Although WHO position in the beginning of the virus spread was questioned (https://www.washingtonpost.com/world/asia_pacific/chinese-officials-note-serious-problems-in-coronavirus-response-the-world-health-organization-keeps-praising-them/2020/02/08/b663dd7c-4834-11ea-91ab-ce439aa5c7c1_story.html) , how to interpret WHO information and recommendation	need to be cautious.  So what does it mean?  How do we use their info?
