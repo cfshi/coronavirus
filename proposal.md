@@ -1,3 +1,4 @@
+
 # Special coronavirus call: https://cihr-irsc.gc.ca/e/51868.html (due Feb 17!!!)
 
 - Social and policy countermeasures research:
@@ -40,18 +41,18 @@ WHO reaction was politicalized.  The chairman, who is Ethiopia, first commented 
 The questions are tentative and brief.  One main challenge is how to combine J's expertise and mine.  I.e., media analysis, media impacts, public reaction, policy update and disease transmission pattern/route.  
 
 - How media coverage, public reaction, health institutes interplay the coronavirus spread?
-- 1. How does the media (mass and social) cover the virus? (i.e., analysis of cultural dimensions of the epidemic and public health response)
-	— We will need to work on theme for content analysis, either quantitative (via computer) or qualitative
-	— Media content can present a picture of what was communicated among the public, the government and the international communities.  It gives story of what was the virus like and how it was perceived.
+	 1. How does the media (mass and social) cover the virus? (i.e., analysis of cultural dimensions of the epidemic and public health response)
+		* We will need to work on theme for content analysis, either quantitative (via computer) or qualitative
+		* Media content can present a picture of what was communicated among the public, the government and the international communities.  It gives story of what was the virus like and how it was perceived.
 
-2. How does the general public understand and react to the virus (analyzing google trends data and media content)? (i.e., Study of the public health response)
-	— We will use google trend (by countries, time and categories) and the daily infected cases and fatality (via WHO?) and study the correlation of the two patterns.
+	2. How does the general public understand and react to the virus (analyzing google trends data and media content)? (i.e., Study of the public health response)
+		* We will use google trend (by countries, time and categories) and the daily infected cases and fatality (via WHO?) and study the correlation of the two patterns.
 
-3. How does the national and international community react to the virus spread and with what guidelines (analyzing official websites, such as WHO, CDC, Chinese Center for Disease Control and Prevention, etc) (i.e., analysis of social and policy countermeasures)
+	3. How does the national and international community react to the virus spread and with what guidelines (analyzing official websites, such as WHO, CDC, Chinese Center for Disease Control and Prevention, etc) (i.e., analysis of social and policy countermeasures)
 - How policy correlate with health behavior in contributing/reducing/avoiding the infection?
-	— This is important.  We will compare what policies imposed by selected countries  to contain and prevent the spread of the infection and its progress.  This will allow us to propose recommendation for future outbreak (or even this one).
-	— We will go to official website (also media content?) such as WHO, US CDC etc for information.
-	— Although WHO position in the beginning of the virus spread was questioned (https://www.washingtonpost.com/world/asia_pacific/chinese-officials-note-serious-problems-in-coronavirus-response-the-world-health-organization-keeps-praising-them/2020/02/08/b663dd7c-4834-11ea-91ab-ce439aa5c7c1_story.html) , how to interpret WHO information and recommendation	need to be cautious.  So what does it mean?  How do we use their info?
+		* This is important.  We will compare what policies imposed by selected countries  to contain and prevent the spread of the infection and its progress.  This will allow us to propose recommendation for future outbreak (or even this one).
+		* We will go to official website (also media content?) such as WHO, US CDC etc for information.
+		* Although WHO position in the beginning of the virus spread was questioned (https://www.washingtonpost.com/world/asia_pacific/chinese-officials-note-serious-problems-in-coronavirus-response-the-world-health-organization-keeps-praising-them/2020/02/08/b663dd7c-4834-11ea-91ab-ce439aa5c7c1_story.html) , how to interpret WHO information and recommendation	need to be cautious.  So what does it mean?  How do we use their info?
 
 We will further analyze correlation of the three sources.
 
@@ -70,17 +71,17 @@ Based on our findings to propose for preparation and recommendation for future o
 # Coronavirus death tolls timeline
 
 # Data and Sources
-	— Official: 
+	* Official: 
 		— WHO, CDC etc
 			- https://www.cdc.gov/coronavirus/index.html
 
-	— media
-	— general public:
+	* media
+	* general public:
 		— Google Trend 
 			- e.g. https://trends.google.com/trends/explore?date=today%201-m&geo=SG&q=%2Fm%2F01cpyy,wuhan%20virus,19-nCov,sars,flu ,(export google trend data: https://support.google.com/trends/answer/4365538?hl=en )
-- https://isaric.tghn.org/articles/new-pop-coronavirus-knowledge-hub-global-health-network/
-    - https://coronavirus.tghn.org/resources-dashboard/case-location-map/
-  - figures:  google trend search, Topsy or similar data search
+		— https://isaric.tghn.org/articles/new-pop-coronavirus-knowledge-hub-global-health-network/
+    		— https://coronavirus.tghn.org/resources-dashboard/case-location-map/
+  		— figures:  google trend search, Topsy or similar data search
 	
 	how do we collect public data in China (We Chat or?)
 
@@ -118,7 +119,8 @@ Based on our findings to propose for preparation and recommendation for future o
 	- guidance:  how to wear face mask,  travel recommondation,  
 	- flu symptom:
 	- coronavirus characteristics: what it is and compared to other diseases
-	- fear and stigma: 
+	- fear and stigma: (e.g., https://www.nytimes.com/2020/02/12/world/asia/china-coronavirus-korea-discrimination.html?action=click&module=Top%20Stories&pgtype=Homepage)
+	- conspiracy theory:  e.g., P4 lab in Wuhan
 	- fatality and infected cases:
 	- sanction of information about the disease inside China (e.g., https://www.washingtonpost.com/world/2020/02/04/chinese-doctor-has-coronavirus/)
 	- distrust:  among people, communities, countries etc
@@ -146,6 +148,17 @@ By February 9th, the death toll reached to over 800 cases, passed the fatality c
 - how WHO dealt with SARS
 
 # Data and sources:
+Top newspaper, twitters and youtube.
+* Media in USA: 
+
+Associated Press (AP) newswire; U.S. English-language newspapers of top x high-circulation; the 50 most popular websites among the 12–17 and/or 18–24 age groups for each quarter, according to Nielsen ratings; and broadcast news transcripts from top networks.  Lexis-Nexis was used to collect texts from the first three sources, and the MIT MediaCloud database was used to collect texts from websites. Texts were collected from both sources using 12 broad search terms \cite{LiuSieg19}
+
+* Media in Canada:
+* Media in Taiwan: https://www.ncl.edu.tw/.
+* Media in Hong Kong
+* Media in China
+* Media in Singapore
+
 # Methods
 # Timeline
 # Expected Results and Contribution
