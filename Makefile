@@ -15,6 +15,16 @@ Sources += auto.rmu ## Old-style ref machinery
 ## Sources += outbreak_timeline.md proposal.md README.md
 Sources += $(wildcard *.md)
 
+## proposal.gh.html: proposal.md
+
+## Not working; it shows the master README (but nothing else)
+## Don't play now ☺
+## https://cfshi.github.io/coronavirus/README.gh.html
+
+######################################################################
+
+## Machinery
+
 ######################################################################
 
 ### Makestuff
@@ -31,6 +41,7 @@ makestuff/Makefile:
 -include makestuff/os.mk
 
 ## -include makestuff/wrapR.mk
+-include makestuff/pandoc.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk
