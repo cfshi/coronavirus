@@ -12,6 +12,9 @@ current: target
 
 Sources += auto.rmu ## Old-style ref machinery
 
+## Sources += outbreak_timeline.md proposal.md README.md
+Sources += $(wildcard *.md)
+
 ######################################################################
 
 ### Makestuff
