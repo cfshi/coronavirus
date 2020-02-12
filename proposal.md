@@ -73,16 +73,16 @@ Based on our findings to propose for preparation and recommendation for future o
 
 # Data and Sources
 	* Official: 
-		— WHO, CDC etc
+		- WHO, CDC etc
 			- https://www.cdc.gov/coronavirus/index.html
 
 	* media
 	* general public:
-		— Google Trend 
+		- Google Trend 
 			- e.g. https://trends.google.com/trends/explore?date=today%201-m&geo=SG&q=%2Fm%2F01cpyy,wuhan%20virus,19-nCov,sars,flu ,(export google trend data: https://support.google.com/trends/answer/4365538?hl=en )
-		— https://isaric.tghn.org/articles/new-pop-coronavirus-knowledge-hub-global-health-network/
-    		— https://coronavirus.tghn.org/resources-dashboard/case-location-map/
-  		— figures:  google trend search, Topsy or similar data search
+		- https://isaric.tghn.org/articles/new-pop-coronavirus-knowledge-hub-global-health-network/
+    		- https://coronavirus.tghn.org/resources-dashboard/case-location-map/
+  		- figures:  google trend search, Topsy or similar data search
 	
 	how do we collect public data in China (We Chat or?)
 
