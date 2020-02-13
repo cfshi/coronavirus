@@ -46,18 +46,18 @@ To study the following factors and incorporate them all in a model to map a publ
   - [outbreak timeline](https://www.aljazeera.com/news/2020/01/timeline-china-coronavirus-spread-200126061554884.html?xif=%20and%20https:/www.aljazeera.com/news/2020/01/cloneofcloneofcloneofchina-battles-coronavirus-o-200129233906291.html)
   - [countries affected](https://www.theguardian.com/science/2020/jan/22/where-has-coronavirus-spread)
 
-# Data and Methods: (ref theme analysis in the H1N1 paper, and PMID: 31956275)
+# Data and Methods: 
+(ref theme analysis in the H1N1 paper, and PMID: 31956275)
 -  media (big data mining?)
 Top newspaper, twitters and youtube (hope to have data of TV content, but seems not easy.)
-* Media in USA: 
+	* Media in USA: 
 Associated Press (AP) newswire; U.S. English-language newspapers of top high-circulation; most viewed youtube (and broadcast news transcripts from top networks?).  Lexis-Nexis will be used to collect texts from the first three sources, and the MIT MediaCloud database to collect texts from websites. Texts were collected from both sources using broad search terms \cite{LiuSieg19} 
-
-* Media in Canada: (similar to USA)
-* Media in Taiwan: https://www.ncl.edu.tw/.
-* Media in Hong Kong
-* Media in China
-* Media in Singapore
-* How do we collect public data in China (We Chat or?)
+	* Media in Canada: (similar to USA)
+	* Media in Taiwan: https://www.ncl.edu.tw/.
+	* Media in Hong Kong
+	* Media in China
+	* Media in Singapore
+	* How do we collect public data in China (We Chat or?)
 
 ＊key words search: coronavirus, 19-nCov, COVID-19, influenza, 武疫，武漢病毒，武漢，武漢肺炎，肺炎，新型冠状病毒, 武漢新型冠状病毒
 
