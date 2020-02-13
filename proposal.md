@@ -10,8 +10,6 @@ We intend to focus on the following proposed topic areas
 	- Developing strategies to combat misinformation, stigma, and fear;
 
 
-----------------------------------------------------------------------
-
 # Draft title suggestions
 
 * Whispering down the lane: how information about COVID-19 travels across forums and affects public behaviour
