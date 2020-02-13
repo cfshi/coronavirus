@@ -61,7 +61,7 @@ Associated Press (AP) newswire; U.S. English-language newspapers of top high-cir
 
 ＊key words search: coronavirus, 19-nCov, COVID-19, influenza, 武疫，武漢病毒，武漢，武漢肺炎，肺炎，新型冠状病毒, 武漢新型冠状病毒
 
-* theme of analysis (which should be based on a pilot study):  
+	* theme of analysis (which should be based on a pilot study):  
 	- resources: face mask, vaccine, quarantine, flight, death toll, politics, 
 	- health concern and treatment:
 	- human relations (humanity):  family, friends, community (e.g., how they support each other or fight for resources) in supermarket, neighbourhood, online support or in a cruise, etc
