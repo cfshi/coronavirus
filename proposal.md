@@ -59,7 +59,7 @@ Associated Press (AP) newswire; U.S. English-language newspapers of top high-cir
 	* Media in Singapore
 	* How do we collect public data in China (We Chat or?)
 
-＊key words search: coronavirus, 19-nCov, COVID-19, influenza, 武疫，武漢病毒，武漢，武漢肺炎，肺炎，新型冠状病毒, 武漢新型冠状病毒
+	- key words search: coronavirus, 19-nCov, COVID-19, influenza, 武疫，武漢病毒，武漢，武漢肺炎，肺炎，新型冠状病毒, 武漢新型冠状病毒
 
 	* theme of analysis (which should be based on a pilot study):  
 	- resources: face mask, vaccine, quarantine, flight, death toll, politics, 
@@ -78,9 +78,9 @@ Associated Press (AP) newswire; U.S. English-language newspapers of top high-cir
 	- economic impact
 	- international relations, global coordination, response systems and crisis management
 
-	* Attribute theme weight:  Based on which paragraph key concept (via words) appear.  For example, 3 points to that in the first 3 paragraphs, 2 to 4-6 and 1 to the afterwards.
+	- Attribute theme weight:  Based on which paragraph key concept (via words) appear.  For example, 3 points to that in the first 3 paragraphs, 2 to 4-6 and 1 to the afterwards.
 
-	* We will do a contextual analysis based on the quantitative findings.
+	- We will do a contextual analysis based on the quantitative findings.
 
 -  general public:
 	- Google Trend 
