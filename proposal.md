@@ -12,20 +12,11 @@
 =========
 
 # Title
-Mapping 2020 novel Coronavirus (19-nCoV) outbreak trend: media coverage and public and national and international reaction and guidelines
-(It's very brief.  (I would like to have modelling ideas in this project but WHAT???  Also, how workable is it to compare this coronavirus to 2012 MERS and 2002 SARS in terms of the spread and reaction context (media coverage, public and institutional reaction and modelling prediction?)
+Mapping 2020 novel Coronavirus (19-nCoV) outbreak trend: media coverage, the public reaction and understanding and governmental and international response (find a better title?).  
+
+- I would like to have modelling ideas in this project but WHAT?  Also, how workable is it to compare this coronavirus to 2012 MERS and 2002 SARS in terms of the spread and reaction context ?
 
 # Working Time Table
-
-Is context same as noise in modelling (e.g., Park and Dushoff 2020):  dynamical or process; noise(randomness directly or indirectly affecting disease transmission); observation noise(randomness underlying how many true cases reported).  Based on their definition, how do context or media, public reaction and pubic policy-guideline fit into models?  Is it a right question?
-
-# Team:
-- Jonathan Dushoff
-- Rachel Zhou
-- 葉蓉慧http://shucidi.mystrikingly.com/blog/51e97b5d10a?fbclid=IwAR0QBxowp3BIxLbN9E8eXx5_bRcpBewq-ctsxHModjfLWZxUxQzk64SCCnE
-- David Earn?
-- Chng Nai Rei?
-- Chyun Shi
 
 # Research Questions:
 
@@ -67,12 +58,12 @@ We will further analyze correlation of the three sources.
 - economic impact (maybe not this one)
 Based on our findings to propose for preparation and recommendation for future outbreak (or even this 19-nCov)
 
+Is context same as noise in modelling (e.g., Park and Dushoff 2020):  dynamical or process; noise(randomness directly or indirectly affecting disease transmission); observation noise(randomness underlying how many true cases reported).  Based on their definition, how do context or media, public reaction and pubic policy-guideline fit into models?  Is it a right question?
+
 # Coronavirus spread timeline and area:
 
-  - timeline: https://www.aljazeera.com/news/2020/01/timeline-china-coronavirus-spread-200126061554884.html and https://www.aljazeera.com/news/2020/01/cloneofcloneofcloneofchina-battles-coronavirus-o-200129233906291.html
-  - area: https://www.theguardian.com/science/2020/jan/22/where-has-coronavirus-spread
-
-# Coronavirus death tolls timeline
+  - [outbreak timeline] (https://www.aljazeera.com/news/2020/01/timeline-china-coronavirus-spread-200126061554884.html?xif=%20and%20https:/www.aljazeera.com/news/2020/01/cloneofcloneofcloneofchina-battles-coronavirus-o-200129233906291.html)
+  - [countries affected] (https://www.theguardian.com/science/2020/jan/22/where-has-coronavirus-spread)
 
 # Data and Sources
 - Official: 
@@ -128,6 +119,7 @@ How do we collect public data in China (We Chat or?)
 	- conspiracy theory:  e.g., P4 lab in Wuhan
 	- fatality and infected cases:
 	- sanction of information about the disease inside China (e.g., https://www.washingtonpost.com/world/2020/02/04/chinese-doctor-has-coronavirus/)
+	- human interest:  heroes, victims, personal stories, etc
 	- distrust:  among people, communities, countries etc
 	- economic impact
 	- international relations, global coordination, response systems and crisis management
