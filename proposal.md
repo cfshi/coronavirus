@@ -17,7 +17,7 @@ We intend to focus on the following proposed topic areas
 
 # Draft research questions:
 
-- How does information (and misinformation) travel between scientists, public-health workers, mass media and social media? 
+- How does information (and misinformation) travel between scientists, policy-makers, mass media and social media? 
 
 * How does communication affect public behaviour and the course of the outbreak? What are the side effects of changes in public behaviour? 
 

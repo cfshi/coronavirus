@@ -19,6 +19,8 @@ Ignore += *.gh.html
 ## proposal.gh.html: proposal.md
 ## proposal.md.f23bbe90.oldfile
 
+## Using mkd for mkd that is target instead of source
+Ignore += *.mkd
 questions.mkd: proposal.md
 	$(rm)
 	perl -npE "last if /Resources/" $< > $@
