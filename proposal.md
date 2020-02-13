@@ -50,33 +50,34 @@ To study the following factors and incorporate them all in a model to map a publ
 (ref theme analysis in the H1N1 paper, and PMID: 31956275)
 -  media (big data mining?)
 Top newspaper, twitters and youtube (hope to have data of TV content, but seems not easy.)
-	* Media in USA: 
+	* Media in
+		- USA: 
 Associated Press (AP) newswire; U.S. English-language newspapers of top high-circulation; most viewed youtube (and broadcast news transcripts from top networks?).  Lexis-Nexis will be used to collect texts from the first three sources, and the MIT MediaCloud database to collect texts from websites. Texts were collected from both sources using broad search terms \cite{LiuSieg19} 
-	* Media in Canada: (similar to USA)
-	* Media in Taiwan: https://www.ncl.edu.tw/.
-	* Media in Hong Kong
-	* Media in China
-	* Media in Singapore
-	* How do we collect public data in China (We Chat or?)
+		- Canada: (similar to USA)
+		- Taiwan: https://www.ncl.edu.tw/.
+		- Hong Kong
+		- China
+		- Singapore
+		- How do we collect public data in China (We Chat or?)
 
 	* key words search: coronavirus, 19-nCov, COVID-19, influenza, 武疫，武漢病毒，武漢，武漢肺炎，肺炎，新型冠状病毒, 武漢新型冠状病毒
 
 	* theme of analysis (which should be based on a pilot study):  
-	- resources: face mask, vaccine, quarantine, flight, death toll, politics, 
-	- health concern and treatment:
-	- human relations (humanity):  family, friends, community (e.g., how they support each other or fight for resources) in supermarket, neighbourhood, online support or in a cruise, etc
-	- policy and action:  quarantine, grounding flights, entry to countries, evacuation out of China (https://www.reuters.com/article/us-china-health-masks-safety/to-mask-or-not-to-mask-confusion-spreads-over-coronavirus-protection-idUSKBN1ZU0PH)
-	- guidance:  how to wear face mask,  travel recommondation,  
-	- flu symptom:
-	- coronavirus characteristics: what it is and compared to other diseases
-	- fear and stigma: (e.g., https://www.nytimes.com/2020/02/12/world/asia/china-coronavirus-korea-discrimination.html?action=click&module=Top%20Stories&pgtype=Homepage)
-	- conspiracy theory:  e.g., P4 lab in Wuhan
-	- fatality and infected cases:
-	- sanction of information about the disease inside China (e.g., https://www.washingtonpost.com/world/2020/02/04/chinese-doctor-has-coronavirus/)
-	- human interest:  heroes, victims, personal stories, etc
-	- distrust:  among people, communities, countries etc
-	- economic impact
-	- international relations, global coordination, response systems and crisis management
+		- resources: face mask, vaccine, quarantine, flight, death toll, politics, 
+		- health concern and treatment:
+		- human relations (humanity):  family, friends, community (e.g., how they support each other or fight for resources) in supermarket, neighbourhood, online support or in a cruise, etc
+		- policy and action:  quarantine, grounding flights, entry to countries, evacuation out of China (https://www.reuters.com/article/us-china-health-masks-safety/to-mask-or-not-to-mask-confusion-spreads-over-coronavirus-protection-idUSKBN1ZU0PH)
+		- guidance:  how to wear face mask,  travel recommondation,  
+		- flu symptom:
+		- coronavirus characteristics: what it is and compared to other diseases
+		- fear and stigma: (e.g., https://www.nytimes.com/2020/02/12/world/asia/china-coronavirus-korea-discrimination.html?action=click&module=Top%20Stories&pgtype=Homepage)
+		- conspiracy theory:  e.g., P4 lab in Wuhan
+		- fatality and infected cases:
+		- sanction of information about the disease inside China (e.g., https://www.washingtonpost.com/world/2020/02/04/chinese-doctor-has-coronavirus/)
+		- human interest:  heroes, victims, personal stories, etc
+		- distrust:  among people, communities, countries etc
+		- economic impact
+		- international relations, global coordination, response systems and crisis management
 
 	* Attribute theme weight:  Based on which paragraph key concept (via words) appear.  For example, 3 points to that in the first 3 paragraphs, 2 to 4-6 and 1 to the afterwards.
 
@@ -86,9 +87,9 @@ Associated Press (AP) newswire; U.S. English-language newspapers of top high-cir
 	- Google Trend 
 		- e.g. https://trends.google.com/trends/explore?date=today%201-m&geo=SG&q=%2Fm%2F01cpyy,wuhan%20virus,19-nCov,sars,flu ,([export google trend data]( https://support.google.com/trends/answer/4365538?hl=en)
 		- Google Trend data can be very confusing, for [example](https://trends.google.com/trends/explore?date=today%201-m&geo=TW&gprop=images&q=coronavirus,sars,%2Fm%2F0l3cy,wuhan%20virus,%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E)): Why would Wuhan topped coronavirus and 武漢肺炎 in Taiwan?
-- science, R0 publication
+- science, review of R0 publication from Dec 2019-present 
 - governmental and international sites: 
-	- WHO, [CDC](https://www.cdc.gov/coronavirus/index.html), [National Health Commission of PRC](http://en.nhc.gov.cn/index.html) etc
+	* WHO, [CDC](https://www.cdc.gov/coronavirus/index.html), [National Health Commission of PRC](http://en.nhc.gov.cn/index.html) etc
 
 * modelling:  incorporating media coverage, public and institutional reaction and report (which can be based on modelling results by scientific community and WHO etc), time travelling and spread network (geographical)
   
