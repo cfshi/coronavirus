@@ -27,12 +27,10 @@ We intend to focus on the following proposed topic areas
 
 # Resources
 
-		* By analyzing google trends data, the daily infected cases and fatality and frequency of media coverage,  we use  Google Search Trends and media coverage as a proxy indicator for information dissemination and public reaction  (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663).
-
-	* How science community report Ro of the virus transmission?  The epidemic findings is part of the information the public, media and international community rely on. They play a powerful role during public health crises due to the time urgency with which they can disseminate new information, accurate or not. (ref: [Early in the Epidemic: Impact of preprints on global discourse of 2019-nCoV transmissibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663)).
+		* By analyzing google trends data, the daily infected cases and fatality and frequency of media coverage,  we use Google Search Trends and media coverage as a proxy indicator for information dissemination and public reaction  (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663).
+		* How science community report Ro of the virus transmission?  The epidemic findings is part of the information the public, media and international community rely on. They play a powerful role during public health crises due to the time urgency with which they can disseminate new information, accurate or not. (ref: [Early in the Epidemic: Impact of preprints on global discourse of 2019-nCoV transmissibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663)).
 		* We can also check findings of preprint (speedy information delivery, lack of peer review) in terms of accuracy and how misinformation get circulated based on those findings. (see [examples](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663))
-
-	* How does the national and international community react to the disease outbreak and with what guidelines (analyzing official websites, such as WHO, CDC, Chinese Center for Disease Control and Prevention, etc) (i.e., analysis of social and policy countermeasures)
+		* How does the national and international community react to the disease outbreak and with what guidelines (analyzing official websites, such as WHO, CDC, Chinese Center for Disease Control and Prevention, etc) (i.e., analysis of social and policy countermeasures)
 
 - How policy correlate with health behavior in contributing/reducing/avoiding the infection?
 		* We will study official website, in reference to media coverage.
