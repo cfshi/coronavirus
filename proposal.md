@@ -1,5 +1,5 @@
 
-# [Special coronavirus call] (https://cihr-irsc.gc.ca/e/51868.html) (due Feb 17!!!)
+# Special coronavirus call: https://cihr-irsc.gc.ca/e/51868.html (due Feb 17!!!)
 
 - Social and policy countermeasures research:
 - Cultural dimensions of the epidemic such as, examining how individuals and communities understand and react to the disease;
