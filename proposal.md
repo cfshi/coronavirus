@@ -26,17 +26,20 @@ We intend to focus on the following proposed topic areas
 
 # Resources
 
-		* By analyzing google trends data, the daily infected cases and fatality and frequency of media coverage,  we use  Google Search Trends and media coverage as a proxy indicator for information dissemination and public reaction  (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663).
+* By analyzing google trends data, the daily infected cases and fatality and frequency of media coverage,  we use  Google Search Trends and media coverage as a proxy indicator for information dissemination and public reaction  (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663).
 
-	* How science community report Ro of the virus transmission?  The epidemic findings is part of the information the public, media and international community rely on. They play a powerful role during public health crises due to the time urgency with which they can disseminate new information, accurate or not. (ref: [Early in the Epidemic: Impact of preprints on global discourse of 2019-nCoV transmissibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663)).
-		* We can also check findings of preprint (speedy information delivery, lack of peer review) in terms of accuracy and how misinformation get circulated based on those findings. (see [examples](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663))
+* How science community report Ro of the virus transmission?  The epidemic findings is part of the information the public, media and international community rely on. They play a powerful role during public health crises due to the time urgency with which they can disseminate new information, accurate or not. (ref: [Early in the Epidemic: Impact of preprints on global discourse of 2019-nCoV transmissibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663)).
 
-	* How does the national and international community react to the disease outbreak and with what guidelines (analyzing official websites, such as WHO, CDC, Chinese Center for Disease Control and Prevention, etc) (i.e., analysis of social and policy countermeasures)
+Questions to consider
+
+* We can also check findings of preprint (speedy information delivery, lack of peer review) in terms of accuracy and how misinformation get circulated based on those findings. (see [examples](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663))
+
+* How does the national and international community react to the disease outbreak and with what guidelines (analyzing official websites, such as WHO, CDC, Chinese Center for Disease Control and Prevention, etc) (i.e., analysis of social and policy countermeasures)
 
 - How policy correlate with health behavior in contributing/reducing/avoiding the infection?
-		* We will study official website, in reference to media coverage.
-		* We will compare policies and recommendations to contain and prevent the spread of the disease in selected countries.  
-		* Although WHO position in the beginning of the virus spread was [questioned](https://www.washingtonpost.com/world/asia_pacific/chinese-officials-note-serious-problems-in-coronavirus-response-the-world-health-organization-keeps-praising-them/2020/02/08/b663dd7c-4834-11ea-91ab-ce439aa5c7c1_story.html) , how to interpret WHO information and recommendation need to be cautious.  (It can be another interesting direction of comparison.)
+	* We will study official website, in reference to media coverage.
+	* We will compare policies and recommendations to contain and prevent the spread of the disease in selected countries.  
+	* Although WHO position in the beginning of the virus spread was [questioned](https://www.washingtonpost.com/world/asia_pacific/chinese-officials-note-serious-problems-in-coronavirus-response-the-world-health-organization-keeps-praising-them/2020/02/08/b663dd7c-4834-11ea-91ab-ce439aa5c7c1_story.html) , how to interpret WHO information and recommendation need to be cautious.  (It can be another interesting direction of comparison.)
 
 (Chyun’s confusion: Is context same as noise in modelling (e.g., Park and Dushoff 2020):  dynamical or process; noise(randomness directly or indirectly affecting disease transmission); observation noise(randomness underlying how many true cases reported).  Based on their definition, how do context or media, public reaction and pubic policy-guideline fit into models?  Is it a right question?)
 
@@ -51,7 +54,7 @@ We intend to focus on the following proposed topic areas
 (ref theme analysis in the H1N1 paper, and PMID: 31956275)
 -  media (big data mining?)
 Top newspaper, twitters and youtube (hope to have data of TV content, but seems not easy.)
-	* Media in
+
 		- USA: 
 Associated Press (AP) newswire; U.S. English-language newspapers of top high-circulation; most viewed youtube (and broadcast news transcripts from top networks?).  Lexis-Nexis will be used to collect texts from the first three sources, and the MIT MediaCloud database to collect texts from websites. Texts were collected from both sources using broad search terms \cite{LiuSieg19} 
 		- Canada: (similar to USA)
