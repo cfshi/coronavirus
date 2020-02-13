@@ -57,12 +57,12 @@ Top newspaper, twitters and youtube (hope to have data of TV content, but seems 
 
 		- USA: 
 Associated Press (AP) newswire; U.S. English-language newspapers of top high-circulation; most viewed youtube (and broadcast news transcripts from top networks?).  Lexis-Nexis will be used to collect texts from the first three sources, and the MIT MediaCloud database to collect texts from websites. Texts were collected from both sources using broad search terms \cite{LiuSieg19} 
-		- Canada: (similar to USA)
-		- Taiwan: https://www.ncl.edu.tw/.
-		- Hong Kong
-		- China
-		- Singapore
+	- Canada: (similar to USA)
+	- Taiwan: https://www.ncl.edu.tw/.
+	- Hong Kong
+	- China
 		- How do we collect public data in China (We Chat or?)
+	- Singapore
 
 	* key words search: coronavirus, 19-nCov, COVID-19, influenza, 武疫，武漢病毒，武漢，武漢肺炎，肺炎，新型冠状病毒, 武漢新型冠状病毒
 
