@@ -78,9 +78,9 @@ Associated Press (AP) newswire; U.S. English-language newspapers of top high-cir
 	- economic impact
 	- international relations, global coordination, response systems and crisis management
 
-* Attribute theme weight:  Based on which paragraph key concept (via words) appear.  For example, 3 points to that in the first 3 paragraphs, 2 to 4-6 and 1 to the afterwards.
+	* Attribute theme weight:  Based on which paragraph key concept (via words) appear.  For example, 3 points to that in the first 3 paragraphs, 2 to 4-6 and 1 to the afterwards.
 
-* We will do a contextual analysis based on the quantitative findings.
+	* We will do a contextual analysis based on the quantitative findings.
 
 -  general public:
 	- Google Trend 
