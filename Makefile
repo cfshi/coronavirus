@@ -17,6 +17,14 @@ Sources += $(wildcard *.md)
 
 Ignore += *.gh.html
 ## proposal.gh.html: proposal.md
+## proposal.md.f23bbe90.oldfile
+
+questions.mkd: proposal.md
+	$(rm)
+	perl -npE "last if /Resources/" $< > $@
+	$(readonly)
+
+questions.gh.html: questions.mkd
 
 ## Not working; it shows the master README (but nothing else)
 ## Don't play now ☺

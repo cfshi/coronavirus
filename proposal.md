@@ -9,21 +9,17 @@ We intend to focus on the following proposed topic areas
 	- Studying the public health response;
 	- Developing strategies to combat misinformation, stigma, and fear;
 
+# Title suggestions
 
-# Draft title suggestions
-
-* Whispering down the lane: how information about COVID-19 travels across forums and affects public behaviour
-	- CF:  I like this title.  Although it is argued that public behaviours affect how information is framed.  Plus it is hard to evaluate this cause-effect relationship.
+* Whispering down the lane: how information about COVID-19 travels between interest groups and affects public behaviour
 
 * Mapping 2020 novel Coronavirus (COVID-19) outbreak trend: media coverage, the public reaction and understanding and governmental and international response
 
-# Research Questions:
+# Draft research questions:
 
 - How does information (and misinformation) travel between scientists, public-health workers, mass media and social media? 
 
 * How does communication affect public behaviour and the course of the outbreak? What are the side effects of changes in public behaviour? 
-
-* How policy correlate with health behavior in contributing/reducing/avoiding the infection?
 
 * How can scientists and policy-makers evaluate and improve the effectiveness of their communication?
 
