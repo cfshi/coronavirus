@@ -14,7 +14,7 @@
 # Title
 Mapping 2020 novel Coronavirus (19-nCoV) outbreak trend: media coverage, the public reaction and understanding and governmental and international response (find a better title?).  
 
-- I would like to have modelling ideas in this project but WHAT?  Also, how workable is it to compare this coronavirus to 2012 MERS and 2002 SARS in terms of the spread and reaction context ?
+- It will be good to incorporate modeling ideas in this project but WHAT?  Also, how workable is it to compare this coronavirus to 2012 MERS and 2002 SARS in terms of the spread and reaction context ?
 
 # Working Time Table
 
@@ -39,15 +39,15 @@ The questions are tentative and brief.  One main challenge is how to combine J's
 	2. How does the general public understand and react to the virus (analyzing google trends data and media content)? (i.e., Study of the public health response)
 		* We will use google trend (by countries, time and categories) and the daily infected cases and fatality (via WHO?) and study the correlation of the two patterns.  Google Search Trends and media coverage served as a proxy indicator for information dissemination  (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663).
 
-	3. How science community report Ro of the virus transmission?  The epidemic findings is part of the information the public, media and international community rely on. Preprints can play a powerful role during public health crises due to the time urgency with which they can disseminate new information, accurate or not. (ref: [Early in the Epidemic: Impact of preprints on global discourse of 2019-nCoV transmissibility] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663))
-		* We can also check findings of preprint (speedy information delivery, lack of peer review) in terms of accuracy and how misinformation get circulated based on those findings. (see [examples] in (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663))
+	3. How science community report Ro of the virus transmission?  The epidemic findings is part of the information the public, media and international community rely on. Preprints can play a powerful role during public health crises due to the time urgency with which they can disseminate new information, accurate or not. (ref: [Early in the Epidemic: Impact of preprints on global discourse of 2019-nCoV transmissibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663))
+		* We can also check findings of preprint (speedy information delivery, lack of peer review) in terms of accuracy and how misinformation get circulated based on those findings. (see [examples](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663))
 
 	4. How does the national and international community react to the virus spread and with what guidelines (analyzing official websites, such as WHO, CDC, Chinese Center for Disease Control and Prevention, etc) (i.e., analysis of social and policy countermeasures)
 
 - How policy correlate with health behavior in contributing/reducing/avoiding the infection?
 		* This is important.  We will compare what policies imposed by selected countries  to contain and prevent the spread of the infection and its progress.  This will allow us to propose recommendation for future outbreak (or even this one).
 		* We will go to official website (also media content?) such as WHO, US CDC etc for information.
-		* Although WHO position in the beginning of the virus spread was questioned (https://www.washingtonpost.com/world/asia_pacific/chinese-officials-note-serious-problems-in-coronavirus-response-the-world-health-organization-keeps-praising-them/2020/02/08/b663dd7c-4834-11ea-91ab-ce439aa5c7c1_story.html) , how to interpret WHO information and recommendation	need to be cautious.  So what does it mean?  How do we use their info?
+		* Although WHO position in the beginning of the virus spread was [questioned](https://www.washingtonpost.com/world/asia_pacific/chinese-officials-note-serious-problems-in-coronavirus-response-the-world-health-organization-keeps-praising-them/2020/02/08/b663dd7c-4834-11ea-91ab-ce439aa5c7c1_story.html) , how to interpret WHO information and recommendation	need to be cautious.  So what does it mean?  How do we use their info?
 
 We will further analyze correlation of the three sources.
 
@@ -62,18 +62,18 @@ Is context same as noise in modelling (e.g., Park and Dushoff 2020):  dynamical 
 
 # Coronavirus spread timeline and area:
 
-  - [outbreak timeline] (https://www.aljazeera.com/news/2020/01/timeline-china-coronavirus-spread-200126061554884.html?xif=%20and%20https:/www.aljazeera.com/news/2020/01/cloneofcloneofcloneofchina-battles-coronavirus-o-200129233906291.html)
-  - [countries affected] (https://www.theguardian.com/science/2020/jan/22/where-has-coronavirus-spread)
+  - [outbreak timeline](https://www.aljazeera.com/news/2020/01/timeline-china-coronavirus-spread-200126061554884.html?xif=%20and%20https:/www.aljazeera.com/news/2020/01/cloneofcloneofcloneofchina-battles-coronavirus-o-200129233906291.html)
+  - [countries affected](https://www.theguardian.com/science/2020/jan/22/where-has-coronavirus-spread)
 
 # Data and Sources
 - Official: 
-	- WHO, [CDC] (https://www.cdc.gov/coronavirus/index.html), [National Health Commission of PRC] (http://en.nhc.gov.cn/index.html) etc
+	- WHO, [CDC](https://www.cdc.gov/coronavirus/index.html), [National Health Commission of PRC](http://en.nhc.gov.cn/index.html) etc
 			- 
 -  media
 -  general public:
 	- Google Trend 
-		- e.g. https://trends.google.com/trends/explore?date=today%201-m&geo=SG&q=%2Fm%2F01cpyy,wuhan%20virus,19-nCov,sars,flu ,(export google trend data: https://support.google.com/trends/answer/4365538?hl=en )
-		- Google Trend data can be very confusing, e.g., https://trends.google.com/trends/explore?date=today%201-m&geo=TW&gprop=images&q=coronavirus,sars,%2Fm%2F0l3cy,wuhan%20virus,%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E , why would Wuhan topped coronavirus and 武漢肺炎 in Taiwan?
+		- e.g. https://trends.google.com/trends/explore?date=today%201-m&geo=SG&q=%2Fm%2F01cpyy,wuhan%20virus,19-nCov,sars,flu ,([export google trend data]( https://support.google.com/trends/answer/4365538?hl=en)
+		- Google Trend data can be very confusing, for [example](https://trends.google.com/trends/explore?date=today%201-m&geo=TW&gprop=images&q=coronavirus,sars,%2Fm%2F0l3cy,wuhan%20virus,%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E)). Whyy would Wuhan topped coronavirus and 武漢肺炎 in Taiwan?
 	- https://isaric.tghn.org/articles/new-pop-coronavirus-knowledge-hub-global-health-network/
     	- https://coronavirus.tghn.org/resources-dashboard/case-location-map/
   	- figures:  google trend search, Topsy or similar data search
