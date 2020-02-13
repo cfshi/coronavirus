@@ -33,3 +33,6 @@ Try not get too hung up on sources. It is a problem, a limitation and we are goi
 
 Once we know roughly how it works in the perfect world, we can start factoring in data-sources and how people are getting their information. Compare the information we want and what we are actually getting. How does it complicate and change the communication flow. What are the ramifications?
 
+We have a perfect story/example of how we are responding to the reporting data and articfacts in the time series. 
+
+
