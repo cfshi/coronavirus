@@ -64,8 +64,11 @@ Social media in China was not included in this study.  Our main interest is to s
 
 - Coding Guideline:
 	* Human Coders and AI (?)
-	* key words search: coronavirus, 19-nCov, COVID-19, influenza, 武疫，武漢病毒，武漢，武漢肺炎，肺炎，新型冠状病毒, 武漢新型冠状病毒
-	* Coding frame:
+	* key words search for
+		- Google trend, Science publication, and official public health websites: coronavirus, 19-nCov, COVID-19, influenza, 武疫 (Wu Virus)，武漢病毒 (Wuhan Virus)，武漢(Wuhan)，武漢肺炎 (Wuhan pneumonia)，肺炎 (pneumonia)，冠状病毒 (coronavirus), 新型冠状病毒 (novel coronavirus), 武漢新型冠状病毒 (Wuhan novel coronavirus)
+		- News media:  see attached
+		- Twitter:
+	* Basic Coding frame:
 		* What (theme of analysis (which would be based on a pilot study):  
 			- coronavirus characteristics and disease comparison: what it is and compared to other diseases
 			- flu symptom:
@@ -133,3 +136,6 @@ awareness-related spike of searches
 - Marston, HD, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland.
 - Thomas-Bachli A, Li Ka Shing Knowledge Institute, St. Michael's Hospital, Toronto, Canada; and BlueDot, Toronto, Canada.
 - Watts A, Li Ka Shing Knowledge Institute, St. Michael's Hospital, Toronto, Canada; and BlueDot, Toronto, Canada.
+
+# Budget
+- For the social and policy countermeasures research, the maximum amount per grant is $500,000 over two years.
