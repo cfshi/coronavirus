@@ -36,7 +36,7 @@ It looks like applicants, co-applicants and knowledge users need
 
 - Chng Nai Rei - collaborator: contextual analysis
 
-- Naveed Zafar Janjua, 
+- Knowldge user: Naveed Zafar Janjua, 
 	- MBBS, MSc, DrPH
 	- Executive Director, Data and Analytic Services
 	- Senior Scientist, Clinical Prevention Services
