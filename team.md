@@ -10,7 +10,7 @@ There are also Knowledge Users (and Principal Knowledge Users). These tend to be
 
 ## Rules
 
-[How to apply](https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?printfriendly=true&prog=3248#howtoapply). The Eligibility link is boring: David is eligible and we are not going to qualify for LMIC funding
+[How to apply](https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3248#howtoapply). The Eligibility link is boring: David is eligible and we are not going to qualify for LMIC funding
 
 It looks like applicants, co-applicants and knowledge users need
 * CIHR pin

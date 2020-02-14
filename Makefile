@@ -6,6 +6,9 @@ current: target
 
 # include makestuff/perl.def
 
+## Team info, I think; 
+## https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3248#howtoapply
+
 ######################################################################
 
 # Content
