@@ -40,6 +40,6 @@
 - please explain why sex and/or gender are not applicable to your research proposal. 
 (2000 character limit) 
 - descriptors:  what is that? It said to refer to [application instruction](https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?printfriendly=true&prog=3248#howtoapply), but I didn’t find any thing for this!
-- format of [Research proposal](https://cihr-irsc.gc.ca/e/29300.html), pdf only
+- format of [Research proposal](https://cihr-irsc.gc.ca/e/29300.html).  It's pdf only, but I couldn't find out how long a proposal should be (roughtly how many pages/words and what are the sections (e.g., introduction to expected finding and evaluation?)  How about budges, execuation timetable, etc?
 
 
