@@ -24,15 +24,6 @@
 	* CS will make a google sheet of the team
 
 ====
-# Proposal Content
-- Overview
-  - Title
-  - lay title
-  - lay abstract
-- Details
-- Descriptors
-- [Attachment](https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3248#evaluation) 
-
 # Questions of the application
 - Period of Support Requested :  how long (by year/month) do we request?
 - Area of research:  societal and cultural dimension of health*, health research*, health service research, population health
