@@ -12,6 +12,8 @@ There are also Knowledge Users (and Principal Knowledge Users). These tend to be
 
 [How to apply](https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3248#howtoapply). The Eligibility link is boring: David is eligible and we are not going to qualify for LMIC funding
 
+[Applicant CV](https://cihr-irsc.gc.ca/e/51872.html)
+
 It looks like applicants, co-applicants and knowledge users need
 * CIHR pin
 * Diversity statement
@@ -24,21 +26,20 @@ It looks like applicants, co-applicants and knowledge users need
 
 - Jonathan Dushoff, PA:  modeling, planning
 
-- Mike Li- probably coA: data collection, plotting and statistics
+- Jung hui Yeh (Becky) (77943) [葉蓉慧](http://speech.wp.shu.edu.tw/%E8%91%89%E8%93%89%E6%85%A7/), http://shucidi.mystrikingly.com/blog/51e97b5d10a?fbclid=IwAR0QBxowp3BIxLbN9E8eXx5_bRcpBewq-ctsxHModjfLWZxUxQzk64SCCnE) - collaborator:  data collection, data analysis (mainly with media in Chinese)
 
-- Rachel Zhou - probably coA:  contextual analysis of data
+- Mike Li (69041)- probably coA: data collection, plotting and statistics
 
-- Chng Nai Rei (?) - collaborator: contextual analysis
+- Chyun Shi (64800)- coA  data collection, data analysis, planning
 
-- Becky Yeh （葉蓉慧, http://shucidi.mystrikingly.com/blog/51e97b5d10a?fbclid=IwAR0QBxowp3BIxLbN9E8eXx5_bRcpBewq-ctsxHModjfLWZxUxQzk64SCCnE) - collaborator:  data collection, data analysis (mainly with media in Chinese)
+- Rachel Zhou - collaborator:  contextual analysis of data
 
-- Chyun Shi - coA  data collection, data analysis, planning
+- Chng Nai Rei - collaborator: contextual analysis
 
-- Naveed Zafar Janjua, MBBS, MSc, DrPH
-Executive Director, Data and Analytic Services
-Senior Scientist, Clinical Prevention Services
-BC Centre for Disease Control
-Provincial Health Services Authority
-
-Clinical Associate Professor, School of Population and Public Health
-University of British Columbia
+- Naveed Zafar Janjua, 
+	- MBBS, MSc, DrPH
+	- Executive Director, Data and Analytic Services
+	- Senior Scientist, Clinical Prevention Services
+	- BC Centre for Disease Control
+	- Provincial Health Services Authority
+	- Clinical Associate Professor, School of Population and Public Health, University of British Columbia
