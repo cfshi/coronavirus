@@ -16,7 +16,7 @@ We intend to focus on the following proposed topic areas
 
 * How information about COVID-19 travels between interest groups and affects public behaviour
 	- We need a better title. Chyun feels “interest groups” is not solid nor attractive enough
- or
+
 * How information about COVID-19 travels across the public, media, science community and policy makers and affects public behaviour
 	- It’s a bit long to show those 4 forums, but…
 
