@@ -2,6 +2,7 @@
 # Call for proposals (due __18 Feb__)
 
 [Canadian Institutes of Health Research Novel Coronavirus Rapid Research Funding Opportunity](https://cihr-irsc.gc.ca/e/51868.html)
+
 [proposal evaluation](https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3248#evaluation) 
 
 We intend to focus on the following proposed topic areas
