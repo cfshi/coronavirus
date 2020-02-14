@@ -14,11 +14,12 @@ There are also Knowledge Users (and Principal Knowledge Users). These tend to be
 
 [Applicant CV](https://cihr-irsc.gc.ca/e/51872.html)
 
-It looks like applicants, co-applicants and knowledge users need
+Applicants, co-applicants and knowledge users need
 * CIHR pin
 * Diversity statement
 * CV
-	* It says on the howtoapply link that it doesn't need to be a Common CV, but I'm scared of researchnet; we should experiment with this
+	
+Co-applicants doesn't need a ccv (although preferred), a 3-page [Applicant CV](https://cihr-irsc.gc.ca/e/51872.html) will work.
 
 ## Possible members
 
