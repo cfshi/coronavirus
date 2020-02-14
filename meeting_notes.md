@@ -23,3 +23,23 @@
 	* We want a better name for the 4s (media, science, public (google trend), policy makers):  groups vs. forum vs. sections vs. communities? 
 	* CS will make a google sheet of the team
 
+====
+# Proposal Content
+- Overview
+  - Title
+  - lay title
+  - lay abstract
+- Details
+- Descriptors
+- Attachment
+
+# Questions of the application
+- Period of Support Requested :  how long (by year/month) do we request?
+- Area of research:  societal and cultural dimension of health*, health research*, health service research, population health
+- classification: epidemiology*, health policy, health promotion, ???
+- please explain why sex and/or gender are not applicable to your research proposal. 
+(2000 character limit) 
+- descriptors:  what is that? It said to refer to [application instruction](https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?printfriendly=true&prog=3248#howtoapply), but I didn’t find any thing for this!
+- format of [Research proposal](https://cihr-irsc.gc.ca/e/29300.html), pdf only
+
+
