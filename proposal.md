@@ -12,7 +12,9 @@ We intend to focus on the following proposed topic areas
 
 # Draft title suggestions
 
-* How information about COVID-19 travels across forums and affects public behaviour
+* How information about COVID-19 travels between interest groups and affects public behaviour
+ or
+* How information about COVID-19 travels across the public, media, science community and policy makers and affects public behaviour
 
 # Research Questions:
 
@@ -57,37 +59,40 @@ Top newspaper, twitters and youtube (hope to have data of TV content, but seems 
 
 Social media in China was not included in this study.  Our main interest is to study how the public react and understand coronavirus in selected countries outside China because . Main newspapers in China and their official health bureau websites are included for analysis but not social media.  First, access to their social media is limited.  Secondly, mass media in China are under government supervision \cite{}
 
-	* key words search: coronavirus, 19-nCov, COVID-19, influenza, 武疫，武漢病毒，武漢，武漢肺炎，肺炎，新型冠状病毒, 武漢新型冠状病毒
 
-	* theme of analysis (which should be based on a pilot study):  
-		- resources: face mask, vaccine, quarantine, flight, death toll, politics, 
-		- health concern and treatment:
-		- human relations (humanity):  family, friends, community (e.g., how they support each other or fight for resources) in supermarket, neighbourhood, online support or in a cruise, etc
-		- policy and action:  quarantine, grounding flights, entry to countries, evacuation out of China (https://www.reuters.com/article/us-china-health-masks-safety/to-mask-or-not-to-mask-confusion-spreads-over-coronavirus-protection-idUSKBN1ZU0PH)
-		- guidance:  how to wear face mask,  travel recommondation,  
-		- flu symptom:
-		- coronavirus characteristics: what it is and compared to other diseases
-		- fear and stigma: (e.g., https://www.nytimes.com/2020/02/12/world/asia/china-coronavirus-korea-discrimination.html?action=click&module=Top%20Stories&pgtype=Homepage)
-		- conspiracy theory:  e.g., P4 lab in Wuhan
-		- fatality and infected cases:
-		- sanction of information about the disease inside China (e.g., https://www.washingtonpost.com/world/2020/02/04/chinese-doctor-has-coronavirus/)
-		- human interest:  heroes, victims, personal stories, etc
-		- distrust:  among people, communities, countries etc
-		- economic impact
-		- international relations, global coordination, response systems and crisis management
-	* information-news sources
-		- verified
-		- anonymous
-		- speculation
-	* Who
-		- active subject
-		- passive subject
-	* Where
-		- country, region and city
+- Coding Guideline:
+	* Human Coders and AI (?)
+	* key words search: coronavirus, 19-nCov, COVID-19, influenza, 武疫，武漢病毒，武漢，武漢肺炎，肺炎，新型冠状病毒, 武漢新型冠状病毒
+	* Coding frame:
+		* What (theme of analysis (which would be based on a pilot study):  
+			- coronavirus characteristics and disease comparison: what it is and compared to other diseases
+			- flu symptom:
+			- health concern and treatment:
+			- policy and action:  quarantine, grounding flights, entry to countries, evacuation out of China (https://www.reuters.com/article/us-china-health-masks-safety/to-mask-or-not-to-mask-confusion-spreads-over-coronavirus-protection-idUSKBN1ZU0PH)
+			- guidance:  how to wear face mask,  travel recommondation,  
+			- resources: face mask, vaccine, quarantine, flight, death toll, politics, 
+			- fear and stigma: (e.g., https://www.nytimes.com/2020/02/12/world/asia/china-coronavirus-korea-discrimination.html?action=click&module=Top%20Stories&pgtype=Homepage)
+			- conspiracy theory:  e.g., P4 lab in Wuhan
+			- fatality and infected cases:
+			- sanction of information about the disease inside China (e.g., https://www.washingtonpost.com/world/2020/02/04/chinese-doctor-has-coronavirus/)
+			- human interest:  heroes, victims, personal stories, family, friends, community, online support or personal stories on a quarantined cruise, etc
+			- trust and faith:  among people, communities, countries etc
+			- economic impact
+			- international relations, global coordination, response systems and crisis management
+		* Who
+			- active subject
+			- passive subject
+		* Where
+			- country, region and city
+		* information vs. misinformation (news sources):
+			- verified
+			- anonymous
+			- speculation
+		* theme tone: negative, positive
 
 	* Attribute theme weight:  Based on which paragraph key concept (via words) appear.  For example, 3 points to that in the first 3 paragraphs, 2 to 4-6 and 1 to the afterwards.
 
-	* We will do a contextual analysis based on the quantitative findings.
+We will do textual and contextual analyses based on the quantitative results to elaborate how information is framed and disseminated in this uncertain 
 
 -  general public:
 	- Google Trend
