@@ -9,17 +9,17 @@ We intend to focus on the following proposed topic areas
 	- Studying the public health response;
 	- Developing strategies to combat misinformation, stigma, and fear;
 
-# Title suggestions
 
-* Whispering down the lane: how information about COVID-19 travels between interest groups and affects public behaviour
+# Draft title suggestions
 
-* Mapping 2020 novel Coronavirus (COVID-19) outbreak trend: media coverage, the public reaction and understanding and governmental and international response
+* How information about COVID-19 travels across forums and affects public behaviour
 
-# Draft research questions:
+# Research Questions:
 
-- How does information (and misinformation) travel between scientists, policy-makers, mass media and social media? 
+- How does information (and misinformation) travel between scientists, public-health workers, mass media and social media? 
 
 * How does communication affect public behaviour and the course of the outbreak? What are the side effects of changes in public behaviour? 
+	-  How policy affect with health behavior in reacting to the infection?
 
 * How can scientists and policy-makers evaluate and improve the effectiveness of their communication?
 
@@ -48,14 +48,14 @@ We will compare policies and recommendations to contain and prevent the spread o
 -  media (big data mining?)
 Top newspaper, twitters and youtube (hope to have data of TV content, but seems not easy.)
 	* Media in
-		- USA: 
-Associated Press (AP) newswire; U.S. English-language newspapers of top high-circulation; most viewed youtube (and broadcast news transcripts from top networks?).  Lexis-Nexis will be used to collect texts from the first three sources, and the MIT MediaCloud database to collect texts from websites. Texts were collected from both sources using broad search terms \cite{LiuSieg19} 
-		- Canada: (similar to USA)
-		- Taiwan: https://www.ncl.edu.tw/.
-		- Hong Kong
-		- China
-		- Singapore
-		- How do we collect public data in China (We Chat or?)
+		- USA: Associated Press (AP) newswire; U.S. English-language newspapers of top high-circulation; most viewed youtube (and broadcast news transcripts from top networks?).  Lexis-Nexis will be used to collect texts from the first three sources, and the MIT MediaCloud database to collect texts from websites. Texts were collected from both sources using broad search terms \cite{LiuSieg19} ; and [World Journal](https://www.worldjournal.com/)
+		- Canada: (similar to USA), and [Sing Tao Daily](https://www.singtao.ca/toronto/?variant=zh-hk)
+		- Taiwan: the top x newspapers. https://www.ncl.edu.tw/.
+		- Hong Kong: [Epoch Times](https://www.epochtimes.com/gb/news415.htm),
+		- China:  [The People’s Daily English](http://en.people.cn/), [The People’s Daily English](http://www.people.com.cn/), [China Daily](http://global.chinadaily.com.cn/)		- Singapore
+
+
+Social media in China was not included in this study.  Our main interest is to study how the public react and understand coronavirus in selected countries outside China because . Main newspapers in China and their official health bureau websites are included for analysis but not social media.  First, access to their social media is limited.  Secondly, mass media in China are under government supervision \cite{}
 
 	* key words search: coronavirus, 19-nCov, COVID-19, influenza, 武疫，武漢病毒，武漢，武漢肺炎，肺炎，新型冠状病毒, 武漢新型冠状病毒
 
@@ -90,12 +90,14 @@ Associated Press (AP) newswire; U.S. English-language newspapers of top high-cir
 	* We will do a contextual analysis based on the quantitative findings.
 
 -  general public:
-	- Google Trend 
+	- Google Trend
+	Research showed that Google Trend can be influenced by the media attraction than by true epidemiological burden \cite{}, yet more evidences suggested that it reflects awareness-related burst of searches \cite{BousAgac17, MahrBrag19}
+awareness-related spike of searches
 		- e.g. https://trends.google.com/trends/explore?date=today%201-m&geo=SG&q=%2Fm%2F01cpyy,wuhan%20virus,19-nCov,sars,flu ,([export google trend data]( https://support.google.com/trends/answer/4365538?hl=en)
 		- Google Trend data can be very confusing, for [example](https://trends.google.com/trends/explore?date=today%201-m&geo=TW&gprop=images&q=coronavirus,sars,%2Fm%2F0l3cy,wuhan%20virus,%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E)): Why would Wuhan topped coronavirus and 武漢肺炎 in Taiwan?
 - science, review of R0 publication from Dec 2019-present 
 - governmental and international sites: 
-	* WHO, [CDC](https://www.cdc.gov/coronavirus/index.html), [National Health Commission of PRC](http://en.nhc.gov.cn/index.html) etc
+	* WHO, [US CDC](https://www.cdc.gov/coronavirus/index.html), [National Health Commission of PRC](http://en.nhc.gov.cn/index.html), [Canada PHAC](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html) etc
 
 * modelling:  incorporating media coverage, public and institutional reaction and report (which can be based on modelling results by scientific community and WHO etc), time travelling and spread network (geographical)
   
@@ -113,7 +115,7 @@ Associated Press (AP) newswire; U.S. English-language newspapers of top high-cir
 # Expected Results and Contribution
 
 # Appendix:
-- map: https://coronavirus.tghn.org/resources-dashboard/case-location-map/
+- [map 1](https://coronavirus.tghn.org/resources-dashboard/case-location-map/), [map 2](https://www.theguardian.com/science/2020/jan/22/where-has-coronavirus-spread), [map 3](https://www.nytimes.com/interactive/2020/world/asia/china-wuhan-coronavirus-maps.html)
 - google trend: https://trends.google.com/trends/explore?q=coronavirus (we can play this site by country, search time, online communication, news, etc)
 
 # Reviewers:
