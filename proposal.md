@@ -49,14 +49,20 @@ We will compare policies and recommendations to contain and prevent the spread o
 
 # Data and Methods: 
 (ref theme analysis in the H1N1 paper, and PMID: 31956275)
--  media (big data mining?)
+- print news media (big data mining?)
 Top newspaper, twitters and youtube (hope to have data of TV content, but seems not easy.)
-	* Media in
+	* News Media in
 		- USA: Associated Press (AP) newswire; U.S. English-language newspapers of top high-circulation; most viewed youtube (and broadcast news transcripts from top networks?).  Lexis-Nexis will be used to collect texts from the first three sources, and the MIT MediaCloud database to collect texts from websites. Texts were collected from both sources using broad search terms \cite{LiuSieg19} ; and [World Journal](https://www.worldjournal.com/)
 		- Canada: (similar to USA), and [Sing Tao Daily](https://www.singtao.ca/toronto/?variant=zh-hk)
 		- Taiwan: the top x newspapers. https://www.ncl.edu.tw/.
 		- Hong Kong: [Epoch Times](https://www.epochtimes.com/gb/news415.htm),
 		- China:  [The People’s Daily English](http://en.people.cn/), [The People’s Daily English](http://www.people.com.cn/), [China Daily](http://global.chinadaily.com.cn/)		- Singapore
+- social media:	
+	*Twitter: Canada, USA, Taiwan, Hong Kong and Singapore (blocked China)
+	*YouTube:  Canada, USA, Taiwan, Hong Kong and Singapore
+- Science publication: preprint (by searching Google Scholar, arXiv, bioRxiv, medRxiv, and
+SSRN) and peer-reviewed (by search Google Schoolar, PubMed, Embase, Medline, and OVID)
+- Official health websites:  WHO, [US CDC](https://www.cdc.gov/coronavirus/index.html), [National Health Commission of PRC](http://en.nhc.gov.cn/index.html), [Canada PHAC](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html), [Taiwan CDC](https://www.cdc.gov.tw/En), [Singapore CDC](https://www.ncid.sg/Pages/default.aspx), [Hong Kong CDC]()
 
 
 Social media in China was not included in this study.  Our main interest is to study how the public react and understand coronavirus in selected countries outside China because . Main newspapers in China and their official health bureau websites are included for analysis but not social media.  First, access to their social media is limited.  Secondly, mass media in China are under government supervision \cite{}
@@ -65,9 +71,11 @@ Social media in China was not included in this study.  Our main interest is to s
 - Coding Guideline:
 	* Human Coders and AI (?)
 	* key words search for
-		- Google trend, Science publication, and official public health websites: coronavirus, 19-nCov, COVID-19, influenza, 武疫 (Wu Virus)，武漢病毒 (Wuhan Virus)，武漢(Wuhan)，武漢肺炎 (Wuhan pneumonia)，肺炎 (pneumonia)，冠状病毒 (coronavirus), 新型冠状病毒 (novel coronavirus), 武漢新型冠状病毒 (Wuhan novel coronavirus)
+		- Google trend, and official public health websites: coronavirus, 19-nCov, COVID-19, influenza, 武疫 (Wu Virus)，武漢病毒 (Wuhan Virus)，武漢(Wuhan)，武漢肺炎 (Wuhan pneumonia)，肺炎 (pneumonia)，冠状病毒 (coronavirus), 新型冠状病毒 (novel coronavirus), 武漢新型冠状病毒 (Wuhan novel coronavirus)
+		Science publication:  Ro in addition to the terms used to search on Google Trend.
 		- News media:  see attached
 		- Twitter:
+		- YouTube:  
 	* Basic Coding frame:
 		* What (theme of analysis (which would be based on a pilot study):  
 			- coronavirus characteristics and disease comparison: what it is and compared to other diseases
@@ -106,8 +114,6 @@ awareness-related spike of searches
 		- e.g. https://trends.google.com/trends/explore?date=today%201-m&geo=SG&q=%2Fm%2F01cpyy,wuhan%20virus,19-nCov,sars,flu ,([export google trend data]( https://support.google.com/trends/answer/4365538?hl=en)
 		- Google Trend data can be very confusing, for [example](https://trends.google.com/trends/explore?date=today%201-m&geo=TW&gprop=images&q=coronavirus,sars,%2Fm%2F0l3cy,wuhan%20virus,%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E)): Why would Wuhan topped coronavirus and 武漢肺炎 in Taiwan?
 - science, review of R0 publication from Dec 2019-present 
-- governmental and international sites: 
-	* WHO, [US CDC](https://www.cdc.gov/coronavirus/index.html), [National Health Commission of PRC](http://en.nhc.gov.cn/index.html), [Canada PHAC](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html) etc
 
 * modelling:  incorporating media coverage, public and institutional reaction and report (which can be based on modelling results by scientific community and WHO etc), time travelling and spread network (geographical)
   
