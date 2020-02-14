@@ -80,22 +80,8 @@ Social media in China was not included in this study.  Our main interest is to s
 		- News media:  see attached
 		- Twitter:
 		- YouTube:  
-	* Basic Coding frame:
-		* What (theme of analysis (which would be based on a pilot study):  
-			- coronavirus characteristics and disease comparison: what it is and compared to other diseases
-			- flu symptom:
-			- health concern and treatment:
-			- policy and action:  quarantine, grounding flights, entry to countries, evacuation out of China (https://www.reuters.com/article/us-china-health-masks-safety/to-mask-or-not-to-mask-confusion-spreads-over-coronavirus-protection-idUSKBN1ZU0PH)
-			- guidance:  how to wear face mask,  travel recommondation,  
-			- resources: face mask, vaccine, quarantine, flight, death toll, politics, 
-			- fear and stigma: (e.g., https://www.nytimes.com/2020/02/12/world/asia/china-coronavirus-korea-discrimination.html?action=click&module=Top%20Stories&pgtype=Homepage)
-			- conspiracy theory:  e.g., P4 lab in Wuhan
-			- fatality and infected cases:
-			- sanction of information about the disease inside China (e.g., https://www.washingtonpost.com/world/2020/02/04/chinese-doctor-has-coronavirus/)
-			- human interest:  heroes, victims, personal stories, family, friends, community, online support or personal stories on a quarantined cruise, etc
-			- trust and faith:  among people, communities, countries etc
-			- economic impact
-			- international relations, global coordination, response systems and crisis management
+	* [Basic Coding frame](https://github.com/cfshi/coronavirus/blob/master/coding%20book.md) (attached as an appendix) will be based on a pilot study.
+		* Theme frame    
 		* Who
 			- active subject
 			- passive subject
@@ -105,13 +91,14 @@ Social media in China was not included in this study.  Our main interest is to s
 			- verified
 			- anonymous
 			- speculation
-		* theme tone: negative, positive
+		* theme tone: negative, positive, neutral
 
 	* Attribute theme weight:  Based on which paragraph key concept (via words) appear.  For example, 3 points to that in the first 3 paragraphs, 2 to 4-6 and 1 to the afterwards.
 
 We will do textual and contextual analyses based on the quantitative results to elaborate how information is framed and disseminated in this uncertain 
 
 -  general public:
+	- Data:  travel, movies, restaurants in Taiwan, Singapore, H.K., Canada and USA; or should we focus on North America and on travel and [movie box office](https://www.boxofficemojo.com/?ref_=bo_nb_di_mojologo)?
 	- Google Trend
 	Research showed that Google Trend can be influenced by the media attraction than by true epidemiological burden \cite{}, yet more evidences suggested that it reflects awareness-related burst of searches \cite{BousAgac17, MahrBrag19}
 awareness-related spike of searches
@@ -121,18 +108,32 @@ awareness-related spike of searches
 
 * modelling:  incorporating media coverage, public and institutional reaction and report (which can be based on modelling results by scientific community and WHO etc), time travelling and spread network (geographical)
   
+========
+[proposal](https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3248#howtoapply)
 
-# Background:
-# Literature Review:
-- Studies about coronavirus
-- media and SARS
-- how SARS was contained (in affected countries)
-- how WHO dealt with SARS
+# Project Review
+# Background
+From mysterious Wuhan virus in December 2019 to certified COVID-19 in February 2020, it has been a short but long ongoing journey for the disease outbreak, epidemically, socially and politically (cite?).
+# Aims
+# Approaches and Plans
+	- Methods and Feasibility
+	- Data Collection
+	- Data Analysis
+		- Statistics (and modeling?)
+		- Contextual analysis
+# Potential Outcomes
+# Research Setting and Personnel
+# Collaborators and Knowledge Users (Team?)
+# Research Timeline
+	- year 1
+	- year 2  
+	- to publish various papers on print (North America, Asia- Taiwan, H.K. and Singapore), social media (twitter), and a grand one
+# Challenges and Mitigating Strategies
+- Potential to contribute to the global response to 2019-nCoV
+- Social and policy countermeasures
 
-# Data and sources:
-# Methods
-# Timeline
-# Expected Results and Contribution
+# Conclusion/Summary
+# References
 
 # Appendix:
 - [map 1](https://coronavirus.tghn.org/resources-dashboard/case-location-map/), [map 2](https://www.theguardian.com/science/2020/jan/22/where-has-coronavirus-spread), [map 3](https://www.nytimes.com/interactive/2020/world/asia/china-wuhan-coronavirus-maps.html)
