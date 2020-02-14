@@ -34,4 +34,11 @@ It looks like applicants, co-applicants and knowledge users need
 
 - Chyun Shi - coA  data collection, data analysis, planning
 
-We should have someone from public health-policy field; and someone from USA?
+- Naveed Zafar Janjua, MBBS, MSc, DrPH
+Executive Director, Data and Analytic Services
+Senior Scientist, Clinical Prevention Services
+BC Centre for Disease Control
+Provincial Health Services Authority
+
+Clinical Associate Professor, School of Population and Public Health
+University of British Columbia
