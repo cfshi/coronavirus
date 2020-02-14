@@ -1,4 +1,5 @@
 # What (theme of analysis (which would be based on a pilot study):  
+
 	- coronavirus characteristics and disease comparison: what it is and compared to other diseases
 	- flu symptom:
 	- health concern and treatment:
@@ -16,14 +17,21 @@
 	- impact on business.  This can also be a index of how the public’s daily life is affected by the virus.		- international relations, global coordination, response systems and crisis management
 
 # Who
+
 	- active subject: WHO, government, business owners, patients, individual etc
 	- passive subject:  same as above
 
 # Where
+
 	- country, region and city
+	
 # information vs. misinformation (news sources):
 	- verified
 	- anonymous
 	- speculation
 
-# theme tone: negative, positive, neutral
+# theme tone: 
+
+	- negative
+	- positive
+	- neutral
