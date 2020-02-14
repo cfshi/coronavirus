@@ -15,15 +15,17 @@ We intend to focus on the following proposed topic areas
 # Draft title suggestions
 
 * How information about COVID-19 travels between interest groups and affects public behaviour
+	- We need a better title. Chyun feels “interest groups” is not solid nor attractive enough
  or
 * How information about COVID-19 travels across the public, media, science community and policy makers and affects public behaviour
+	- It’s a bit long to show those 4 forums, but…
 
 # Research Questions:
 
 - How does information (and misinformation) travel between scientists, public-health workers, mass media and social media? 
 
 * How does communication affect public behaviour and the course of the outbreak? What are the side effects of changes in public behaviour? 
-	-  How policy affect with health behavior in reacting to the infection?
+	-  How policy affect with public health behavior in reacting to the infection?
 
 * How can scientists and policy-makers evaluate and improve the effectiveness of their communication?
 
@@ -49,6 +51,8 @@ We will compare policies and recommendations to contain and prevent the spread o
 
 # Data and Methods: 
 (ref theme analysis in the H1N1 paper, and PMID: 31956275)
+Data published from November, 2019 to present (or one or two month after the outbreak waned)
+
 - print news media (big data mining?)
 Top newspaper, twitters and youtube (hope to have data of TV content, but seems not easy.)
 	* News Media in
