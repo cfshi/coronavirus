@@ -26,7 +26,7 @@ It looks like applicants, co-applicants and knowledge users need
 
 - Jonathan Dushoff, PA:  modeling, planning
 
-- Jung hui Yeh (Becky) (77943) [Jung hui Yeh-葉蓉慧](http://speech.wp.shu.edu.tw/%E8%91%89%E8%93%89%E6%85%A7/), http://shucidi.mystrikingly.com/blog/51e97b5d10a?fbclid=IwAR0QBxowp3BIxLbN9E8eXx5_bRcpBewq-ctsxHModjfLWZxUxQzk64SCCnE) - collaborator:  data collection, data analysis (mainly with media in Chinese)
+- Jung hui Yeh (Becky) (77943) [Jung hui Yeh-葉蓉慧](http://speech.wp.shu.edu.tw/%E8%91%89%E8%93%89%E6%85%A7/), coA:  data collection, data analysis (mainly with media in Chinese)
 
 - Mike Li (69041)- probably coA: data collection, plotting and statistics
 
