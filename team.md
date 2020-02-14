@@ -33,8 +33,6 @@ Co-applicants doesn't need a ccv (although preferred), a 3-page [Applicant CV](h
 
 - Chyun Shi (64800)- coA  data collection, data analysis, planning
 
-- Rachel Zhou - collaborator:  contextual analysis of data
-
 - Chng Nai Rei - collaborator: contextual analysis
 
 - Knowldge user: Naveed Zafar Janjua, 
