@@ -13,7 +13,7 @@ We intend to focus on the following proposed topic areas
 
 # Draft title suggestions
 
-* How information about COVID-19 travels between interest groups and affects public behaviour
+* How information on news and social media about COVID-19 travels between interest groups and affects public behaviour
 	- We need a better title. CS feels “interest groups” is not solid nor attractive enough
 
 * How information about COVID-19 travels across the public, media, science community and policy makers and affects public behaviour
@@ -23,11 +23,18 @@ We intend to focus on the following proposed topic areas
 
 Our research questions were framed based on the object of developing potential social and policy countermeasures for COVID-19 outbreak (under the CIHR special call object).
 
-1. (RQ1) How does information (and misinformation) travel between scientists, public-health workers, mass media and social media? This research question addresses the social and cultural dimensions of different population during the epidemic such as, examining how individuals and communities understand and react to the disease (Object 1)
+1. (RQ1) How does information (and misinformation) travel between scientists, public-health workers, mass media and social media? 
+	- How does media cover and disseminate information?
+	- How media content are consumed among the general public, science community and the national and international govern units?
+	- The aim of this question is to congregate contents to address the social and cultural dimensions of different population during the epidemic such as, examining how individuals and communities understand and react to the disease (Object 1)
 
 2.  (RQ2) How does communication affect public behaviour and the course of the outbreak?  This research question studies and compares the public health institutes response and guidelines and how policy affect public health behavior in reacting to the infection? (Object 2)
+	- (CS: by fitting data from google trends, news and twitter and public health authority)
 
 3.  (RQ3) How can scientists and policy-makers evaluate and improve the effectiveness of their communication? This research question aim to develop strategies to combat misinformation, stigma, and fear; and to improve public awareness and knowledge (Object 3)
+	(CS:  by comparing policy, public reaction and effectiveness (reported by public health authority and by media))
+
+We expect in constructing findings from the three questions will provides insights on proposing social and policy countermeasures.
 		
 # Data and Sources: 
 (ref theme analysis in the H1N1 paper, and PMID: 31956275)
@@ -52,26 +59,26 @@ Data published from November, 2019 to present (or one or two month after the out
 		- The epidemic findings from science community is part of the information the public, media and international community rely on. They play a powerful role during public health crises due to the time urgency with which they can disseminate new information, accurate or not. (ref: [Early in the Epidemic: Impact of preprints on global discourse of 2019-nCoV transmissibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663)).  We can also check findings of preprint (speedy information delivery, lack of peer review) in terms of accuracy and how misinformation get circulated based on those findings. (see [examples](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663))
 		- (CS’s confusion: Is context same as noise in modelling (e.g., Park and Dushoff 2020):  dynamical or process; noise(randomness directly or indirectly affecting disease transmission); observation noise(randomness underlying how many true cases reported).  Based on their definition, how do context or media, public reaction and pubic policy-guideline fit into models?  Is it a right question?)
 		- (CS: It will be good to incorporate modelling ideas in this project but WHAT?  Also, how workable is it to compare this coronavirus to 2012 MERS and 2002 SARS in terms of the spread and reaction context ?)
-	-  Official health websites:  WHO, [US CDC](https://www.cdc.gov/coronavirus/index.html), [National Health Commission of PRC](http://en.nhc.gov.cn/index.html), [Canada PHAC](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html), [Taiwan CDC](https://www.cdc.gov.tw/En), [Singapore CDC](https://www.ncid.sg/Pages/default.aspx), [Hong Kong CDC]().  We will include the disease control and prevention centre in Japan later if 
+	- Official health websites:  WHO, [US CDC](https://www.cdc.gov/coronavirus/index.html), [National Health Commission of PRC](http://en.nhc.gov.cn/index.html), [Canada PHAC](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html), [Taiwan CDC](https://www.cdc.gov.tw/En), [Singapore CDC](https://www.ncid.sg/Pages/default.aspx), [Hong Kong CDC]().  We will include the disease control and prevention centre in Japan later if 
 
-We will add sources (e.g., [Central China Normal Univeristy](http://news.ccnu.edu.cn/index.htm), []Wuhan University(https://www.whu.edu.cn/xxfy/) etc for our contextual analysis.
+
+* We will add sources (e.g., [Central China Normal Univeristy](http://news.ccnu.edu.cn/index.htm), []Wuhan University(https://www.whu.edu.cn/xxfy/) etc for our contextual analysis.
 
 # Methods:
 -  Data mining:
-	- textual analysis by AI based on coding book which will be based on a pilot study)
-	- Contextual analysis by researchers
-	- summarizing and comparing policy, guidelines and recommendation by national and international health organitions
+	* textual analysis of news media and Twitter are implemented by AI based on coding book which will be based on a pilot study.  The findings of textual analysis 
+		- Human Coders and AI (?):  
+			- (fill in what it is about	)
+			- ( fill in sentences on AI part)
+			- (fill in sentences on coders)
+			- The textual analysis will be conducted based on a coding book we will draft when the funding is approved.  The coding book should list themes and frames for analyzing the texts, which will be categorized based on a pilot study as part of drawing the coding book.  The basic structure of the themes will outline what (e.g. ), in addition to information types  (e.g., news, information and misinformation/fake news based on sources: verified, anonymous, speculation), who (e.g. active vs. passive subject), where (e.g., country, region and city), and theme tone (e.g., negative, positive, neutral).  (see  attached [Basic Coding frame](https://github.com/cfshi/coronavirus/blob/master/coding%20book.md) for what themes are like)
+- Contextual analysis by researchers
+	- (fill in what contextual analysis is)
+	-   How media content and information are framed are often socially and politically cultivated \cite{}.  We will  implement contextual analyses of the quantitative findings and elaborate how information is framed and disseminated in this uncertain circumstances into context.
+	- summarizing and comparing policy, guidelines and recommendation by national and international health organizations.
+- modelling (Can we do this?_:  incorporating media coverage, public and institutional reaction and report (which can be based on modelling results by scientific community and WHO etc), time travelling and spread network (geographical)
 	
-* modelling:  incorporating media coverage, public and institutional reaction and report (which can be based on modelling results by scientific community and WHO etc), time travelling and spread network (geographical)
-- Coding Book and Guideline 
-	* Human Coders and AI (?) will be based on a coding book (see attached for some basic ideas)
-	* key words search for
-		- Google trend, and official public health websites: coronavirus, 19-nCov, COVID-19, influenza, 武疫 (Wu Virus)，武漢病毒 (Wuhan Virus)，武漢(Wuhan)，武漢肺炎 (Wuhan pneumonia)，肺炎 (pneumonia)，冠状病毒 (coronavirus), 新型冠状病毒 (novel coronavirus), 武漢新型冠状病毒 (Wuhan novel coronavirus)
-
-The textual analysis will be conducted based on a coding book we will draft when the funding is approved.  The coding book should list themes and frames for analyzing the texts, which will be categorized based on a pilot study as part of drawing the coding book.  The basic structure of the themes will outline what (e.g. ), in addition to information types  (e.g., news, information and misinformation/fake news based on sources: verified, anonymous, speculation), who (e.g. active vs. passive subject), where (e.g., country, region and city), and theme tone (e.g., negative, positive, neutral).  (see  attached [Basic Coding frame](https://github.com/cfshi/coronavirus/blob/master/coding%20book.md) for what themes are like)
-
-We will do textual and contextual analyses based on the quantitative results to elaborate how information is framed and disseminated in this uncertain 
-
+	* key words search for Google trend analysis, and official public health websites: coronavirus, 19-nCov, COVID-19, influenza, 武疫 (Wu Virus)，武漢病毒 (Wuhan Virus)，武漢(Wuhan)，武漢肺炎 (Wuhan pneumonia)，肺炎 (pneumonia)，冠状病毒 (coronavirus), 新型冠状病毒 (novel coronavirus), 武漢新型冠状病毒 (Wuhan novel coronavirus)
 -  general public:
 	- Data:  travel, [movies](https://www.boxofficemojo.com/?ref_=bo_nb_di_mojologo), restaurants in Taiwan, Singapore, H.K., Canada and USA; or should we focus on North America and on travel and [movie box office](https://www.boxofficemojo.com/?ref_=bo_nb_di_mojologo)?
 	
