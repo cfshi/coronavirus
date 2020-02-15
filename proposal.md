@@ -22,12 +22,12 @@ We intend to focus on the following proposed topic areas
 
 # Research Questions:
 
-- How does information (and misinformation) travel between scientists, public-health workers, mass media and social media? 
+1. How does information (and misinformation) travel between scientists, public-health workers, mass media and social media? 
 
-* How does communication affect public behaviour and the course of the outbreak? What are the side effects of changes in public behaviour? 
+2.  How does communication affect public behaviour and the course of the outbreak? What are the side effects of changes in public behaviour? 
 	-  How policy affect with public health behavior in reacting to the infection?
 
-* How can scientists and policy-makers evaluate and improve the effectiveness of their communication?
+3.  How can scientists and policy-makers evaluate and improve the effectiveness of their communication?
 
 # Resources
 
@@ -98,7 +98,7 @@ Social media in China was not included in this study.  Our main interest is to s
 We will do textual and contextual analyses based on the quantitative results to elaborate how information is framed and disseminated in this uncertain 
 
 -  general public:
-	- Data:  travel, movies, restaurants in Taiwan, Singapore, H.K., Canada and USA; or should we focus on North America and on travel and [movie box office](https://www.boxofficemojo.com/?ref_=bo_nb_di_mojologo)?
+	- Data:  travel, [movies](https://www.boxofficemojo.com/?ref_=bo_nb_di_mojologo), restaurants in Taiwan, Singapore, H.K., Canada and USA; or should we focus on North America and on travel and [movie box office](https://www.boxofficemojo.com/?ref_=bo_nb_di_mojologo)?
 	- Google Trend
 	Research showed that Google Trend can be influenced by the media attraction than by true epidemiological burden \cite{}, yet more evidences suggested that it reflects awareness-related burst of searches \cite{BousAgac17, MahrBrag19}
 awareness-related spike of searches
@@ -110,12 +110,22 @@ awareness-related spike of searches
   
 ========
 
-[proposal](https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3248#howtoapply)
+[proposal 5 pages](https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3248#howtoapply)
+# Abstract (max 2000 characters)
 
-# Project Review
+# Summary of Research Proposal (max one page)
+
 # Background
-From mysterious Wuhan virus in December 2019 to certified COVID-19 in February 2020, it has been a short but long ongoing journey for the disease outbreak, epidemically, socially and politically (cite?).
-# Aims
+From a mysterious pneumonia-like Wuhan virus in China first reported in December 2019 to coronavirus [19-nCoV](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200211-sitrep-22-ncov.pdf), a member of coronavirus family \cite{} in January to [COVID-19](https://www.who.int/dg/speeches/detail/who-director-general-s-remarks-at-the-media-briefing-on-2019-ncov-on-11-february-2020), officially renamed in February 11, 2020,  COVID-19 took less than three months to reach over xx countries from Asia, Australia, North America, Europe and Africa, as Egypt reported the first COVID-19 case on Feb 14, 2020 \cite{map}.  On January 30, the World Health Organization declared COVID-19 a public health emergency of international concern. By Feb xx, over 60,000 cased confirmed and  xxx fatality had been documented with —% in China \cite{}.  It has been a short yet long ongoing journey of the disease outbreak, caused the the world unguarded with hazy challenges, fear and anxiety epidemically \cite{}, socially \cite{} , culturally \cite{}, economically \cite{},  and politically \cite{} (cite?) in daily life (e.g., [](to mask or not to mask)(https://www.reuters.com/article/us-china-health-masks-safety/to-mask-or-not-to-mask-confusion-spreads-over-coronavirus-protection-idUSKBN1ZU0PH), 
+
+
+media
+
+
+
+# Aims (to be consistent with potential outcome )
+- Potential to contribute to the global response to 2019-nCoV
+- Social and policy countermeasures and Global Coordination Mechanism
 # Approaches and Plans
 	- Methods and Feasibility
 	- Data Collection
@@ -129,9 +139,9 @@ From mysterious Wuhan virus in December 2019 to certified COVID-19 in February 2
 	- year 1
 	- year 2  
 	- to publish various papers on print (North America, Asia- Taiwan, H.K. and Singapore), social media (twitter), and a grand one
-# Challenges and Mitigating Strategies
+# Challenges and Mitigating Strategies (potential outcome?)
 - Potential to contribute to the global response to 2019-nCoV
-- Social and policy countermeasures
+- Social and policy countermeasures and Global Coordination Mechanism
 
 # Conclusion/Summary
 # References
@@ -151,3 +161,18 @@ From mysterious Wuhan virus in December 2019 to certified COVID-19 in February 2
 
 # Budget
 - For the social and policy countermeasures research, the maximum amount per grant is $500,000 over two years.
+
+== Evaluation Criteria ==
+To support the strategic objectives of this funding opportunity, the following evaluation criteria will be used:
+	1.	Quality of project:
+	a.	Extent to which the application responds to the objectives;
+	b.	Appropriateness of the proposed approach; and
+	c.	Appropriateness of the budget and justification for amount requested.
+	2.	Quality of Applicants:
+	a.	Track record of team members in fields related of proposed research;
+	b.	Ability of the project team to carry out the proposed research; and
+	c.	Ability of team to quickly mobilize necessary resources.
+	3.	Impact of the Research:
+	a.	Alignment to research areas;
+	b.	Potential to contribute to the global response to 2019-nCoV.
+
