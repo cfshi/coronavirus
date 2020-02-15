@@ -1,5 +1,4 @@
 # What (theme of analysis (which would be based on a pilot study):  
-
 	- coronavirus characteristics and disease comparison: what it is and compared to other diseases
 	- flu symptom:
 	- health concern and treatment: vaccine,
@@ -17,15 +16,13 @@
 	- impact on business.  This can also be a index of how the public’s daily life is affected by the virus.		- international relations, global coordination, response systems and crisis management
 
 # Who
-
 	- active subject: WHO, government, business owners, patients, individual etc
 	- passive subject:  same as above
 
 # Where
-
 	- country, region and city
 	
-# information vs. misinformation (news sources):
+# information vs. misinformation:
 	- verified
 	- anonymous
 	- speculation
@@ -35,3 +32,13 @@
 	- negative
 	- positive
 	- neutral
+
+#  news sources:
+	- twitter
+	- newspaper 
+
+# news origins:
+	- to list names of media analzyed
+
+# Attribute theme weight:  Based on which paragraph key concept (via words) appear.  For example, 3 points to that in the first 3 paragraphs, 2 to 4-6 and 1 to the afterwards.
+
