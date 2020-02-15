@@ -55,6 +55,10 @@ cihr_proposal.pdf: propHead.tex propParams.tex commands.tex
 ## BCCDC
 
 ## downcall naveed.docx ##
+Ignore += naveed.docx
+
+Sources += naveed.md
+# naveed.gh.html: naveed.md
 
 ######################################################################
 
@@ -72,7 +76,7 @@ makestuff/Makefile:
 -include makestuff/os.mk
 
 ## -include makestuff/wrapR.mk
-## -include makestuff/pandoc.mk
+-include makestuff/pandoc.mk
 
 -include makestuff/git.mk
 -include makestuff/texdeps.mk
