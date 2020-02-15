@@ -162,7 +162,8 @@ media
 # Budget
 - For the social and policy countermeasures research, the maximum amount per grant is $500,000 over two years.
 
-== Evaluation Criteria ==
+=========
+# Evaluation Criteria
 To support the strategic objectives of this funding opportunity, the following evaluation criteria will be used:
 	1.	Quality of project:
 	a.	Extent to which the application responds to the objectives;
