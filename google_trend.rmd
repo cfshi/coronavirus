@@ -1,0 +1,66 @@
+---
+title: "Google Trend Pipeline"
+author: "Michael Li"
+date: "February 14, 2020"
+output: html_document
+---
+
+Google Trends is a website by Google that analyzes the popularity of top search queries in Google Search across various regions and languages. 
+We want to use google trend data as a proxy indicator for information dissemination and public reaction.
+
+We can start with a prior set of search-terms and stick with it.
+If we are really interested the __popular__ hits, we should let google help us come up with search terms.
+Note: we want to be very careful when picking our search terms because a lot of them will have similar meaning and can be confounded. See [Search tips for Trends](https://support.google.com/trends/answer/4359582?hl=en&ref_topic=4365530)
+
+## MLi's systematic search
+We did a systematic search on google trends as follows:
+
+  1. We first did a worldwide search from December 1st, 2019, to February 14th, 2020, for the keyword "Coronavirus".
+  
+  2. From the list of top regions most interested in this topic, we selected: 
+    - Singopore (rank 1)
+    - China (rank 2)
+    - Canada (rank 4)
+    - Hong Kong (rank 13)
+    - UK (rank 16)
+    - USA (rank 21)
+    - Taiwan (rank 67)
+
+  2. From the list of top "Related topics" related to Coronavirus, we selected: 
+    - Symptoms (rank 2)
+    - China (rank 4)
+    - Wuhan (rank 6)
+    - MERS, influenza, SARS (rank 8,9,10).
+
+  3. Then we create a factorial search design to compare all the search combinations.
+
+__Note: Numbers represent search interest relative to the highest point on the chart for the given region and time. A value of 100 is the peak popularity for the term. A value of 50 means that the term is half as popular. A score of 0 means there was not enough data for this term.__
+
+We have to keep this in mind when we are extract data and try to preserve the data at the highest resolution.
+We may want to stitch datasets and rescale ourselves. (More stitching ideas below)
+
+## Web interface limitations
+
+The web interface of Google Trend will only provide __detailed__ ``real-time'' data for the past 7 days at high resolution time scales (e.g., hourly, daily data). 
+Any timeframe more than 7 days will be reported in larger time scale (e.g. weekly, monthly). 
+
+MLi discover that the "detailed" data (at high resolutions) actually still lying around, but just not through the web interface. After exploring more on this topic, there is R/Python tools to extract data from Google Trend.
+
+## Google Trend in R
+
+We are going to use the R package _gtrendsR_ to extract data from Google Trend.
+Here is an example of extracting hourly data from Dec 1st to 8th, 2019 that is more possible via the web interface. 
+
+```{r package}
+library(gtrendsR)
+
+hourly_dat <- gtrends(c("coronavirus"), time = "2019-12-01T00 2019-12-08T00",tz=0)
+
+print(head(hourly_dat$interest_over_time))
+```
+
+We can use this method to extract whatever data we want at the highest resolution. Note, we cannot extract large amount of data at once, we can only do ~150 rows of data at once. 
+
+## Stiting data
+
+One possible way to stitch datasets together is to use a Hamming distance moving window approach by accounting for changes in relative highest points, we can reconstruct any time-window in the smallest available scale.
