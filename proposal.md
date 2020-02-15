@@ -37,8 +37,7 @@ Data published from November, 2019 to present (or one or two month after the out
 - social media:	
 	*YouTube:  Canada, USA, Taiwan, Hong Kong and Singapore
 
-For contextual-discourse analysis, we will add sources (e.g., [Central China Normal Univeristy](http://news.ccnu.edu.cn/index.htm), []Wuhan University(https://www.whu.edu.cn/xxfy/) etc for our contextual analysis.
-
+We will add sources (e.g., [Central China Normal Univeristy](http://news.ccnu.edu.cn/index.htm), []Wuhan University(https://www.whu.edu.cn/xxfy/) etc for our contextual analysis. 
 
 Main newspapers in China and their official health bureau websites are included for analysis but not social media.   Social media such as twitter and Facebook are barred in China. Yet, there are information and coverage about the outbreak inside China in the media we analyze either from direct interview or re-twittes. 
 		
@@ -46,14 +45,12 @@ Main newspapers in China and their official health bureau websites are included 
 		
 * Official websites to analyze social and policy countermeasures.  How does the national and international community react to the disease outbreak and with what guidelines (analyzing official websites, such as WHO, CDC, Chinese Center for Disease Control and Prevention, etc)
  
-
 (CS’s confusion: Is context same as noise in modelling (e.g., Park and Dushoff 2020):  dynamical or process; noise(randomness directly or indirectly affecting disease transmission); observation noise(randomness underlying how many true cases reported).  Based on their definition, how do context or media, public reaction and pubic policy-guideline fit into models?  Is it a right question?)
 
 (CS: It will be good to incorporate modelling ideas in this project but WHAT?  Also, how workable is it to compare this coronavirus to 2012 MERS and 2002 SARS in terms of the spread and reaction context ?)
 
 # Methods:
 - Data collection
-
 We will collect data of the following dated from November, 2019 till present (?).
 	- Newspaper will be collected from country of Singapore, Taiwan, Hong Kong, Japan (?), Canada and USA (and England?) based on the top circulation (either in English or Chinese)
 		- USA: Associated Press (AP) newswire; U.S. English-language newspapers of top high-circulation; most viewed youtube (and broadcast news transcripts from top networks?).  Lexis-Nexis will be used to collect texts from the first three sources, and the MIT MediaCloud database to collect texts from websites. Texts were collected from both sources using broad search terms \cite{LiuSieg19} ; and [World Journal](https://www.worldjournal.com/)
@@ -62,7 +59,7 @@ We will collect data of the following dated from November, 2019 till present (?)
 		- Hong Kong: [Epoch Times](https://www.epochtimes.com/gb/news415.htm),
 		- China:  [The People’s Daily English](http://en.people.cn/), [The People’s Daily English](http://www.people.com.cn/), [China Daily](http://global.chinadaily.com.cn/)		- Singapore
 		- Japan: [Japanese Times](https://www.japantimes.co.jp/)
-	- Twitter: (CS:  How does it work internationally outside Canada and USA?).  It will be great if we can have social media (instgram or FB in Taiwan, Singapore etc)
+		- Twitter: (CS:  How does it work internationally outside Canada and USA?).  It will be great if we can have social media (instgram or FB in Taiwan, Singapore etc)
 	- Google Trend database.  Google Trends provides search around the world by region and county.  Research showed that Google Trend can be influenced by the media attraction than by true epidemiological burden \cite{}, yet more evidences suggested that it reflects awareness-related burst of searches \cite{BousAgac17, MahrBrag19}
 		-   By analyzing google trends data, the daily infected cases and fatality and frequency of media coverage,  we use Google Search Trends and media coverage as a proxy indicator for information dissemination and public reaction  (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663).
 		- e.g. https://trends.google.com/trends/explore?date=today%201-m&geo=SG&q=%2Fm%2F01cpyy,wuhan%20virus,19-nCov,sars,flu ,([export google trend data]( https://support.google.com/trends/answer/4365538?hl=en)
