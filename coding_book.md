@@ -43,5 +43,6 @@
 # news origins:
 	- to list names of media analzyed
 
-# Attribute theme weight:  Based on which paragraph key concept (via words) appear.  For example, 3 points to that in the first 3 paragraphs, 2 to 4-6 and 1 to the afterwards.
+# Attribute theme weight
+Based on which paragraph key concept (via words) appear.  For example, 3 points to that in the first 3 paragraphs, 2 to 4-6 and 1 to the afterwards.
 
