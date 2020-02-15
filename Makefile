@@ -51,6 +51,13 @@ cihr_proposal.pdf: cihr_proposal.tex appendix.tex content.tex
 cihr_proposal.pdf: propHead.tex propParams.tex commands.tex
 
 ######################################################################
+
+## BCCDC
+
+## downcall naveed.docx ##
+
+######################################################################
+
 ### Makestuff
 
 Sources += Makefile
@@ -65,7 +72,7 @@ makestuff/Makefile:
 -include makestuff/os.mk
 
 ## -include makestuff/wrapR.mk
--include makestuff/pandoc.mk
+## -include makestuff/pandoc.mk
 
 -include makestuff/git.mk
 -include makestuff/texdeps.mk
