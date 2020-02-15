@@ -32,6 +32,7 @@ Our research questions were framed based on the object of developing potential s
 # Data and Sources: 
 (ref theme analysis in the H1N1 paper, and PMID: 31956275)
 Data published from November, 2019 to present (or one or two month after the outbreak waned)
+
 	- Newspaper will be collected from country of Singapore, Taiwan, Hong Kong, Japan (?), Canada and USA (and England?) based on the top circulation (either in English or Chinese)
 		- USA: Associated Press (AP) newswire; U.S. English-language newspapers of top high-circulation; most viewed youtube (and broadcast news transcripts from top networks?).  Lexis-Nexis will be used to collect texts from the first three sources, and the MIT MediaCloud database to collect texts from websites. Texts were collected from both sources using broad search terms \cite{LiuSieg19} ; and [World Journal](https://www.worldjournal.com/)
 		- Canada: (similar to USA), and [Sing Tao Daily](https://www.singtao.ca/toronto/?variant=zh-hk)
