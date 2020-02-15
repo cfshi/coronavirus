@@ -7,27 +7,27 @@
 
 We intend to focus on the following proposed topic areas
 - Social and policy countermeasures research
-	- Cultural dimensions of the epidemic such as, examining how individuals and communities understand and react to the disease;
-	- Studying the public health response;
-	- Developing strategies to combat misinformation, stigma, and fear;
-
+	- (Object 1) Studying social and cultural dimensions of the epidemic such as, examining how individuals and communities understand and react to the disease;
+	- (Object 2) Studying national and international public health institutes response and guidelines aiming to contain COVID-19 and to mitigates its secondary impacts, such as quarantines, supply shortages and racism.
+	- (Object 3) Developing strategies to combat misinformation, stigma, and fear; and to improve public awareness and knowledge
 
 # Draft title suggestions
 
 * How information about COVID-19 travels between interest groups and affects public behaviour
-	- We need a better title. Chyun feels “interest groups” is not solid nor attractive enough
+	- We need a better title. CS feels “interest groups” is not solid nor attractive enough
 
 * How information about COVID-19 travels across the public, media, science community and policy makers and affects public behaviour
 	- It’s a bit long to show those 4 forums, but…
 
 # Research Questions:
 
-1. How does information (and misinformation) travel between scientists, public-health workers, mass media and social media? 
+Our research questions were framed based on the object of developing potential social and policy countermeasures for COVID-19 outbreak (under the CIHR special call object).
 
-2.  How does communication affect public behaviour and the course of the outbreak? What are the side effects of changes in public behaviour? 
-	-  How policy affect with public health behavior in reacting to the infection?
+1. (RQ1) How does information (and misinformation) travel between scientists, public-health workers, mass media and social media? This research question addresses the social and cultural dimensions of different population during the epidemic such as, examining how individuals and communities understand and react to the disease (Object 1)
 
-3.  How can scientists and policy-makers evaluate and improve the effectiveness of their communication?
+2.  (RQ2) How does communication affect public behaviour and the course of the outbreak?  This research question studies and compares the public health institutes response and guidelines and how policy affect public health behavior in reacting to the infection? (Object 2)
+
+3.  (RQ3) How can scientists and policy-makers evaluate and improve the effectiveness of their communication? This research question aim to develop strategies to combat misinformation, stigma, and fear; and to improve public awareness and knowledge (Object 3)
 
 # Resources
 
@@ -40,7 +40,7 @@ We intend to focus on the following proposed topic areas
 We will compare policies and recommendations to contain and prevent the spread of the disease in selected countries.  
 		* Although WHO position in the beginning of the virus spread was [questioned](https://www.washingtonpost.com/world/asia_pacific/chinese-officials-note-serious-problems-in-coronavirus-response-the-world-health-organization-keeps-praising-them/2020/02/08/b663dd7c-4834-11ea-91ab-ce439aa5c7c1_story.html) , how to interpret WHO information and recommendation need to be cautious.  (It can be another interesting direction of comparison.)
 
-(Chyun’s confusion: Is context same as noise in modelling (e.g., Park and Dushoff 2020):  dynamical or process; noise(randomness directly or indirectly affecting disease transmission); observation noise(randomness underlying how many true cases reported).  Based on their definition, how do context or media, public reaction and pubic policy-guideline fit into models?  Is it a right question?)
+(CS’s confusion: Is context same as noise in modelling (e.g., Park and Dushoff 2020):  dynamical or process; noise(randomness directly or indirectly affecting disease transmission); observation noise(randomness underlying how many true cases reported).  Based on their definition, how do context or media, public reaction and pubic policy-guideline fit into models?  Is it a right question?)
 
 - It will be good to incorporate modeling ideas in this project but WHAT?  Also, how workable is it to compare this coronavirus to 2012 MERS and 2002 SARS in terms of the spread and reaction context ?
 
@@ -68,8 +68,10 @@ Top newspaper, twitters and youtube (hope to have data of TV content, but seems 
 SSRN) and peer-reviewed (by search Google Schoolar, PubMed, Embase, Medline, and OVID)
 - Official health websites:  WHO, [US CDC](https://www.cdc.gov/coronavirus/index.html), [National Health Commission of PRC](http://en.nhc.gov.cn/index.html), [Canada PHAC](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html), [Taiwan CDC](https://www.cdc.gov.tw/En), [Singapore CDC](https://www.ncid.sg/Pages/default.aspx), [Hong Kong CDC]()
 
+For contextual-discourse analysis, we will add sources (e.g., [Central China Normal Univeristy](http://news.ccnu.edu.cn/index.htm), []Wuhan University(https://www.whu.edu.cn/xxfy/) etc for our contextual analysis.
 
-Social media in China was not included in this study.  Our main interest is to study how the public react and understand coronavirus in selected countries outside China because . Main newspapers in China and their official health bureau websites are included for analysis but not social media.  First, access to their social media is limited.  Secondly, mass media in China are under government supervision \cite{}
+
+Main newspapers in China and their official health bureau websites are included for analysis but not social media.   Social media such as twitter and Facebook are barred in China. Yet, there are information and coverage about the outbreak inside China in the media we analyze either from direct interview or re-twittes. 
 
 
 - Coding Guideline:
@@ -116,7 +118,7 @@ awareness-related spike of searches
 # Summary of Research Proposal (max one page)
 
 # Background
-From a mysterious pneumonia-like Wuhan virus in China first reported in December 2019 to coronavirus [19-nCoV](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200211-sitrep-22-ncov.pdf), a member of coronavirus family \cite{} in January to [COVID-19](https://www.who.int/dg/speeches/detail/who-director-general-s-remarks-at-the-media-briefing-on-2019-ncov-on-11-february-2020), officially renamed in February 11, 2020,  COVID-19 took less than three months to reach over xx countries from Asia, Australia, North America, Europe and Africa, as Egypt reported the first COVID-19 case on Feb 14, 2020 \cite{map}.  On January 30, the World Health Organization declared COVID-19 a public health emergency of international concern. By Feb xx, over 60,000 cased confirmed and  xxx fatality had been documented with —% in China \cite{}.  It has been a short yet long ongoing journey of the disease outbreak, caused the the world unguarded with hazy challenges, fear and anxiety epidemically \cite{}, socially \cite{} , culturally \cite{}, economically \cite{},  and politically \cite{} (cite?) in daily life (e.g., [](to mask or not to mask)(https://www.reuters.com/article/us-china-health-masks-safety/to-mask-or-not-to-mask-confusion-spreads-over-coronavirus-protection-idUSKBN1ZU0PH), 
+From a mysterious pneumonia-like Wuhan virus in China first reported in December 2019 to coronavirus [19-nCoV](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200211-sitrep-22-ncov.pdf), a member of coronavirus family \cite{} in January to [COVID-19](https://www.who.int/dg/speeches/detail/who-director-general-s-remarks-at-the-media-briefing-on-2019-ncov-on-11-february-2020), officially renamed in February 11, 2020,  COVID-19 took less than three months to reach over xx countries from Asia, Australia, North America, Europe and Africa, as Egypt reported the first COVID-19 case on Feb 14, 2020 \cite{map}.  On January 30, the World Health Organization declared COVID-19 a public health emergency of international concern. By Feb xx, over 60,000 cased confirmed and  xxx fatality had been documented with —% in China \cite{}.  It has been a short yet long ongoing journey of the disease outbreak, caused the the world unguarded with hazy challenges, fear and anxiety epidemically \cite{}, socially \cite{} , culturally \cite{}, economically \cite{},  and politically \cite{} (cite?) in daily life (e.g., [](to mask or not to mask)(https://www.reuters.com/article/us-china-health-masks-safety/to-mask-or-not-to-mask-confusion-spreads-over-coronavirus-protection-idUSKBN1ZU0PH), [Dance inside the hospital](https://mp.weixin.qq.com/s/7ZH5CDiek6_0yeKaWgG-Ug)
 
 
 media
@@ -176,4 +178,28 @@ To support the strategic objectives of this funding opportunity, the following e
 	3.	Impact of the Research:
 	a.	Alignment to research areas;
 	b.	Potential to contribute to the global response to 2019-nCoV.
+=====
+# J’s format:
+- Project Overview
+- background
+- method and feasibility
+	- data and pipelines
+	- models	
+	- fitting
+	- application
+- deliverables
+	- software
+	- operational co-operation
+	- prediction and planning
+- research setting and personnel
+	- collaboration and knowledge users
+- research time line
+	- year 1
+	- year 2
+- challenges and mitigation strategies
+	- data linkage
+	- foundation
+	- reconstructing partial observed data
+	- efficacy
+- conclusion/summary
 
