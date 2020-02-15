@@ -90,38 +90,6 @@ Data published from November, 2019 to present (or one or two month after the out
 
 # Summary of Research Proposal (max one page)
 
-# Background
-From a mysterious pneumonia-like Wuhan virus in China first reported in December 2019 to coronavirus [19-nCoV](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200211-sitrep-22-ncov.pdf), a member of coronavirus family \cite{} in January to [COVID-19](https://www.who.int/dg/speeches/detail/who-director-general-s-remarks-at-the-media-briefing-on-2019-ncov-on-11-february-2020), officially renamed in February 11, 2020,  COVID-19 took less than three months to rapidly disseminate over xx countries from Asia, Australia, North America, Europe and Africa, as Egypt reported the first COVID-19 case on Feb 14, 2020 ( see [countries affected](https://www.theguardian.com/science/2020/jan/22/where-has-coronavirus-spread)).  On January 30, the World Health Organization declared COVID-19 a public health emergency of international concern. By Feb xx, over 60,000 cased confirmed and  xxx fatality had been documented with —% in China \cite{}.  It has been a short yet long ongoing journey of the disease outbreak[outbreak timeline](https://www.aljazeera.com/news/2020/01/timeline-china-coronavirus-spread-200126061554884.html?xif=%20and%20https:/www.aljazeera.com/news/2020/01/cloneofcloneofcloneofchina-battles-coronavirus-o-200129233906291.html), caused the the world unguarded with hazy challenges, fear and anxiety epidemically \cite{}, socially \cite{} , culturally \cite{}, economically \cite{},  and politically ( \cite{} (cite?) (e.g.  [ WHO questioned](https://www.washingtonpost.com/world/asia_pacific/chinese-officials-note-serious-problems-in-coronavirus-response-the-world-health-organization-keeps-praising-them/2020/02/08/b663dd7c-4834-11ea-91ab-ce439aa5c7c1_story.html)) in daily life (e.g., [](to mask or not to mask)(https://www.reuters.com/article/us-china-health-masks-safety/to-mask-or-not-to-mask-confusion-spreads-over-coronavirus-protection-idUSKBN1ZU0PH), [Dance inside the hospital](https://mp.weixin.qq.com/s/7ZH5CDiek6_0yeKaWgG-Ug)
-
-
-media
-
-
-
-# Aims (to be consistent with potential outcome )
-- Potential to contribute to the global response to 2019-nCoV
-- Social and policy countermeasures and Global Coordination Mechanism
-# Approaches and Plans
-	- Methods and Feasibility
-	- Data Collection
-	- Data Analysis
-		- Statistics (and modeling?)
-		- Contextual analysis
-# Potential Outcomes
-# Research Setting and Personnel
-# Collaborators and Knowledge Users (Team?)
-# Research Timeline
-	- year 1
-	- year 2  
-	- to transfer findings to peer-reviewed publications.  In addition to a grand one paper, we plan to transfer findings into subgroups, such as by affected country (North America, Asia- Taiwan, H.K. and Singapore), types of media (news media and social media (twitter)) .
-# Challenges and Mitigating Strategies (potential outcome?)
-- Potential to contribute to the global response to 2019-nCoV
-- Social and policy countermeasures and Global Coordination Mechanism
-
-# Conclusion/Summary
-
-# note
-- We want to emphasize our bilingual (English and Chinese) background, which is essential in this study. 
 # References
 
 # Appendix:
