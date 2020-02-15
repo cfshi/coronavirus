@@ -180,26 +180,26 @@ To support the strategic objectives of this funding opportunity, the following e
 	b.	Potential to contribute to the global response to 2019-nCoV.
 =====
 # J’s format:
-- Project Overview
-- background
-- method and feasibility
-	- data and pipelines
-	- models	
-	- fitting
-	- application
-- deliverables
-	- software
-	- operational co-operation
-	- prediction and planning
-- research setting and personnel
-	- collaboration and knowledge users
-- research time line
-	- year 1
-	- year 2
-- challenges and mitigation strategies
-	- data linkage
-	- foundation
-	- reconstructing partial observed data
-	- efficacy
-- conclusion/summary
+	- Project Overview
+	- background
+	- method and feasibility
+		- data and pipelines
+		- models	
+		- fitting
+		- application
+	- deliverables
+		- software
+		- operational co-operation
+		- prediction and planning
+	- research setting and personnel
+		- collaboration and knowledge users
+	- research time line
+		- year 1
+		- year 2
+	- challenges and mitigation strategies
+		- data linkage
+		- foundation
+		- reconstructing partial observed data
+		- efficacy
+	- conclusion/summary
 
