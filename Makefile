@@ -41,6 +41,16 @@ questions.gh.html: questions.mkd
 
 ######################################################################
 
+## Latex-ing 
+
+## Sources += proposal.tex propHead.tex propParams.tex commands.tex
+## Sources += proposal.bib content.tex appendix.tex
+
+## Proposal (prop merged back into proposal)
+cihr_proposal.pdf: cihr_proposal.tex appendix.tex content.tex
+cihr_proposal.pdf: propHead.tex propParams.tex commands.tex
+
+######################################################################
 ### Makestuff
 
 Sources += Makefile
@@ -58,5 +68,8 @@ makestuff/Makefile:
 -include makestuff/pandoc.mk
 
 -include makestuff/git.mk
+-include makestuff/texdeps.mk
 -include makestuff/visual.mk
+-include makestuff/hotcold.mk
+-include makestuff/cihrpaste.mk
 -include makestuff/projdir.mk

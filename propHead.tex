@@ -1,0 +1,75 @@
+\usepackage[top=\geomtop,bottom=\geombot,left=\geomside,right=\geomside]{geometry}
+\usepackage{hyperref}
+\hypersetup{pageanchor=false}
+\usepackage{fancyhdr}
+
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{xspace}
+\usepackage{multirow}
+
+\usepackage{enumitem}
+\setlist{itemsep=\eiitem, topsep=\eitop, parsep=\eipar, partopsep=\eipartop}
+
+%% \usepackage{hanging}
+\pagestyle{fancy}
+\usepackage[dvipsnames]{xcolor}
+
+\newcommand{\showcomment}[1]{{\color{Red}\textbf{((#1))}}}
+\newcommand{\nocomment}[1]{}
+
+%% Deprecate
+\newcommand{\bmbcomment}[1]{\comment{bmb: #1}}
+\newcommand{\jdcomment}[1]{\comment{jd: #1}}
+\newcommand{\mlicomment}[1]{\comment{mli: #1}}
+\newcommand{\todocomment}[1]{\comment{{\color{red} TODO:} #1}}
+
+%% https://tex.stackexchange.com/questions/402682/automatic-sorting-and-compression-of-a-range-of-numeric-style-citation-call-outs
+\usepackage[noadjust]{cite} % 'sort' and 'compress' are enabled by default
+
+\newcommand{\citep}{\cite}
+\newcommand{\citet}{\cite}
+
+\newcommand{\proptitle}[1]{\begin{center}{\Large\textsf{#1}}\end{center}}
+\newcommand{\head}{\section}
+\newcommand{\subhead}{\subsection}
+\newcommand{\timehead}{\subsection*}
+\newcommand{\subsubhead}{\paragraph}
+\newcommand{\category}[1]{\emph{#1:}}
+
+%% Keep moving numbers to parameters file as possible
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Header footer stuff
+\renewcommand{\footrulewidth}{0.4pt}
+\addtolength{\headheight}{0.5\baselineskip}
+%% Why add to headheight?
+
+\lhead{\textbf{\sectitle}}
+\chead{\toptitle}
+\rhead{\applicant}
+
+\lfoot{\small\rm \calltitle}
+\cfoot{}
+\rfoot{Page \thepage\ of \numpages}
+
+
+%%% Section stuff
+\makeatletter
+\renewcommand{\section}{\@startsection  % see LaTeX Companion, p.26
+{section}%                           % the name
+{1}%                                 % the level
+{0mm}%                               % the indent
+{-0.5\baselineskip}%                 % the beforeskip
+{0.25\baselineskip}%                 % the afterskip
+{\normalfont\Large\bfseries}}%       % the style
+
+\renewcommand{\subsection}%
+{\vspace{0.0ex \@plus 3.0ex \@minus 1.0ex}\@startsection  % see LaTeX Companion, p.26
+{subsection}%                           % the name
+{2}%                                 % the level
+{0mm}%                               % the indent
+{0.75\baselineskip \@plus 0.25 ex}%                 % the beforeskip
+{0.25\baselineskip}%                 % the afterskip
+{\normalfont\large\bfseries}}%       % the style
+
