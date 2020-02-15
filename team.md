@@ -29,7 +29,7 @@ Co-applicants doesn't need a ccv (although preferred), a 3-page [Applicant CV](h
 
 - Jung hui Yeh (Becky) (77943) [Jung hui Yeh-葉蓉慧](http://speech.wp.shu.edu.tw/%E8%91%89%E8%93%89%E6%85%A7/), coA:  data collection, data analysis (mainly with media in Chinese)
 
-- Mike Li (69041)- probably coA: data collection, plotting and statistics
+- Mike Li (CIHR pin 69041; CCV 1115085)- probably coA: data collection, plotting and statistics
 
 - Chyun Shi (64800)- coA  data collection, data analysis, planning
 
