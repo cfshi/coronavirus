@@ -140,7 +140,7 @@ media
 # Research Timeline
 	- year 1
 	- year 2  
-	- to publish various papers on print (North America, Asia- Taiwan, H.K. and Singapore), social media (twitter), and a grand one
+	- to transfer findings to peer-reviewed publications.  In addition to a grand one paper, we plan to transfer findings into subgroups, such as by affected country (North America, Asia- Taiwan, H.K. and Singapore), types of media (news media and social media (twitter)) .
 # Challenges and Mitigating Strategies (potential outcome?)
 - Potential to contribute to the global response to 2019-nCoV
 - Social and policy countermeasures and Global Coordination Mechanism
