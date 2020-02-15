@@ -1,5 +1,6 @@
 # What 
 (theme of analysis which would be based on a pilot study):  
+
 	- coronavirus characteristics and disease comparison: what it is and compared to other diseases
 	- flu symptom:
 	- health concern and treatment: vaccine,
@@ -24,6 +25,7 @@
 	- country, region and city
 	
 # information vs. misinformation:
+
 	- verified
 	- anonymous
 	- speculation
