@@ -6,7 +6,7 @@
 current: target
 -include target.mk
 
-# include makestuff/perl.def
+-include makestuff/perl.def
 
 ## Team info, I think; 
 ## https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3248#howtoapply
@@ -15,7 +15,6 @@ current: target
 
 # Content
 
-Sources += auto.rmu ## Old-style ref machinery
 
 ## Sources += outbreak_timeline.md proposal.md README.md
 Sources += $(wildcard *.md)
@@ -44,6 +43,13 @@ questions.gh.html: questions.mkd
 ######################################################################
 
 ## Latex-ing 
+
+Drop = ~/Dropbox
+
+Sources += auto.rmu ## Old-style ref machinery
+Ignore += auto.bib
+auto.bib: auto.rmu
+auto.html: auto.rmu
 
 ## Sources += proposal.tex propHead.tex propParams.tex commands.tex
 Sources += proposal.bib content.tex
@@ -86,4 +92,5 @@ makestuff/Makefile:
 -include makestuff/visual.mk
 -include makestuff/hotcold.mk
 -include makestuff/cihrpaste.mk
+-include makestuff/autorefs.mk
 -include makestuff/projdir.mk
