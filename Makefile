@@ -44,7 +44,7 @@ questions.gh.html: questions.mkd
 ## Latex-ing 
 
 ## Sources += proposal.tex propHead.tex propParams.tex commands.tex
-## Sources += proposal.bib content.tex appendix.tex
+Sources += proposal.bib content.tex
 
 ## Proposal (prop merged back into proposal)
 cihr_proposal.pdf: cihr_proposal.tex appendix.tex content.tex
