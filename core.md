@@ -19,7 +19,11 @@ We will use Lexis-Nexis search engine to extract news.  OriProbe Information Ser
 Twitter data (countries and region covered?) will be collected by (python or AI or purchased? need some details on how to access tweets. ) 
 
 \begin{CJK*}{UTF8}{gbsn}
-GoogleTrends accumulate data of search frequency around the world by region and county and by time.  It reflects awareness-related burst of searches \cite{BousAgac17, MahrBrag19}.  We use it as an index to reflect the concern and interest the public expressed during the outbreak.  key words search for Google trend, and official public health websites (discussed below) include coronavirus, 19-nCov, COVID-19, influenza, 武疫 (Wu Virus)，武漢病毒 (Wuhan Virus)，武漢(Wuhan)，武漢肺炎 (Wuhan pneumonia)，肺炎 (pneumonia)，冠状病毒 (coronavirus), 新型冠状病毒 (novel coronavirus), 武漢新型冠状病毒 (Wuhan novel coronavirus).(CS:  someone fill in how we will collect and analyze the trends data)
+GoogleTrends accumulate data of search frequency around the world by region and county and by time.  It reflects awareness-related burst of searches \cite{BousAgac17, MahrBrag19}.  We use it as an index to reflect the concern and interest the public expressed during the outbreak.  
+
+(CS:  we can delete this part or move it to coding book) key words search for Google trend, and official public health websites (discussed below) include coronavirus, 19-nCov, COVID-19, influenza, 武疫 (Wu Virus)，武漢病毒 (Wuhan Virus)，武漢(Wuhan)，武漢肺炎 (Wuhan pneumonia)，肺炎 (pneumonia)，冠状病毒 (coronavirus), 新型冠状病毒 (novel coronavirus), 武漢新型冠状病毒 (Wuhan novel coronavirus).
+
+(CS:  someone fill in how we will collect and analyze the trends data)
 \end{CJK*}
 
 The epidemic findings from science community is part of the information the public, media and international community rely on. They play a powerful role during public health crises due to the time urgency with which they can disseminate new information, accurate or not. (ref: Early in the Epidemic: Impact of preprints on global discourse of 2019-nCoV transmissibility \url{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663}.  We can also check findings of preprint (speedy information delivery, lack of peer review) in terms of accuracy and how misinformation get circulated based on those findings. (see examples(\url{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663}))
@@ -31,8 +35,6 @@ In addition to the above data sources, we will summarize reports, guideline and 
 We will collect data relating to the outcome of the COVID-19 outbreaks:   travel, movies (\url{https://www.boxofficemojo.com/?ref_=bo_nb_di_mojologo}), restaurants in Taiwan, Singapore, H.K., Canada and USA; or should we focus on North America and on travel and movie box office (\url{https://www.boxofficemojo.com/?ref_=bo_nb_di_mojologo})?
 
 Daily case report data: Daily updates from the Provincal Health Commission of HuBei and outside of HuBei are avalible online. These updates contains information on up-to-date cumulative cases, new cases per day, number of confirm case hospitalized, severity categorizations and deaths.
-
-We will need to curate the data-stream. 
 
 Final stage of our data analysis,  we will plot google trends data, the daily infected cases and fatality and frequency and main themes of media coverage and tweets,  we expect to construct a proxy indicator for information dissemination and public reaction to the outbreak.  Furthermore, we hope to uncover the communication flow among the four forums.
 
