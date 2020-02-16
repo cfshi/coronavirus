@@ -59,6 +59,7 @@ Ignore += naveed.docx
 
 Sources += naveed.md
 # naveed.gh.html: naveed.md
+# core.gh.html: core.md
 
 ######################################################################
 
