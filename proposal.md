@@ -19,23 +19,6 @@ We intend to focus on the following proposed topic areas
 * How information about COVID-19 travels across the public, media, science community and policy makers and affects public behaviour
 	- It’s a bit long to show those 4 forums, but…
 
-# Research Questions:
-
-Our research questions were framed based on the object of developing potential social and policy countermeasures for COVID-19 outbreak (under the CIHR special call object).
-
-1. (RQ1) How does information (and misinformation) travel between scientists, public-health workers, mass media and social media? 
-	- How does media cover and disseminate information?
-	- How media content are consumed among the general public, science community and the national and international govern units?
-	- The aim of this question is to congregate contents to address the social and cultural dimensions of different population during the epidemic such as, examining how individuals and communities understand and react to the disease (Object 1)
-
-2.  (RQ2) How does communication affect public behaviour and the course of the outbreak?  This research question studies and compares the public health institutes response and guidelines and how policy affect public health behavior in reacting to the infection? (Object 2)
-	- (CS: by fitting data from google trends, news and twitter and public health authority)
-
-3.  (RQ3) How can scientists and policy-makers evaluate and improve the effectiveness of their communication? This research question aim to develop strategies to combat misinformation, stigma, and fear; and to improve public awareness and knowledge (Object 3)
-	(CS:  by comparing policy, public reaction and effectiveness (reported by public health authority and by media))
-
-We expect in constructing findings from the three questions will provides insights on proposing social and policy countermeasures.
-		
 # Data and Sources: 
 (ref theme analysis in the H1N1 paper, and PMID: 31956275)
 Data published from November, 2019 to present (or one or two month after the outbreak waned)
