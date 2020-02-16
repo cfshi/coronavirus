@@ -8,14 +8,6 @@
 ----------------------------------------------------------------------
 
 ## New material
-# Infectious Disease, Media and Culture
-This conceptual framework has provided the foundation for many hypotheses linking pathogen prevalence to specific kinds of cultural differences, including differences in social attitudes, personality traits (e.g., extraversion, openness to experience), value systems (e.g., individualism versus collectivism), and political ideologies. We summarize these hypotheses and review recent empirical evidence that tests (and supports) the hypotheses. Finally, we discuss additional research questions that are raised by these results, including important questions about the exact causal mechanisms through which the differential prevalence of infectious diseases might create cross-cultural differences. \citep{SchaMurr11}
-
-From a mysterious Wuhan virus to officially renamed COVID-19, the name changes confer negative connotation of disease associated with regions.  The social implication extends to how infectious disease	is perceived. 
-
-at a situation in which information was highly controlled and thus was not easily available from the mainstream media. As the socio-structural environment was not conducive to the free flow of information during a major public health crisis, audience members were not only actively engaged in information seeking from alternative resources such as short message services (SMS) and the internet, but they were also involved in creating alternative information channels by being information producers and disseminators. The internet was a particularly empowering tool to allow individuals to bypass official control and to challenge official claims during the crisis.\citep{TaiSun07}
-======================
-
 \head{Methods and feasibility}
 
 \subhead{Data and Sources}
@@ -73,5 +65,3 @@ Contextual analysis will be studied by the researchers.  Media content and infor
 \subsubhead{Mathematical modeling}
 
 Modelling: (Can we do this?: incorporating media coverage, public and institutional reaction and report (which can be based on modelling results by scientific community and WHO etc), time travelling and spread network (geographical)
-
-
