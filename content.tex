@@ -68,17 +68,19 @@ While news media (due to its online virtue) still carry their influence, social 
 
 \subhead{Data and Sources}
 
-# Data and Sources: 
-
 Data of media dated from November 2019 (before when it was officially acknowledged to ensure no news about this was overlooked) till June 2020, when the outbreak is expected to temper down, will be collected.  
 
-Newspaper with top circulation and at least two formats (print and online) with online database will be collected from Singapore, Taiwan, Hong Kong, China, Canada and USA and England. The first four will be mainly in Chinese and the latter three in English.  Our plan to study newspaper in England because it carries readers in Euruope where is also affected by the outbreak.  Singapore, Taiwan and H.K. are chosen because of its cultural and social ties with China and the virus impacts they confronted.  With exception under the criteria, we plan to gather also Sing Tao Daily(https://www.singtao.ca/toronto/?variant=zh-hk), the most circulated Chinese news paper in Canada; and World Journal(https://www.worldjournal.com/) in the United States in attempt to assess cultural and social dimension in the news content among Chinese immigration population in North America.  We will use Lexis-Nexis search engine to extract news.  OriProbe Information Services( https://www.oriprobe.com/peoplesdaily.shtml ) provides access to the archive of People’s Daily of China.  Key words used for searching is attached (Becky’s figure) 
+\mlicomment{Not important right now, but I think it is useful to do a annual comparison of interest google trend data. See fig 2 in Li et al. RDC paper.}
+
+Newspaper with top circulation and at least two formats (print and online) with online database will be collected from Singapore, Taiwan, Hong Kong, China, Canada and USA and England. The first four will be mainly in Chinese and the latter three in English.  Our plan to study newspaper in England because it carries readers in Euruope where is also affected by the outbreak.  Singapore, Taiwan and H.K. are chosen because of its cultural and social ties with China and the virus impacts they confronted.  With exception under the criteria, we plan to gather also Sing Tao Daily \url{https://www.singtao.ca/toronto/?variant=zh-hk}, the most circulated Chinese news paper in Canada; and World Journal \url{https://www.worldjournal.com/} in the United States in attempt to assess cultural and social dimension in the news content among Chinese immigration population in North America.  We will use Lexis-Nexis search engine to extract news.  OriProbe Information Services \url{https://www.oriprobe.com/peoplesdaily.shtml} provides access to the archive of People’s Daily of China.  Key words used for searching is attached (Becky’s figure) 
 
 Twitter data (countries and region covered?) will be collected by (python or AI or purchased? need some details on how to access tweets. ) We will apply AI techniques to Twitter stream data based on the coding book to analyze tweets and parse out themes and to apply algorithm to identify false information through topic modelling.  We will also track evolution of information content and varsity over time and across geographic areas.
 	
+\begin{CJK*}{UTF8}{gbsn}
 GoogleTrends accumulate data of search frequency around the world by region and county and by time.  It reflects awareness-related burst of searches \cite{BousAgac17, MahrBrag19}.  We use it as an index to reflect the concern and interest the public expressed during the outbreak.  key words search for Google trend, and official public health websites (discussed below) include coronavirus, 19-nCov, COVID-19, influenza, 武疫 (Wu Virus)，武漢病毒 (Wuhan Virus)，武漢(Wuhan)，武漢肺炎 (Wuhan pneumonia)，肺炎 (pneumonia)，冠状病毒 (coronavirus), 新型冠状病毒 (novel coronavirus), 武漢新型冠状病毒 (Wuhan novel coronavirus).(CS:  someone fill in how we will collect and analyze the trends data)
+\end{CJK*}
 
-The epidemic findings from science community is part of the information the public, media and international community rely on. They play a powerful role during public health crises due to the time urgency with which they can disseminate new information, accurate or not. (ref: [Early in the Epidemic: Impact of preprints on global discourse of 2019-nCoV transmissibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663)).  We can also check findings of preprint (speedy information delivery, lack of peer review) in terms of accuracy and how misinformation get circulated based on those findings. (see [examples](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663))
+The epidemic findings from science community is part of the information the public, media and international community rely on. They play a powerful role during public health crises due to the time urgency with which they can disseminate new information, accurate or not. (ref: Early in the Epidemic: Impact of preprints on global discourse of 2019-nCoV transmissibility \url{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663}.  We can also check findings of preprint (speedy information delivery, lack of peer review) in terms of accuracy and how misinformation get circulated based on those findings. (see examples \url{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663})
 
 Science publications of COVID-19 (peer-reviewed and preprint) will be extracted by searching Google Scholar, arXiv, bioRxiv, medRxiv, and SSRN, , PubMed, Embase, Medline, and OVID).  We will construct themes of the studies and results.  Our team will evaluate the impact of the publications and compare to whether it is cited and twitte/re-twitte by the other forums.  
 
@@ -86,110 +88,10 @@ Science publications of COVID-19 (peer-reviewed and preprint) will be extracted 
  
 Textual analysis using AI is reliable and efficient in terms of data mining.  However, it can be insufficient in understanding what contents connote.  For example, meanings of shortage of face masks in Toronto is likely different from the shortage in Hong Kong heavily impacted with COVID-19 by cased infected.  Without referring to circumstance, we will miss what the results signify and its impact on the public.  To amend this issue, we will conduct contextual analysis \citep{} to elaborate the results of textual analysis of tweets and news and uncover its social and cultural perspectives of the text meanings.
 
-At the final stage of our data analysis,  we will plot google trends data, the daily infected cases and fatality and frequency and main themes of media coverage and tweets,  we expect to construct a proxy indicator for information dissemination and public reaction to the outbreak.  Furthermore, we hope to uncover the communication flow among the four forums.
+Daily case report data: Daily updates from the Provincal Health Commission of HuBei and outside of HuBei are avalible online. These updates contains information on up-to-date cumulative cases, new cases per day, number of confirm case hospitalized, severity categorizations and deaths.
 
 
-\mlicomment{MLi's stuff}
-
-\subsubhead{HuBei Province}
-Daily updates from the Provincal Health Commission of HuBei are avalible online.
-These updates contains information on up-to-date cumulative cases, new cases per day, number of confirm case hospitalized, severity categorizations and deaths for all cities in HuBei province.
-
-\subsubhead{Surveillance}
-Daily updates from outside of HuBei are avalible online.
-These updates contains information on up-to-date cumulative cases, new cases per day, number of confirm case, severity categorizations and deaths for different locations.
-
-\mlicomment{CFS's stuff}
-
-(ref theme analysis in the H1N1 paper, and PMID: 31956275) Data published from November, 2019 to present (or one or two month after the outbreak waned)
-
-\subsubhead{Media}
-Newspaper will be collected from country of Singapore, Taiwan, Hong Kong, Japan (?), Canada and USA (and England?) based on the top circulation (either in English or Chinese)
-\begin{itemize}
-\item{USA: Associated Press (AP) newswire; U.S. English-language newspapers of top high-circulation; most viewed youtube (and broadcast news transcripts from top networks?).  Lexis-Nexis will be used to collect texts from the first three sources, and the MIT MediaCloud database to collect texts from websites. Texts were collected from both sources using broad search terms citep{LiuSieg19} ; and [World Journal](https://www.worldjournal.com/)}
-\item{Canada: (similar to USA), and [Sing Tao Daily](https://www.singtao.ca/toronto/?variant=zh-hk)}
-\item{Taiwan: the top x newspapers. https://www.ncl.edu.tw/}
-\item{Hong Kong: [Epoch Times](https://www.epochtimes.com/gb/news415.htm)}
-\item{China:  [The People’s Daily English](http://en.people.cn/), [The People’s Daily English](http://www.people.com.cn/), [China Daily](http://global.chinadaily.com.cn/)}
-\item{Singapore ??}
-\item{Japan: [Japanese Times](https://www.japantimes.co.jp/)}
-\item{Twitter: (CS:  How does it work internationally outside Canada and USA?).  It will be great if we can have social media (instgram or FB in Taiwan, Singapore etc)}
-\item{Main newspapers in China and their official health bureau websites are included for analysis but not social media.   Social media such as twitter and Facebook are barred in China. Yet, there are information and coverage about the outbreak inside China in the media we analyze either from direct interview or re-twittes. }
-\end{itemize}
-
-\cscomment{twitter methods \citep{ChewEyes10, LiuSieg19, YoutDara19}}
-
-\subsubhead{Google Trend data}
-\begin{itemize}
-\item{Google Trends provides search around the world by region and county.  Research showed that Google Trend can be influenced by the media attraction than by true epidemiological burden \citep{}, yet more evidences suggested that it reflects awareness-related burst of searches citep{BousAgac17, MahrBrag19}}
-\item{By analyzing google trends data, the daily infected cases and fatality and frequency of media coverage,  we use Google Search Trends and media coverage as a proxy indicator for information dissemination and public reaction  
-%(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663).
-}
-\item{e.g. 
-%https://trends.google.com/trends/explore?date=today%201-m&geo=SG&q=%2Fm%2F01cpyy,wuhan%20virus,19-nCov,sars,flu ,([export google trend data]( https://support.google.com/trends/answer/4365538?hl=en)
-}
-\item{Google Trend data can be very confusing, for [example]
-%(https://trends.google.com/trends/explore?date=today%201-m&geo=TW&gprop=images&q=coronavirus,sars,%2Fm%2F0l3cy,wuhan%20virus,%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E)): 
-Why would Wuhan topped coronavirus and ``(WuHan pneumonia)'' in Taiwan?
-}
-\end{itemize}
-
-\subsubhead{Science community report of the virus transmission}
-\begin{itemize}
-\item{Science publication: preprint (by searching Google Scholar, arXiv, bioRxiv, medRxiv, and SSRN) and peer-reviewed (by search Google Schoolar, PubMed, Embase, Medline, and OVID)}
-\item{The epidemic findings from science community is part of the information the public, media and international community rely on. They play a powerful role during public health crises due to the time urgency with which they can disseminate new information, accurate or not. (ref: [Early in the Epidemic: Impact of preprints on global discourse of 2019-nCoV transmissibility]
-%(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663)).  
-We can also check findings of preprint (speedy information delivery, lack of peer review) in terms of accuracy and how misinformation get circulated based on those findings. (see [examples]
-%(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663))
-}
-\item{(CS’s confusion: Is context same as noise in modelling (e.g., Park and Dushoff 2020):  dynamical or process; noise(randomness directly or indirectly affecting disease transmission); observation noise(randomness underlying how many true cases reported).  Based on their definition, how do context or media, public reaction and pubic policy-guideline fit into models?  Is it a right question?)
-}
-\item{(CS: It will be good to incorporate modelling ideas in this project but WHAT?  Also, how workable is it to compare this coronavirus to 2012 MERS and 2002 SARS in terms of the spread and reaction context ?)
-}
-\end{itemize}
-
-\subsubhead{Official websites to analyze social and policy countermeasures}
-How does the national and international community react to the disease outbreak and with what guidelines (analyzing official websites, such as WHO, CDC, Chinese Center for Disease Control and Prevention, etc)
-
-\subsubhead{Official health websites}
-\begin{itemize}
-\item{WHO, [US CDC]
-%(https://www.cdc.gov/coronavirus/index.html)
-}
-\item{[National Health Commission of PRC
-%(http://en.nhc.gov.cn/index.html)
-}
-\item{Canada PHAC
-%(https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
-}
-\item{Taiwan CDC
-%(https://www.cdc.gov.tw/En)
-}
-\item{Singapore CDC
-%(https://www.ncid.sg/Pages/default.aspx)
-}
-\item{[Hong Kong CDC]}
-\end{itemize}
-We will include the disease control and prevention centre in Japan later if ??.
-
-We will add sources (e.g., Central China Normal Univeristy, Wuhan University
-%(https://www.whu.edu.cn/xxfy/) 
-etc for our contextual analysis.
-
-
-We will need to curate the data-stream.
-
-\subhead{Data mining}
-
-textual analysis of news media and Twitter are implemented by AI based on coding book which will be based on a pilot study. 
-The findings of textual analysis Human Coders and AI (?):
-\begin{itemize}
-\item{(fill in what it is about )}
-\item{( fill in sentences on AI part)}
-\item{(fill in sentences on coders)}
-\item{The textual analysis will be conducted based on a coding book we will draft when the funding is approved. The coding book should list themes and frames for analyzing the texts, which will be categorized based on a pilot study as part of drawing the coding book. The basic structure of the themes will outline what (e.g. ), in addition to information types (e.g., news, information and misinformation/fake news based on sources: verified, anonymous, speculation), who (e.g. active vs. passive subject), where (e.g., country, region and city), and theme tone (e.g., negative, positive, neutral). (see attached Basic Coding frame for what themes are like)
-}
-\end{itemize}
+We will need to curate the data-stream and at the final stage of our data analysis,  we will plot google trends data, the daily infected cases and fatality and frequency and main themes of media coverage and tweets,  we expect to construct a proxy indicator for information dissemination and public reaction to the outbreak.  Furthermore, we hope to uncover the communication flow among the four forums.
 
 \subhead{Analysis}
 
