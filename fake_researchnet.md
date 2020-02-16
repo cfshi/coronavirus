@@ -2,38 +2,10 @@
 
 ## Identify Participants
 
-Michael Li  
-ROLE: Co-Applicant
-PIN: 69041
-CCV: 1115085
-Telephone Number: 1 647 638 5464
 Institution: CEBA	McMaster University
 Faculty: 143	Faculty of Science?
 Department: 90 Biology ?
 
-Chyun Shi 
-ROLE: Co-Applicant
-PIN: 64800 
-CCV: 
-Telephone Number:
-Institution: CEBA	McMaster University
-Faculty: 143   Faculty of Science?
-Department: 90 Biology ?
-
-Jung Hui Yeh
-ROLE: Co-Applicant
-First name: Jung Hui
-Last name: Yeh
-PIN: 77943
-Telephone Number:
-Institution:
-
-Chng Nai Rei
-ROLE: Collaborator
-First name: Nai Rui
-Last name: Chng
-PIN: 
-Telephone Number:
 Institution: AAAX	University of Glasgow (Scotland)?
 
 ## Proposal Information
@@ -78,20 +50,25 @@ Themes: Social/Cultural/Environmental/Population Health
 
 Suggested Institutes: Population and Public Health 
 
+### Attachments
+
+5 page proposal pdf
+
+Note: We actually included the reference list with the 5 page proposal for the rabies grant.
+
+
+
+
 ## Complete Summary of Research Proposal
 
 TODO
 
 ## Enter Budget Information
 
-DE NPI 6 hours/week
-JD PI 5 hours/week
-MLi CoA 5 hours/week
-BMB CoA 5 hours/week
-Yeh CoA 5 hours/week
-Nai Collab 3 hours/week
-Naveed KU 3 hours/week
-CFS CoA 40 hours/week
+5 hours/week for NPI, PI, CoA
+3 hours/week for Collab, KU
+
+40 hours/week for CFS and BC postdoc
 
 
 
