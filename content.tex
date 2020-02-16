@@ -89,9 +89,11 @@ Thus, it is important to figure out the specific locations and settings cases an
 
 \head{Methods and feasibility}
 
-\subhead{Data and pipelines}
+\subhead{Data and Sources}
 
 We have access to ongoing data streams of differing levels of detail. 
+
+\mlicomment{MLi's stuff}
 
 \subsubhead{HuBei Province}
 Daily updates from the Provincal Health Commission of HuBei are avalible online.
@@ -101,14 +103,81 @@ These updates contains information on up-to-date cumulative cases, new cases per
 Daily updates from outside of HuBei are avalible online.
 These updates contains information on up-to-date cumulative cases, new cases per day, number of confirm case, severity categorizations and deaths for different locations.
 
+\mlicomment{CFS's stuff}
+
+(ref theme analysis in the H1N1 paper, and PMID: 31956275) Data published from November, 2019 to present (or one or two month after the outbreak waned)
+
+\subsubhead{Media}
+Newspaper will be collected from country of Singapore, Taiwan, Hong Kong, Japan (?), Canada and USA (and England?) based on the top circulation (either in English or Chinese)
+\begin{itemize}
+\item{USA: Associated Press (AP) newswire; U.S. English-language newspapers of top high-circulation; most viewed youtube (and broadcast news transcripts from top networks?).  Lexis-Nexis will be used to collect texts from the first three sources, and the MIT MediaCloud database to collect texts from websites. Texts were collected from both sources using broad search terms citep{LiuSieg19} ; and [World Journal](https://www.worldjournal.com/)}
+\item{Canada: (similar to USA), and [Sing Tao Daily](https://www.singtao.ca/toronto/?variant=zh-hk)}
+\item{Taiwan: the top x newspapers. https://www.ncl.edu.tw/}
+\item{Hong Kong: [Epoch Times](https://www.epochtimes.com/gb/news415.htm)}
+\item{China:  [The People’s Daily English](http://en.people.cn/), [The People’s Daily English](http://www.people.com.cn/), [China Daily](http://global.chinadaily.com.cn/)}
+\item{Singapore ??}
+\item{Japan: [Japanese Times](https://www.japantimes.co.jp/)}
+\item{Twitter: (CS:  How does it work internationally outside Canada and USA?).  It will be great if we can have social media (instgram or FB in Taiwan, Singapore etc)}
+\item{Main newspapers in China and their official health bureau websites are included for analysis but not social media.   Social media such as twitter and Facebook are barred in China. Yet, there are information and coverage about the outbreak inside China in the media we analyze either from direct interview or re-twittes. }
+\end{itemize}
+
 \subsubhead{Google Trend data}
-By analyzing google trends data, the daily infected cases and fatality and frequency of media coverage, we use Google Search Trends and media coverage as a proxy indicator for information
+\begin{itemize}
+\item{Google Trends provides search around the world by region and county.  Research showed that Google Trend can be influenced by the media attraction than by true epidemiological burden \citep{}, yet more evidences suggested that it reflects awareness-related burst of searches citep{BousAgac17, MahrBrag19}}
+\item{By analyzing google trends data, the daily infected cases and fatality and frequency of media coverage,  we use Google Search Trends and media coverage as a proxy indicator for information dissemination and public reaction  
+%(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663).
+}
+\item{e.g. 
+%https://trends.google.com/trends/explore?date=today%201-m&geo=SG&q=%2Fm%2F01cpyy,wuhan%20virus,19-nCov,sars,flu ,([export google trend data]( https://support.google.com/trends/answer/4365538?hl=en)
+}
+\item{Google Trend data can be very confusing, for [example]
+%(https://trends.google.com/trends/explore?date=today%201-m&geo=TW&gprop=images&q=coronavirus,sars,%2Fm%2F0l3cy,wuhan%20virus,%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E)): 
+Why would Wuhan topped coronavirus and 武漢肺炎 in Taiwan?
+}
+\end{itemize}
 
 \subsubhead{Science community report R0 of the virus transmission}
-The epidemic findings is part of the information the public, media and international community rely on. They play a powerful role during public health crises due to the time urgency with which they can disseminate new information, accurate or not. (ref: Early in the Epidemic: Impact of preprints on global discourse of 2019-nCoV transmissibility). We can also check findings of preprint (speedy information delivery, lack of peer review) in terms of accuracy and how misinformation get circulated based on those findings. (see examples)
+\begin{itemize}
+\item{Science publication: preprint (by searching Google Scholar, arXiv, bioRxiv, medRxiv, and SSRN) and peer-reviewed (by search Google Schoolar, PubMed, Embase, Medline, and OVID)}
+\item{The epidemic findings from science community is part of the information the public, media and international community rely on. They play a powerful role during public health crises due to the time urgency with which they can disseminate new information, accurate or not. (ref: [Early in the Epidemic: Impact of preprints on global discourse of 2019-nCoV transmissibility]
+%(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663)).  
+We can also check findings of preprint (speedy information delivery, lack of peer review) in terms of accuracy and how misinformation get circulated based on those findings. (see [examples]
+%(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663))
+}
+\item{(CS’s confusion: Is context same as noise in modelling (e.g., Park and Dushoff 2020):  dynamical or process; noise(randomness directly or indirectly affecting disease transmission); observation noise(randomness underlying how many true cases reported).  Based on their definition, how do context or media, public reaction and pubic policy-guideline fit into models?  Is it a right question?)
+}
+\item{(CS: It will be good to incorporate modelling ideas in this project but WHAT?  Also, how workable is it to compare this coronavirus to 2012 MERS and 2002 SARS in terms of the spread and reaction context ?)
+}
+\end{itemize}
 
 \subsubhead{Official websites to analyze social and policy countermeasures}
 How does the national and international community react to the disease outbreak and with what guidelines (analyzing official websites, such as WHO, CDC, Chinese Center for Disease Control and Prevention, etc)
+
+\subsubhead{Official health websites}
+\begin{itemize}
+\item{WHO, [US CDC]
+%(https://www.cdc.gov/coronavirus/index.html)
+}
+\item{[National Health Commission of PRC
+%(http://en.nhc.gov.cn/index.html)
+}
+\item{Canada PHAC
+%(https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
+}
+\item{Taiwan CDC
+%(https://www.cdc.gov.tw/En)
+}
+\item{Singapore CDC
+%(https://www.ncid.sg/Pages/default.aspx)
+}
+\item{[Hong Kong CDC]}
+\end{itemize}
+We will include the disease control and prevention centre in Japan later if ??.
+
+We will add sources (e.g., Central China Normal Univeristy, Wuhan University
+%(https://www.whu.edu.cn/xxfy/) 
+etc for our contextual analysis.
+
 
 We will need to curate the data-stream.
 
