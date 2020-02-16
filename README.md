@@ -1,4 +1,4 @@
-# CIHR proposal for planning and dissemination:
+# CIHR proposal for planning and dissemination: 20:00 EST 2/18!
 
 https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3209&printfriendly=true#partnerdescription
 
