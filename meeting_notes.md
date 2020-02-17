@@ -46,11 +46,7 @@ Journal of Communication, Volume 64, Issue 2, April 2014, Pages 355–360, https
 # Regouped citation:
 
 
-
-
-
-=======
--  Health Policy
+Health Policy
 	
 	- PMID: 15550198 (BellWho04)* WHO and SARS and Policy***
 	
@@ -98,11 +94,6 @@ American Psychologist, 56(6-7), 477–489. https://doi.org/10.1037/0003-066X.56.
 	- https://www.tandfonline.com/doi/abs/10.1080/01292980500261639 (ZhanFlem06) media and SARS
 
 
-	
-
-
-
-
 - Social media:
 	
 	- https://www.tandfonline.com/doi/abs/10.1080/10410230701283322 (BerrWalf07) social media
@@ -138,7 +129,6 @@ Bushman, B. J., & Anderson, C. A. (2001).
 		
 		- Big Data in Communication Research: Its Contents and Discontents, Malcolm R. Parks
 Journal of Communication, Volume 64, Issue 2, April 2014, Pages 355–360, https://doi.org/10.1111/jcom.12090
-
 
 - qualitative anaysis
 	

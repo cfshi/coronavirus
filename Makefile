@@ -46,8 +46,9 @@ Drop = ~/Dropbox
 
 Sources += auto.rmu ## Old-style ref machinery
 Ignore += auto.bib
-auto.bib: auto.rmu
+
 auto.html: auto.rmu
+auto.bib: auto.rmu
 
 ## diff content.tex.c598f17f4ef0.oldfile content.tex > diff.oldfile
 
@@ -94,4 +95,5 @@ makestuff/Makefile:
 -include makestuff/hotcold.mk
 -include makestuff/cihrpaste.mk
 -include makestuff/autorefs.mk
+-include makestuff/pandoc.mk
 -include makestuff/projdir.mk
