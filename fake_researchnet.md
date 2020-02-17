@@ -24,7 +24,7 @@ Analysis to improve outbreak communication
 
 - Lay Abstract (2000 characters)
 
-TODO: trim down version of complete summary?
+TODO: trim down version of summary?
 
 ### Details
 Institution: CEBA McMaster University
@@ -68,13 +68,13 @@ Note: We actually included the reference list with the 10 page proposal for the 
 
 
 
-## Complete Summary of Research Proposal
+## Summary of Research Proposal
 
 TODO:
 
 Summarize your research proposal (maximum 1 page). Note that your summary must also address how the research proposed is aligned with the objectives of this call and one of the research areas.
 
-See complete_summary.md
+See summary.md
 
 
 ## Enter Budget Information
