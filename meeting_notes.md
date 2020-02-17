@@ -25,11 +25,16 @@ the differential prevalence of infectious diseases might create cross-cultural d
 -  cite for using Weibo: The internet was a particularly empowering tool to allow individuals to bypass official control and to challenge official claims during the crisis in China.\citep{TaiSun07} (for Weibo)
 
 - Developing frame coding:
+
 	- framing and contextual
- 	- news frame and health
-  	- https://www.tandfonline.com/doi/abs/10.1080/10410230701283322
- 	 - https://journals.sagepub.com/doi/full/10.1177/1077699014558553?casa_token=kJYtlqzvh7UAAAAA%3Aunh38eVlAiyuSwhNLp5-G8TVME784OQtUDrfiQ1ALrJ_4otxUf3p8aJ8b79nzSpYdAY6tMTfG8f- (ZhanYan14)
- 	 - PMID: 16204405 (ShieShan05)* content analysis methods***
+
+	- news frame and health
+  	
+	- https://www.tandfonline.com/doi/abs/10.1080/10410230701283322
+ 
+ 	- https://journals.sagepub.com/doi/full/10.1177/1077699014558553?casa_token=kJYtlqzvh7UAAAAA%3Aunh38eVlAiyuSwhNLp5-G8TVME784OQtUDrfiQ1ALrJ_4otxUf3p8aJ8b79nzSpYdAY6tMTfG8f- (ZhanYan14)
+ 	 
+	 - PMID: 16204405 (ShieShan05)* content analysis methods***
 
 - text mining and social media https://study.sagepub.com/node/25861/student-resources/text-mining-and-social-media-when-quantitative-meets-qualitative-and
 
@@ -39,72 +44,124 @@ Big Data in Communication Research: Its Contents and Discontents, Malcolm R. Par
 Journal of Communication, Volume 64, Issue 2, April 2014, Pages 355–360, https://doi.org/10.1111/jcom.12090
 
 # Regouped citation:
-https://www.tandfonline.com/doi/abs/10.1080/10410230701283322 (BerrWalf07) social media
-Bushman, B. J., & Anderson, C. A. (2001). 
-Media violence and the American public: Scientific facts versus media misinformation. 
-American Psychologist, 56(6-7), 477–489. https://doi.org/10.1037/0003-066X.56.6-7.477 (BushAnde01)* media and misinformation
-Big Data in Communication Research: Its Contents and Discontents, Malcolm R. Parks
-Journal of Communication, Volume 64, Issue 2, April 2014, Pages 355–360, https://doi.org/10.1111/jcom.12090
-https://psycnet.apa.org/record/2010-25777-003 (SchaMurr11) culture and infectiois disease
-https://journals.sagepub.com/doi/abs/10.1177/1461444807082691 (TaiSun07) media
-https://www.tandfonline.com/doi/abs/10.1080/01292980500261639 (ZhanFlem06) media and SARS
-https://journals.sagepub.com/doi/full/10.1177/1077699014558553?casa_token=kJYtlqzvh7UAAAAA%3Aunh38eVlAiyuSwhNLp5-G8TVME784OQtUDrfiQ1ALrJ_4otxUf3p8aJ8b79nzSpYdAY6tMTfG8f- (ZhanYan14)
 
-https://doi.org/10.1080/01292980500261621 (HuanLeun06)
 
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663 (MajuMandPRE)
+
+
+
 =======
 -  Health Policy
+	
 	- PMID: 15550198 (BellWho04)* WHO and SARS and Policy***
+	
 	- PMID: 29703556 (OhlrSugg18)*** Vaccinationa and what and how does government communication
+	
 	- PMID: 19551226 (RimaLapi09)* health communication and public health for our communicaiton flow and strategy and evaluation
+	
 	- PMID: 26057647 (SediPars15) knoweldge translation, evidence based
 
+- media misinformation
+	
+	-  Media violence and the American public: Scientific facts versus media misinformation. 
+American Psychologist, 56(6-7), 477–489. https://doi.org/10.1037/0003-066X.56.6-7.477 (BushAnde01)* media and misinformation
+
+- media and culture
+
+	- https://psycnet.apa.org/record/2010-25777-003 (SchaMurr11) culture and infectiois disease
 
 - Influenza (public health) and Media:
+	
 	- PMID: 17461750 (BerrWalf07) Sars and media
+	
 	- PMID: 17461750 (BerrWalf07) Sars and media
+	
 	- PMID: 30428002 (ChouOa18)* social media and misinformation
+	
 	- PMID: 28813689 (ChoiLee17) media, mers 
+	
 	- PMID: 30716139 (KimFast19)* Incorporating media data into a model of infectious disease transmission
+	
 	- PMID: 30540847 (LiWang18) Closure of live bird markets leads to the spread of H7N9 influenza in China
+	
 	- PMID: 29261430 (LudoSchu18)* media, H.K. mers
+	
 	- PMID: 30901605 (NiakGhaz19) Studying the influence of mass media and environmental factors on influenza virus transmission in the US Midwest.
+	
 	- PMID: 31986257 (WongHorb20)* comparison of coronavirus (2019-nCoV 19 vs.	MERS-CoV 12 vs. SARS-CoV 02)
+	
 	- PMID: 15814187 (WallNerl05) sars media
+	
 	- PMID: 30897141 (ZhouXiao19)*  Optimal media reporting intensity on mitigating spread of an emerging infectious disease.
+	
+	- https://journals.sagepub.com/doi/abs/10.1177/1461444807082691 (TaiSun07) media
+	
+	- https://www.tandfonline.com/doi/abs/10.1080/01292980500261639 (ZhanFlem06) media and SARS
+
+
 	
 
 
 
 
 - Social media:
+	
+	- https://www.tandfonline.com/doi/abs/10.1080/10410230701283322 (BerrWalf07) social media
+Bushman, B. J., & Anderson, C. A. (2001). 
+	
 	- PMID: 30663232 (AhmeBath19)* Novel insights into views towards H1N1 during the 2009 Pandemic: a thematic analysis of Twitter data
+	
 	- PMID: 21124761 (ChewEyes10)* twitter, disease
+	
 	- PMID: 30389192 (AhmeQuin18) social media
+	
 	- PMID: 31974552 (SunYang20) wechat
+	
 	- PMID: 29628293 (TangBie18)* Social media and outbreaks of emerging infectious diseases: A systematic review of literature
+	
 	- PMID: 29269339 (WagnLamp17) twitter
+	
 	- PMID: 31796768 (YoutDara19)twitter
 
 - method:
+	
 	- big data
+	
 		- PMID: 31596242 (AlbNiko19)  How to apply and retrieve tweets
+		
 		- PMID: 27595921 (ShinSeo16)* Google and twitter
+		
 		- PMID: 28051336 (SongSong17)* data mining, media, mers
+		
+		- Big Data in Communication Research: Its Contents and Discontents, Malcolm R. Parks
+		
+		- text mining and social media https://study.sagepub.com/node/25861/student-resources/text-mining-and-social-media-when-quantitative-meets-qualitative-and
+		
+		- Big Data in Communication Research: Its Contents and Discontents, Malcolm R. Parks
+Journal of Communication, Volume 64, Issue 2, April 2014, Pages 355–360, https://doi.org/10.1111/jcom.12090
+
 
 - qualitative anaysis
+	
 	- PMID: 16204405 (ShieShan05)* content analysis methods***
+	
 	- PMID: 31956275 (LiuSieg19)* methodology
 
 - Google trend:
+	
 	- PMID: 28140507 (BousAgac17)* google trend
+	
 	- PMID: 30060525 (ChaeKwon18)* data mining
+	
 	- PMID: 31154985 (HusnFuad19) google trend and dengue
+	
 	- PMID: 29638172 (MahrBrag19) Google trend and HIV
+	
 	- PMID: 30401664 (MavrOcho18)* Google trend search
+	
 	- PMID: 29698213 (SeidSchu18)* google trend
+	
 	- PMID: 31993351 (ZaffLipp19) google trend
+	
 	- PMID: 30443418 (VermKish18) google trend and disease outbreak
 
 - Media in China
@@ -113,15 +170,30 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663 (MajuMandPRE)
 - To be grouped:
 
 PMID: 32031976 (BascHill20)
+
 PMID: 28756828 (CereCome17)
+
 PMID: 31794551 (HerrMeye19)
+
 PMID: 32004427 (Holshue, HolsDeBo20)
+
 PMID: 31738440 (McKevanS19)
+
 PMID: 24290841 (MillWill14) internet
+
 PMID: 32007627 (Phan20) from discovery to diaganosis
+
 PMID: 21798074 (SureThej11) vaccine media
+
 PMID: 21356134 (TchuDube11)
+
 PMID: 30401620 (WilcBott18)
+
+https://journals.sagepub.com/doi/full/10.1177/1077699014558553?casa_token=kJYtlqzvh7UAAAAA%3Aunh38eVlAiyuSwhNLp5-G8TVME784OQtUDrfiQ1ALrJ_4otxUf3p8aJ8b79nzSpYdAY6tMTfG8f- (ZhanYan14)
+
+https://doi.org/10.1080/01292980500261621 (HuanLeun06)
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663 (MajuMandPRE)
 
 
 
