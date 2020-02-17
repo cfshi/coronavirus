@@ -1,12 +1,12 @@
 
-\proptitle{\fulltitle}
+## Called from cihr_proposal.tex
 
 \head{Project overview}
 
 During disease outbreaks of international concern, like SARS, pH1N1, WAEO \jd{fill in better names with dates} or the current COVID-19 outbreak, this process is both compressed and amplified. The stakes also become higher, because public behaviour directly affects the spread of infectious disease: people who avoid large gatherings may slow disease spread, while people who flee infected areas may accelerate it, for example. Excessive fear of disease spread can have severe economic effects, and may also lead to bias and discrimination against groups seen as linked to the disease, or merely seen as others.
 
 The proposed research will study how information flows between forums, including scientific publications; governmental policies and agency recommendations; and mass and social media -- and investigate how it affects public perceptions and behaviours. 
-Our inter-disciplinary group will analyze these flows by combining textual and contextual analysis; AI-assisted human-supervised data mining; time-series analysis; and mathematical modeling. We will study how good information competes with misinformation, and look for factors correlated with successful spread of good information. 
+Our inter-disciplinary group will analyze these flows by combining textual and contextual analysis; AI-assisted human-supervised data mining; time-series analysis; and dynamical modeling. We will study how good information competes with misinformation, and look for factors correlated with successful spread of good information. 
 We will gather information on communication and surrogates for behaviour from a wide range of sources. 
 Sources about communication will include agency websites; preprint servers and publicly available scientific journals; major newspaper websites; social-media platforms; and twitter data.
 Surrogates for public perceptions and behaviour will include twitter data (again); google trends; publicly available box-office information for movies and major sporting leagues; and information about cancellations and shortages (for example of face masks or pharmaceutical or pseudo-pharmaceutical products) from our textual analysis. 
@@ -39,13 +39,11 @@ While traditional news media (including online presence) remains influential,  s
 
 \head{Methods and feasibility}
 
-\subhead{Data and Sources}
+\subhead{Data}
 
 \paragraph{Science} We will develop systematic search and screening strategies to extract relevant peer-reviewed publications from Google Scholar and PubMed. To account for the strong influence of preprints early in the epidemic \cite{MajuMandPRE}, we will will also include preliminary scientific findings posted on medRxiv through 31 March 20. We will index these papers and track their appearances in mass media and social media; we will also track which of the preprints are published after peer review.
 
-\paragraph{Public health recommendations}
-
-We will collect and analyze reports, guidelines and recommendations available from the World Health Organization and from the central disease control agency of each of our focal countries. It is worth noting that all of these agencies have launched special COVID-19 pages.
+\paragraph{Public health recommendations} We will collect and analyze reports, guidelines and recommendations available from the World Health Organization and from the central disease control agency of each of our focal countries. It is worth noting that all of these agencies have launched special COVID-19 pages.
 
 \paragraph{Mass media}
 
@@ -55,36 +53,35 @@ Canada, China, England, Singapore, Taiwan, and USA.
 We will include the top Mandarin-language newspapers in both Canada and the USA.
 
 \paragraph{Social media} 
-We will efficiently collect data from twitter by purchasing API access. Twitter analyses will start in November 2020, to give a baseline for comparison.  \jd{Xingpeng: Need words on how to collect Weibo. Should we pay for access there?}
+We will efficiently collect data from Twitter and Weibo by purchasing API access, using data going back to November 2020 -- before the epidemic started -- to give a baseline for comparison. 
 
 \paragraph{Public response}
 Twitter (and Weibo) data will give us information not only on information flows,but also on public interest and attitudes. We will also probe public interest and concern using publicly available data from GoogleTrends, which tabulates frequency of searches (by search times and topics) in various regions across the world \cite{BousAgac17, MahrBrag19}.
 Economic data relating to the outcome of the COVID-19 outbreaks will be gathered as reference for contextual analysis (see below): for example, travel, movies box offices, cancellation of public events.
 
-%% \mlicomment{Not important right now, but I think it is useful to do a annual comparison of interest google trend data. See fig 2 in Li et al. RDC paper.}
+\subhead{Analysis}
 
-\subhead{Analysis of Data}
+\subsubhead{Textual analysis}
 
-\subsubhead{Data Mining}
+We will use both human coders and AI approaches for textual analysis of scientific papers, government recommendations, mass media and social media. Coders will develop codebooks based on scanning information, then refine these codebooks while systematically coding a randomly subset of articles from each stream. Codebooks will contain both themes and frames for the analysis.
 
-\subsubhead{AI-assisted human-supervised data mining}
-Textual analysis of news media and social media (i.e., Twitter and Weibo) will mainly based based on a coding book and implemented by AI.  The coding book should list themes and frames for the analysis, which will be categorized based on a pilot study by trained coders supervised by the team after the proposal is funded.  The basic structure of the analysis will outline theme, information types  (e.g., news, information and misinformation based on sources verification), who, where, theme tone and when.  (see  attached [Basic Coding frame] \url{https://github.com/cfshi/coronavirus/blob/master/coding%20book.md}.  
-We will further apply algorithm to identify information and false information through topic modelling and track evolution of information content and varsity over time and across geographic areas. (This is basically copied from Naveed.  HELP)
-((need concrete ideas on how AI will analyze tweets and weibo)) 
+We will train AIs built using established approaches for textual analysis to these human-scored articles. Programmers will work back and forth with coders and subject-matter experts to reach a final codebook that is consistent with study aims and can be scored reliably by computer, allowing us to review a very large number of articles. 
 
+This approach will allow us to scan for tweets (and Weibos) spreading misinformation in real time. Such information would be shared with public-health practicioners to assist with counter-messaging strategies.
 
 \subsubhead{Time-series analysis}
+
 Google trend, reported daily reports, patterns with policy change/case definitions. (CS: A couple of sentence on how we can hack it)
+
+\subsubhead{Dynamical modeling}
+
+
+Modelling: (Can we do this? or do we need this: incorporating media coverage, public and institutional reaction and report (which can be based on modelling results by scientific community and WHO etc), time travelling and spread network (geographical)
 
 \subsubhead{Contextual analysis}
 Contextual analysis will be studied by the researchers.  Media content and information are often socially and politically cultivated \cite{}.  We will implement contextual analyses of the quantitative findings and elaborate how information is framed and disseminated in this uncertain circumstances into context.  Textual analysis using AI is reliable and efficient in terms of data mining.  However, it can be insufficient in understanding what contents connote.  For example, meanings signified in the public reactions to shortage of face masks in Toronto is likely different from  the areas where are heavily impacted with COVID-19 epidemically.  Without referring to circumstance, we will miss what the results signify and its impact on the public.  To amend this issue, we will conduct contextual analysis \citep{} to elaborate the results of textual analysis of tweets and news and uncover its social and cultural perspectives of the text meanings.
 
 Final stage of our data analysis,  we will plot google trends data, the daily infected cases and fatality and frequency and main themes of media coverage and tweets,  we expect to construct a proxy indicator for information dissemination and public reaction to the outbreak.  This provides a platform for the contextual analysis and uncover the communication flow among the four forums.
-
-\subsubhead{Mathematical modeling}
-
-
-Modelling: (Can we do this? or do we need this: incorporating media coverage, public and institutional reaction and report (which can be based on modelling results by scientific community and WHO etc), time travelling and spread network (geographical)
 
 \subhead{deliverables}
 
