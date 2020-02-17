@@ -31,6 +31,9 @@ the differential prevalence of infectious diseases might create cross-cultural d
 - text mining and social media https://study.sagepub.com/node/25861/student-resources/text-mining-and-social-media-when-quantitative-meets-qualitative-and
 
 - evidence based knowlege translation: PMID: 26057647 (SediPars15) knoweldge translation, evidence based
+- to use twitter as a media with caution:
+Big Data in Communication Research: Its Contents and Discontents, Malcolm R. Parks
+Journal of Communication, Volume 64, Issue 2, April 2014, Pages 355–360, https://doi.org/10.1111/jcom.12090
 
 
 
