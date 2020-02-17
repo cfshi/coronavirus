@@ -1,4 +1,37 @@
 
+
+
+- To collect data from public transportation bureau (subway, buses in Taipei, Toronto), a good index and easier to collect ( I hope). Hotels and restaurants data.  We can compare 2018-9 vs. 19-20 vs. 20-21 during selected months.
+
+
+- Cites for background section
+
+- ** Flu vaccination communication in Europe: What does the government communicate and how?  ** PMID: 29703556 (OhlrSugg18)*** Vaccination and what and how does government communication
+
+- This cite is for media and content insufficiency
+https://journals.sagepub.com/doi/abs/10.1177/107769900408100105?journalCode=jmqc
+
+- this is about misinformation and media - Media violence and the American public: Scientific facts versus media misinformation.
+- communication strategies: (a guideline for how to evaluate communication efficiency for public health forum) PMID19551226 (RimaLapi09)* health communication and public health for our communication flow and strategy and evaluation
+
+- disease perception across countries (how to apply culture and social perspective into health management):
+the differential prevalence of infectious diseases might create cross-cultural differences. \citep{SchaMurr11} (https://psycnet.apa.org/record/2010-25777-003, culture and infectious disease)
+
+-  cite for using Weibo: The internet was a particularly empowering tool to allow individuals to bypass official control and to challenge official claims during the crisis in China.\citep{TaiSun07} (for Weibo)
+
+- Developing frame coding:
+	- framing and contextual
+ 	- news frame and health
+  	- https://www.tandfonline.com/doi/abs/10.1080/10410230701283322
+ 	 - https://journals.sagepub.com/doi/full/10.1177/1077699014558553?casa_token=kJYtlqzvh7UAAAAA%3Aunh38eVlAiyuSwhNLp5-G8TVME784OQtUDrfiQ1ALrJ_4otxUf3p8aJ8b79nzSpYdAY6tMTfG8f- (ZhanYan14)
+ 	 - PMID: 16204405 (ShieShan05)* content analysis methods***
+
+- text mining and social media https://study.sagepub.com/node/25861/student-resources/text-mining-and-social-media-when-quantitative-meets-qualitative-and
+
+
+
+
+========
 # Feb 13 
 
 (JD, ML and CF)
