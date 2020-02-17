@@ -56,6 +56,7 @@ auto.html: auto.rmu
 ## Proposal
 Sources += cihr_proposal.tex appendix.tex content.tex
 cihr_proposal.pdf: cihr_proposal.tex appendix.tex content.tex
+Sources += propHead.tex propParams.tex commands.tex
 cihr_proposal.pdf: propHead.tex propParams.tex commands.tex
 ## cihr_proposal.log
 
