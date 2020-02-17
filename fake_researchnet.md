@@ -14,9 +14,9 @@ Institution: AAAX	University of Glasgow (Scotland)?
 
 TODO:
 
-- Title
-- Lay Title
-- Lay Abstract
+- Title (640 characters)
+- Lay Title (200 characters)
+- Lay Abstract (2000 characters)
 
 ### Details
 Institution: CEBA McMaster University
@@ -61,16 +61,25 @@ Note: We actually included the reference list with the 5 page proposal for the r
 
 ## Complete Summary of Research Proposal
 
-TODO
+TODO:
+
+Summarize your research proposal (maximum 1 page). Note that your summary must also address how the research proposed is aligned with the objectives of this call and one of the research areas.
+
+
 
 ## Enter Budget Information
 
-5 hours/week for NPI, PI, CoA
+4 hours/week for NPI, PI, CoA
 3 hours/week for Collab, KU
 
 40 hours/week for CFS and BC postdoc
 
+See budget.md
 
+## Attach Other Application Materials
+
+TODO: 
+Letter of support from collab and others (CDC ...)
 
 
 
