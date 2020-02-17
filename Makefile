@@ -51,6 +51,8 @@ Ignore += auto.bib
 auto.bib: auto.rmu
 auto.html: auto.rmu
 
+## diff content.tex.c598f17f4ef0.oldfile content.tex > diff.oldfile
+
 ## Proposal
 Sources += cihr_proposal.tex appendix.tex content.tex
 cihr_proposal.pdf: cihr_proposal.tex appendix.tex content.tex
