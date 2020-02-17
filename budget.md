@@ -8,7 +8,7 @@
 
 # Research Staff $156 000
 
-##Description 
+## Description 
 
 Independent Research Associate Chyun Shi has experience in qualitative analysis of health beahvior data. 
 Her starting salary will be $60K year year.
