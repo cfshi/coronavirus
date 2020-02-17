@@ -6,7 +6,9 @@ Institution: CEBA	McMaster University
 Faculty: 143	Faculty of Science?
 Department: 90 Biology ?
 
-Institution: AAAX	University of Glasgow (Scotland)?
+TODO: Probably something else for math department
+
+Institution: AAAX	University of Glasgow (Scotland)
 
 ## Proposal Information
 
@@ -52,9 +54,10 @@ Suggested Institutes: Population and Public Health
 
 ### Attachments
 
+TODO:
 5 page proposal pdf
 
-Note: We actually included the reference list with the 5 page proposal for the rabies grant.
+Note: We actually included the reference list with the 10 page proposal for the rabies _project_ grant.
 
 
 
@@ -69,17 +72,18 @@ Summarize your research proposal (maximum 1 page). Note that your summary must a
 
 ## Enter Budget Information
 
+See budget.md (TODO: edit/confirm it)
+
 4 hours/week for NPI, PI, CoA
 3 hours/week for Collab, KU
 
 40 hours/week for CFS and BC postdoc
-
-See budget.md
 
 ## Attach Other Application Materials
 
 TODO: 
 Letter of support from collab and others (CDC ...)
 
+(What is the status for this?)
 
 
