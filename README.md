@@ -1,5 +1,30 @@
 # CIHR proposal for planning and dissemination: 20:00 EST 2/18!
 
+## Evaluation Criteria 
+
+Quality of project:
+
+- Extent to which the application responds to the objectives; (Yes, at least we are trying to...)
+
+- Appropriateness of the proposed approach; (Yes, sounds fine...)
+
+- Appropriateness of the budget and justification for amount requested. (Yes, feels like we are asking a lot, but reasonable for now... might want to cut down a bit)
+
+Quality of Applicants:
+
+- Track record of team members in fields related of proposed research; (Yes!!!! We have a strong team)
+
+- Ability of the project team to carry out the proposed research; (Yes)
+
+- Ability of team to quickly mobilize necessary resources (Yes, we have done a lot of the prep work already, i.e. twitter analysis in BC, MLi is collecting and translating Hubei reports)
+
+Impact of the Research:
+
+- Alignment to research areas; (Yes, at least we are trying to)
+
+- Potential to contribute to the global response to COVID-19. (Updated: 2020-02-14) (This is the 9th action (See next section))
+
+
 ## WHO guidelines FEB 14th
 
 TRY to link to what WHO wants.

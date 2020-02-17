@@ -23,7 +23,19 @@ The project will be organized around three Research Questions:
 
 ## Expertise
 
+NPI Earn and PI Dushoff have a long history of influential research on disease outbreaks. 
+KU Janjua of BCCDC was involve in pH1N1 response team?
+CoA Shi is a accomplished social-scientist has focused her research social and health beahvior.
+Collab Chng is a political scientist working on the regulatory and contentious politics?
+Collab Loeb is a accomplish epidemilogist
+CoA Bolker  a highly accomplished
+ecological statistician with extensive experience in spatial-dynamical modeling, statistical modeling, and statistical software.
+Collab Jiang is in WuHan, (if we get funded, this will be the reason ;)) and he is also a data-mining expert. 
+CoA Yeh is good with contextual analysis and data collection.  
+CoA Li is at the bottom of the list.
 
 ## Expected outcomes
+
+
 
 

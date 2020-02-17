@@ -50,6 +50,11 @@ Ignore += auto.bib
 auto.html: auto.rmu
 auto.bib: auto.rmu
 
+## Notes: the html seems highly unstable; downloads a lot, doesn't always get the right download? We can see html switching on and off
+test.point: test.rmu
+test.int: test.rmu
+test.html: test.rmu
+
 ## diff content.tex.c598f17f4ef0.oldfile content.tex > diff.oldfile
 
 ## Proposal
