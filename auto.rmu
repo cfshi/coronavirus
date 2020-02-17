@@ -59,6 +59,14 @@ PMID: 25429162 (EmerSzcz14) mining fear
 	
 PMID: 16204405 (ShieShan05)* content analysis methods***
 PMID: 31956275 (LiuSieg19)* methodology
+	"Classifying texts using Supervised Machine Learning:
+One type of automated content analysis, Supervised Machine Learning (SML; Grimmer & Stewart, 2013), 
+is well suited for our purposes (Zamith & Lewis, 2015). SML allowed us to effectively scale up our 
+exploration of the corpus by learning from a set of hand-coded training texts, identifying crucial 
+features (i.e., words, phrases, or patterns of expressions) that effectively differentiated texts 
+using statistical analysis, and producing a classifier to replicate human coding in future documents 
+(Burscher, Vliegenthart, & De Vreese, 2015). Scholars have effectively used SML to examine e-cigarette–related content and user profiles on Twitter (Cole-Lewis et al., 2015; Kavuluru & Sabbir, 2016), 
+but no study has applied SML to examine normative trends across media outlets."
 
 * Google trend:
 
