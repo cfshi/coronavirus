@@ -14,12 +14,15 @@
 \usepackage{CJKutf8}
 \usepackage[utf8]{inputenc}
 
+
 \usepackage{enumitem}
 \setlist{itemsep=\eiitem, topsep=\eitop, parsep=\eipar, partopsep=\eipartop}
 
 %% \usepackage{hanging}
 \pagestyle{fancy}
 \usepackage[dvipsnames]{xcolor}
+
+\usepackage{lineno}\renewcommand\thelinenumber{\color{gray}\arabic{linenumber}}
 
 \newcommand{\showcomment}[1]{{\color{Red}\textbf{((#1))}}}
 \newcommand{\nocomment}[1]{}
@@ -80,3 +83,5 @@
 {0.25\baselineskip}%                 % the afterskip
 {\normalfont\large\bfseries}}%       % the style
 
+
+\linenumbers
