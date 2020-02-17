@@ -13,10 +13,6 @@ Or special coronavirus call: https://www.researchnet-recherchenet.ca/rnr16/viewO
 - Studying international relations, global coordination, response systems and crisis management; and
 - Considering the social dynamics of transmission.
 
-# Title
-Mapping Coronavirus (19-nCoV) outbreak timeline, media coverage and public and national and international reaction and guidlines
-(It's very brief.  (I would like to have modeling ideas in this project but WHAT???  Also, how workable is it to compare this coronavirus to 2012 MERS and 2002 SARS in terms of the spread and reaction context (media coverage, public and institutional reaction and modeling prediction?)
+WHO document https://www.who.int/blueprint/priority-diseases/key-action/Global_Research_Forum_FINAL_VERSION_for_web_14_feb_2020.pdf
 
-# Working Time Table
-
-
+~/Downloads/WHO_corona.pdf
