@@ -4,6 +4,8 @@
 
 - Although policy is not a focus in the proposal, I like to compariso of health policy in the selected countries and WHO a clear point, even as a secondary research interest, under the grant objective track. It will provide insights of what and when is done in effeicnecy measurement. I think its a good selling point.  
 
+- to plot death toll into our grande analysis (i.e., combing all the 4 forums)
+
 - to use the term "evidence based knowledge" to  science forum?
 
 
