@@ -1,5 +1,22 @@
 # CIHR proposal for planning and dissemination: 20:00 EST 2/18!
 
+## WHO guidelines FEB 14th
+
+TRY to link to what WHO wants.
+
+### 9. Social sciences in the outbreak response
+
+* Establish a team at WHO that will be integrated within multidisciplinary research and operational platforms and that will connect with existing and expanded global networks of social sciences.
+
+* Develop qualitative assessment frameworks to systematically collect information related to local barriers and enablers for the uptake and adherence to public health measures for prevention and control. This includes the rapid identification of the secondary impacts of these measures. (e.g. use of surgical masks, modification of health seeking behaviours for SRH, school closures)
+
+* Identify how the burden of responding to the outbreak and implementing public health measures affects the physical and psychological health of those providing care for Covid-19 patients and identify the immediate needs that must be addressed.
+
+* Identify the underlying drivers of fear, anxiety and stigma that fuel misinformation and rumour, particularly through social media.
+
+* Contextually contribute to the design of research to ensure the involvement of communities throughout the process (in design, implementation and evaluation).
+
+
 https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3209&printfriendly=true#partnerdescription
 
 https://cihr-irsc.gc.ca/e/36396.html (Due March 17!)

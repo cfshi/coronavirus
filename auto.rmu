@@ -32,12 +32,6 @@ PMID: 30897141 (ZhouXiao19)*  Optimal media reporting intensity on mitigating sp
 	- https://journals.sagepub.com/doi/abs/10.1177/1461444807082691 (TaiSun07) media
 	- https://www.tandfonline.com/doi/abs/10.1080/01292980500261639 (ZhanFlem06) media and SARS
 
-
-	
-
-
-
-
 * Social media:
 
 PMID: 30663232 (AhmeBath19)* Novel insights into views towards H1N1 during the 2009 Pandemic: a thematic analysis of Twitter data
@@ -61,11 +55,18 @@ PMID: 25429162 (EmerSzcz14) mining fear
 - text mining and social media https://study.sagepub.com/node/25861/student-resources/text-mining-and-social-media-when-quantitative-meets-qualitative-and    
 - Big Data in Communication Research: Its Contents and Discontents, Malcolm R. Parks Journal of Communication, Volume 64, Issue 2, April 2014, Pages 355–360, https://doi.org/10.1111/jcom.12090
 
-
 * qualitative anaysis
 	
 PMID: 16204405 (ShieShan05)* content analysis methods***
 PMID: 31956275 (LiuSieg19)* methodology
+	"Classifying texts using Supervised Machine Learning:
+One type of automated content analysis, Supervised Machine Learning (SML; Grimmer & Stewart, 2013), 
+is well suited for our purposes (Zamith & Lewis, 2015). SML allowed us to effectively scale up our 
+exploration of the corpus by learning from a set of hand-coded training texts, identifying crucial 
+features (i.e., words, phrases, or patterns of expressions) that effectively differentiated texts 
+using statistical analysis, and producing a classifier to replicate human coding in future documents 
+(Burscher, Vliegenthart, & De Vreese, 2015). Scholars have effectively used SML to examine e-cigarette–related content and user profiles on Twitter (Cole-Lewis et al., 2015; Kavuluru & Sabbir, 2016), 
+but no study has applied SML to examine normative trends across media outlets."
 
 * Google trend:
 
@@ -81,6 +82,9 @@ PMID: 30443418 (VermKish18) google trend and disease outbreak
 * Media in China
 
 PMID: 25946020 (FungHao15) China social media
+
+* disease modeling
+- PMID: 27380881 (WangLiu16) with information diffusion
 
 - To be grouped
 
