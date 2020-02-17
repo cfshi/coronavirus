@@ -3,6 +3,8 @@
 
 - To collect data from public transportation bureau (subway, buses in Taipei, Toronto), a good index and easier to collect ( I hope). Hotels and restaurants data.  We can compare 2018-9 vs. 19-20 vs. 20-21 during selected months.
 
+- to use the term "evidence based knowledge" to  science forum?
+
 
 - Cites for background section
 
@@ -28,6 +30,7 @@ the differential prevalence of infectious diseases might create cross-cultural d
 
 - text mining and social media https://study.sagepub.com/node/25861/student-resources/text-mining-and-social-media-when-quantitative-meets-qualitative-and
 
+- evidence based knowlege translation: PMID: 26057647 (SediPars15) knoweldge translation, evidence based
 
 
 
