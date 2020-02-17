@@ -14,11 +14,17 @@ Institution: AAAX	University of Glasgow (Scotland)
 
 ### Overview
 
-TODO:
+Title (640 characters) 
 
-- Title (640 characters)
+Routes of communication: understanding the information flows that shape public and official reaction to COVID-19
+
 - Lay Title (200 characters)
+
+Analysis to improve outbreak communication
+
 - Lay Abstract (2000 characters)
+
+TODO: trim down version of summary?
 
 ### Details
 Institution: CEBA McMaster University
@@ -62,12 +68,13 @@ Note: We actually included the reference list with the 10 page proposal for the 
 
 
 
-## Complete Summary of Research Proposal
+## Summary of Research Proposal
 
 TODO:
 
 Summarize your research proposal (maximum 1 page). Note that your summary must also address how the research proposed is aligned with the objectives of this call and one of the research areas.
 
+See summary.md
 
 
 ## Enter Budget Information
