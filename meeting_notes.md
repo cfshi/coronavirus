@@ -2,7 +2,7 @@
 
 - To collect data from public transportation bureau (subway, buses in Taipei, Toronto), a good index and easier to collect ( I hope). Hotels and restaurants data.  We can compare 2018-9 vs. 19-20 vs. 20-21 during selected months.
 
-- Although policy is not a focus in the proposal, I like to compariso of health policy in the selected countries and WHO a clear point, even as a secondary research interest, under the grant objective track. It will provide insights of what and when is done in effeicnecy measurement. I think its a good selling point.  
+- Although policy is not a focus in the proposal, I like to do a comparison of health policy in the selected countries and WHO a clear point, even as a secondary research interest, under the grant objective track. It will provide insights of what, who (which country) and when for effeicnecy measurements and give info on what (novel) task to better curtail the outbreak.  This can involve a social perspective by considering country differences. I think its a good selling point.
 
 - to plot death toll into our grande analysis (i.e., combing all the 4 forums)
 
