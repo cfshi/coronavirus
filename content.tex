@@ -13,11 +13,11 @@ Surrogates for public perceptions and behaviour will include twitter data (again
 
 The project will be organized around three Research Questions:
 
-\paragraph{RQ1} How does information (and misinformation) travel between scientists, public-health workers, mass media and social media? (Research sub-area ``cultural dimensions of the epidemic'')
+\subsubhead{RQ1} How does information (and misinformation) travel between scientists, public-health workers, mass media and social media? (Research sub-area ``cultural dimensions of the epidemic'')
 
-\paragraph{RQ2} How does communication affect public behaviour and the course of the outbreak? (Research sub-area ``public health response'') \jd{improve this quote}
+\subsubhead{RQ2} How does communication affect public behaviour and the course of the outbreak? (Research sub-area ``public health response'') \jd{improve this quote}
 
-\paragraph{RQ3} How can scientists and policy-makers evaluate and improve the effectiveness of their communication? (Research sub-area ``strategies to combat misinformation'')
+\subsubhead{RQ3} How can scientists and policy-makers evaluate and improve the effectiveness of their communication? (Research sub-area ``strategies to combat misinformation'')
 
 \head{Background}
 
@@ -41,21 +41,21 @@ While traditional news media (including online presence) remains influential,  s
 
 \subhead{Data}
 
-\paragraph{Science} We will develop systematic search and screening strategies to extract relevant peer-reviewed publications from Google Scholar and PubMed. To account for the strong influence of preprints early in the epidemic \cite{MajuMandPRE}, we will will also include preliminary scientific findings posted on medRxiv through 31 March 20. We will index these papers and track their appearances in mass media and social media; we will also track which of the preprints are published after peer review.
+\subsubhead{Science} We will develop systematic search and screening strategies to extract relevant peer-reviewed publications from Google Scholar and PubMed. To account for the strong influence of preprints early in the epidemic \cite{MajuMandPRE}, we will will also include preliminary scientific findings posted on medRxiv through 31 March 20. We will index these papers and track their appearances in mass media and social media; we will also track which of the preprints are published after peer review.
 
-\paragraph{Public health recommendations} We will collect and analyze reports, guidelines and recommendations available from the World Health Organization and from the central disease control agency of each of our focal countries. It is worth noting that all of these agencies have launched special COVID-19 pages.
+\subsubhead{Public health recommendations} We will collect and analyze reports, guidelines and recommendations available from the World Health Organization and from the central disease control agency of each of our focal countries. It is worth noting that all of these agencies have launched special COVID-19 pages.
 
-\paragraph{Mass media}
+\subsubhead{Mass media}
 
 We will use the Lexis-Nexis search engine (via McMaster University) and OriProbe Information Services to collect articles relevant to the outbreak, going back to the outbreak start in December, and continuing throughout the grant period. 
 We will focus on the top English- and Mandarin-language newspapers (taking both circulation and online access into account) from 
 Canada, China, England, Singapore, Taiwan, and USA.
 We will include the top Mandarin-language newspapers in both Canada and the USA.
 
-\paragraph{Social media} 
+\subsubhead{Social media} 
 We will efficiently collect data from Twitter and Weibo by purchasing API access, using data going back to November 2020 -- before the epidemic started -- to give a baseline for comparison. 
 
-\paragraph{Public response}
+\subsubhead{Public response}
 Twitter (and Weibo) data will give us information not only on information flows,but also on public interest and attitudes. We will also probe public interest and concern using publicly available data from GoogleTrends, which tabulates frequency of searches (by search times and topics) in various regions across the world \cite{BousAgac17, MahrBrag19}.
 Economic data relating to the outcome of the COVID-19 outbreaks will be gathered as reference for contextual analysis (see below): for example, travel, movies box offices, cancellation of public events.
 
@@ -63,25 +63,17 @@ Economic data relating to the outcome of the COVID-19 outbreaks will be gathered
 
 \subsubhead{Textual analysis}
 
-We will use both human coders and AI approaches for textual analysis of scientific papers, government recommendations, mass media and social media. Coders will develop codebooks based on scanning information, then refine these codebooks while systematically coding a randomly subset of articles from each stream. Codebooks will contain both themes and frames for the analysis.
-
-We will train AIs built using established approaches for textual analysis to these human-scored articles. Programmers will work back and forth with coders and subject-matter experts to reach a final codebook that is consistent with study aims and can be scored reliably by computer, allowing us to review a very large number of articles. 
-
+We will use both human coders and AI approaches for textual analysis of scientific papers, government recommendations, mass media and social media. Coders will develop codebooks based on scanning information, then refine these codebooks while systematically coding a randomly subset of articles from each stream. Codebooks will contain both themes and frames for the analysis.  We will train AIs built using established approaches for textual analysis to these human-scored articles. Programmers will work back and forth with coders and subject-matter experts to reach a final codebook that is consistent with study aims and can be scored reliably by computer, allowing us to review a very large number of articles.  
 This approach will allow us to scan for tweets (and Weibos) spreading misinformation in real time. Such information would be shared with public-health practicioners to assist with counter-messaging strategies.
 
 \subsubhead{Time-series analysis}
 
 We will use cross-correlation analyses to look for indicators that information is moving from one communication forum to another; that events (like disease spread or public behavior) are affecting communication; or that communication is affecting events. 
-
 Cross-correlation analysis is complicated and prone to false-positive results. Importantly, therefore, we will be able to use the cross-correlation analysis to generate hypotheses that can be checked by more detailed textual analysis. For example, if we hypothesize that tweets about fatalities are being driven at a certain time and place by mass media, or by government policies, we can sample from those tweets and examine them for detailed information or citations; if we hypothesize that a trend in self-isolation is driven by social media, we can search for mass media stories that interview people about their motivation. The ability to compare large-scale trends with detailed texts should amplify our pattern to detect and confirm patterns.
 
-\subsubhead{Dynamical modeling}
+\subsubhead{Dynamical modeling} Dynamical modeling provides the link between individual events and emergent phenomena. We will make a range of simple dynamical models to further probe our time-series results by asking what mechanisms may underlie our observed connections, and what these connections might imply for the future. Dynamical models will allow us to explore hypotheses about what factors affect behaviour, and also to explore new hypotheses about how changes in behaviour are likely to loop back to disease transmission or to panic responses that might lead to shortages or to impacts on regional economies or the global economy.
 
-Modelling: (Can we do this? or do we need this: incorporating media coverage, public and institutional reaction and report (which can be based on modelling results by scientific community and WHO etc), time travelling and spread network (geographical)
-
-\subsubhead{Contextual analysis}
-Contextual analysis will be studied by the researchers.  Media content and information are often socially and politically cultivated \cite{}.  We will implement contextual analyses of the quantitative findings and elaborate how information is framed and disseminated in this uncertain circumstances into context.  Textual analysis using AI is reliable and efficient in terms of data mining.  However, it can be insufficient in understanding what contents connote.  For example, meanings signified in the public reactions to shortage of face masks in Toronto is likely different from  the areas where are heavily impacted with COVID-19 epidemically.  Without referring to circumstance, we will miss what the results signify and its impact on the public.  To amend this issue, we will conduct contextual analysis \citep{} to elaborate the results of textual analysis of tweets and news and uncover its social and cultural perspectives of the text meanings.
-
+\subsubhead{Contextual analysis} Contextual analysis will be studied by the researchers.  Media content and information are often socially and politically cultivated \cite{}.  We will implement contextual analyses of the quantitative findings and elaborate how information is framed and disseminated in this uncertain circumstances into context.  Textual analysis using AI is reliable and efficient in terms of data mining.  However, it can be insufficient in understanding what contents connote.  For example, meanings signified in the public reactions to shortage of face masks in Toronto is likely different from  the areas where are heavily impacted with COVID-19 epidemically.  Without referring to circumstance, we will miss what the results signify and its impact on the public.  To amend this issue, we will conduct contextual analysis \citep{} to elaborate the results of textual analysis of tweets and news and uncover its social and cultural perspectives of the text meanings.
 Final stage of our data analysis,  we will plot google trends data, the daily infected cases and fatality and frequency and main themes of media coverage and tweets,  we expect to construct a proxy indicator for information dissemination and public reaction to the outbreak.  This provides a platform for the contextual analysis and uncover the communication flow among the four forums.
 
 \subhead{deliverables}
