@@ -18,7 +18,7 @@ Sources += attachments.md budget.md coding_book.md comments.md core.md fake_rese
 Sources += attachments.md budget.md coding_book.md comments.md core.md fake_researchnet.md LICENSE.md meeting_notes.md naveed.md outbreak_timeline.md proposal.md proposal_MLiCmts.md README.md RQ.md summary.md team.md todo.md
 
 Ignore += *.gh.html
-## proposal.gh.html: proposal.md
+## summary.gh.html: summary.md
 ## proposal.md.f23bbe90.oldfile
 
 ## Using mkd for mkd that is target instead of source
