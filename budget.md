@@ -39,15 +39,17 @@ We plan to buy one servers for ~5K, plus related minor hardware.
 
 We have added the university effective tax rate of 3.41% to the above quote.
 
-# Knowledge Translation $30 000
+# Knowledge Translation $37 000
 
 ## Description
 
 Publication cost (3 open-access publications over 2 years at ~$3500 per article)
 
-Two international meetings for up to two team members to participate at ~$6000 per meeting.
+Two scientific meetings for up to three team members each to participate at ~$5000 per meeting.
+
+Two team members will attend the annual CIHR meetings at a cost of ~$3000 per meeting
 
 A group meeting at the halfway point for researchers and knowledge users in BCCDC and McMaster (depending on cost and schedules).
-* $2500 x 3
+* $10000
 
 # Total 349 000
