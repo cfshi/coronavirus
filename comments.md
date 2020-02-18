@@ -34,4 +34,37 @@ They may not want to admit it, but I bet it does.
 Reality might contain a dashed arrow from Media to Policymaker.  
 Evidence for such effects is something that the methodology could address perhaps.
 
-Obviously the later sections and figure captions need a lot of        + attention.
+Obviously the later sections and figure captions need a lot of attention.
+
+
+## Hyeju 16:22:33 (MLi is done merging Hyeju's intext comments)
+
+Textual analysis To investigate how information/misinformation travels
+and how communication affects public responses (e.g., attitudes), we
+will use state-of-the-art machine learning and natural language
+processing (NLP) techniques. We have two directions. First, to
+investigate how information travels, we plan to develop codebooks to
+manually annotate random samples of articles/messages from scientific
+papers, government recommendations, mass media and social media.
+Codebooks will contain both themes and frames relevant to our
+analysis. For example, correct or incorrect information
+(misinformation or not?) will be annotated. Then, using the annotated
+data as training data, supervised machine learning algorithms such as
+logistic regression, Support Vector Machine, and neural network will
+learn patterns of textual and content features to predict the
+label(code?). Second, to study public responses, we will leverage NLP
+techniques such as aspect-based sentiment analysis and topic modeling.
+For example, ABSApp [ref], a state-of-the-art aspect-based sentiment
+extraction tool, allows extracting important aspects of the target(?)
+situation and detecting sentiment towards the aspects, with relatively
+less human involvement. Latent Dirichlet Allocation (LDA) and its
+variants, popularly used topic modeling techniques, help identify
+topics in large texts. These approaches will allow us to perform a
+large scale study (using large data). For all the textual analysis
+processes, computer scientists will work collaboratively with coders
+and subject-matter experts to build codebooks that are consistent with
+study aims, and to interpret findings from applying AI algorithms. The
+findings would be shared with public-health practitioners to assist
+with counter-messaging strategies.
+
+
