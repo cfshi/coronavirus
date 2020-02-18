@@ -13,7 +13,6 @@ current: target
 
 # Content
 
-
 ## Sources += outbreak_timeline.md proposal.md README.md
 Sources += $(wildcard *.md)
 
@@ -51,6 +50,8 @@ auto.html: auto.rmu
 auto.md: auto.rmu
 auto.bib: auto.rmu
 
+Sources += proposal.bib
+
 ## content.tex.bd1a1f792ecf5efd40cdcd9bdf6df57c106bdae0.oldfile
 
 ## Proposal
@@ -60,6 +61,7 @@ Sources += propHead.tex propParams.tex commands.tex
 cihr_proposal.pdf: cihr_proposal.tex appendix.tex content.tex
 cihr_proposal.pdf: propHead.tex propParams.tex commands.tex
 ## cihr_proposal.log
+## cihr_proposal.blg
 
 ######################################################################
 

@@ -27,8 +27,7 @@
 ## Influenza (public health) and Media:
 
 * _BerrWhar07:_ Berry TR, Wharf-Higgins J, Naylor PJ. [SARS wars: an examination of the quantity and construction of health information in the news media](https://www.ncbi.nlm.nih.gov/pubmed/17461750). Health Commun 21:35-44 (2007).
- (BerrWalf07) Sars and media
-* [RXREF:17461750.pm] (BerrWalf07) Sars and media
+ (BerrWhar) Sars and media
 * _ChouOhA18:_ Chou WYS, Oh A, Klein WMP. [Addressing Health-Related Misinformation on Social Media](https://www.ncbi.nlm.nih.gov/pubmed/30428002). JAMA 320:2417-2418 (2018).
  (ChouOa18)* social media and misinformation
 * _ChoiLee17:_ Choi S, Lee J, Kang MG, Min H, Chang YS, Yoon S. [Large-scale machine learning of media outlets for understanding public reactions to nation-wide viral infection outbreaks](https://www.ncbi.nlm.nih.gov/pubmed/28813689). Methods 129:50-59 (2017).
@@ -47,8 +46,10 @@
  (WallNerl05) sars media
 * _ZhouXiao19:_ Zhou W, Xiao Y, Heffernan JM. [Optimal media reporting intensity on mitigating spread of an emerging infectious disease](https://www.ncbi.nlm.nih.gov/pubmed/30897141). PLoS One 14:e0213898 (2019).
  (ZhouXiao19)*  Optimal media reporting intensity on mitigating spread of an emerging infectious disease.
-* https://journals.sagepub.com/doi/abs/10.1177/1461444807082691 (TaiSun07) media
-* https://www.tandfonline.com/doi/abs/10.1080/01292980500261639 (ZhanFlem06) media and SARS
+* _TaiSun07:_ Tai Z, Sun T. [Media dependencies in a changing media environment: the case of the 2003 SARS epidemic in China](http://dx.doi.org/10.1177/1461444807082691) [(McMaster link)](http://dx.doi.org.libaccess.lib.mcmaster.ca/10.1177/1461444807082691). New Media & Society 9:2007 (2007).
+ (TaiSun07) media
+* _ZhanFlem05:_ Zhang E, Fleming K. [Examination of Characteristics of News Media under Censorship: A Content Analysis of Selected Chinese Newspapers’ SARS Coverage](http://dx.doi.org/10.1080/01292980500261639) [(McMaster link)](http://dx.doi.org.libaccess.lib.mcmaster.ca/10.1080/01292980500261639). Asian Journal of Communication 15:2005 (2005).
+ (ZhanFlem06) media and SARS
 
 ## Social media:
 
@@ -66,7 +67,8 @@
  (WagnLamp17) twitter
 * _YousDara19:_ Yousefinaghani S, Dara R, Poljak Z, Bernardo TM, Sharif S. [The Assessment of Twitter's Potential for Outbreak Detection: Avian Influenza Case Study](https://www.ncbi.nlm.nih.gov/pubmed/31796768). Sci Rep 9:18147 (2019).
  (YoutDara19)twitter
-* https://www.tandfonline.com/doi/abs/10.1080/10410230701283322 (BerrWalf07) social media Bushman, B. J., & Anderson, C. A. (2001). 
+* Repeat: 10.1080/10410230701283322 (BerrWalf07) social media
+* What is this??: Bushman, B. J., & Anderson, C. A. (2001). 
 
 ## method:
 	
@@ -84,22 +86,26 @@ of reliable information and inhibits online diffusion of false
 information.)
 * _EmerSzcz14:_ Emery SL, Szczypka G, Abril EP, Kim Y, Vera L. [Are you Scared Yet?: Evaluating Fear Appeal Messages in Tweets about the Tips Campaign](https://www.ncbi.nlm.nih.gov/pubmed/25429162). J Commun 64:278-295 (2014).
  (EmerSzcz14) mining fear
-* [text mining and social media](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Text+Mining+and+Social+Media%3A+When+Quantitative+Meets+Qualitative+and+Software+Meets+People&btnG=) [Citation needed]
+* (no doi.)[text mining and social media](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Text+Mining+and+Social+Media%3A+When+Quantitative+Meets+Qualitative+and+Software+Meets+People&btnG=) [Citation needed]
 * _Park14:_ Parks MR. [Big Data in Communication Research: Its Contents and Discontents](http://dx.doi.org/10.1111/jcom.12090) [(McMaster link)](http://dx.doi.org.libaccess.lib.mcmaster.ca/10.1111/jcom.12090). Journal of Communication 64:2014 (2014).
  (Parks chapter)
-* https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=How+to+plan+and+perform+a+qualitative+study+using+content+analysis&btnG= (qualitative content analysis) (Beng16)
-*(https://link.springer.com/chapter/10.1007/978-94-017-9181-6_13)Qualitative Content Analysis: Theoretical Background and Procedures (Mayr14)
-* https://journals.sagepub.com/doi/full/10.1177/1468794113481790 Use of content analysis to conduct knowledge-building and theory-generating qualitative systematic reviews (Finf13)
+* _Beng16:_ Bengtsson M. [How to plan and perform a qualitative study using content analysis](http://dx.doi.org/10.1016/j.npls.2016.01.001) [(McMaster link)](http://dx.doi.org.libaccess.lib.mcmaster.ca/10.1016/j.npls.2016.01.001). NursingPlus Open 2:2016 (2016).
+ (qualitative content analysis) (Beng16)
+* _Mayr14:_ Mayring P. [Qualitative Content Analysis: Theoretical Background and Procedures](http://dx.doi.org/10.1007/978-94-017-9181-6_13) [(McMaster link)](http://dx.doi.org.libaccess.lib.mcmaster.ca/10.1007/978-94-017-9181-6_13). Advances in Mathematics Education Not found:2014 (2014).
+ Qualitative Content Analysis: Theoretical Background and Procedures (Mayr14)
+* _Finf13:_ Finfgeld-Connett D. [Use of content analysis to conduct knowledge-building and theory-generating qualitative systematic reviews](http://dx.doi.org/10.1177/1468794113481790) [(McMaster link)](http://dx.doi.org.libaccess.lib.mcmaster.ca/10.1177/1468794113481790). Qualitative Research 14:2013 (2013).
+ Use of content analysis to conduct knowledge-building and theory-generating qualitative systematic reviews (Finf13)
 
 ## persuation
 
-*_BekaBigm18:_ Bekalu MA, Bigman CA, McCloud RF, Lin LK, Viswanath K. [The relative persuasiveness of narrative versus non-narrative health messages in public health emergency communication: Evidence from a field experiment](https://www.ncbi.nlm.nih.gov/pubmed/29154794). Prev Med 111:284-290 (2018).
+* _BekaBigm18:_ Bekalu MA, Bigman CA, McCloud RF, Lin LK, Viswanath K. [The relative persuasiveness of narrative versus non-narrative health messages in public health emergency communication: Evidence from a field experiment](https://www.ncbi.nlm.nih.gov/pubmed/29154794). Prev Med 111:284-290 (2018).
  (BekaBigm18)
 * _LuJLuo19:_ Lu J, Luo M, Yee AZH, Sheldenkar A, Lau J, Lwin MO. [Do superstitious beliefs affect influenza vaccine uptake through shaping health beliefs?](https://www.ncbi.nlm.nih.gov/pubmed/30683509). Vaccine 37:1046-1052 (2019).
  (LuLuo19) culture and vaccination
 * _SarRodr19:_ Sar S, Rodriguez L. [The influence of mood and information processing strategies on recall, persuasion, and intention to get a flu vaccine](https://www.ncbi.nlm.nih.gov/pubmed/30849027). Health Mark Q 36:17-34 (2019).
  (SarRodr19)
-* (ShenShee15)[narrative](https://scholar.google.ca/scholar?q=Impact+of+Narratives+on+Persuasion+in+Health+Communication:+A+Meta-Analysis&hl=en&as_sdt=0&as_vis=1&oi=scholart)
+* _ShenShee15:_ Shen F, Sheer VC, Li R. [Impact of Narratives on Persuasion in Health Communication: A Meta-Analysis](http://dx.doi.org/10.1080/00913367.2015.1018467) [(McMaster link)](http://dx.doi.org.libaccess.lib.mcmaster.ca/10.1080/00913367.2015.1018467). Journal of Advertising 44:2015 (2015).
+ ShenShee15)[narrative](
 
 ## qualitative anaysis
 	
@@ -119,28 +125,21 @@ but no study has applied SML to examine normative trends across media outlets."
 
 ## Google trend:
 
-_BousAgac17:_ Bousquet J, Agache I, Anto JM, Bergmann KC, Bachert C, Annesi-Maesano I, Bousquet PJ, D'Amato G, Demoly P, De Vries G, Eller E, Fokkens WJ, Fonseca J, Haahtela T, Hellings PW, Just J, Keil T, Klimek L, Kuna P, Lodrup Carlsen KC, Mosges R, Murray R, Nekam K, Onorato G, Papadopoulos NG, Samolinski B, Schmid-Grendelmeier P, Thibaudon M, Tomazic P, Triggiani M, Valiulis A, Valovirta E, Van Eerd M, Wickman M, Zuberbier T, Sheikh A. [Google Trends terms reporting rhinitis and related topics differ in European countries](https://www.ncbi.nlm.nih.gov/pubmed/28140507). Allergy 72:1261-1266 (2017).
+* _BousAgac17:_ Bousquet J, Agache I, Anto JM, Bergmann KC, Bachert C, Annesi-Maesano I, Bousquet PJ, D'Amato G, Demoly P, De Vries G, Eller E, Fokkens WJ, Fonseca J, Haahtela T, Hellings PW, Just J, Keil T, Klimek L, Kuna P, Lodrup Carlsen KC, Mosges R, Murray R, Nekam K, Onorato G, Papadopoulos NG, Samolinski B, Schmid-Grendelmeier P, Thibaudon M, Tomazic P, Triggiani M, Valiulis A, Valovirta E, Van Eerd M, Wickman M, Zuberbier T, Sheikh A. [Google Trends terms reporting rhinitis and related topics differ in European countries](https://www.ncbi.nlm.nih.gov/pubmed/28140507). Allergy 72:1261-1266 (2017).
  (BousAgac17)* google trend
-
-_ChaeKwon18:_ Chae S, Kwon S, Lee D. [Predicting Infectious Disease Using Deep Learning and Big Data](https://www.ncbi.nlm.nih.gov/pubmed/30060525). Int J Environ Res Public Health 15:2018 Jul 27 (2018).
+* _ChaeKwon18:_ Chae S, Kwon S, Lee D. [Predicting Infectious Disease Using Deep Learning and Big Data](https://www.ncbi.nlm.nih.gov/pubmed/30060525). Int J Environ Res Public Health 15:2018 Jul 27 (2018).
  (ChaeKwon18)* data mining
-
-_HusnFuad19:_ Husnayain A, Fuad A, Lazuardi L. [Correlation between Google Trends on dengue fever and national surveillance report in Indonesia](https://www.ncbi.nlm.nih.gov/pubmed/31154985). Glob Health Action 12:1552652 (2019).
+* _HusnFuad19:_ Husnayain A, Fuad A, Lazuardi L. [Correlation between Google Trends on dengue fever and national surveillance report in Indonesia](https://www.ncbi.nlm.nih.gov/pubmed/31154985). Glob Health Action 12:1552652 (2019).
  (HusnFuad19) google trend and dengue
-
-_MahrBrag19:_ Mahroum N, Bragazzi NL, Brigo F, Waknin R, Sharif K, Mahagna H, Amital H, Watad A. [Capturing public interest toward new tools for controlling human immunodeficiency virus (HIV) infection exploiting data from Google Trends](https://www.ncbi.nlm.nih.gov/pubmed/29638172). Health Informatics J 25:1383-1397 (2019).
+* _MahrBrag19:_ Mahroum N, Bragazzi NL, Brigo F, Waknin R, Sharif K, Mahagna H, Amital H, Watad A. [Capturing public interest toward new tools for controlling human immunodeficiency virus (HIV) infection exploiting data from Google Trends](https://www.ncbi.nlm.nih.gov/pubmed/29638172). Health Informatics J 25:1383-1397 (2019).
  (MahrBrag19) Google trend and HIV
-
-_MavrOcho18:_ Mavragani A, Ochoa G, Tsagarakis KP. [Assessing the Methods, Tools, and Statistical Approaches in Google Trends Research: Systematic Review](https://www.ncbi.nlm.nih.gov/pubmed/30401664). J Med Internet Res 20:e270 (2018).
+* _MavrOcho18:_ Mavragani A, Ochoa G, Tsagarakis KP. [Assessing the Methods, Tools, and Statistical Approaches in Google Trends Research: Systematic Review](https://www.ncbi.nlm.nih.gov/pubmed/30401664). J Med Internet Res 20:e270 (2018).
  (MavrOcho18)* Google trend search
-
-_SeidSchu18:_ Seidl S, Schuster B, Ruth M, Biedermann T, Zink A. [What Do Germans Want to Know About Skin Cancer? A Nationwide Google Search Analysis From 2013 to 2017](https://www.ncbi.nlm.nih.gov/pubmed/29698213). J Med Internet Res 20:e10327 (2018).
+* _SeidSchu18:_ Seidl S, Schuster B, Ruth M, Biedermann T, Zink A. [What Do Germans Want to Know About Skin Cancer? A Nationwide Google Search Analysis From 2013 to 2017](https://www.ncbi.nlm.nih.gov/pubmed/29698213). J Med Internet Res 20:e10327 (2018).
  (SeidSchu18)* google trend
-
-_ZaffLipp19:_ Zaffanello M, Lippi G, Arman N, Piazza M, Tenero L, Piacentini G. [Popularity of sleep disordered breathing in childhood: an analysis of worldwide search using Google Trends](https://www.ncbi.nlm.nih.gov/pubmed/31993351). Transl Pediatr 8:383-390 (2019).
+* _ZaffLipp19:_ Zaffanello M, Lippi G, Arman N, Piazza M, Tenero L, Piacentini G. [Popularity of sleep disordered breathing in childhood: an analysis of worldwide search using Google Trends](https://www.ncbi.nlm.nih.gov/pubmed/31993351). Transl Pediatr 8:383-390 (2019).
  (ZaffLipp19) google trend
-
-_VermKish18:_ Verma M, Kishore K, Kumar M, Sondh AR, Aggarwal G, Kathirvel S. [Google Search Trends Predicting Disease Outbreaks: An Analysis from India](https://www.ncbi.nlm.nih.gov/pubmed/30443418). Healthc Inform Res 24:300-308 (2018).
+* _VermKish18:_ Verma M, Kishore K, Kumar M, Sondh AR, Aggarwal G, Kathirvel S. [Google Search Trends Predicting Disease Outbreaks: An Analysis from India](https://www.ncbi.nlm.nih.gov/pubmed/30443418). Healthc Inform Res 24:300-308 (2018).
  (VermKish18) google trend and disease outbreak
 
 ## Media in China
@@ -174,8 +173,9 @@ _VermKish18:_ Verma M, Kishore K, Kumar M, Sondh AR, Aggarwal G, Kathirvel S. [G
  (TchuDube11)
 * _WilcBott18:_ Wilcox CR, Bottrell K, Paterson P, Schulz WS, Vandrevala T, Larson HJ, Jones CE. [Influenza and pertussis vaccination in pregnancy: Portrayal in online media articles and perceptions of pregnant women and healthcare professionals](https://www.ncbi.nlm.nih.gov/pubmed/30401620). Vaccine 36:7625-7631 (2018).
  (WilcBott18)
-* [ZhanYan](https://journals.sagepub.com/doi/full/10.1177/1077699014558553?casa_token=kJYtlqzvh7UAAAAA%3Aunh38eVlAiyuSwhNLp5-G8TVME784OQtUDrfiQ1ALrJ_4otxUf3p8aJ8b79nzSpYdAY6tMTfG8f-) (ZhanYan14)
+* _ZhanJin14:_ Zhang Y, Jin Y, Tang Y. [Framing Depression](http://dx.doi.org/10.1177/1077699014558553) [(McMaster link)](http://dx.doi.org.libaccess.lib.mcmaster.ca/10.1177/1077699014558553). Journalism & Mass Communication Quarterly 92:2014 (2014).
+ (ZhanYan14)
 * _HuanLeun05:_ Huang Y, Leung CCM. [Western-Led Press Coverage of Mainland China and Vietnam during the SARS Crisis: Reassessing the Concept of ‘Media Representation of theOther’](http://dx.doi.org/10.1080/01292980500261621) [(McMaster link)](http://dx.doi.org.libaccess.lib.mcmaster.ca/10.1080/01292980500261621). Asian Journal of Communication 15:2005 (2005).
  (HuanLeun06)
-* https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663 (MajuMandPRE)
+* [MajuMandPRE](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536663)
 
