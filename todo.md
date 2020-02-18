@@ -5,10 +5,12 @@ More about discrimination
 
 Think more about the third challenge.
 
-Another s. about dynamical modeling
+citate intro, textual analysis?
 
-Simplify (and citate?) Textual analysis
-
-citate intro better
+parameters (not an operating grant)
 
 ## Other
+
+Pipeliens
+
+Budget, bj
