@@ -14,7 +14,7 @@ current: target
 # Content
 
 ## Sources += outbreak_timeline.md proposal.md README.md
-Sources += $(wildcard *.md)
+Sources += attachments.md budget.md coding_book.md comments.md core.md fake_researchnet.md LICENSE.md meeting_notes.md naveed.md outbreak_timeline.md proposal.md proposal_MLiCmts.md README.md RQ.md summary.md team.md todo.md
 
 Ignore += *.gh.html
 ## proposal.gh.html: proposal.md
