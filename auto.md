@@ -5,6 +5,7 @@
  (BellWho04)* WHO and SARS and Policy***
 * _GlasMcAt06:_ Glass TA, McAtee MJ. [Behavioral science at the crossroads in public health: extending horizons, envisioning the future](https://www.ncbi.nlm.nih.gov/pubmed/16198467). Soc Sci Med 62:1650-71 (2006).
  (GlasMcAt06)
+* PMID: 31023299 (LianFung19) How did Ebola information spread on twitter: broadcasting or viral spreading? “public health communicators can work beneficially with influential and hidden influential users to get the message across, because influential and hidden influential users can reach more people that are not following the public health Twitter accounts. …, recognizing and using the hidden influential users as the source of information could also potentially be a cost-effective communication strategy for public health promotion.”
 * _OhlrSugg18:_ Ohlrogge AW, Suggs LS. [Flu vaccination communication in Europe: What does the government communicate and how?](https://www.ncbi.nlm.nih.gov/pubmed/29703556). Vaccine 36:6512-6519 (2018).
  (OhlrSugg18)*** Vaccinationa and what and how does government communication
 * _RimaLapi09:_ Rimal RN, Lapinski MK. [Why health communication is important in public health](https://www.ncbi.nlm.nih.gov/pubmed/19551226). Bull World Health Organ 87:247-247a (2009).
@@ -87,6 +88,8 @@ information.)
 * _Park14:_ Parks MR. [Big Data in Communication Research: Its Contents and Discontents](http://dx.doi.org/10.1111/jcom.12090) [(McMaster link)](http://dx.doi.org.libaccess.lib.mcmaster.ca/10.1111/jcom.12090). Journal of Communication 64:2014 (2014).
  (Parks chapter)
 * https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=How+to+plan+and+perform+a+qualitative+study+using+content+analysis&btnG= (qualitative content analysis) (Beng16)
+*(https://link.springer.com/chapter/10.1007/978-94-017-9181-6_13)Qualitative Content Analysis: Theoretical Background and Procedures (Mayr14)
+* https://journals.sagepub.com/doi/full/10.1177/1468794113481790 Use of content analysis to conduct knowledge-building and theory-generating qualitative systematic reviews (Finf13)
 
 ## persuation
 
