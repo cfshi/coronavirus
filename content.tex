@@ -11,12 +11,11 @@ The proposed research will study how information flows between forums, including
 Our inter-disciplinary group will analyze these flows by combining textual and contextual analysis; AI-assisted human-supervised data mining; time-series analysis; and dynamical modeling. We will study how good information competes with misinformation, and look for factors correlated with successful spread of good information. 
 We will gather information on communication and surrogates for behaviour from a wide range of sources. 
 Sources about communication will include agency websites; preprint servers and publicly available scientific journals; major newspaper websites; social-media platforms; and twitter data. \cs{why single out twitter from social-media?}
-Surrogates for public perceptions and behaviour will include twitter data (again) \cs{why not Sina Weibo?}; google trends; publicly available box-office information for movies and major sporting leagues; and information \cs{publication transportation rides?} \mli{C, do you mean public transportation?} about cancellations and shortages (for example of face masks or pharmaceutical or pseudo-pharmaceutical products) from our textual analysis. 
+Surrogates for public perceptions and behaviour will include twitter data (again) \cs{and Sina Weibo?}; google trends; publicly available box-office information for movies and major sporting leagues; and information \cs{publication transportation rides?}about cancellations and shortages (for example of face masks or pharmaceutical or pseudo-pharmaceutical products) from our textual analysis. 
 
 The project will be organized around three Research Questions (RQs):
 
 \subsubhead{RQ1} How does information (and misinformation) travel between scientists, public-health workers, mass media and social media? (\emph{Research sub-area}: ``cultural dimensions of the epidemic'') \cs{Make how mass and social media convey information a sub questions? Its content is crucial in this proposal; and I believe this is where we will get most of details on cultural perspective.}
-\mli{What is Research sub-area anyway? Do we even need it?}
 
 \subsubhead{RQ2} How does communication affect public behaviour and the course of the outbreak? (\emph{Research sub-area}: ``public health response'') \jd{improve this quote} \de{Behavioural responses and effects on outbreaks?}
 
@@ -32,12 +31,10 @@ There are other complicating factors. An outbreak of global concern represents a
 
 It is known that traditional media can strongly influence public perceptions, creating fear by overestimating risk during the SARS outbreak \citep{BerrWhar07} and the influenza pandemic \citep{TchuDube11}, or feeding into bias -- e.g., anti-Chinese bias during the SARS crisis \citep{HuanLeun06}.  Media is also the tool public health authorities rely on to promote their concerns and recommendations during outbreaks.  Understanding media effects on disease spread (e.g., media attention increases self-protection) can help enhance epidemic forecasting and preventive measures to slow the disease spread \citep{KimFast19}.  
 
-While traditional news media (including online presence) remains influential,  social media plays an increasingly important role in shaping how we communicate and understand information \citep{LiuSieg19}. Social media can play a positive role spreading good information, \cite{BascHill20, SunYang20,AhmeQuin18}, but may also spread misinformation and feed bias \citep{ChouOhA18, McKevanS19}.
-\naveed{Misinformation is mainly coming from non-medical community and various groups promoting their political or strategic interest or even without any interest.}
+While traditional news media (including online presence) remains influential,  social media plays an increasingly important role in shaping how we communicate and understand information \citep{LiuSieg19}. Social media can play a positive role spreading good information, \cite{BascHill20, SunYang20,AhmeQuin18},  but may also spread misinformation and feed bias \citep{ChouOhA18, McKevanS19}.
+\mli{Naveed: Misinformation is mainly coming from non-medical community and various groups promoting their political or strategic interest or even without any interest.}
 Since the initial reports, a cluster of acute severe respiratory disease (COVID-19) and the potential for global spread, there has been widespread discussion and dissemination of information through social media \citep{?}.
-\hyeju{mentioning "social media as an important source for identifying how people feel and react to the situation" could be relevant here, connecting to the methods (especially topic modeling and sentiment analysis) later.}
-\mli{I feel like background is getting heavy. I suggest moving topic modeling and sentiment analysis to the Analysis section and describe clearly what these things are and how we are going to use it}
-\naveed{However, there have been exchanges and disagreements between scientists on the likely risk and spread of disease, and validity of claims and creditability of these scientists have been questioned.}
+\mli{However, there have been exchanges and disagreements between scientists on the likely risk and spread of disease, and validity of claims and creditability of these scientists have been questioned.}
 
 \jd{What should we put back here? What do we want from \citep{YousDara19}? Is there a more recent cite about twitter and pandemics than \citep{ChewEyse10}?}  
 
@@ -45,13 +42,11 @@ Since the initial reports, a cluster of acute severe respiratory disease (COVID-
 
 \jd{Shoudl we try to bring in factual themes? The key ones are risk of worldwide spread; case-fatality proportion; something about control strategy effectiveness. The fuzziness of the last one is why I haven't tried to do this yet.}
 
-\mli{
-
 \head{Methods and feasibility}
 
 \subhead{Data}
 
-\subsubhead{Science} We will develop systematic search and screening strategies to extract relevant peer-reviewed publications from Google Scholar and PubMed. To account for the strong influence of preprints early in the epidemic \cite{MajuMandPRE}, we will also include preliminary scientific findings posted on medRxiv through 31 March 2020. We will index these papers and track their appearances in mass media and social media; we will also track which of the preprints are published after peer review.
+\subsubhead{Science} We will develop systematic search and screening strategies to extract relevant peer-reviewed publications from Google Scholar and PubMed. To account for the strong influence of preprints early in the epidemic \cite{MajuMandPRE}, we will will also include preliminary scientific findings posted on medRxiv through 31 March 2020. We will index these papers and track their appearances in mass media and social media; we will also track which of the preprints are published after peer review.
 
 \subsubhead{Public health recommendations} We will collect and analyze reports, guidelines and recommendations available from the World Health Organization and from the central disease control agency of each of our focal countries. It is worth noting that all of these agencies have launched special COVID-19 web pages.
 
@@ -75,7 +70,7 @@ Economic data relating to the outcome of the COVID-19 outbreaks will be gathered
 
 We will use both human coders and AI approaches for textual analysis of scientific papers, government recommendations, mass media and social media. Coders will develop codebooks based on scanning information, then refine these codebooks while systematically coding a randomly selected subset of articles from each stream. Codebooks will contain both themes and frames for the analysis.  We will train AIs built using established approaches for textual analysis to these human-scored articles. Programmers will work back and forth with coders and subject-matter experts to reach a final codebook that is consistent with study aims and can be scored reliably by computer, allowing us to review a very large number of articles.  
 This approach will allow us to scan for tweets (and Sina Weibo) spreading misinformation in real time. Such information would be shared with public-health practitioners to assist with counter-messaging strategies.
-\naveed{This covers most of it. However, we had ad discussion that we could start with  aspect based sentiment analysis and topic modeling, which will require relatively less human involvement. 
+\mli{Naveed: This covers most of it. However, we had ad discussion that we could start with  aspect based sentiment analysis and topic modeling, which will require relatively less human involvement. 
 Traditional classification algorithms that we use require a coded data as you proposed but the amount of coded data to make it work may take some time to get developed while sentiment analysis and topic modeling could start the text analysis process.}
 
 \subsubhead{Time-series analysis}
@@ -97,6 +92,7 @@ We will combine results from our analysis techniques above to formulate hypothes
 \item{software \mli{Naveed: Describe what kind of software. I was envisioning a tool that runs on Twitter stream data and classifies tweets based on contents as well as significance in terms of influence ( how much it has potential to spread based on following network or influencer.  
 See paper for classification of influencers. \url{https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-019-6747-8} }
 \item{Communication: Writing papers is certainly one, but we should be tweeting and etc. What are communication platforms we should be communicating in?
+\cs{attending conference, meeting with policy makers with our findings; possible WHO network?}
 \mli{Naveed: It depends on objective, would we be doing counter messaging or public health. 
 The way I was envisioning, creating a tool to identify and alert public health communication team and they addressing it through tweets or other means. }
 }
