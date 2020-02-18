@@ -25,12 +25,13 @@ https://www.theguardian.com/world/2020/jan/28/canada-chinese-community-battles-r
 See paper for classification of influencers. https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-019-6747-8 
 
 
-## Earn 16:22:33 
+## Earn 16:22:33 (MLi is done with DE comments) 
 
 comments/DEcomments.md
 
+Flow diagram: Does the media not influence policymakers? 
+They may not want to admit it, but I bet it does.  
+Reality might contain a dashed arrow from Media to Policymaker.  
+Evidence for such effects is something that the methodology could address perhaps.
 
-
-
-
-
+Obviously the later sections and figure captions need a lot of        + attention.
