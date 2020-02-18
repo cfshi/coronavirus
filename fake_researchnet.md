@@ -63,9 +63,27 @@ Suggested Institutes: Population and Public Health
 TODO:
 5 page proposal pdf
 
+MLi: We need to structure the proposal better. 
+
+- Page 1: Project overview + Research questions (Should be VERY CLEAR on page 1)
+
+- Page 2: Background (1/2 to 3/4 page) 
+
+- Page 2-3.5:  Methods (1.5-2 page)
+	- Data (3/4 page)
+	- Analysis (3/4 to 1 page)
+	- Deliverables (1/4 page)
+
+- Page 3.5 - 4: Research Setting and personnel (3/4 pages)
+
+- Page 4 Research timeline (1/4 - 1/2 page)
+
+- Page 5 Challenges and Mitiation Strategies (3/4 page)
+
+- Page 5 Conclusion/summary (1/4 page)
+
+
 Note: We actually included the reference list with the 10 page proposal for the rabies _project_ grant.
-
-
 
 
 ## Summary of Research Proposal
