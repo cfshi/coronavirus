@@ -37,7 +37,7 @@
 * _NiakGhaz19:_ Niakan Kalhori SR, Ghazisaeedi M, Azizi R, Naserpour A. [Studying the influence of mass media and environmental factors on influenza virus transmission in the US Midwest](https://www.ncbi.nlm.nih.gov/pubmed/30901605). Public Health 170:17-22 (2019).
  (NiakGhaz19) Studying the influence of mass media and environmental factors on influenza virus transmission in the US Midwest.
 * _WangHorb20:_ Wang C, Horby PW, Hayden FG, Gao GF. [A novel coronavirus outbreak of global health concern](https://www.ncbi.nlm.nih.gov/pubmed/31986257). Lancet Not found:2020 Jan 24 (2020).
- (WongHorb20)* comparison of coronavirus (2019-nCoV 19 vs.	MERS-CoV 12 vs. SARS-CoV 02)
+ (WongHorb20)* comparison of coronavirus (2019-nCoV 19 vs.MERS-CoV 12 vs. SARS-CoV 02)
 * _WallNerl05:_ Wallis P, Nerlich B. [Disease metaphors in new epidemics: the UK media framing of the 2003 SARS epidemic](https://www.ncbi.nlm.nih.gov/pubmed/15814187). Soc Sci Med 60:2629-39 (2005).
  (WallNerl05) sars media
 * _ZhouXiao19:_ Zhou W, Xiao Y, Heffernan JM. [Optimal media reporting intensity on mitigating spread of an emerging infectious disease](https://www.ncbi.nlm.nih.gov/pubmed/30897141). PLoS One 14:e0213898 (2019).
@@ -72,7 +72,11 @@
 * _ShinSeo16:_ Shin SY, Seo DW, An J, Kwak H, Kim SH, Gwack J, Jo MW. [High correlation of Middle East respiratory syndrome spread with Google search and Twitter trends in Korea](https://www.ncbi.nlm.nih.gov/pubmed/27595921). Sci Rep 6:32920 (2016).
  (ShinSeo16)* Google and twitter		
 * _SongSong17:_ Song J, Song TM, Seo DC, Jin DL, Kim JS. [Social Big Data Analysis of Information Spread and Perceived Infection Risk During the 2015 Middle East Respiratory Syndrome Outbreak in South Korea](https://www.ncbi.nlm.nih.gov/pubmed/28051336). Cyberpsychol Behav Soc Netw 20:22-29 (2017).
- (SongSong17)* data mining, media, mers
+ (SongSong17)* data mining, media, mers (Buzz with negative emotions (i.e., anxiety or fear) was more 
+prevalent in online discussion boards, Twitter, and online cafes than news sites.... In the face of a novel and highly 
+contagious disease such as MERS, the government must deploy a response system that includes provision and dissemination
+of reliable information and inhibits online diffusion of false
+information.)
 * _EmerSzcz14:_ Emery SL, Szczypka G, Abril EP, Kim Y, Vera L. [Are you Scared Yet?: Evaluating Fear Appeal Messages in Tweets about the Tips Campaign](https://www.ncbi.nlm.nih.gov/pubmed/25429162). J Commun 64:278-295 (2014).
  (EmerSzcz14) mining fear
 * [text mining and social media](https://study.sagepub.com/node/25861/student-resources/text-mining-and-social-media-when-quantitative-meets-qualitative-and) [Citation needed]
