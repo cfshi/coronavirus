@@ -12,6 +12,16 @@ The project will be organized around three Research Questions:
 
 - How can scientists and policy-makers evaluate and improve the effectiveness of their communication?
 
+## Methods
+
+We will systematically collect data from scientific publications; public-health websites; and traditional and social media. We will combine social-science, data-mining and machine-learning techniques to identify themes and frames, and to track the flows of good information and misinformation.
+
+We will then use techniques from statistical analysis, dynamical modeling and social science to investigate how information affects public behaviour, and study what factors allow communication to be effective.
+
+Finally, we will work with our public-health partners and others in public health to track misinformation and build effective messages in real time.
+
+We will also produce data streams, and analysis and tracking tools, which we will share publicly.
+
 ## Applicants
 
 Our scientific team is accomplished and multidisciplinary. The two principal applicants have a long history of influential research on disease outbreaks.  Our team includes computer scientists, social scientists, quantitative scientists a leading epidemiologist (Dr. Loeb) and a leading statistician (Dr. Bolker). We are well connected to public health through the PAs and particularly through our BCCDC co-applicants. We also have support from PHAC and KFL&A Public Health. Finally, we are well positioned to understand the early outbreak, since our team is well connected to the emergence region, with members based in China and Taiwan, and with connections to Singapore.
