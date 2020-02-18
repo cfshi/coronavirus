@@ -127,6 +127,12 @@ _ZaffLipp19:_ Zaffanello M, Lippi G, Arman N, Piazza M, Tenero L, Piacentini G. 
 _VermKish18:_ Verma M, Kishore K, Kumar M, Sondh AR, Aggarwal G, Kathirvel S. [Google Search Trends Predicting Disease Outbreaks: An Analysis from India](https://www.ncbi.nlm.nih.gov/pubmed/30443418). Healthc Inform Res 24:300-308 (2018).
  (VermKish18) google trend and disease outbreak
 
+## public communication
+* PMID: 24729025 (Ding14)
+* PMID: 29981075 (FarmSher18) 
+* PMID: 25936726(NowaShee15) vaccine
+* PMID: 31007618 (Tam18)
+
 ## Media in China
 
 * _FungHao15:_ Fung ICH, Hao Y, Cai J, Ying Y, Schaible BJ, Yu CM, Tse ZTH, Fu KW. [Chinese Social Media Reaction to Information about 42 Notifiable Infectious Diseases](https://www.ncbi.nlm.nih.gov/pubmed/25946020). PLoS One 10:e0126092 (2015).
