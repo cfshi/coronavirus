@@ -48,6 +48,7 @@ Sources += auto.rmu ## Old-style ref machinery
 Ignore += auto.bib
 
 auto.html: auto.rmu
+auto.md: auto.rmu
 auto.bib: auto.rmu
 
 ## Notes: the html seems highly unstable; downloads a lot, doesn't always get the right download? We can see html switching on and off
