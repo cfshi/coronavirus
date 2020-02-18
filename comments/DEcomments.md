@@ -1,4 +1,3 @@
-
 # comments based on version 2020/02/17 16:22:33
 
 - line 5: What process?  You haven't specified one.
@@ -33,3 +32,4 @@
 - line 229 (figure).  Does the media not influence policymakers? They may not want to admit it, but I bet it does.  Reality might contain a dashed arrow from Media to Policymaker.  Evidence for such effects is something that the methodology could address perhaps.
 - obviously the later sections and figure captions need a lot of attention.
 - feels like a fascinating project -- hopefully reviewers will agree.
+>>>>>>> f2c48130ff471e5b305e5507dc093f5f9e840b05
