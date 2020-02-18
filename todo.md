@@ -1,7 +1,7 @@
 
 ## Proposal
 
-More about discrimination
+More about discrimination (or clean up others, at least)
 
 Think more about the third challenge.
 
