@@ -17,7 +17,7 @@
 
 ## media and culture
 
-* [Culture and infectious disease](https://psycnet.apa.org/record/2010-25777-003) [Citation needed]
+* [Culture and infectious disease](https://psycnet.apa.org/record/2010-25777-003) (SchaMurr11) [Citation needed]
 
 ## Influenza (public health) and Media:
 
@@ -82,6 +82,7 @@ information.)
 * [text mining and social media](https://study.sagepub.com/node/25861/student-resources/text-mining-and-social-media-when-quantitative-meets-qualitative-and) [Citation needed]
 * _Park14:_ Parks MR. [Big Data in Communication Research: Its Contents and Discontents](http://dx.doi.org/10.1111/jcom.12090) [(McMaster link)](http://dx.doi.org.libaccess.lib.mcmaster.ca/10.1111/jcom.12090). Journal of Communication 64:2014 (2014).
  (Parks chapter)
+* https://www.sciencedirect.com/science/article/pii/S2352900816000029 (qualitative content analysis) (Beng16)
 
 ## qualitative anaysis
 	
