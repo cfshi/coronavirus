@@ -51,7 +51,7 @@ auto.html: auto.rmu
 auto.md: auto.rmu
 auto.bib: auto.rmu
 
-## diff content.tex.c598f17f4ef0.oldfile content.tex > diff.oldfile
+## content.tex.bd1a1f792ecf5efd40cdcd9bdf6df57c106bdae0.oldfile
 
 ## Proposal
 Sources += cihr_proposal.tex appendix.tex content.tex
