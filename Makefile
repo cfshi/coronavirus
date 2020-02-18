@@ -44,7 +44,7 @@ questions.gh.html: questions.mkd
 Drop = ~/Dropbox
 
 Sources += auto.rmu ## Old-style ref machinery
-Ignore += auto.bib
+Ignore += auto.bib auto.md
 
 auto.html: auto.rmu
 auto.md: auto.rmu
