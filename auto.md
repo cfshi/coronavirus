@@ -3,6 +3,8 @@
 	
 * _Bell04:_ Bell DM. [Public health interventions and SARS spread, 2003](https://www.ncbi.nlm.nih.gov/pubmed/15550198). Emerg Infect Dis 10:1900-6 (2004).
  (BellWho04)* WHO and SARS and Policy***
+* _GlasMcAt06:_ Glass TA, McAtee MJ. [Behavioral science at the crossroads in public health: extending horizons, envisioning the future](https://www.ncbi.nlm.nih.gov/pubmed/16198467). Soc Sci Med 62:1650-71 (2006).
+ (GlasMcAt06)
 * _OhlrSugg18:_ Ohlrogge AW, Suggs LS. [Flu vaccination communication in Europe: What does the government communicate and how?](https://www.ncbi.nlm.nih.gov/pubmed/29703556). Vaccine 36:6512-6519 (2018).
  (OhlrSugg18)*** Vaccinationa and what and how does government communication
 * _RimaLapi09:_ Rimal RN, Lapinski MK. [Why health communication is important in public health](https://www.ncbi.nlm.nih.gov/pubmed/19551226). Bull World Health Organ 87:247-247a (2009).
