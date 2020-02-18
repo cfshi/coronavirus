@@ -3,7 +3,7 @@
 
 \head{Project overview}
 
-During disease outbreaks of international concern, like SARS, pH1N1, WAEO \jd{fill in better names with dates} or the current COVID-19 outbreak, this process is both compressed and amplified. The stakes also become higher, because public behaviour directly affects the spread of infectious disease: people who avoid large gatherings may slow disease spread, while people who flee infected areas may accelerate it, for example. Excessive fear of disease spread can have severe economic effects, and may also lead to bias and discrimination against groups seen as linked to the disease, or merely seen as others.
+During disease outbreaks of international concern, like 2003 SARS, 2009 H1N1, 2014 Ebola, 2016 Zika \jd{fill in better names with dates} \mli{filled, delete comment if approved} or the current COVID-19 outbreak, this process is both compressed and amplified. The stakes also become higher, because public behaviour directly affects the spread of infectious disease: people who avoid large gatherings may slow disease spread, while people who flee infected areas may accelerate it, for example. Excessive fear of disease spread can have severe economic effects, and may also lead to bias and discrimination against groups seen as linked to the disease, or merely seen as others.
 
 The proposed research will study how information flows between forums, including scientific publications; governmental policies and agency recommendations; and mass and social media -- and investigate how it affects public perceptions and behaviours. 
 Our inter-disciplinary group will analyze these flows by combining textual and contextual analysis; AI-assisted human-supervised data mining; time-series analysis; and dynamical modeling. We will study how good information competes with misinformation, and look for factors correlated with successful spread of good information. 
@@ -30,7 +30,11 @@ There are other complicating factors. An outbreak of global concern represents a
 It's known that traditional media can have strong influence on public perceptions, creating fear by overestimating risk during the SARS outbreak \citep{BerrWhar07} and the influenza pandemic \citep{TchuDube11}, or feeding into bias -- e.g., anti-Chinese bias during the SARS crisis \citep{HuanLeun06}.  Media is also the tool public health authorities rely on to promote their concerns and recommendations during health risk outbreak.  Understanding media effect on disease spread (e.g., media attention increases self-protection) can help enhance epidemic forecasting and preventive measures to slow the disease spread \citep{KimFast19}.  
 \jd{Moved doi to auto.rmu. CHYUN delete this or lmk I can delete it.}
 
-While traditional news media (including online presence) remains influential,  social media plays an increasing role in shaping how we communicate and understand information \citep{LiuSieg19}. Social media can play a positive role spreading good information, \cite{BascHill20, SunYang20,AhmeQuin18},  but may also spread misinformation and feed bias \citep{ChouOhA18, McKevanS19}.  Since the initial reports of cluster of acute severe respiratory disease (COVID-19) and the potential for global spread, there has been widespread discussion and dissemination of information through social media \citep{?}.
+While traditional news media (including online presence) remains influential,  social media plays an increasing role in shaping how we communicate and understand information \citep{LiuSieg19}. Social media can play a positive role spreading good information, \cite{BascHill20, SunYang20,AhmeQuin18},  but may also spread misinformation and feed bias \citep{ChouOhA18, McKevanS19}.
+\mli{inserting Naveed's comment here, not sure if we need: ``Misinformation is mainly coming from non-medical community and various groups promoting their political or strategic interest or even without any interest.''}
+Since the initial reports of cluster of acute severe respiratory disease (COVID-19) and the potential for global spread, there has been widespread discussion and dissemination of information through social media \citep{?}.
+\mli{Inserting Naveed's comment around here. I like it but sure if we need it. ``However, there have been exchanges and disagreements between scientists on the likely risk and spread of disease, and validity of claims and creditability of these scientists have been questioned.''}
+
 \jd{What should we put back here? What do we want from \citep{YousDara19}? Is there a more recent cite about twitter and pandemics than \citep{ChewEyse10}?}  
 
 \jd{More about how information spreads from scientists and policy makers to social media (both directly and indirectly). Not sure we need google trends here; we can talk about it nicely in metrics, I hope.}
@@ -56,7 +60,7 @@ We will include the top Mandarin-language newspapers in both Canada and the USA.
 We will efficiently collect data from Twitter and Weibo by purchasing API access, using data going back to November 2020 -- before the epidemic started -- to give a baseline for comparison. 
 
 \subsubhead{Public response}
-Twitter (and Weibo) data will give us information not only on information flows,but also on public interest and attitudes. We will also probe public interest and concern using publicly available data from GoogleTrends, which tabulates frequency of searches (by search times and topics) in various regions across the world \cite{BousAgac17, MahrBrag19}.
+Twitter (and Weibo) \mli{I suggest we take out Weibo unless someone on the team signs it off and know how it works and how hard it is to get data} data will give us information not only on information flows,but also on public interest, attitudes and topics being discussed on the social media. We will also probe public interest and concern using publicly available data from GoogleTrends, which tabulates frequency of searches (by search times and topics) in various regions across the world \cite{BousAgac17, MahrBrag19}.
 Economic data relating to the outcome of the COVID-19 outbreaks will be gathered as reference for contextual analysis (see below): for example, travel, movies box offices, cancellation of public events.
 
 \subhead{Analysis}
@@ -65,6 +69,9 @@ Economic data relating to the outcome of the COVID-19 outbreaks will be gathered
 
 We will use both human coders and AI approaches for textual analysis of scientific papers, government recommendations, mass media and social media. Coders will develop codebooks based on scanning information, then refine these codebooks while systematically coding a randomly subset of articles from each stream. Codebooks will contain both themes and frames for the analysis.  We will train AIs built using established approaches for textual analysis to these human-scored articles. Programmers will work back and forth with coders and subject-matter experts to reach a final codebook that is consistent with study aims and can be scored reliably by computer, allowing us to review a very large number of articles.  
 This approach will allow us to scan for tweets (and Weibos) spreading misinformation in real time. Such information would be shared with public-health practicioners to assist with counter-messaging strategies.
+\mli{Naveed: This covers most of it. However, we had ad discussion that we could start with  aspect based sentiment analysis and topic modeling, which will require relatively less human involvement. 
+Traditional classification algorithms that we use require a coded data as you proposed but the amount of coded data to make it work may take some time to get developed while sentiment analysis and topic modeling could start the text analysis process.}
+
 
 \subsubhead{Time-series analysis}
 
@@ -72,6 +79,7 @@ We will use cross-correlation analyses to look for indicators that information i
 Cross-correlation analysis is complicated and prone to false-positive results. Importantly, therefore, we will be able to use the cross-correlation analysis to generate hypotheses that can be checked by more detailed textual analysis. For example, if we hypothesize that tweets about fatalities are being driven at a certain time and place by mass media, or by government policies, we can sample from those tweets and examine them for detailed information or citations; if we hypothesize that a trend in self-isolation is driven by social media, we can search for mass media stories that interview people about their motivation. The ability to compare large-scale trends with detailed texts should amplify our pattern to detect and confirm patterns.
 
 \subsubhead{Dynamical modeling} Dynamical modeling provides the link between individual events and emergent phenomena. We will make a range of simple dynamical models to further probe our time-series results by asking what mechanisms may underlie our observed connections, and what these connections might imply for the future. Dynamical models will allow us to explore hypotheses about what factors affect behaviour, and also to explore new hypotheses about how changes in behaviour are likely to loop back to disease transmission or to panic responses that might lead to shortages or to impacts on regional economies or the global economy.
+\mli{Naveed:This is not clear to me what we are trying to model here and how this will link back with the other themes.}
 
 \subsubhead{Contextual analysis} Contextual analysis will be studied by the researchers.  Media content and information are often socially and politically cultivated \cite{}.  We will implement contextual analyses of the quantitative findings and elaborate how information is framed and disseminated in this uncertain circumstances into context.  Textual analysis using AI is reliable and efficient in terms of data mining.  However, it can be insufficient in understanding what contents connote.  For example, meanings signified in the public reactions to shortage of face masks in Toronto is likely different from  the areas where are heavily impacted with COVID-19 epidemically.  Without referring to circumstance, we will miss what the results signify and its impact on the public.  To amend this issue, we will conduct contextual analysis \citep{} to elaborate the results of textual analysis of tweets and news and uncover its social and cultural perspectives of the text meanings.
 Final stage of our data analysis,  we will plot google trends data, the daily infected cases and fatality and frequency and main themes of media coverage and tweets,  we expect to construct a proxy indicator for information dissemination and public reaction to the outbreak.  This provides a platform for the contextual analysis and uncover the communication flow among the four forums.
@@ -79,8 +87,12 @@ Final stage of our data analysis,  we will plot google trends data, the daily in
 \subhead{deliverables}
 
 \begin{itemize}
-\item{software}
-\item{Communication: Writing papers is certainly one, but we should be tweeting and etc. What are communication platforms we should be communicating in?}
+\item{software \mli{Naveed:Describe what kind of software. I was envisioning a tool that runs on Twitter stream data and classifies tweets based on contents as well as significance in terms of influence ( how much it has potential to spread based on following network or influencer.  
+See paper for classification of influencers. \url{https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-019-6747-8} }
+\item{Communication: Writing papers is certainly one, but we should be tweeting and etc. What are communication platforms we should be communicating in?
+\mli{Naveed: It depends on objective, would we be doing counter messaging or public health. 
+The way I was envisioning, creating a tool to identify and alert public health communication team and they addressing it through tweets or other means. }
+}
 \end{itemize}
 
 \head{Research Setting \& Personnel}
@@ -91,10 +103,13 @@ The research will principally take place at McMaster University.
 Nominated principal applicant Dr.\ David J.D. \textbf{Earn} (6 hours per week) led the creation of the International Infectious Disease Data Archive [33] and has expertise in gathering and curating infectious disease data, and in dynamical modelling.
 Principal applicant Dr.\ Jonathan \textbf{Dushoff} (4 hours per week) is an internationally recognized expert in infectious disease modelling, has extensive experience with statistical frameworks for fitting models to data, and has been involved in the Ebola challenge and other forecasting projects. 
 Co-Applicant Dr.\ Benjamin \textbf{Bolker} (5 hours per week) is a highly accomplished ecological statistician with extensive experience in spatial-dynamical modeling, statistical modeling and statistical software.
+Co-Applicant Dr.\ Naveed Z. \textbf{Janjua} (5 hrs week) leads data and analytic services at the BCCDC and was involved in the 2009 H1N1 pandemic response; during pandemic, lead or contributed to studies on  immuno-epidemiology of pandemic H1N1, household transmission, modelling, effect of prior seasonal vaccine receipt on pandemic H1N1 infection risk and pandemic vaccine effectiveness. 
 Co-Applicant Dr.\ Chyun-Fung \textbf{Shi} (40 hours per week), post-doctoral researcher, has ...
 Co-Applicant Dr.\ Michael \textbf{Li} (5 hours per week), post-doctoral researcher, has focused his research on epidemic forecasting and is experienced working with large databases. 
 
 \head{Research Time line}
+\mli{not sure if we need this section, but CIHR want to see we are working on things and are ready to do more work.}
+\mli{Naveed's postdoc HyeJu has already started working on getting twitter data and starting to analyze it to make sense.}
 
 \subhead{Year 1}
 
@@ -108,10 +123,18 @@ In addition to a grand one paper, we plan to transfer findings into subgroups, s
 \item{Potential to contribute to the global response to COVID-19}
 \item{Social and policy countermeasures and Global Coordination Mechanism}
 \end{itemize}
+\mli{Naveed: Data for public health response. Our provincial health officer is asking for data and today there was a visit from Federal Health Minister and BC Health Minister to Richmond related to affect on Chinese community. 
+
+We could say; We will work with public health teams to inform their communicate strategies tackling misinformation and design a tool for real-time monitoring and tackling misinformation. 
+
+We will also provide data on magnitude of discriminatory information and its geographical origin to tackle discrimination. }
 
 \head{Challenges and Mitigation Strategies}
 
 Social media in China is to included due to data availability.   Social media such as twitter and Facebook are barred in China and WeChat does not share their database. Yet, there are information and coverage about the outbreak inside China in the media.  We will categorize people’s reaction and understanding of COVID-19  on the news content or the tweets to supplement our results.
+
+\mli{We are not done, and we know data limitation is a problem, adding Naveed's comment anyway.}
+\mli{Naveed: What about Weiboo. Good to highlight that data may not be available or limited in scope. Other mechanism of collecting that data e.g., web crawler for data available in public domain.} 
 
 
 \subsubhead{Data curation} 

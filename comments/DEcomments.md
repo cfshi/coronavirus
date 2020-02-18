@@ -1,0 +1,35 @@
+
+# comments based on version 2020/02/17 16:22:33
+
+- line 5: What process?  You haven't specified one.
+- line 10: What does "seen as others" mean?
+- line 25: Maybe add acronym defn:  "...three Research Questions (RQs):"
+- lines 27,30,32: Put "Research sub-area" in italics and end with a colon.
+- line 30: "public health response" isn't right.  Perhaps something like "Behavioural responses and effects on outbreaks"?  btw, my various papers combining game theory and epi modelling are relevant to this question:
+	- https://davidearn.mcmaster.ca/publications/BauchEtAl2003
+	- https://davidearn.mcmaster.ca/publications/BauchEarn2004
+	- https://davidearn.mcmaster.ca/publications/MolinaEarn2015
+- line 36: "infectious outbreak" --> "infectious disease outbreak"
+- line 46: "It's" --> "It is".  avoid contractions.
+- line 46: "have strong influence on" --> "strongly influence"
+- line 50: "during health risk outbreak" --> "during outbreaks".  Also "effect" --> "effects".
+- line 55: "increasing role" --> "increasingly important role"
+- line 57: "cluster" --> "a cluster"
+- line 73: "20" --> "2020"
+- line 79: "pages" --> "web pages"
+- line 82: "December" --> "December 2019"
+- line 84: "USA" --> "the USA"
+- line 87: "2020" --> "2019"
+- line 90: missing space after comma
+- line 100: "randomly subset" --> "randomly selected subset"
+- line 128: "Contextual analysis will be studied by the researchers."  That says nothing to me. I suspect you meant something else. If you meant "conducted" rather than "studied" then it would make more sense to me, but would be completely unnecessary to state.
+- line 129: "implement" --> "conduct" (?)
+- line 131: "in this uncertain circumstances into context".  I don't understand this phrase.
+- line 132: "it can be insufficient in understanding what contents connote" --> "it can be insufficient to explain the connotations of textual content" (?)  The rest of this paragraph needs to be cleaned up grammatically.  I'm hesitant to try to do that because I am not sure I understand what is being proposed.
+- line 145: Perhaps combine the tweets with a blog, which would engage different audiences.  The tweets could summarize more elaborate blog posts.  I have no experience writing either a blog or tweets myself...
+- line 148: "outbreak" --> "outbreaks"
+- line 151: ref 33 does not exist.  There are only 12 refs.
+- line 152: you could add something along the lines of ", including modelling the influence of individual decision-making on epidemic dynamics".
+- line 229 (figure).  Does the media not influence policymakers? They may not want to admit it, but I bet it does.  Reality might contain a dashed arrow from Media to Policymaker.  Evidence for such effects is something that the methodology could address perhaps.
+- obviously the later sections and figure captions need a lot of attention.
+- feels like a fascinating project -- hopefully reviewers will agree.
