@@ -3,10 +3,8 @@
 
 More about discrimination
 
-Clean up references
-
 Think more about the third challenge.
 
-Antoer s. aobut dynamical modleing
+Another s. about dynamical modeling
 
 ## Other

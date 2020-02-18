@@ -142,6 +142,16 @@ but no study has applied SML to examine normative trends across media outlets."
 * _VermKish18:_ Verma M, Kishore K, Kumar M, Sondh AR, Aggarwal G, Kathirvel S. [Google Search Trends Predicting Disease Outbreaks: An Analysis from India](https://www.ncbi.nlm.nih.gov/pubmed/30443418). Healthc Inform Res 24:300-308 (2018).
  (VermKish18) google trend and disease outbreak
 
+## public communication
+* _Ding14:_ Ding H. [Transnational quarantine rhetorics: public mobilization in SARS and in H1N1 flu](https://www.ncbi.nlm.nih.gov/pubmed/24729025). J Med Humanit 35:191-210 (2014).
+ (Ding14)
+* _FarmSher18:_ Farmanara N, Sherrard L, Dube E, Gilbert NL. [Determinants of non-vaccination against seasonal influenza in Canadian adults: findings from the 2015-2016 Influenza Immunization Coverage Survey](https://www.ncbi.nlm.nih.gov/pubmed/29981075). Can J Public Health 109:369-378 (2018).
+ (FarmSher18) 
+* _NowaShee15:_ Nowak GJ, Sheedy K, Bursey K, Smith TM, Basket M. [Promoting influenza vaccination: insights from a qualitative meta-analysis of 14 years of influenza-related communications research by U.S. Centers for Disease Control and Prevention (CDC)](https://www.ncbi.nlm.nih.gov/pubmed/25936726). Vaccine 33:2741-56 (2015).
+(NowaShee15) vaccine
+* _Tam18:_ Tam T. [Fifteen years post-SARS: Key milestones in Canada's public health emergency response](https://www.ncbi.nlm.nih.gov/pubmed/31007618). Can Commun Dis Rep 44:98-101 (2018).
+ (Tam18)
+
 ## Media in China
 
 * _FungHao15:_ Fung ICH, Hao Y, Cai J, Ying Y, Schaible BJ, Yu CM, Tse ZTH, Fu KW. [Chinese Social Media Reaction to Information about 42 Notifiable Infectious Diseases](https://www.ncbi.nlm.nih.gov/pubmed/25946020). PLoS One 10:e0126092 (2015).

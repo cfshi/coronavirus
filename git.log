@@ -1,3 +1,22 @@
+commit 6709a97d8e9844d76fec4d86d89440b95d2ff583
+Merge: acdca6a 0b9fc34
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Tue Feb 18 14:59:31 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit acdca6a5e39c0b55573e30c512e3974d1bcb96d6
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Tue Feb 18 14:59:30 2020 -0500
+
+    merge with mike
+
+commit 0b9fc345e1437a8ca672d5a35ef66c028d48d2a4
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Tue Feb 18 14:33:39 2020 -0500
+
+    pushing summary
+
 commit 6d7356db627c3fe325adb9c1e6003d9529418498
 Author: Jonathan Dushoff <dushoff@mcmaster.ca>
 Date:   Tue Feb 18 14:33:09 2020 -0500
@@ -163,7 +182,7 @@ Date:   Tue Feb 18 03:10:52 2020 -0500
 
     THIS SHOULD BE M's LAST COPY, NEED TO SLOWLY ADD C's CHANGES FROM fd9a482
 
-commit 85e864f6f1dce91b90c7df29068c5d51c45cf2db
+auto.md.85e864f6f1dce91b90c7df29068c5d51c45cf2db.oldfile
 Author: fishforwish <chyun.shi@gmail.com>
 Date:   Tue Feb 18 03:07:47 2020 -0500
 
