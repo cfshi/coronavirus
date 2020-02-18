@@ -1,0 +1,2332 @@
+commit 6d7356db627c3fe325adb9c1e6003d9529418498
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Tue Feb 18 14:33:09 2020 -0500
+
+    fix fixable citations
+
+commit c481cedbe12604bc83b10e0107c71bcb7df95b35
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Feb 18 13:29:32 2020 -0500
+
+    Update auto.rmu
+
+commit 44f4b66ec7b949998d2b28ca26e2a3f46a5a8bcf
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Feb 18 13:28:47 2020 -0500
+
+    Update auto.rmu
+
+commit d064fecdf4a9043f772ecf764c8f8226cd618871
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Feb 18 13:27:41 2020 -0500
+
+    Update auto.rmu
+
+commit 1ddedb73cdbc3eb75bef29aa4eb2306962d03d3c
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Tue Feb 18 13:14:10 2020 -0500
+
+    Coffee!
+
+commit e99d43e13549ef35f7e102b4194b3bdaf6fca593
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Feb 18 13:02:07 2020 -0500
+
+    Update auto.rmu
+
+commit 59e647a7463d82dec827e7a9ae665bfd41a45e26
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Tue Feb 18 12:44:52 2020 -0500
+
+    getting rid of mli's silly comment
+
+commit 36f7211b56812f589220896edca68f4b74a450b2
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Feb 18 12:43:10 2020 -0500
+
+    Update auto.rmu
+
+commit ee1f2545843a8869f9359f3d8d687539337f9d0b
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Feb 18 12:34:13 2020 -0500
+
+    Update core.md
+
+commit ba94eb966d17514fa81ba2cf011c9cb5462baa49
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Tue Feb 18 12:29:18 2020 -0500
+
+    lunchtime draft
+
+commit 88e82a3203884d02620e9c3f01d59baf18d07040
+Merge: 9982db3 36d943a
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Tue Feb 18 12:22:06 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit 9982db3052de6042231303d9c5b70ab485a503ff
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Tue Feb 18 12:22:06 2020 -0500
+
+    Merge with Mike Mike
+
+commit 36d943aaa2d0bc24883cb532eafe38612ac25d1e
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Tue Feb 18 12:19:28 2020 -0500
+
+    pushing S4
+
+commit efbf331eb029f87a3bf4a0fad577330bd0ae0f63
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Tue Feb 18 11:35:02 2020 -0500
+
+    Not quite sure what's going on with this push ☺
+
+commit c8850d710794de958a21bf3f615a6434ba0ee716
+Merge: 4b90076 e01c2ab
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Tue Feb 18 10:57:22 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit 4b90076757a0f6427ec8c4299f34090e3421145d
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Tue Feb 18 10:57:21 2020 -0500
+
+    Want to share with Chyun
+
+commit e01c2ab48b0ba956ef999516e19d2f1a1dcc6fbf
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Feb 18 10:54:10 2020 -0500
+
+    Update auto.rmu
+
+commit bdd2d3dd06c3292385debc8ae9a452b534151271
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Tue Feb 18 10:34:02 2020 -0500
+
+    Rescue opening ¶!
+
+commit bd24bc024ddcb87e4d694864b2a173951f925e00
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Tue Feb 18 10:14:56 2020 -0500
+
+    cleaning
+
+commit e15d95d92617404d2b8def28d251b3e0fc91541b
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Tue Feb 18 03:27:34 2020 -0500
+
+    Pushed, going to sleep
+
+commit 217fb5436d6abce8d81bf38e868b8ca84a62c573
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Tue Feb 18 03:24:08 2020 -0500
+
+    16b3370 COMPLETE, I THINK WE ARE UP TO DATEgit add content.tex
+
+commit 43dd1f057f9b6bec95240bbea40cc9b94fdf7cf9
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Tue Feb 18 03:19:14 2020 -0500
+
+    df41ad3 COMPLETE, MOVING TO 16b3370
+
+commit e08e44f9841917eb5231c78ad157bbb90171b386
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Tue Feb 18 03:17:26 2020 -0500
+
+    fd9a482 COMPLETE, MOVING TO df41ad3
+
+commit 07e1a57b9a81798f672ec4d559d8466534998848
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Feb 18 03:14:51 2020 -0500
+
+    Update core.md
+
+commit 859c16571b875501f644c5fb6c036dcb511e8be9
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Feb 18 03:14:31 2020 -0500
+
+    Update core.md
+
+commit b983a5a6812e50b206cc6495b2878c763aabb249
+Merge: 37575b5 85e864f
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Tue Feb 18 03:11:06 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit 37575b575987c377bd53939b49d0d879ceba7572
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Tue Feb 18 03:10:52 2020 -0500
+
+    THIS SHOULD BE M's LAST COPY, NEED TO SLOWLY ADD C's CHANGES FROM fd9a482
+
+commit 85e864f6f1dce91b90c7df29068c5d51c45cf2db
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Feb 18 03:07:47 2020 -0500
+
+    Update auto.md
+
+commit e20b54cabf5b86af1912f56978acbd78f3f8eed9
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Tue Feb 18 03:06:30 2020 -0500
+
+    STOPgit add content.tex  PUSHING THIS MESSAGE SO I CAN START THE RESCUE MISSION AT 1043c6
+
+commit 16b3370eaaff96386bd33c08470924acc8409e31
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Feb 18 02:51:17 2020 -0500
+
+    Update content.tex
+
+commit 18bd07b92914d971b21c80d16f369f2ae4e0811c
+Merge: 75ff615 df41ad3
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Tue Feb 18 02:41:06 2020 -0500
+
+    PLEASE NO MORE MERGE CONFLICTS
+
+commit 75ff615b086c77af175dfe1dc3689257c64da9b7
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Tue Feb 18 02:36:01 2020 -0500
+
+    fixed naveed's intext comments
+
+commit df41ad3ec7b550ba4532b67c7cec03284bc2dc64
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Feb 18 02:18:31 2020 -0500
+
+    Update content.tex
+
+commit fd9a482ea3675fe7077ec2acda22ab7b21fdbeb2
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Feb 18 02:14:25 2020 -0500
+
+    Update content.tex
+
+commit b1276e5dc2097015b12fe77b71f5ed0a45fa3af9
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Feb 18 02:12:22 2020 -0500
+
+    Update core.md
+
+commit 09f369e5913262664bf64b33b47a327e634bf7bb
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Feb 18 02:11:09 2020 -0500
+
+    Update auto.rmu
+
+commit 1043c606ff2998591e33110822ac09bbe7223ebc
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Tue Feb 18 02:04:01 2020 -0500
+
+    merge hyeju's intext comments to content, going back to update naveeds
+
+commit 3ea2b1f6c5fb3a5c3f6ec7d479f8d177e8229626
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Feb 18 00:50:51 2020 -0500
+
+    Update auto.rmu
+
+commit eaa961048009d0e61b457155921aa601c36e8e6c
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Feb 18 00:17:22 2020 -0500
+
+    Update content.tex
+
+commit 096b2c99c739664094cb42b49c0fd80d8804992a
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 23:39:39 2020 -0500
+
+    Update auto.rmu
+
+commit 367693f59b6a615229d7cf05c638208179f2ac0f
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 23:23:28 2020 -0500
+
+    compile auto.md
+
+commit 73e423cc3a484b7bb639f232500196b498f5f395
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 23:22:49 2020 -0500
+
+    night
+
+commit 8319a7cab9a48314accfd24ea3ad209d90d39484
+Merge: 50c1890 cf442ba
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 22:39:47 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit 50c1890c21075014f405ac7e544f7d8e75b45448
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 22:39:46 2020 -0500
+
+    Not much progress, but it might be ok
+
+commit cf442ba9cbbcf2f4983f79e1788bc7b4c51d1c05
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 22:29:41 2020 -0500
+
+    Update auto.rmu
+
+commit e4548ce5014007f4649894fadfd1515342e650b6
+Merge: bed00d2 0530023
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 22:07:49 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit bed00d21ab4085465aa23d561881e7d1959edec1
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 22:07:48 2020 -0500
+
+    git_push auto.md
+
+commit 0530023bd7605f02a4547e78afa65e52aa6fcdf1
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 22:00:33 2020 -0500
+
+    Update auto.rmu
+
+commit 9d5ba1d08ceffe4b3374adf3cb2b3fe05764b4e2
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 21:59:19 2020 -0500
+
+    Update auto.rmu
+
+commit efd52ab7a1c44e8e3471e256693fb7b3e1631845
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 21:51:14 2020 -0500
+
+    don't include appendix
+
+commit 08ec5f9fe2e51c730ab85adb7147e4411015e21d
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 21:27:10 2020 -0500
+
+    Update meeting_notes.md
+
+commit a5d8fefda09b762efc3a1e0f852e459592c5ff61
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 21:00:00 2020 -0500
+
+    Basic rmu organization
+
+commit 5744c0b52e4843dbee28775551e188a8bf6866c6
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Mon Feb 17 19:48:52 2020 -0500
+
+    finish adding DE comments, we can go back and see if I left something out via git
+
+commit 3d0a4064bc7bf4d5723e9be57b8e3b1c47122689
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Mon Feb 17 19:19:14 2020 -0500
+
+    going to do DE comment within content.tex
+
+commit decf5a16daab4d421efe53496c87ca97aacdf344
+Merge: 00d997b f2c4813
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Mon Feb 17 19:13:18 2020 -0500
+
+    hopefully fix merge conflict
+
+commit 00d997b17ebbc13292d98306cb65fe17054abe23
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Mon Feb 17 19:11:27 2020 -0500
+
+    done merging Naveed's comments, working on merging DE comments
+
+commit f2c48130ff471e5b305e5507dc093f5f9e840b05
+Merge: d161a51 8cf2c32
+Author: David Earn <earn@math.mcmaster.ca>
+Date:   Mon Feb 17 18:44:38 2020 -0500
+
+    Merge branch 'master' of github.com:cfshi/coronavirus
+
+commit d161a51ad0020db08d9a8ee702cdc0f912b8de9b
+Author: David Earn <earn@math.mcmaster.ca>
+Date:   Mon Feb 17 18:44:28 2020 -0500
+
+    David's comments on version 2020/02/17 16:22:33
+
+commit 8cf2c32988be4954d877a474a0583789bb0cacda
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Mon Feb 17 18:19:05 2020 -0500
+
+    I think we more or less met the evaluation criteria
+
+commit 9a74e94f4708c394af2e54a03f5c4be7f8d8e068
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Mon Feb 17 18:12:05 2020 -0500
+
+    time to work on content. go back to summary after I have a better understanding of content
+
+commit 32fe9eab1fc2059149090d2ffff87a8ae30a3bb3
+Merge: 7d36c29 fd7b8af
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 17:39:57 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit 7d36c29ee6c0a6feabc41763389ef55f6a803c75
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 17:39:57 2020 -0500
+
+    cleaning
+
+commit 05b1ab5e7f8786500224cb3f96bf445e1a193cc4
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 17:38:46 2020 -0500
+
+    Should I go home?
+
+commit fd7b8af20b231b8afa3a0bffacde642e99f37adf
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Mon Feb 17 17:05:13 2020 -0500
+
+    temp pushing summary and comments
+
+commit d3490530d7dbccdb051dd607687fd92326606131
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 16:24:51 2020 -0500
+
+    dynamics
+
+commit 5535e3dc27dc894a913feff9ead39250d3bdc5b1
+Merge: 0d69351 828ac82
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 16:13:59 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit 0d69351104f6bfbc789d21b30781710a9b44b1c6
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 16:13:59 2020 -0500
+
+    pull after sfu
+
+commit 828ac82b3cf4ddea75e29c78541c91bcd38b93f3
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Mon Feb 17 15:49:55 2020 -0500
+
+    pushing WHO stuff
+
+commit b0984a191e6938d222c4353c94697ffafe0cf1cc
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 15:37:23 2020 -0500
+
+    Update auto.rmu
+
+commit e0b6512c2e65248e619b1b64cb31f24af25beb30
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 15:01:06 2020 -0500
+
+    Update auto.rmu
+
+commit ac8c7ed3f63d12a3d77761083f7a8958827f31a8
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 14:43:06 2020 -0500
+
+    Update auto.rmu
+
+commit 358b0149be18e5c224d4548adf842225244e6fad
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 14:35:40 2020 -0500
+
+    Cleaning a bit
+
+commit 5be3eba17ea5e03fabde1b424e96ce462913ca46
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 14:34:14 2020 -0500
+
+    Fix embarrassing comment-syntax problem
+
+commit 489d6c855a0c5ed404ff50036f8219bbad824df8
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 14:33:28 2020 -0500
+
+    Something about time series.
+
+commit 1bd841c4e180149d0c3d87f76e2da97c03fc0820
+Merge: b7a4065 6e225ac
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 14:11:47 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit b7a40654ec30895bca259d723ee764ef8d81ea4a
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 14:11:46 2020 -0500
+
+    proposal for Naveed
+
+commit 6e225acfd02750cc453152ac94929375e90aa601
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Mon Feb 17 14:03:10 2020 -0500
+
+    fussing with the names
+
+commit 701568bf6494ab28d7d4c63ca156fea9b86b5e67
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Mon Feb 17 13:50:56 2020 -0500
+
+    updating researchnet task
+
+commit 05d30523db05c32f589862301c4290f842042f02
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 13:38:29 2020 -0500
+
+    Update auto.rmu
+
+commit 974cad0bc0a1590bea2cfb706a4683722ad491b7
+Merge: 3b06890 4d0d92b
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 13:33:50 2020 -0500
+
+    finish merge?
+
+commit 3b06890a86e0498e46aabb9a8cb66f64e9f5c481
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 13:33:08 2020 -0500
+
+    merge with Chyun
+
+commit 4d0d92b7657394421ebc4b17c0e2bfcaabf5fe5d
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 13:31:48 2020 -0500
+
+    Update meeting_notes.md
+
+commit 811c2312411fac8850a843fc8188eedeeb0b300e
+Merge: 7309211 1887121
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Mon Feb 17 13:31:31 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit 188712127c9f05c82213196f9818908e665cd564
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 13:28:13 2020 -0500
+
+    Update meeting_notes.md
+
+commit 827e1efe19c1b06bba50b59e388835a533f020d3
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 13:27:11 2020 -0500
+
+    Update auto.rmu
+
+commit 5e60617734020aef43dabf52a71e24bded9413ad
+Merge: a6882e0 d0b9eef
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 13:21:01 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit a6882e06e8aca35a6fe9e13910ad3e3b5c288757
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Mon Feb 17 13:21:01 2020 -0500
+
+    sync
+
+commit 73092115d4591ad3ee4299b42eb0db2a9db2114e
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Mon Feb 17 13:06:33 2020 -0500
+
+    updating todo
+
+commit d0b9eef59a04b1fb7ed2050533edc7c3d92bf9c0
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 12:47:00 2020 -0500
+
+    Update auto.rmu
+
+commit b8504c67ad429847c989d563065796a7c1ca371a
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 12:46:41 2020 -0500
+
+    Update auto.rmu
+
+commit 1a70d43a7b16659d693c613b707ad49c662e96d7
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Mon Feb 17 12:26:09 2020 -0500
+
+    pushing researchnet task
+
+commit 6f897d3e2c32afe2d021a737c5caf4a0864519e9
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Mon Feb 17 12:05:47 2020 -0500
+
+    fixing typos
+
+commit 1e77c006677b3059f261ad2d0d6be38857340971
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 11:52:02 2020 -0500
+
+    Update meeting_notes.md
+
+commit 7768c259c5000cf13ebc440ce33934a7383d5935
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 11:20:03 2020 -0500
+
+    Update auto.rmu
+
+commit 58d54a7be13473602475f6c58107d680a58a5419
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 11:15:49 2020 -0500
+
+    Update auto.rmu
+
+commit add230685bed99c0c25ecacb71073cb94a669ff0
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 11:14:35 2020 -0500
+
+    Update meeting_notes.md
+
+commit 380cb9fa9c14c7932112d5a2c646e211fb6d88c5
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 11:02:01 2020 -0500
+
+    Update meeting_notes.md
+
+commit a63001ac22b2724d23d7fbe72ff86fdf6021b064
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 10:50:32 2020 -0500
+
+    Update meeting_notes.md
+
+commit faa989717154760999abee2bdd6f02860ef0c067
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 10:20:39 2020 -0500
+
+    Update auto.rmu
+
+commit 66b9a52476b4169ddd898f4bfae0575a130a4dcd
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 10:20:12 2020 -0500
+
+    Update meeting_notes.md
+
+commit f2870fc48653a5aa9ccd4801f34426a87bc9c813
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 10:07:47 2020 -0500
+
+    Update meeting_notes.md
+
+commit 6d1ebbb94d858410dc04dde2f65b8229bf2ae310
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 10:05:57 2020 -0500
+
+    Update auto.rmu
+
+commit cc7803bf2bfde6c24cf0fb339389e617a0992932
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 09:45:37 2020 -0500
+
+    Update meeting_notes.md
+
+commit 26116060f952cf900ef1d306d2fed6ac5082ca67
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 08:58:39 2020 -0500
+
+    Update auto.rmu
+
+commit 86fc7c8228be1c118532c8dd6d30b8f5c546531b
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 01:53:43 2020 -0500
+
+    Update auto.rmu
+
+commit 75c9b472a3a755fd069b8f1c60f814e31b164846
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 17 01:08:41 2020 -0500
+
+    Update auto.rmu
+
+commit de626e90d064b20890add737580bd29b45f5e74f
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Mon Feb 17 00:48:18 2020 -0500
+
+    pushing pdf
+
+commit 9cb87d3911d8436bde020b3ec32b67a48ff80aaa
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Mon Feb 17 00:47:45 2020 -0500
+
+    adding an appendix section
+
+commit cf4296bca6705cdd257b3413fa03c67e3d7067d3
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Mon Feb 17 00:24:33 2020 -0500
+
+    some text got cut off with the % in url
+
+commit 7cda50145c10bc1aa9c1a742b5d39aab114fedae
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Mon Feb 17 00:21:11 2020 -0500
+
+    try making it now
+
+commit eae82ba4ed52f44dc3394edd4aa34fad74c0f3a0
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Mon Feb 17 00:12:58 2020 -0500
+
+    pushing linenumbered pdf
+
+commit 68bf51c0544a1093f9915848e59ea3e44bcfa404
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 23:44:33 2020 -0500
+
+    trivial
+
+commit 26120eaaeaf3479584ca315b7c7feb8cb0cce701
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 23:21:17 2020 -0500
+
+    fix some references mostly
+
+commit 5a5624f7022b5d586fc6939972a080ce4f18ea7d
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 22:47:37 2020 -0500
+
+    Update auto.rmu
+
+commit 5fac9d8fe0a77cc94152fc6d622577cf836c16a4
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 22:37:56 2020 -0500
+
+    less veritcal crowsindg
+
+commit f482bd85fd94586a5be5fd5d9a6583cf948ca750
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 22:37:37 2020 -0500
+
+    more sources
+
+commit 7f4f58823220b8d49773d825ac22b822ed0442ee
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 22:28:57 2020 -0500
+
+    minor command problems, fixed now
+
+commit bd1a1f792ecf5efd40cdcd9bdf6df57c106bdae0
+Merge: 32cb235 2d9d143
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 22:23:22 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit 32cb2354d09e9930e42b8512c176aa3dc4255374
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 22:23:21 2020 -0500
+
+    take break
+
+commit 2d9d1437d04f9921890e415ceb6f27ae3a018275
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 22:23:15 2020 -0500
+
+    pushing timestamp
+
+commit 024283d54d9ef4015f18d8719404631fc4484603
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 22:00:24 2020 -0500
+
+    Update coding_book.md
+
+commit 5947efb79c24a05d81a4e2d0463862ee14e7b387
+Merge: 254f080 0112d83
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 21:42:13 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit 254f08047efd27892a6d84d528b6acd12511cbaa
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 21:42:13 2020 -0500
+
+    Take a break!
+
+commit 0112d83fb76f4e357c824cc8661cc7aff30676bf
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 21:25:44 2020 -0500
+
+    not sure why the bib changed itself
+
+commit 7752ed0adb9c4608595f778ff389608bfc5c4821
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 21:24:30 2020 -0500
+
+    pushing new title, shouldn't affect everybody's workflow or have merge conflicts
+
+commit 12c28b20e35eced8d662e26df9219a9ab4a22aa3
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 21:16:44 2020 -0500
+
+    Update auto.rmu
+
+commit 9906cb7ecf0f140498f189459cc9aed2f15fb93e
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 20:35:03 2020 -0500
+
+    minor syncing with budget
+
+commit 5a9bf5500a7e7e640d096a3d28daf920937cd140
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 20:32:43 2020 -0500
+
+    pushing budget
+
+commit 23fe45812b418795d47eff3cacc9cad218874ca7
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 20:21:43 2020 -0500
+
+    Update content.tex
+
+commit fdc0bcb5c597bcc7a341a775d43f9fa962d7a6a5
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 20:10:24 2020 -0500
+
+    pushing pdf
+
+commit b1e06a05971afc9bfce0c988d02da8ec41e60f67
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 20:09:14 2020 -0500
+
+    Compile merged proposal?
+
+commit b7f5db23248e66a542bf9135734c1da6486c924d
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 19:57:06 2020 -0500
+
+    Merge with C.'s Methods
+
+commit 6f513657a1be3a46c4e6359093052e34b18234ec
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 19:04:04 2020 -0500
+
+    Help!!!
+
+commit 87f830fb470baaf7ceeda923179fe05a32d3e793
+Merge: 63c93ef d70b8ca
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 19:03:58 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit 63c93ef31439a4e1dee1997d2b537717b337fe63
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 19:03:57 2020 -0500
+
+    Help!!!
+
+commit d70b8ca63af98e9adf8a35eaad095ab1626ea41d
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 18:57:48 2020 -0500
+
+    git pushing
+
+commit ada39f5f8b65a578d618d6ba37ac80510facf531
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 18:54:23 2020 -0500
+
+    Update content.tex
+
+commit c598f17f4ef02d2ce545548aa0078dd271369c04
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 18:52:19 2020 -0500
+
+    Help!!!
+
+commit a239ba4a64380ed595ec59eb2e6ee7cbceba5f2f
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 18:44:10 2020 -0500
+
+    Editing background
+
+commit 89627a84079b0f9ace5171193f7820a4b310aca3
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 18:27:02 2020 -0500
+
+    Merging Chyun's new text?
+
+commit f8da027e2cbd98dc66cc21771fa539f5e469a735
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 18:00:54 2020 -0500
+
+    pushing researchnet stuff
+
+commit 308d4242f6aa7c58fe3f0e685794480f0924608c
+Merge: 790d4fe 1019bf7
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 18:00:28 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit 790d4fe530a8408a2755eb1180c3d214168a94e8
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 18:00:22 2020 -0500
+
+    updating pdf
+
+commit 1019bf70a047ac4ac5938f0ea1019e92afb09ec6
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 17:53:11 2020 -0500
+
+    Update core.md
+
+commit 677629ef3eca4642d28061e716520d8833ddd171
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 17:49:27 2020 -0500
+
+    Update core.md
+
+commit fa69a1be1d40f1383e66dd4ce77b42860ac15500
+Merge: ab76918 c3210db
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 17:48:51 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit ab76918083d897459913ea3f5b2824d2042da365
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 17:48:51 2020 -0500
+
+    ADD link to team page
+
+commit c3210dbd3421c967988697765405c4b1fb3b81ba
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 17:48:09 2020 -0500
+
+    Update core.md
+
+commit bf9973a6c7cb3f2fa4c3287a99d15c08dee258ad
+Merge: d05292b 35f5444
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 17:39:07 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit d05292bc8d936ff20e1eb701952bac726af1a5c3
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 17:39:06 2020 -0500
+
+    Paragraph breaks in rmu
+
+commit 35f544486f0fa5f2535fa2359d0480411dd34984
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 16:42:51 2020 -0500
+
+    renaming
+
+commit 33da86360a25b2420e6f28bc6f7638f7f94a4df3
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 16:34:50 2020 -0500
+
+    pushing researchnet stuff
+
+commit 47e801844592d27d2e411bcf76dda350d79f0399
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 16:28:18 2020 -0500
+
+    A new beginning for Background
+
+commit 9dfe8d0774d9d06028c7c04aff5f39ff300d3666
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 16:01:29 2020 -0500
+
+    Clean out core.md
+
+commit 8733f3d3036040191033737fba19e14f48c817d6
+Merge: 3129247 04b24b2
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 15:55:22 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit 312924769913c3a2cd0c5d6d8f347d52fdbb5a36
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 15:55:22 2020 -0500
+
+    Simplified research questions
+
+commit 04b24b273ff920b8fa06cef8d429bec8a9a382c3
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 15:54:10 2020 -0500
+
+    Update auto.rmu
+
+commit 285fb92a73de41375eed62d880166c4c08c3ff7b
+Merge: b5fe7d3 606a731
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 15:01:03 2020 -0500
+
+    redoing all the latex stuff again
+
+commit b5fe7d3315f82d97709b1eec23b5c18ef8fafc66
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 14:51:25 2020 -0500
+
+    pushing
+
+commit 606a731bf506dff8aad77354209e290d1857649d
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 14:48:02 2020 -0500
+
+    Update content.tex
+
+commit 4f9db9a73fd7112e2e5a3895aadd315863939ce6
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 14:34:26 2020 -0500
+
+    need to fix analysis section
+
+commit c039d6e0ff455cf1f80c4ed86e21c05f36ff5f9f
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 14:23:40 2020 -0500
+
+    pushing pdf version
+
+commit 8155e7c7eecc824026f9d86c77255b5fa6a63324
+Merge: d533db7 0087157
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 14:20:24 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit d533db7e6d39b6c86919f7929ee48e9b05b2a5ad
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 14:20:18 2020 -0500
+
+    pushing chinese characters and delete repeated text
+
+commit 0087157ec62867a002183c9a3a049b290d3006d6
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 14:14:18 2020 -0500
+
+    Update content.tex
+
+commit 5d18940e0a24152daf0c021120bebc97fb92b599
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 13:21:00 2020 -0500
+
+    Update content.tex
+
+commit 7b56d83982a7e83d853bb156a3cf0b7b1af7f03f
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 13:20:10 2020 -0500
+
+    Update content.tex
+
+commit bea76e1014c75cd7407a251a2192a3684f516f95
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 12:21:57 2020 -0500
+
+    rearranging parts
+
+commit d55ba5d7d91cb6542d330029086cdaa20f0d4842
+Merge: 7e1a519 2be7cde
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 11:58:56 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit 7e1a51966643297176506811130c1789d9f2ff03
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 11:58:48 2020 -0500
+
+    just reading and commenting, have not done any edits yet
+
+commit 2be7cded497b7c3cb5bd4f878bf61db35d98b9b6
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 11:51:28 2020 -0500
+
+    Update content.tex
+
+commit 80b0607ce5ac3764ddffaf2b1a7f58bd38a89f26
+Merge: fa97765 1e4e62c
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 10:36:38 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit fa97765e45c1e5a52ffe26c3b2784e7e45ec2d27
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 10:36:37 2020 -0500
+
+    Switch to SFU proposal
+
+commit 1e4e62cab84469f17d7f5c637dd47cb9c25ee409
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sun Feb 16 10:34:14 2020 -0500
+
+    did I do the smart quotes right?
+
+commit a26ca28e2e7f929d9f8216e081932eb8684e5019
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sun Feb 16 10:20:06 2020 -0500
+
+    Sync for mIke
+
+commit 5179c4bf3ea7692e2390a80ebd8c0aed9cc9d4c9
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 09:16:13 2020 -0500
+
+    Update core.md
+
+commit 6693cf9932cc8341fe7dd1c6631b4970c897f048
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 08:51:04 2020 -0500
+
+    Update content.tex
+
+commit 482025104cf8908f673557f3b8db52d424decbff
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 08:49:34 2020 -0500
+
+    Update content.tex
+
+commit 26b22a66767522bfec2141164aa6d1df56d0f75e
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 08:30:14 2020 -0500
+
+    Update auto.rmu
+
+commit 82f11edbe3ad22e1a9401beffb7f60ae19ae982c
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 08:27:07 2020 -0500
+
+    Update content.tex
+
+commit d190154788ed3520507a5a617abf3fa27234517b
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 07:34:58 2020 -0500
+
+    Update content.tex
+
+commit 5805b926917cafd00654a1dd7e387ef09d385d99
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 02:26:58 2020 -0500
+
+    Update README.md
+
+commit 31cfcca37f9543aa26eb99f8d02da2af4d879791
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 02:19:41 2020 -0500
+
+    Update proposal.md
+
+commit 6385cd0a7a69898d52e3fc4249fa450551d88a49
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 02:11:19 2020 -0500
+
+    Update auto.rmu
+
+commit 5650d30c880df5b404d079096ea43c2a1411391f
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 02:00:05 2020 -0500
+
+    Update proposal.md
+
+commit b9fc438ba71ce2d193bdf2dcd756f509e844cee1
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 01:58:52 2020 -0500
+
+    Update proposal.md
+
+commit a5ef1d3eac5a4918b940ebdf2ccb52e31b460aba
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 01:58:24 2020 -0500
+
+    Update auto.rmu
+
+commit 3216db1f80a0036915f96e59f3a839f6c9a398a7
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 01:39:28 2020 -0500
+
+    Update auto.rmu
+
+commit bb0c5eb1bbbafdf9923cc58f98f175c1450aa840
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 01:29:15 2020 -0500
+
+    Update proposal.md
+
+commit 03e7224f429309ba065d0bdbd1aeaa0612bede7d
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sun Feb 16 01:21:07 2020 -0500
+
+    Update auto.rmu
+
+commit 9e199d3f770fb314bd361dc97700b88df71d080e
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sat Feb 15 22:37:16 2020 -0500
+
+    Cleaning up
+
+commit f354948a32daa9cf8831c1a58f65dab6d69d0617
+Merge: f9bac9f 2743ab0
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sat Feb 15 22:37:07 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit f9bac9fad538c2907674235a6b37fcef605357c7
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sat Feb 15 22:37:06 2020 -0500
+
+    Random sync
+
+commit 2743ab0b84c93e361999cb47fe853d0e5e0d5bc4
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sat Feb 15 20:45:11 2020 -0500
+
+    fixing typo
+
+commit fab4607ebe70de1873ad3de892a5eb00928a8dcc
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sat Feb 15 19:42:35 2020 -0500
+
+    finish moving things from proposal.md to content.tex
+
+commit 41ff7d3db172c9922dd6172251afef9af3bd792f
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sat Feb 15 19:31:09 2020 -0500
+
+    done cleaning data, only methods section left
+
+commit b6a35a9b64b77ff698bd48e37134feae88e68dd9
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sat Feb 15 19:04:36 2020 -0500
+
+    transfering research question
+
+commit 8ee12b48a5f767f901735685a31672d7895bf300
+Merge: 281d23d f4834f1
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sat Feb 15 18:48:11 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit 281d23dbfbee7b6533aef004c4d3644000ca2abe
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sat Feb 15 18:48:11 2020 -0500
+
+    naveed.md
+
+commit f4834f13374289c61f99907541828e93aee69d54
+Merge: 1142625 8b6a13f
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sat Feb 15 18:46:55 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit 1142625f09b3d4464fbc15c91222e254122f62b4
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sat Feb 15 18:46:48 2020 -0500
+
+    MLi's first attemp to cut/clean proposal.md and transfer over to content.tex, checkout previous commit to recover proposal.md
+
+commit 8b6a13f45367a894a410e2b0780c8d9f3a2f7e62
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Sat Feb 15 18:37:07 2020 -0500
+
+    Help!!!
+
+commit bf1ec9c8c53838501bd119870171597a8bda8d6a
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 15 17:37:20 2020 -0500
+
+    Update proposal.md
+
+commit 36f557ec5ae8e61bb8fba56deee21e248327f1f3
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sat Feb 15 17:06:32 2020 -0500
+
+    pushing new commands
+
+commit 105a090bc65ab5274a60f4dae8a1de1327ad0256
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 15 16:43:42 2020 -0500
+
+    Update budget.md
+
+commit 1907666fddb37bf492915f8fc93c8eb0c55baefc
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 15 16:15:18 2020 -0500
+
+    Update proposal.md
+
+commit 8ca18b1b1ad97ca3f0988d21e89b1d793d0fbd96
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 15 16:14:09 2020 -0500
+
+    Update proposal.md
+
+commit a1a6510825210903af35596b15f71c855c1c0dc5
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 15 16:12:33 2020 -0500
+
+    Update proposal.md
+
+commit 0cb592f3ba7fd463a3b113d513d302eaeb8fd828
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 15 15:28:11 2020 -0500
+
+    Update proposal.md
+
+commit 408d599db5669ca608f606e695e2d352465383f9
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 15 15:27:07 2020 -0500
+
+    Update proposal.md
+
+commit 6056e07523859c64793c26ad8e2a3b4cad99e661
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 15 15:16:53 2020 -0500
+
+    Update proposal.md
+
+commit 9b19998e40024a1fd18aff01c45105e3e6518675
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 15 15:11:46 2020 -0500
+
+    Update proposal.md
+
+commit 49deec946d804327c15e3115f356609083992ad7
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 15 14:28:21 2020 -0500
+
+    Update coding_book.md
+
+commit 4a0e1eb2ac01776081d139c9841273b25830a02e
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 15 14:27:54 2020 -0500
+
+    Update coding_book.md
+
+commit e5da89b073978cb723fb56e6cf153ebc9dafeff9
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 15 14:27:09 2020 -0500
+
+    Update coding_book.md
+
+commit 8a5eb611d3b941484470f38c61818ed443304ab2
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 15 14:26:33 2020 -0500
+
+    Update coding_book.md
+
+commit e9cb66dd8f516bb784754c23860c16f74c7386a4
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sat Feb 15 14:26:06 2020 -0500
+
+    not sure what the top 5 attachments are
+
+commit c057ecd368da05835b1afbde36b0e53e5fb6b91c
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sat Feb 15 13:43:22 2020 -0500
+
+    trying to match the proposed format
+
+commit 6c6c1d79b6fc5c40e52e1334c33144477f5f24c4
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 15 12:41:47 2020 -0500
+
+    Update proposal.md
+
+commit d8c69c7392a79a931699c445836d6e56574c42ec
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 15 12:36:57 2020 -0500
+
+    Update proposal.md
+
+commit 484c8f4ae7fec7665e753329001dbc4d65e66c09
+Merge: 6001766 8dec7b3
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sat Feb 15 12:11:05 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit 60017661a9ebd36c989a54fbc4dce7e8467e00f4
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Sat Feb 15 12:10:58 2020 -0500
+
+    first pass in formating the proposal
+
+commit 8dec7b30d33940db26a483bdfbdcc0e21d621231
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 15 12:05:40 2020 -0500
+
+    Update proposal.md
+
+commit 64b9d791d113aebf2a4157ed6238c33e0a667aee
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 15 10:04:05 2020 -0500
+
+    Update proposal.md
+
+commit 826668b135eabe7b21e56e2ab2acff581942ed75
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 15 09:51:06 2020 -0500
+
+    Update proposal.md
+
+commit b3ac58ed49efb6d7143570eb5e7430b0d6f3b8e4
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 15 09:50:12 2020 -0500
+
+    Update proposal.md
+
+commit 3fd67f10e709e571ab2ba391a2ae60208a143da4
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Fri Feb 14 23:05:25 2020 -0500
+
+    pushing google_trend experiments
+
+commit a37c52a81de09b1363d7e534ba795221c280e31e
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 15:13:48 2020 -0500
+
+    Update proposal.md
+
+commit d2e89d29e92d31987b31a77f4fa8addefa3ed110
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 15:11:55 2020 -0500
+
+    Update proposal.md
+
+commit 8eb2caf7ee2c9c46e845f7aed1b19ff3db2cb555
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 15:11:41 2020 -0500
+
+    Update team.md
+
+commit d7d6c1b445d4eacc7eba5e51c265d22f955eb60e
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 13:05:59 2020 -0500
+
+    Update team.md
+
+commit b733325dd14978f14d0031762971e290a7965488
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 13:03:31 2020 -0500
+
+    Update team.md
+
+commit 918ca7b84991f679867124415c70a378d8da1181
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 13:02:10 2020 -0500
+
+    Update team.md
+
+commit 41e6d7de871ce626a95421b95a13dc4db5084853
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 13:00:50 2020 -0500
+
+    Update team.md
+
+commit 5fce6931ebfce5f2f0dab28ae1c43125071eab7f
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 13:00:03 2020 -0500
+
+    Update team.md
+
+commit f77f16a6369bb2cf659506f979288e9d6ba05bed
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 10:04:26 2020 -0500
+
+    Update coding_book.md
+
+commit 808e61e72160401788b183935c8334ed5b9523dd
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 09:58:45 2020 -0500
+
+    Rename coding book.md to coding_book.md
+
+commit ed3de8d90b18780eb390efe4ee0d38e78343429a
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 09:58:10 2020 -0500
+
+    Update coding book.md
+
+commit ee46710e56103f7b85f7f92b03c9e8327830ba54
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 09:40:10 2020 -0500
+
+    Update coding book.md
+
+commit da9a975fafa1898d7dc7e0a1c8b799d3450241db
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 09:39:17 2020 -0500
+
+    Update coding book.md
+
+commit 21731b280f4feb5204c5116c80fa5c941fe81f27
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 09:33:07 2020 -0500
+
+    Create coding book.md
+
+commit 7ff4a26684d744240a01f7f5fa6a6dde2b2cffa7
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 09:29:52 2020 -0500
+
+    Update budget.md
+
+commit a2a26ee94b4071973264a68bf50ecc9e892b1933
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 09:17:34 2020 -0500
+
+    Create budget.md
+
+commit 8b0ac2be2effa0bf74935ded790b520b9a4f6320
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 07:46:50 2020 -0500
+
+    Update proposal.md
+
+commit d4221da16c668e33e2e79c4c37bbd7e09fba0d61
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 07:45:55 2020 -0500
+
+    Update proposal.md
+
+commit dcc9f4103f18f876a619f9aa1fcb616597622bdf
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 06:19:10 2020 -0500
+
+    Update proposal.md
+
+commit b9b54213e5d5cd727c47e6a39aeff02b0bbe6c24
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 05:40:56 2020 -0500
+
+    Update proposal.md
+
+commit 8db0b9b4f83c3495c74fc036cd569075d6b1df35
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 05:29:55 2020 -0500
+
+    Update proposal.md
+
+commit 1fe673c86bbf15601499374acdfb1bddeb7780e2
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 05:29:15 2020 -0500
+
+    Update proposal.md
+
+commit 54e2271aca17e6a5ba87991f01c64e96cc431345
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 05:28:27 2020 -0500
+
+    Update meeting_notes.md
+
+commit c94b31a5990fcaacb44241f10c8347c894a822e3
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 05:18:32 2020 -0500
+
+    Add files via upload
+
+commit 990e99e3d6c1f4724a636d648521b3fb39d3949b
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 14 05:14:42 2020 -0500
+
+    Update proposal.md
+
+commit 9d3100d88bbdc16be6159965ec9195f04284a648
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 13 23:10:26 2020 -0500
+
+    Update meeting_notes.md
+
+commit 87a1fe15022da2ef3932e3f2afe27c982ade3575
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 13 22:57:07 2020 -0500
+
+    Update meeting_notes.md
+
+commit a1d4ee884cb3094c1f50b87d1d8159e1c3105208
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 13 22:48:23 2020 -0500
+
+    Update meeting_notes.md
+
+commit e806839c9e7b28ebdaf6671280765d0f8bb9dfa3
+Merge: f92cd10 c6cd62a
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Thu Feb 13 22:46:40 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit f92cd100472089e752c85f1abe2310ec7a0ffb07
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Thu Feb 13 22:46:40 2020 -0500
+
+    Sleep early? Or at least relax a bit?
+
+commit c6cd62a5680dbfbdfacee06015d2fc6cae91bd00
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 13 22:37:44 2020 -0500
+
+    Update team.md
+
+commit dbaf00716dbf6479fb4994803a7d321a7d3e05dc
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 13 22:02:16 2020 -0500
+
+    Update proposal.md
+
+commit 8d1ad995613032e961aba74879bb51bea666ed5b
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 13 21:45:17 2020 -0500
+
+    Update meeting_notes.md
+
+commit c2627908c9138b8cec3e872d1758b7e77b6d38e5
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 13 21:44:33 2020 -0500
+
+    Update auto.rmu
+
+commit a3478d3e02f78557b41db11443b8329d0ee8a4de
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 13 21:34:39 2020 -0500
+
+    Update meeting_notes.md
+
+commit 17d56e5f5f709464d1d26e849c65070b05cc42be
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 13 19:00:53 2020 -0500
+
+    Update auto.rmu
+
+commit 4c75123bfc907111bf638a35f0f4c5dcb98068a7
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 13 17:30:19 2020 -0500
+
+    Update auto.rmu
+
+commit 3b4e188e3cf2993f238e438116d2358bcfcf2771
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 13 16:22:45 2020 -0500
+
+    Update auto.rmu
+
+commit 016f2ff394df99ed6da46f37e40f25b980feeb6e
+Merge: 969da47 ef19ae2
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Thu Feb 13 15:03:58 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit 969da47f70be39609c28edb214156914ba06c330
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Thu Feb 13 15:03:58 2020 -0500
+
+    What?
+
+commit ef19ae2d5c2eda8f884567ad83945cef0ea2cc42
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 13 14:56:11 2020 -0500
+
+    Update auto.rmu
+
+commit 3090eed265e0ecfe985197dd65d823888856f830
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Thu Feb 13 14:38:21 2020 -0500
+
+    pushing
+
+commit 6070c34e7ea422b9c3d208356c598dac6fc3b54b
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Thu Feb 13 14:36:25 2020 -0500
+
+    updaing MLi notes
+
+commit f76cf2a36bfa25e03b052712491f8a585d860558
+Merge: 5a3887e 9d49c1e
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Thu Feb 13 14:02:08 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit 5a3887eae059114ef6380182e3f7eef147963b0a
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Thu Feb 13 14:02:08 2020 -0500
+
+    Checking for updates
+
+commit 9d49c1ee437e4006525bcd7f45eeaef0853a5d47
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Thu Feb 13 13:46:58 2020 -0500
+
+    taking one step back and trying to understand where we are going
+
+commit 1385b3bcddd93fc5b7fc8ba76e77dd7228412e92
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 13 13:45:02 2020 -0500
+
+    Update meeting_notes.md
+
+commit 633b55b442e4b9d9579ddff5b95f1f0cf55ac207
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 13 13:42:16 2020 -0500
+
+    Create meeting_notes.md
+
+commit cf83f6dc64a94b8373207807ccd39c9c9c2cf100
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Thu Feb 13 11:44:13 2020 -0500
+
+    missing the big picture
+
+commit 58d4967b8ffdd87df26933507199ee0fcde2d78a
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 13 07:34:57 2020 -0500
+
+    Update proposal.md
+
+commit 5fd5949a930e0ff4241f3e7c75a680297cb6ef3a
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 13 07:33:59 2020 -0500
+
+    Update proposal.md
+
+commit ee00115d0f327338cc597489ab102a3e21bc07bc
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 13 07:32:00 2020 -0500
+
+    Update proposal.md
+
+commit d71a1ad6305bd4306db2d97a353cc3ddf69ac160
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 13 07:26:50 2020 -0500
+
+    Update proposal.md
+
+commit 85f88ba9e49a9be15a9a06d773d2f34c12de4fcb
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 13 07:24:21 2020 -0500
+
+    Update proposal.md
+
+commit f23bbe90cf78d4aa5de6c48423c311e707a03696
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Wed Feb 12 23:24:33 2020 -0500
+
+    stop!
+
+commit 649eaab9a77532c7234843ae653e08db0f43b270
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Wed Feb 12 23:23:12 2020 -0500
+
+    Cleaning more, need to stop
+
+commit 098776f0929bd1cbdda1605482adc5820f8c4262
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Wed Feb 12 23:17:48 2020 -0500
+
+    Cleaning a little
+
+commit 687747a454b6cadde88cad6fc352ed707e22afe1
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Wed Feb 12 22:58:47 2020 -0500
+
+    hline not needed
+
+commit f4e9c85016ead776a75d40d5ea0fa53cdae55845
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Wed Feb 12 22:58:00 2020 -0500
+
+    Working on research questions
+
+commit 7d251097897e2ba419491c049f01a3060dfccbbc
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 21:57:55 2020 -0500
+
+    Update proposal.md
+
+commit 65195a94c6e76083dda9910a1faca4ed62c71d2e
+Merge: 518f228 60b11aa
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Wed Feb 12 21:53:21 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit 518f228010cbc98e1fee1ab6d55f576c35c19a94
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Wed Feb 12 21:53:21 2020 -0500
+
+    Work on team rules
+
+commit 60b11aa370ba74c18b6365c40e4c8eeb5428503c
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 21:52:11 2020 -0500
+
+    Update proposal.md
+
+commit 5d213dcfff961f822e11c172356bdb6ea75b84b9
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 21:50:52 2020 -0500
+
+    Update proposal.md
+
+commit 0f86d19ede9af573e56601d58cfe24205a639b98
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 21:49:22 2020 -0500
+
+    Update proposal.md
+
+commit 060e211a5e6d95ba9d7400cefcb55dba0ae41115
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 21:48:26 2020 -0500
+
+    Update proposal.md
+
+commit e0553e5bf24cede9b69c037d8fe365ba529b7a79
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 21:46:03 2020 -0500
+
+    Update proposal.md
+
+commit 870c3362506c7fc7d2824842dfbaae9227c1e8a0
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 21:43:03 2020 -0500
+
+    Update proposal.md
+
+commit 53bec30d2e547ad7a71a544a2dafbb1d4c373fc4
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 20:14:15 2020 -0500
+
+    Update proposal.md
+
+commit 91f534e0e40b45d9455503e3bc4391e43036c8ef
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 20:06:22 2020 -0500
+
+    Update proposal.md
+
+commit e5ce1fcf0cee243c378956add2cc370289ac988b
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 20:05:18 2020 -0500
+
+    Update proposal.md
+
+commit c5670de2f9ee13b74114b6254ba18574268c04b6
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 20:03:41 2020 -0500
+
+    Update proposal.md
+
+commit a79cdb6e694bf5ad93a8daa087ef5e988e627304
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 19:57:37 2020 -0500
+
+    Update team.md
+
+commit 048cf699617945887f01cc574b1bb16c602aca6a
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 17:10:34 2020 -0500
+
+    Update team.md
+
+commit ecbb3a49ef1786cd666a40445155335e2e9d5039
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 17:07:36 2020 -0500
+
+    Update proposal.md
+
+commit 5953baa6c4163f5f945f868d4a967eeadfb8d66d
+Merge: a806c56 ae9168b
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Wed Feb 12 16:19:47 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit a806c56b586e2855548da8ccc9add09e7d6e2953
+Author: wzmli <wzmichael.li@gmail.com>
+Date:   Wed Feb 12 16:19:42 2020 -0500
+
+    pushing mli comments
+
+commit ae9168bd4ce5c7f952ef157e0646c19c24cb9d0e
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 15:40:45 2020 -0500
+
+    Update team.md
+
+commit 9d30845d25c3da67200a19cf2dc25b2b4869158d
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 15:39:29 2020 -0500
+
+    Update proposal.md
+
+commit d7dfeb2274488946c7e582b6eb8782d526c1d8cd
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 14:51:37 2020 -0500
+
+    Update team.md
+
+commit 6204208a83a7a8da30dc2236c8b07788bd5e130f
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 14:05:45 2020 -0500
+
+    Update proposal.md
+
+commit e1e485069bce8dc184e2b0a5de3783490cd9310c
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 14:04:16 2020 -0500
+
+    Update proposal.md
+
+commit c33ca9de5ae5ac46d30faf4491395c391d5bd0ac
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 14:03:10 2020 -0500
+
+    Update proposal.md
+
+commit d457a7d191514ad9a30d8bdf8eb18a452d9b428b
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 14:01:39 2020 -0500
+
+    Update proposal.md
+
+commit c46edee5cc83a4023dd3123d19f79b61f2836e4e
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 14:00:13 2020 -0500
+
+    Update proposal.md
+
+commit c1417f00939b72f04a59aeeedf6eb57800663600
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 13:59:14 2020 -0500
+
+    Update proposal.md
+
+commit bc499bce9600764e5f04f4607cdbde3d4996af24
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 13:56:36 2020 -0500
+
+    Update proposal.md
+
+commit 4dfff2e9bfd024e1c29b9e4a7ad2e7b943680177
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Wed Feb 12 13:36:23 2020 -0500
+
+    Cleaning
+
+commit 42a1539dfa09dc1d12e6048149197e82044e2667
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Wed Feb 12 13:36:00 2020 -0500
+
+    Meeting with Chyun
+
+commit e7e2dce6e28e7c4ed937b0c42f9eeadb57383c09
+Merge: 162d4c4 cd3c76c
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Wed Feb 12 13:21:42 2020 -0500
+
+    Merge branch 'master' of https://github.com/cfshi/coronavirus
+
+commit 162d4c430c46fb17545b1adc1428415e21fba41c
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Wed Feb 12 13:21:42 2020 -0500
+
+    Fiddling with timeline
+
+commit cd3c76ceb15d0d3ff8fddfe18f0e2a7fe4e510bf
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 13:20:17 2020 -0500
+
+    Update team.md
+
+commit 9d2a0213e40c83d9118de5d5f61528c8af4f947c
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 13:18:00 2020 -0500
+
+    Create team.md
+
+commit b0e53fd0b6735ac9b4c3de7052015b37e61e52e7
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Wed Feb 12 13:14:03 2020 -0500
+
+    Dushoff Makefile, file extensions
+
+commit 4aeed9726836faa1f83321f59b9caff50cb17d8f
+Author: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date:   Wed Feb 12 13:09:55 2020 -0500
+
+    Add a Dushoff Makefile
+
+commit ba14b21158d5cf11b5c985a02cbec89d4c5eca36
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 11:51:44 2020 -0500
+
+    Update auto.rmu
+
+commit 8458449bb490387b2c1fd116e79e4710ab5827b6
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 10:01:49 2020 -0500
+
+    Update proposal
+
+commit 46088aaaf6c5dd23cbf696ba92d60aad2d8a49b5
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 12 10:01:03 2020 -0500
+
+    Update proposal
+
+commit 2ec82bd6279326968c4ab0ab618840e45c7e0d38
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Feb 11 12:42:15 2020 -0500
+
+    Update proposal
+
+commit 5c8aff0f97f8e2ade489a74c52d66a0e6f73d106
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Feb 11 09:45:48 2020 -0500
+
+    Update outbreak_timeline
+
+commit c69ef5423c89e4f049b3fda75ab225c179cc5d19
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 10 16:17:25 2020 -0500
+
+    Update proposal
+
+commit db736eeca93fbcd6050d501b044fcbc5d1b9658c
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 10 15:03:18 2020 -0500
+
+    Update README.md
+
+commit 3495eb728056941cf09f1bae0677b6a2bac4e031
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 10 02:32:12 2020 -0500
+
+    Update proposal
+
+commit 740dc24424c5c4176dafc23b9bf631b3876e2a4b
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 10 02:30:38 2020 -0500
+
+    Update proposal
+
+commit 531e29de4ad2456ceee627d59a478e340aa653ca
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 10 02:25:20 2020 -0500
+
+    Update proposal
+
+commit 5493af0af54b1c022198e4a3a7d8e82a61f07d50
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 10 02:24:51 2020 -0500
+
+    Update proposal
+
+commit efbe5b446ed69d14d878707b6802062bece03111
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 10 02:20:14 2020 -0500
+
+    Update proposal
+
+commit 94a4f5ba6a1ddf1521f85ca54429d8463bdf9791
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 10 02:04:22 2020 -0500
+
+    Update outbreak_timeline
+
+commit f5ac39cfa96c031a6e13a7f61a88773460f6f280
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 10 01:52:58 2020 -0500
+
+    Update outbreak_timeline
+
+commit 5212abcb37b07301376ccac7aa9bce95d7b238ec
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 10 01:52:31 2020 -0500
+
+    Update outbreak_timeline
+
+commit b6c3134dd0634823ad8de3844f95ab52367588c5
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 10 01:51:41 2020 -0500
+
+    Create outbreak_timeline
+
+commit b80db2a4452ccfa0a1b1714813c2740980b23864
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 10 14:47:41 2020 +0800
+
+    Create proposal
+
+commit d2328875e95228db9bbae8ea20f32aa14571a5a5
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 8 02:00:46 2020 +0800
+
+    Update README.md
+
+commit b5a79fcba1aa2c8f188e7fe4162c262cee09862c
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 7 18:56:31 2020 +0800
+
+    Update README.md
+
+commit 2bff3dc48515d0306433b9dde7fb9a0a7163cba7
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 7 02:14:37 2020 +0800
+
+    Update README.md
+
+commit ee25d0bc616b7dd087838c78714158fec64d8a74
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Feb 7 01:32:27 2020 +0800
+
+    Update README.md
+
+commit 7468b989f8594ff8ab9e9e881afe03ab28758f34
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 6 14:36:56 2020 +0800
+
+    Update README.md
+
+commit f70b8fd164c72df200de9156cd3f83054c9771c8
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Feb 6 01:05:43 2020 +0800
+
+    Update README.md
+
+commit 1b989118f043cfbc969e078d2a292bf47879879c
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 5 11:37:56 2020 +0800
+
+    Update README.md
+
+commit 27d4aa666b718a9bbb77d2ad7e1a4610c224de2e
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Feb 5 01:28:51 2020 +0800
+
+    Update auto.rmu
+
+commit d8129a07234244187715a6fca74e023c6cbec943
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Feb 4 17:14:46 2020 +0800
+
+    Update README.md
+
+commit 65c7ba91f2c6a2e0df2f16435235b4cbb33f7da3
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Feb 3 01:01:22 2020 +0800
+
+    Update README.md
+
+commit fd139e3550d7154657822977882ee113e4de1219
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 1 21:42:45 2020 +0800
+
+    Update README.md
+
+commit 3ed8612c4aceb5d0ade80316707bd4d23c48fe64
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 1 20:46:38 2020 +0800
+
+    Update README.md
+
+commit 3ee6a0657a379b70da967d69218a16735bbde95a
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Sat Feb 1 20:24:29 2020 +0800
+
+    Update README.md
+
+commit 63abc32178f180e97263cf382f8ae3fba370b987
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Jan 31 01:08:16 2020 +0800
+
+    Update README.md
+
+commit 405418ed1d75ffa73ea4904e266e23d256c97146
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Fri Jan 31 00:40:08 2020 +0800
+
+    Update README.md
+
+commit 639ee8874f9c57525f7e1f87a0d412f151488e85
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Jan 30 18:48:35 2020 +0800
+
+    Update README.md
+
+commit 43335c796aff217ba10946812467b8b838c71dfa
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Jan 30 17:43:21 2020 +0800
+
+    Update README.md
+
+commit 3aa350a80bbdfcf5dbb6451e9e302becb22af345
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Jan 30 14:09:45 2020 +0800
+
+    Update README.md
+
+commit 8f73c5666a4b3979118ead4edf6cc364e3e39c2e
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Jan 30 14:08:10 2020 +0800
+
+    Update README.md
+
+commit 34e1643e8b9fa788e581ea26c6783773b755198a
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Thu Jan 30 12:55:28 2020 +0800
+
+    Update README.md
+
+commit 0b008e756960e71fa48a74c4b483d59b40fe1c0d
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Jan 29 23:01:57 2020 +0800
+
+    Update auto.rmu
+
+commit 461052ef029a18139cbbf1554da296c9ed5f8d83
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Jan 29 22:53:21 2020 +0800
+
+    Update README.md
+
+commit 1d9c0386d3ae6c834636058413a8c109e3670899
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Jan 29 22:24:58 2020 +0800
+
+    Update README.md
+
+commit c3da2e9ce92274f81c53ecad5ccc290ad2fe6637
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Jan 29 16:30:21 2020 +0800
+
+    Update auto.rmu
+
+commit fa1a08557777ebded70c7bfc0ea0d37ac6b16254
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Jan 29 16:21:40 2020 +0800
+
+    Update README.md
+
+commit 464b16f7c325f7967147a0c4f9a4a17c75982e90
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Jan 29 16:16:29 2020 +0800
+
+    Update README.md
+
+commit 9409091422759de6bbf8b5907a5f142ee702a8bd
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Jan 29 01:00:25 2020 +0800
+
+    Update auto.rmu
+
+commit 843201048af986a743607511a3bebe124c3c628a
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Jan 29 00:49:53 2020 +0800
+
+    Update README.md
+
+commit b1f7aadfa83be75ed4de255f1f96c0d42a63cfc1
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Wed Jan 29 00:49:14 2020 +0800
+
+    Update README.md
+
+commit 96f4737fd5e6e825012d673fcd625650d1f1afb2
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Tue Jan 28 00:04:15 2020 +0800
+
+    Update README.md
+
+commit 2611fb4ae85435749621e92816c021e8ba62fd79
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Jan 27 23:44:47 2020 +0800
+
+    Update README.md
+
+commit 44465f06af227dc59f4cceb52b03dc9dbc8d6d21
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Jan 27 18:19:45 2020 +0800
+
+    Update README.md
+
+commit 4af5abebf15fe9c29eaf1ceff60257f7a06eda61
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Jan 27 18:18:15 2020 +0800
+
+    Update auto.rmu
+
+commit f3d77f5aa98dff99f654368b30145d35e6bb969b
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Jan 27 17:56:59 2020 +0800
+
+    Update auto.rmu
+
+commit d67f364d40f3306d9863a99fc81a376e91aca54b
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Jan 27 17:42:17 2020 +0800
+
+    Update README.md
+
+commit 1ad0398313b48ead1c6659fd285ac0aab5feee6e
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Jan 27 17:23:08 2020 +0800
+
+    Update README.md
+
+commit 4fe30ce24c8ab7265fc350066442b6aa1c2af8ec
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Jan 27 17:20:32 2020 +0800
+
+    Update README.md
+
+commit 1481d2edc6fe0371c6128044af5a5d16a5099351
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Jan 27 17:20:10 2020 +0800
+
+    Update README.md
+
+commit 9cf5c931f10f98a6f2b3cd578fa02dbc3f475b0e
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Jan 27 17:15:07 2020 +0800
+
+    Update README.md
+
+commit 5ba13a1f6e3ab21ec6e9b179e97947050e594e99
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Jan 27 17:14:34 2020 +0800
+
+    Update README.md
+
+commit 15f2e76f24d537a82db2657270e2f6500b1d3889
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Jan 27 17:12:58 2020 +0800
+
+    Create auto.rmu
+
+commit ba761a63c2579e8b4674161bb6f12fd1494f6505
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Jan 27 17:10:57 2020 +0800
+
+    Create .gitignore
+
+commit 2f8730a847a0ae34804838d4bcb3c541676c6f78
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Jan 27 17:10:35 2020 +0800
+
+    Create LICENSE.md
+
+commit a67b2b90620706393dfea5e4316996962bdca072
+Author: fishforwish <chyun.shi@gmail.com>
+Date:   Mon Jan 27 17:10:12 2020 +0800
+
+    Create README.md

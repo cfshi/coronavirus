@@ -50,6 +50,6 @@ Two scientific meetings for up to three team members each to participate at ~$50
 Two team members will attend the annual CIHR meetings at a cost of ~$3000 per meeting
 
 A group meeting at the halfway point for researchers and knowledge users in BCCDC and McMaster (depending on cost and schedules).
-* $10000
+* $15000
 
 # Total 349 000
