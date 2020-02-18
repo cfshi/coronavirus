@@ -44,9 +44,9 @@ TRY to link to what WHO wants.
 
 https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=3209&printfriendly=true#partnerdescription
 
-https://cihr-irsc.gc.ca/e/36396.html (Due March 17!)
+https://cihr-irsc.gc.ca/e/36396.html ## ICRH ??
 
-Or special coronavirus call: https://www.researchnet-recherchenet.ca/rnr16/viewOpportunityDetails.do?prog=3248&language=E (due Feb 18!!!)
+https://www.researchnet-recherchenet.ca/rnr16/viewOpportunityDetails.do?prog=3248&language=E
 - Social and policy countermeasures research:
 - Cultural dimensions of the epidemic such as, examining how individuals and communities understand and react to the disease;
 - Studying the public health response;
