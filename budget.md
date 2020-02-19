@@ -6,7 +6,7 @@
 - administration
 - miscellaneous (stationery, computer etc)
 
-# Research Staff $154 538
+# Research Staff $154 788
 
 ## Description 
 
@@ -41,7 +41,7 @@ We plan to buy two labtops for ~4K, including related minor hardware.
 
 We have added the university effective tax rate of 3.41% to the above quote.
 
-# Knowledge Translation $37 000
+# Knowledge Translation $47 000
 
 ## Description
 
