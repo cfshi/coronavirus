@@ -79,7 +79,7 @@ log:
 ## downcall naveed.docx ##
 Ignore += naveed.docx
 
-Sources += naveed.md
+Sources += naveed.md abstract.md
 # naveed.gh.html: naveed.md
 # core.gh.html: core.md
 
