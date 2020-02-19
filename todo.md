@@ -9,9 +9,10 @@ abstact first s after RQ bullet (We will analyze these questions by ...)
 proposal section 3.4
 Shi is (an) accomplished ... 
 
-need a CV and support from naveed
-
-
+missing
+hyeju
+morre
+michel
 
 
 ## Proposal
