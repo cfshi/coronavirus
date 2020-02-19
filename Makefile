@@ -64,6 +64,10 @@ cihr_proposal.pdf: propHead.tex propParams.tex commands.tex
 ## cihr_proposal.log
 ## cihr_proposal.blg
 
+proposal_part.pdf: cihr_proposal.pdf
+	pdfjam $< 1-5 -o $@
+
+
 Sources += git.log
 log:
 	git log > git.log
