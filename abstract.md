@@ -3,11 +3,11 @@ In response to the new COVID-19 outbreak, the proposed research will investigate
 
 The project will be organized around three Research Questions:
 
-- How does information (and misinformation) travel between scientists, public-health workers, mass media and social media?
+• How does information (and misinformation) travel between scientists, public-health workers, mass media and social media?
 
-- How does communication affect public behaviour and the course of the outbreak?
+• How does communication affect public behaviour and the course of the outbreak?
 
-- How can scientists and policy-makers evaluate and improve the effectiveness of their communication?
+• How can scientists and policy-makers evaluate and improve the effectiveness of their communication?
 
 We will analyze these flows by combining textual; AI-assisted data mining; time-series analysis; and dynamical modeling.
 
