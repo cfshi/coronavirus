@@ -67,6 +67,9 @@ cihr_proposal.pdf: propHead.tex propParams.tex commands.tex
 Ignore += proposal_part.pdf dump.txt
 proposal_part.pdf: cihr_proposal.pdf
 	pdfjam $< 1-5 -o $@
+	
+reference_part.pdf: cihr_proposal.pdf
+	pdfjam $< 6- -o $@
 
 Sources += git.log
 log:
