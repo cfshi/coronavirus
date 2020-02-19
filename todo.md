@@ -1,3 +1,19 @@
+## package draft
+- make sure we fix budget in application details
+- fix asian names
+- Nai Rui Chng 
+- XingPeng Jiang
+
+abstact first s after RQ bullet (We will analyze these questions by ...)
+
+proposal section 3.4
+Shi is (an) accomplished ... 
+
+missing
+hyeju
+morre
+michel
+
 
 ## Proposal
 
