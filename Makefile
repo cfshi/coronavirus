@@ -36,6 +36,14 @@ questions.gh.html: questions.mkd
 ## Don't play now ☺
 ## https://cfshi.github.io/coronavirus/README.gh.html
 
+## mkdir ~/Dropbox/coronaCommunication ##
+resources: dir=~/Dropbox/coronaCommunication
+resources: 
+	$(linkdirname)
+
+dean.pdf: resources/submission.pdf
+	pdfjam $< 6,8-12,36-37 -o $@
+
 ######################################################################
 
 ## Machinery
