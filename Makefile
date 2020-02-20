@@ -17,7 +17,8 @@ current: target
 Sources += attachments.md budget.md coding_book.md comments.md core.md fake_researchnet.md LICENSE.md meeting_notes.md naveed.md outbreak_timeline.md proposal.md proposal_MLiCmts.md README.md RQ.md summary.md team.md todo.md
 Sources += attachments.md budget.md coding_book.md comments.md core.md fake_researchnet.md LICENSE.md meeting_notes.md naveed.md outbreak_timeline.md proposal.md proposal_MLiCmts.md README.md RQ.md summary.md team.md todo.md summary_head.md
 
-budget.ltx.pdf: budget.md
+Ignore += budget.ltx.pdf
+## budget.ltx.pdf: budget.md
 
 Ignore += *.gh.html
 ## summary.gh.html: summary.md
@@ -36,17 +37,15 @@ questions.gh.html: questions.mkd
 ## Don't play now ☺
 ## https://cfshi.github.io/coronavirus/README.gh.html
 
-## mkdir ~/Dropbox/coronaCommunication ##
+
+Ignore += resources
 resources: dir=~/Dropbox/coronaCommunication
 resources: 
 	$(linkdirname)
 
+Ignore += dean.pdf
 dean.pdf: resources/submission.pdf
 	pdfjam $< 6,8-12,36-37 -o $@
-
-######################################################################
-
-## Machinery
 
 ######################################################################
 
@@ -78,6 +77,7 @@ Ignore += proposal_part.pdf dump.txt
 proposal_part.pdf: cihr_proposal.pdf
 	pdfjam $< 1-5 -o $@
 	
+Ignore += reference_part.pdf
 reference_part.pdf: cihr_proposal.pdf
 	pdfjam $< 6- -o $@
 
