@@ -4,7 +4,7 @@
 
 # Content Analysis/frame/thematic...of news media  WHICH ONE?
 * Need to develop coding book for coding
-* [Lexis-Nexis price]{https://www.lexisnexis.ca/en-ca/terms/quicklaw-per-search-pricing.page}
+* [Lexis-Nexis price](https://www.lexisnexis.ca/en-ca/terms/quicklaw-per-search-pricing.page)
 
 # Textual Analysis (data mining):
 
