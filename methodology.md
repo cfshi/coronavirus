@@ -1,3 +1,5 @@
+The public, traditional media, social media, public policy makers, Google Trend (in-between/among the other four forums)
+
 # Focus group:
 - Why do we need this?  To elaborate how people think and react to this virus.
 * Where:  Taiwan, Toronto, (ideally also Singapore, HK, Korea, US, Italy and other IMIC (low to middle income countries).
