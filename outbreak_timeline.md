@@ -1,3 +1,7 @@
+- [CDC SARS 2002-03 Timeline](https://www.cdc.gov/about/history/sars/timeline.htm)
+- [CDC H1N1 2009 Timeline](https://www.cdc.gov/flu/pandemic-resources/2009-pandemic-timeline.html)
+- [WHO H5N1 2003-4 Timeline](https://www.who.int/influenza/resources/documents/chronology/en/)
+
 [Al-Jazeera overview, seems to be updated automatically](https://www.aljazeera.com/news/2020/01/timeline-china-coronavirus-spread-200126061554884.html)
 
 Dec 2019 China alerted WHO to several cases of pneumonia in Wuhan, a port city of 11 million people in the central Hubei province.
