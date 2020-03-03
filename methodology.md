@@ -15,6 +15,6 @@ To explain differnces of users by their socio demographics of the following:
 
 # Goolge Trend (data mining)
 
-# Collecting governement and WHO update, guideliens and recommondations
-* CDC of Canada, USA, Italy, Korea, China, Singapore, Japan, Taiwan; WHO
+# Public Health Data:
+* Collecting governement and WHO update, guideliens and recommondations: CDC of Canada, USA, Italy, Korea, China, Singapore, Japan, Taiwan; WHO
 * Need to make a theme and timeline
