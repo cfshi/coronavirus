@@ -35,3 +35,10 @@ https://www.scmp.com/news/asia/southeast-asia/article/3049983/thailand-turns-awa
 - 19th: China's daily infection figures drop below 2,000 for the second straight day.
 - 22nd: South Korea saw its largest spike in a single day with 229 new cases of the virus.
 
+# March
+- 3rd:  
+  - Britain raised emergency to level 4 incident, the highest
+  - WHO chair suggested that the fatality is 3.4%, revised from ~2% earier
+  
+
+
