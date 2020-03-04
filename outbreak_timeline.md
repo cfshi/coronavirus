@@ -1,7 +1,7 @@
 - [CDC SARS 2002-03 Timeline](https://www.cdc.gov/about/history/sars/timeline.htm)
 - [CDC H1N1 2009 Timeline](https://www.cdc.gov/flu/pandemic-resources/2009-pandemic-timeline.html)
 - [WHO H5N1 2003-4 Timeline](https://www.who.int/influenza/resources/documents/chronology/en/)
-- [wiki timelin](https://en.wikipedia.org/wiki/Timeline_of_the_2019%E2%80%9320_coronavirus_outbreak_in_December_2019_%E2%80%93_January_2020)
+- [wiki timeline](https://en.wikipedia.org/wiki/Timeline_of_the_2019%E2%80%9320_coronavirus_outbreak_in_December_2019_%E2%80%93_January_2020)
 
 [Al-Jazeera overview, seems to be updated automatically](https://www.aljazeera.com/news/2020/01/timeline-china-coronavirus-spread-200126061554884.html)
 
