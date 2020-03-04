@@ -19,4 +19,11 @@ To explain differnces of users by their socio demographics of the following:
 
 # Public Health Data:
 * Collecting governement and WHO update, guideliens and recommondations: CDC of Canada, USA, Italy, Korea, China, Singapore, Japan, Taiwan; WHO
+* [daily case track](https://www.worldometers.info/coronavirus/)
+
+# Data on public events:
+* [movie box office](https://www.boxofficemojo.com/calendar/?ref_=bo_nb_in_tab)
+* [pubic transportation](), [water meter: do people spend more time home?](), [utility meter](), 
+
+# Others
 * Need to make a theme and timeline
