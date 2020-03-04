@@ -24,6 +24,7 @@ To explain differnces of users by their socio demographics of the following:
 # Data on public events:
 * [movie box office](https://www.boxofficemojo.com/calendar/?ref_=bo_nb_in_tab)
 * [pubic transportation:  daily ride of subway, buses]() (Although people might take cabs instead to avoid close human contact), [water meter: do people spend more time home?](), [utility meter](), 
+* [Blue Dot-flights etc](https://bluedot.global/products/)
 
 # Others
 * Need to make a theme and timeline
