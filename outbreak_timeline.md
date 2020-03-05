@@ -25,7 +25,7 @@ https://www.reuters.com/article/us-china-health-singapore/singapore-bans-china-t
 # Feb
 - 2nd: the first death outside China, of a Chinese man from Wuhan, reported in the Philippines.
 - 5th:  Diamond Prince Cruise docked at Yokoham, Japan quarantined https://time.com/5781727/diamond-princess-coronavirus-cruise-ship-quarantine/
-- 7th: Li Wenliang, a doctor who was among the first to sound the alarm over the coronavirus, died
+- 7th: [Li Wenliang died](https://www.nytimes.com/2020/02/06/world/asia/chinese-doctor-Li-Wenliang-coronavirus.html), a doctor who was among the first to sound the alarm over the coronavirus.
 - 9th: the death toll in China surpassed that of the 2002-03 SARS epidemic,
 - 10th  
   - Peking city under quarantine
