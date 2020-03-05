@@ -41,7 +41,8 @@ https://www.scmp.com/news/asia/southeast-asia/article/3049983/thailand-turns-awa
   - Britain raised emergency to level 4 incident, the highest
   - WHO chair suggested that the fatality is 3.4%, revised from ~2% earier
   - [Federal Reserve Cuts Rates by Half Percentage Point to Combat Virus Fear](https://www.wsj.com/articles/federal-reserve-cuts-interest-rates-by-half-percentage-point-11583247606), the first time the Fed has acted between its regularly scheduled meetings since the financial crisis in 2008.
-  - [Italy closed all schools until March 15th](https://www.wsj.com/articles/italy-shuts-all-schools-to-stem-spread-of-coronavirus-11583345100?mod=article_inline)
+  - [Italy closed all schools and universities](https://www.wsj.com/articles/italy-shuts-all-schools-to-stem-spread-of-coronavirus-11583345100?mod=article_inline) until March 15th
+  - 5th:  [Greece closed all schools and universities](https://www.theguardian.com/world/2020/mar/05/iran-to-restrict-travel-between-cities-as-3500-catch-coronavirus)
   
 
 
