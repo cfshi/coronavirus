@@ -43,7 +43,9 @@ https://www.scmp.com/news/asia/southeast-asia/article/3049983/thailand-turns-awa
   - [WHO media briefing ](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---3-march-2020); the fatality is 3.4% by now based on reported cases.
   - [Federal Reserve Cuts Rates by Half Percentage Point to Combat Virus Fear](https://www.wsj.com/articles/federal-reserve-cuts-interest-rates-by-half-percentage-point-11583247606), the first time the Fed has acted between its regularly scheduled meetings since the financial crisis in 2008.
   - [Italy closed all schools and universities](https://www.wsj.com/articles/italy-shuts-all-schools-to-stem-spread-of-coronavirus-11583345100?mod=article_inline) until March 15th
-- 4th: [James Bond movie postponed release](https://www.bbc.com/news/entertainment-arts-51744374) from April to November
+- 4th: 
+  - [James Bond movie postponed release](https://www.bbc.com/news/entertainment-arts-51744374) from April to November
+  - [Starbucks temporarily suspending the use of personal cups](https://www.cnn.com/2020/03/04/business/starbucks-coronavirus/index.html)
 - 5th:  [Greece closed all schools and universities](https://www.theguardian.com/world/2020/mar/05/iran-to-restrict-travel-between-cities-as-3500-catch-coronavirus)
   
 
