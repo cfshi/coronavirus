@@ -98,11 +98,20 @@ Sources += naveed.md abstract.md
 
 ######################################################################
 
-CoronaTS_repo:
-	git clone https://github.com/CSSEGISandData/COVID-19.git covid_dat
+## Not clear whether this chains yet 2020 Mar 05 (Thu)
 
-cases.csv:
-	cp covid_dat/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv $@
+pardirs += datarepos
+
+dr += JHU
+
+Ignore += $(dr)
+$(dr):
+	cd .. && $(MAKE) datarepos/$@
+	$(LNF) ../datarepos/$@ .
+
+JHU/%: JHU
+cases.csv: JHU/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv
+	$(copy)
 
 ######################################################################
 
