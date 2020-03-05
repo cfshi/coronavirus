@@ -1,4 +1,4 @@
-library(gtrends)
+library(gtrendsR)
 
 gtrendsdat <- gtrends(c("coronavirus"), time = "2019012-01 2020-03-04", tz=0)
 
