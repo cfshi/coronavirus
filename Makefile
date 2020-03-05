@@ -121,10 +121,16 @@ Sources += $(wildcard *.R)
 gtrends.Rout: gtrends.R
 	$(run-R)
 
+clean_gt.Rout: gtrends.Rout clean_gt.R
+	$(run-R)
+
 confirmed_cases.Rout: cases.csv confirmed_cases.R
 	$(run-R)
 
 confirmed_cases_plot.Rout: confirmed_cases.Rout confirmed_cases_plot.R
+	$(run-R)
+
+combo.Rout: clean_gt.Rout confirmed_cases.Rout combo.R
 	$(run-R)
 
 ######################################################################
