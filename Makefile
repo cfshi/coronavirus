@@ -110,6 +110,7 @@ $(dr):
 	$(LNF) ../datarepos/$@ .
 
 JHU/%: JHU
+Ignore += cases.csv
 cases.csv: JHU/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv
 	$(copy)
 
