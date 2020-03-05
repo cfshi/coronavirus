@@ -98,9 +98,22 @@ Sources += naveed.md abstract.md
 
 ######################################################################
 
+CoronaTS_repo:
+	git clone https://github.com/CSSEGISandData/COVID-19.git covid_dat
+
+cases.csv:
+	cp covid_dat/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv $@
+
+######################################################################
+
 gtrends.Rout: gtrends.R
 	$(run-R)
 
+confirmed_cases.Rout: cases.csv confirmed_cases.R
+	$(run-R)
+
+confirmed_cases_plot.Rout: confirmed_cases.Rout confirmed_cases_plot.R
+	$(run-R)
 
 ######################################################################
 
