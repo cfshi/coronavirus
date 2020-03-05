@@ -98,6 +98,12 @@ Sources += naveed.md abstract.md
 
 ######################################################################
 
+gtrends.Rout: gtrends.R
+	$(run-R)
+
+
+######################################################################
+
 ### Makestuff
 
 Sources += Makefile
@@ -111,7 +117,7 @@ makestuff/Makefile:
 
 -include makestuff/os.mk
 
-## -include makestuff/wrapR.mk
+-include makestuff/wrapR.mk
 ## -include makestuff/pandoc.mk
 
 -include makestuff/git.mk
