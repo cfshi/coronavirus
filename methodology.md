@@ -6,7 +6,8 @@ The public, traditional media, social media, public policy makers, Google Trend 
 
 # Content Analysis/frame/thematic...of news media  WHICH ONE?
 * Need to develop coding book for coding
-* [Lexis-Nexis price](https://www.lexisnexis.ca/en-ca/terms/quicklaw-per-search-pricing.page)
+* [NexisUni search](https://advance.lexis.com/bisacademicresearchhome?crid=aa32e889-3f4b-4e3b-95b7-51a5bfc1b15a&pdmfid=1516831&pdisurlapi=true)
+* [NexisUni price](https://www.lexisnexis.ca/en-ca/terms/quicklaw-per-search-pricing.page)
 
 # Textual Analysis (data mining):
 
