@@ -16,7 +16,7 @@
 - 17th: US announced that three airports would start screening passengers arriving from Wuhan.
 - 20th:  China confirmed human-to-human transmission, raising fears of a major outbreak as millions travelled for the Lunar New Year.
 - 22nd: Wuhan was placed under effective quarantine on January 23 as air and rail departures were suspended.
-- 24th: Shanghai Disneyland shut down 
+- 24th: [Shanghai Disneyland closed from the 25th](https://fortune.com/2020/01/24/coronavirus-in-china-shanghai-disneyland-shut-down-wuhan-virus/)(https://www.shanghaidisneyresort.com/en/guest-services/notice-202001/)
 - 25th:  WSJ reporeted U.S. Working to Evacuate American Citizens From Epidemic-Stricken Chinese City
 - 30th:  the WHO declared coronavirus a global emergency 
 - 31th:  Singapore banned entry to Chinese visitors and foreigners with a recent history of travel to China 
