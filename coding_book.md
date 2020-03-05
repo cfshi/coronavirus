@@ -51,5 +51,6 @@
 # Attribute theme weight
 Based on which paragraph key concept (via words) appear.  For example, 3 points to that in the first 3 paragraphs, 2 to 4-6 and 1 to the afterwards.
 
-# key words search:
-For Google trend, and official public health websites, search terms include coronavirus, 19-nCov, COVID-19, influenza, 武疫 (Wu Virus)，武漢病毒 (Wuhan Virus)，武漢(Wuhan)，武漢肺炎 (Wuhan pneumonia)，肺炎 (pneumonia)，冠状病毒 (coronavirus), 新型冠状病毒 (novel coronavirus), 武漢新型冠状病毒 (Wuhan novel coronavirus).
+# time and key words Search:
+- key words: For Google trend, and official public health websites, search terms include coronavirus, 19-nCov, COVID-19, influenza, 武疫 (Wu Virus)，武漢病毒 (Wuhan Virus)，武漢(Wuhan)，肺炎 (pneumonia)，冠状病毒 (coronavirus), 新型冠状病毒 (novel coronavirus), Wuhan seafood market and Sars variation
+- Time:  Nov 2019 -present(?)
