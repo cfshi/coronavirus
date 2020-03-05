@@ -115,6 +115,8 @@ cases.csv: JHU/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid
 
 ######################################################################
 
+Sources += $(wildcard *.R)
+
 gtrends.Rout: gtrends.R
 	$(run-R)
 

@@ -2,6 +2,8 @@ library(tidyverse)
 
 dd <- read_csv(input_files[[1]])
 
+## Try to keep logical distinction between mutate and summarise or else
+## JD might cry ☹
 cleandat <- (dd
 	%>% select(-Lat,-Long)
 	%>% gather(key="Date", value="Confirmed"
@@ -18,6 +20,9 @@ cleandat <- (dd
 	%>% group_by(Country_Region, Date)
 	%>% mutate(total_cumcases = sum(CumCases)
 		, total_cases = sum(Cases)
-		)
+	)
 )
 
+print(cleandat, n=200)
+
+print(cleandat %>% filter(Country_Region=="Mainland China"), n=200)

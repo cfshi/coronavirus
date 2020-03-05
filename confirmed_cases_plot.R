@@ -12,5 +12,4 @@ print(gg)
 
 print(gg %+% (cleandat %>% filter(Country_Region == "Mainland China"))
 	+ geom_vline(xintercept=as.Date("2020/02/12"))
-
 )
