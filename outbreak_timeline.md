@@ -1,3 +1,4 @@
+- [A pandemic or an epidemic?](https://www.nytimes.com/2020/02/28/health/coronavirus-pandemic-epidemic.html), WHO vs. CDC
 - [CDC SARS 2002-03 Timeline](https://www.cdc.gov/about/history/sars/timeline.htm)
 - [CDC H1N1 2009 Timeline](https://www.cdc.gov/flu/pandemic-resources/2009-pandemic-timeline.html)
 - [WHO H5N1 2003-4 Timeline](https://www.who.int/influenza/resources/documents/chronology/en/)
