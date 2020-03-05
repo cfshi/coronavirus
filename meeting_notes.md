@@ -1,3 +1,7 @@
+
+# To do and discuss
+- Is a social ecological model https://www.cdc.gov/violenceprevention/publichealthissue/social-ecologicalmodel.html useful method as our synthesis method?
+
 # checklist
 - budget information 
 - 
