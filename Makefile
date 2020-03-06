@@ -111,7 +111,7 @@ $(dr):
 
 JHU/%: JHU
 Ignore += cases.csv
-cases.csv: JHU/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv
+whocases.csv: JHU/who_covid_19_situation_reports/who_covid_19_sit_rep_time_series/who_covid_19_sit_rep_time_series.csv
 	$(copy)
 
 ######################################################################
@@ -124,13 +124,16 @@ gtrends.Rout: gtrends.R
 clean_gt.Rout: gtrends.Rout clean_gt.R
 	$(run-R)
 
-confirmed_cases.Rout: cases.csv confirmed_cases.R
+confirmed_cases.Rout: whocases.csv confirmed_cases.R
 	$(run-R)
 
 confirmed_cases_plot.Rout: confirmed_cases.Rout confirmed_cases_plot.R
 	$(run-R)
 
 combo.Rout: clean_gt.Rout confirmed_cases.Rout combo.R
+	$(run-R)
+
+comboPlot.Rout: combo.Rout comboPlot.R
 	$(run-R)
 
 ######################################################################
