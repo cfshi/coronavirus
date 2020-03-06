@@ -52,5 +52,5 @@
 Based on which paragraph key concept (via words) appear.  For example, 3 points to that in the first 3 paragraphs, 2 to 4-6 and 1 to the afterwards.
 
 # time and key words Search:
-- key words: For Google trend, and official public health websites, search terms include coronavirus, 19-nCov, COVID-19, 冠状病毒 (coronavirus), 新型冠状病毒 (novel coronavirus), influenza, virus, 武疫 (Wu Virus)，武漢病毒 (Wuhan Virus)，武漢(Wuhan)，肺炎, 武漢肺炎 ((Wuhan pneumonia)， Wuhan seafood market, flu, influenza, Sars variation
+- key words: For Google trend, and official public health websites, search terms include coronavirus, 2019-nCoV, 19-nCov, COVID-19, 冠状病毒 (coronavirus), 新型冠状病毒 (novel coronavirus), influenza, virus, 武疫 (Wu Virus)，武漢病毒 (Wuhan Virus)，武漢(Wuhan)，肺炎, 武漢肺炎 ((Wuhan pneumonia)， Wuhan seafood market, flu, influenza, Sars variation
 - Time:  Nov 2019 -present(?)
