@@ -17,6 +17,7 @@ To explain differnces of users by their socio demographics of the following:
 * FB
 
 # Goolge Trend (data mining)
+* We need to be clear about how we use search keywords e.g.,[terms vs. topics](https://support.google.com/trends/answer/4359550?hl=en).  For example, we got different results of coronavirus (as a topic) vs. coronavirus as a search term.
 
 # Public Health Data:
 * Collecting governement and WHO update, guideliens and recommondations: CDC of Canada, USA, Italy, Korea, China, Singapore, Japan, Taiwan; WHO
