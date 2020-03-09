@@ -21,7 +21,7 @@ The public, traditional media, social media, public policy makers, Google Trend 
     - [Los Angeles Times](https://www.latimes.com/)
     - [Washington Post](https://www.washingtonpost.com/)
     - Chinese [World Journal](https://en.wikipedia.org/wiki/World_Journal)
-    - New York was ranked #4 after the New York Time. 
+    - New York Post was ranked #4 after the New York Time. 
   - [England](https://www.statista.com/statistics/529060/uk-newspaper-market-by-circulation/):
     - [The Sun and the Sun on Sunday](https://www.thesun.co.uk/)
     - [Daily Mail and the Mail on Sunday](https://www.dailymail.co.uk/home/index.html)
