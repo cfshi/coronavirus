@@ -8,6 +8,11 @@ The public, traditional media, social media, public policy makers, Google Trend 
 * Need to develop coding book for coding
 * [NexisUni search](https://advance.lexis.com/bisacademicresearchhome?crid=aa32e889-3f4b-4e3b-95b7-51a5bfc1b15a&pdmfid=1516831&pdisurlapi=true)
 * [NexisUni price](https://www.lexisnexis.ca/en-ca/terms/quicklaw-per-search-pricing.page)
+* New media selected based on circulation and relativity (such as region and language)
+  - [Canada](https://www.worldatlas.com/articles/the-most-popular-daily-newspapers-in-canada.html https://en.wikipedia.org/wiki/List_of_newspapers_in_Canada_by_circulation): [The Globe and Mail](https://www.theglobeandmail.com/), and Sing Tao Daily](https://www.singtao.ca/toronto/?variant=zh-hk https://en.wikipedia.org/wiki/Sing_Tao_Daily_(Canada)) (maybe[Toronto Star](https://www.theglobeandmail.com/))
+  - USA:
+  - Singapore:
+  - 
 
 # Textual Analysis (data mining):
 
