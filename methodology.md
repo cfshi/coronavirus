@@ -17,15 +17,33 @@ The public, traditional media, social media, public policy makers, Google Trend 
     - [USA Today](https://www.usatoday.com/)
     - [The Wall Street Journal](https://www.wsj.com/)
     - [New York Times](https://www.nytimes.com/)
+    - [New York Post](https://nypost.com/)
     - [Los Angeles Times](https://www.latimes.com/)
     - [Washington Post](https://www.washingtonpost.com/)
     - Chinese [World Journal](https://en.wikipedia.org/wiki/World_Journal)
-    - The New York Post was ranked #4 after the New York Time. We did not include it because of regional similarity.
-  - England:
-  - Singapore:
+    - New York was ranked #4 after the New York Time. 
+  - [England](https://www.statista.com/statistics/529060/uk-newspaper-market-by-circulation/):
+    - [The Sun and the Sun on Sunday](https://www.thesun.co.uk/)
+    - [Daily Mail and the Mail on Sunday](https://www.dailymail.co.uk/home/index.html)
+    - [The Guardian](https://www.theguardian.com/uk), (to include international edition)
+    - The Sun and hte Daily Mail are the top 2 circulated NP in UK while the Guardian (and Observer as part of the Guaridan) were outside the top 10.  We chose the them because of circulaiton and of opinion influence (i.e., the Guardian and Observer) to provide various angles of news on the virus.
+
+- Singapore:
+    - []()
+    - []()
+    - []()
+
   - H.K.
+      - []()
+    - []()
+
   - Taiwan
-  - Ideally, we should include Korea and Italy if not due to lanague limits.
+    - []()
+    - []()
+    - []()
+    - []()
+
+- Ideally, we should include Korea and Italy if not due to lanague limits.
 
 # Textual Analysis (data mining):
 
