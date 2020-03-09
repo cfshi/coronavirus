@@ -11,11 +11,21 @@ The public, traditional media, social media, public policy makers, Google Trend 
 * New media selected based on circulation and relativity (such as region and language)
   - Canada:(https://www.worldatlas.com/articles/the-most-popular-daily-newspapers-in-canada.html) and (https://en.wikipedia.org/wiki/List_of_newspapers_in_Canada_by_circulation): 
     - [The Globe and Mail](https://www.theglobeandmail.com/) 
-    - [Sing Tao Daily](https://www.singtao.ca/toronto/?variant=zh-hk), (https://en.wikipedia.org/wiki/Sing_Tao_Daily_(Canada))     
+    - Chinese [Sing Tao Daily](https://www.singtao.ca/toronto/?variant=zh-hk), (https://en.wikipedia.org/wiki/Sing_Tao_Daily_(Canada))     
     - maybe [Toronto Star](https://www.theglobeandmail.com/)
-  - USA:
+  - [USA](https://www.cision.com/us/blogs/2019/01/top-ten-us-daily-newspapers/):
+    - [USA Today](https://www.usatoday.com/)
+    - [The Wall Street Journal](https://www.wsj.com/)
+    - [New York Times](https://www.nytimes.com/)
+    - [Los Angeles Times](https://www.latimes.com/)
+    - [Washington Post](https://www.washingtonpost.com/)
+    - Chinese [World Journal](https://en.wikipedia.org/wiki/World_Journal)
+    - The New York Post was ranked #4 after the New York Time. We did not include it because of regional similarity.
+  - England:
   - Singapore:
-  - 
+  - H.K.
+  - Taiwan
+  - Ideally, we should include Korea and Italy if not due to lanague limits.
 
 # Textual Analysis (data mining):
 
