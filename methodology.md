@@ -11,7 +11,8 @@ The public, traditional media, social media, public policy makers, Google Trend 
 * New media selected based on circulation and relativity (such as region and language)
   - Canada:(https://www.worldatlas.com/articles/the-most-popular-daily-newspapers-in-canada.html) and (https://en.wikipedia.org/wiki/List_of_newspapers_in_Canada_by_circulation): 
     - [The Globe and Mail](https://www.theglobeandmail.com/) 
-    - [Sing Tao Daily](https://www.singtao.ca/toronto/?variant=zh-hk https://en.wikipedia.org/wiki/Sing_Tao_Daily_(Canada))     - maybe [Toronto Star](https://www.theglobeandmail.com/)
+    - [Sing Tao Daily](https://www.singtao.ca/toronto/?variant=zh-hk), (https://en.wikipedia.org/wiki/Sing_Tao_Daily_(Canada))     
+    - maybe [Toronto Star](https://www.theglobeandmail.com/)
   - USA:
   - Singapore:
   - 
