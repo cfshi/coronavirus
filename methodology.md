@@ -26,7 +26,7 @@ The public, traditional media, social media, public policy makers, Google Trend 
     - [The Sun and the Sun on Sunday](https://www.thesun.co.uk/)
     - [Daily Mail and the Mail on Sunday](https://www.dailymail.co.uk/home/index.html)
     - [The Guardian](https://www.theguardian.com/uk), (to include international edition)
-    - The Sun and hte Daily Mail are the top 2 circulated NP in UK while the Guardian (and Observer as part of the Guaridan) were outside the top 10.  We chose the them because of circulaiton and of opinion influence (i.e., the Guardian and Observer) to provide various angles of news on the virus.
+    - The Sun and the Daily Mail are the top 2 circulated NP in UK while the Guardian (and Observer as part of the Guaridan) were outside the top 10.  We chose the them because of circulaiton and of opinion influence (i.e., the Guardian and Observer) to provide various angles of news on the virus.
 
 - Singapore:
     - []()
