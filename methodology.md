@@ -28,17 +28,17 @@ The public, traditional media, social media, public policy makers, Google Trend 
     - [The Guardian](https://www.theguardian.com/uk), (to include international edition)
     - The Sun and the Daily Mail are the top 2 circulated NP in UK while the Guardian (and Observer as part of the Guaridan) were outside the top 10.  We chose the them because of circulaiton and of opinion influence (i.e., the Guardian and Observer) to provide various angles of news on the virus.
   - Singapore:
-    - []()
-    - []()
+    - [聯合早報 Zaobao](https://www.zaobao.com.sg/)
+    - [The Straits Times](https://www.straitstimes.com/global)
     - []()
   - H.K.
     - []()
     - []()
   - Taiwan
-    - []()
-    - []()
-    - []()
-    - []()
+    - [自由時報 Liberty Times](https://www.ltn.com.tw/)
+    - [聯合報 United Daily](https://udn.com/news/index)
+    - [蘋果日報 Apple Daily](https://hk.appledaily.com/hit)
+    - [中國時報 China Times](https://www.chinatimes.com/newspapers/2601?chdtv)
 
 - Ideally, we should include Korea and Italy if not due to lanague limits.
 
