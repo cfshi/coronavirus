@@ -57,6 +57,8 @@ To explain differnces of users by their socio demographics of the following:
 * [daily case track](https://www.worldometers.info/coronavirus/)
 * CDC seasonal flu clinic visits over years (to compare if people got pre-cautious about COVID-19 from Dec, 2019-.
 * [WHO FluNet](https://www.who.int/influenza/gisrs_laboratory/flunet/en/)
+* [FluServ](https://gis.cdc.gov/GRASP/Fluview/FluHospRates.html) “FluView: Influenza Hospitalization Surveillance Network, Centers for Disease Control and Prevention. WEBSITE. Accessed on DATE”.
+
 
 # Data on public events and individual behavior change:
 * [movie box office](https://www.boxofficemojo.com/calendar/?ref_=bo_nb_in_tab)
