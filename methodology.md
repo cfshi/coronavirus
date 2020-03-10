@@ -55,6 +55,7 @@ To explain differnces of users by their socio demographics of the following:
 # Public Health Data:
 * Collecting governement and WHO update, guideliens and recommondations: CDC of Canada, USA, Italy, Korea, China, Singapore, Japan, Taiwan; WHO
 * [daily case track](https://www.worldometers.info/coronavirus/)
+* WHO COVID-19[Situation report](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200308-sitrep-48-covid-19.pdf?sfvrsn=16f7ccef_4)
 * CDC seasonal flu clinic visits over years (to compare if people got pre-cautious about COVID-19 from Dec, 2019-.
 * [WHO FluNet](https://www.who.int/influenza/gisrs_laboratory/flunet/en/)
 * [FluServ](https://gis.cdc.gov/GRASP/Fluview/FluHospRates.html) “FluView: Influenza Hospitalization Surveillance Network, Centers for Disease Control and Prevention. WEBSITE. Accessed on DATE”.
