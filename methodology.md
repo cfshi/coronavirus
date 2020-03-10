@@ -30,7 +30,6 @@ The public, traditional media, social media, public policy makers, Google Trend 
   - Singapore:
     - [聯合早報 Zaobao](https://www.zaobao.com.sg/)
     - [The Straits Times](https://www.straitstimes.com/global)
-    - []()
   - H.K.
     - []()
     - []()
@@ -57,6 +56,7 @@ To explain differnces of users by their socio demographics of the following:
 * Collecting governement and WHO update, guideliens and recommondations: CDC of Canada, USA, Italy, Korea, China, Singapore, Japan, Taiwan; WHO
 * [daily case track](https://www.worldometers.info/coronavirus/)
 * CDC seasonal flu clinic visits over years (to compare if people got pre-cautious about COVID-19 from Dec, 2019-.
+* [WHO FluNet](https://www.who.int/influenza/gisrs_laboratory/flunet/en/)
 
 # Data on public events and individual behavior change:
 * [movie box office](https://www.boxofficemojo.com/calendar/?ref_=bo_nb_in_tab)
