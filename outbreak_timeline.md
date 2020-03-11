@@ -24,6 +24,7 @@ https://www.reuters.com/article/us-china-health-singapore/singapore-bans-china-t
 
 # Feb
 - 2nd: the first death outside China, of a Chinese man from Wuhan, reported in the Philippines.
+- 3th: Hong Kong and Macau shot down schools until after Easter.
 - 5th:  Diamond Prince Cruise docked at Yokoham, Japan quarantined https://time.com/5781727/diamond-princess-coronavirus-cruise-ship-quarantine/
 - 7th: [Li Wenliang died](https://www.nytimes.com/2020/02/06/world/asia/chinese-doctor-Li-Wenliang-coronavirus.html), a doctor who was among the first to sound the alarm over the coronavirus.
 - 9th: the death toll in China surpassed that of the 2002-03 SARS epidemic,
@@ -47,6 +48,35 @@ https://www.scmp.com/news/asia/southeast-asia/article/3049983/thailand-turns-awa
   - [James Bond movie postponed release](https://www.bbc.com/news/entertainment-arts-51744374) from April to November
   - [Starbucks temporarily suspending the use of personal cups](https://www.cnn.com/2020/03/04/business/starbucks-coronavirus/index.html)
 - 5th:  [Greece closed all schools and universities](https://www.theguardian.com/world/2020/mar/05/iran-to-restrict-travel-between-cities-as-3500-catch-coronavirus)
+- 8th: Italy imposed a quarantine in the state of Lombardy and 14 other areas in the north, affecting a total of 16 million people.
+- 9th: Iran released about 70,000 prisoners because of the coronavirus outbreak
+- 10th: 
+  - Jamaica’s first coronavirus case
+  - The cruise ship Grand Princess has docked in San Francisco Bay
+  - Paraguay closes schools
+- 11th: 
+  - Hungary has declared a state of emergency
+  - Angela Merkel has said 60-70% of Germany’s population will be infected with Covid-19.
+  - [E3 Games Show](https://www.bloomberg.com/news/articles/2020-03-11/e3-video-game-conference-has-been-canceled-ars-technica-reports), the world’s largest video game convention, slated.
+  - Poland announced to close schools and unviersities from the 16th
+  - The Bank of England cut its base rate by 0.5% 
+  - WHO announce COVID-19 a [pandemic](https://www.npr.org/sections/goatsandsoda/2020/03/11/814474930/coronavirus-covid-19-is-now-officially-a-pandemic-who-says)!!!
+  - US reaches 1000 confirmed cases
+  
+  
+ ## first case infected and death
+ * Dec xx, 2019
+ * Jan 2020
+ * Feb 2020
+ * March 2020
+  - 11th, 
+    - Turkey 1st confirmed case
+    - Belgium first death
+    - Indonesia first death
+    - Panama has confirmed its first death
+    
+
+  
   
 
 
