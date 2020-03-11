@@ -5,7 +5,6 @@ dd <- read_csv(input_files[[1]])
 print(names(dd))
 
 ## Try to keep logical distinction between mutate and summarise or else
-## JD might cry ☹
 provincedat <- (dd
 	%>% gather(key="date", value="Confirmed"
 		, -`Province/States`, -`Country/Region`,-`WHO region`
@@ -16,12 +15,18 @@ provincedat <- (dd
 		, date = as.Date(paste0("0",date,"20"),format="%m/%d/%Y")
 		, CumCases = Confirmed
 		)
+	%>% rowwise()
+	%>% mutate(Country_Region = ifelse((Province_State == "Taiwan")&!is.na(Province_State), "Taiwan", Country_Region))
 	%>% group_by(Province_State,Country_Region)
-	%>% mutate(Cases = diff(c(CumCases,NA)))
+	%>% mutate(Cases = diff(c(CumCases,NA))
+		)
 	%>% ungroup()
 )
 
-print(provincedat)
+print(provincedat %>% filter(Cases < 0))
+
+
+print(provincedat$Country_Region)
 
 countrydat <- (provincedat
 	%>% group_by(Country_Region, date)
