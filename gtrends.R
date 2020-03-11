@@ -1,11 +1,25 @@
 library(gtrendsR)
 library(tidyverse)
 
-gtrendsdat <- gtrends(c("coronavirus"), time = "2019-12-01 2020-03-04",tz=0)
+dec2today <- "2019-12-01 2020-03-10"
+lessthan1 <- 0.5
 
-print(head(gtrendsdat$interest_over_time))
+gthits <- function(search_term,location,time){
+  	gtrendsdat <- gtrends(search_term, geo=location,time = time,tz=0)
+  	Sys.sleep(10)
+  	dd <- gtrendsdat[["interest_over_time"]]
+	dd2 <- (dd
+		%>% mutate(hits = ifelse(hits == "<1", lessthan1, as.numeric(hits))
+	)
+	)
+	return(dd2)
+}
 
+worldgt <- gthits(search_term="coronavirus",location="",time=dec2today)
 
-gtrendsdf <- gtrendsdat[["interest_over_time"]]
-
+country_gt <- lapply(c("US","IT","KR","SG","CN","TW")
+	, function(x){
+		gthits("coronavirus",location=x,time=dec2today)
+		}
+)
 
