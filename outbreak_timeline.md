@@ -51,9 +51,9 @@ https://www.scmp.com/news/asia/southeast-asia/article/3049983/thailand-turns-awa
 - 8th: Italy imposed a quarantine in the state of Lombardy and 14 other areas in the north, affecting a total of 16 million people.
 - 9th: Iran released about 70,000 prisoners because of the coronavirus outbreak
 - 10th: 
-  - Jamaica’s first coronavirus case
   - The cruise ship Grand Princess has docked in San Francisco Bay
   - Paraguay closes schools
+  - Greecea nnounced that all schools and universities in the whole country will shut down
 - 11th: 
   - Hungary has declared a state of emergency
   - Angela Merkel has said 60-70% of Germany’s population will be infected with Covid-19.
@@ -69,11 +69,15 @@ https://www.scmp.com/news/asia/southeast-asia/article/3049983/thailand-turns-awa
  * Jan 2020
  * Feb 2020
  * March 2020
-  - 11th, 
+  - 10th:
+    - Jamaica’s first coronavirus case
+    - Democratic Republic of the Congo have reported the first case
+  - 11th:
     - Turkey 1st confirmed case
     - Belgium first death
     - Indonesia first death
     - Panama has confirmed its first death
+    - [USA suspending most travel from Europe](https://www.nytimes.com/2020/03/11/us/politics/trump-coronavirus-speech.html) for 30 days, beginning on Friday (the 13th). 
     
 
   
