@@ -1,23 +1,28 @@
 library(tidyverse)
 
 
-country_name <- data.frame(geo = c("world", "CN", "KR", "TW", "IT", "US","SG")
-	, Country_Region = c("Globally", "China", "Republic of Korea", "Taiwan", "Italy", "United States of America", "Singapore")
+country_name <- data.frame(geo = c("world", "CN", "KR", "TW", "IT", "US","SG","CA")
+	, Country_Region = c("Globally", "China", "Republic of Korea", "Taiwan", "Italy", "United States of America", "Singapore","Canada")
 )
+
+#print(clean_gt)
+
+#print(dd)
 
 
 combodat <- (left_join(clean_gt, country_name)
-	%>% left_join(.,countrydat)
-#	%>% filter(date != as.Date("2020-02-14"))
-	%>% group_by(Country_Region)
-	%>% mutate(scale_cases = 100*total_cases/max(total_cases,na.rm=TRUE))	
+	%>% left_join(.,dd,by=c("geo"="CountryCode","date"="Date"))
+   %>% filter(date != as.Date("2020-02-14"))
+	%>% group_by(geo)
+	%>% mutate(scale_cases = 100*incidence/max(incidence,na.rm=TRUE))	
 	%>% ungroup()
-	%>% select(date, Country_Region, hits, scale_cases)
-	%>% gather(key="type", value="score",-date, -Country_Region)
-	%>% mutate(Country_Region = ifelse(Country_Region == "United States of America", "USA", Country_Region))
+	%>% select(date, CountryName, hits,scale_cases)
+	%>% gather(key="type", value="score",-date, -CountryName)
+	%>% filter(!is.na(CountryName))
 )
 
-print(combodat %>% filter(type == "scale_cases"))
+print(combodat)
+
 
 #combodatHack <- (combodat
 #	%>% mutate(remove_max = ifelse(scale_cases > 99.9, 0, scale_cases)

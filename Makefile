@@ -111,8 +111,6 @@ $(dr):
 
 JHU/%: JHU
 Ignore += cases.csv
-whocases.csv: JHU/who_covid_19_situation_reports/who_covid_19_sit_rep_time_series/who_covid_19_sit_rep_time_series.csv
-	$(copy)
 
 ######################################################################
 

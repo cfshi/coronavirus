@@ -1,7 +1,7 @@
 library(gtrendsR)
 library(tidyverse)
 
-dec2today <- "2019-12-01 2020-03-10"
+dec2today <- "2019-12-01 2020-03-19"
 lessthan1 <- 0.5
 
 gthits <- function(search_term,location,time){
@@ -17,7 +17,7 @@ gthits <- function(search_term,location,time){
 
 worldgt <- gthits(search_term="coronavirus",location="",time=dec2today)
 
-country_gt <- lapply(c("US","IT","KR","SG","CN","TW")
+country_gt <- lapply(c("US","IT","KR","SG","CN","TW","CA")
 	, function(x){
 		gthits("coronavirus",location=x,time=dec2today)
 		}
