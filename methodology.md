@@ -2,7 +2,9 @@ The public, traditional media, social media, public policy makers, Google Trend 
 
 # Focus group:
 - Why do we need this?  To elaborate how people think and react to this virus.
-* Where:  Taiwan, Toronto, (ideally also Singapore, HK, Korea, US, Italy and other IMIC (low to middle income countries).
+  - There are also concerns that media dissemination and consumption can be overwhelmed and dissensitize.
+
+- Where:  Taiwan, Toronto, (ideally also Singapore, HK, Korea, US, Italy and other IMIC (low to middle income countries).
 
 # Content Analysis/frame/thematic...of news media  WHICH ONE?
 * Need to develop coding book for coding
