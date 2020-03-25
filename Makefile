@@ -119,10 +119,13 @@ Sources += $(wildcard *.R)
 gtrends.Rout: gtrends.R
 	$(run-R)
 
-clean_gt.Rout: gtrends.Rout clean_gt.R
+othergtrends.Rout: othergtrends.R
 	$(run-R)
 
-confirmed_cases.Rout: whocases.csv confirmed_cases.R
+clean_gt.Rout: gtrends.Rout othergtrends.Rout clean_gt.R
+	$(run-R)
+
+confirmed_cases.Rout: confirmed_cases.R
 	$(run-R)
 
 confirmed_cases_plot.Rout: confirmed_cases.Rout confirmed_cases_plot.R
@@ -131,7 +134,13 @@ confirmed_cases_plot.Rout: confirmed_cases.Rout confirmed_cases_plot.R
 combo.Rout: clean_gt.Rout confirmed_cases.Rout combo.R
 	$(run-R)
 
+combo_world.Rout: clean_gt.Rout confirmed_cases.Rout combo_world.R
+	$(run-R)
+
 comboPlot.Rout: combo.Rout comboPlot.R
+	$(run-R)
+
+combo_worldPlot.Rout: combo_world.Rout combo_worldPlot.R
 	$(run-R)
 
 ######################################################################
