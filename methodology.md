@@ -1,12 +1,18 @@
 The public, traditional media, social media, public policy makers, Google Trend (in-between/among the other four forums)
+We will try to conduct focus group and online survey BEFORE the social distancing lift.  It might be hard but the information will be more prompt than replying on memory.
 
-# Focus group:
+# Focus group (via Zoom etc):
 - Why do we need this?  To elaborate how people think and react to this virus.
   - There are also concerns that media dissemination and consumption can be overwhelmed and dissensitize.
-
 - Where:  Taiwan, Toronto, (ideally also Singapore, HK, Korea, US, Italy and other IMIC (low to middle income countries).
+- Who:  senior citizens (senior home), youth, health practitionres?
+
+
+# Online Survey (Tik Tok and instgram):
+- Youth
 
 # Content Analysis/frame/thematic...of news media  WHICH ONE?
+We have to revise the sample selection.  Instead of using AI running through each single article, we will do samples. (due to fudning)
 * Need to develop coding book for coding
 * [NexisUni search](https://advance.lexis.com/bisacademicresearchhome?crid=aa32e889-3f4b-4e3b-95b7-51a5bfc1b15a&pdmfid=1516831&pdisurlapi=true)
 * [NexisUni price](https://www.lexisnexis.ca/en-ca/terms/quicklaw-per-search-pricing.page)
