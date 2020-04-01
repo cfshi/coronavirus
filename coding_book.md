@@ -1,8 +1,8 @@
 # What 
 (theme of analysis which would be based on a pilot study):  
-	* coronavirus characteristics and disease comparison: what it is and compared to other diseases
-	* flu symptom:
-	* risk (what are the risks:  fantality, infection speed, pandemic likelihood) vs. action (what can we do to prevent and reduce chances of infection)
+	- coronavirus characteristics and disease comparison: what it is and compared to other diseases
+	- flu symptom:
+	- risk (what are the risks:  fantality, infection speed, pandemic likelihood) vs. action (what can we do to prevent and reduce chances of infection)
 	- health concern and treatment: vaccine,
 	- policy and action:  quarantine, grounding flights, entry to countries, evacuation out of China (https://www.reuters.com/article/us-china-health-masks-safety/to-mask-or-not-to-mask-confusion-spreads-over-coronavirus-protection-idUSKBN1ZU0PH)
 	- guidance: travel recommondation, hand-washing, cough etiquette, and use of personal protection equipment (eg, masks)
@@ -24,7 +24,7 @@
 # Where
 	- country, region and city
 	
-# information vs. misinformation:
+# information vs. misinformation (mabye not fake news?:
 
 	- verified
 	- anonymous
