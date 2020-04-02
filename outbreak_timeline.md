@@ -9,7 +9,7 @@
 - infected cases marks
 - travel bans
 - herd community (e.g. [march breaker partying](https://edition.cnn.com/travel/article/austin-spring-breakers-coronavirus-trnd/index.html))
-- A [similar approach](https://lumesserschmidt.github.io/CoronaNet/).  Don't know how much our ideas overlapped.
+- The [CoronaNet Research Project](https://lumesserschmidt.github.io/CoronaNet/) seems to have similar ideas.  Don't know how much ours and theirs overlapped.
 
 # Main sources:
 - WHO vs. CDC: [A pandemic or an epidemic?](https://www.nytimes.com/2020/02/28/health/coronavirus-pandemic-epidemic.html)
