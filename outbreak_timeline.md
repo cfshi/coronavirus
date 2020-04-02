@@ -2,7 +2,7 @@
 - first case reported
 - soical distancing recommended 
 - social distancing imposed
-- facial mask recommended
+- facial mask recommended (e.g., [Taiwan wearing mask](https://www.chinatimes.com/realtimenews/20200331005858-260405?chdtv))
 - asymptomatic idea
 - fatality marks
 - infected cases marks
