@@ -7,6 +7,7 @@
 - fatality marks
 - infected cases marks
 - travel bans
+- herd community (e.g. [march breaker partying](https://edition.cnn.com/travel/article/austin-spring-breakers-coronavirus-trnd/index.html)
 
 # Main sources:
 - WHO vs. CDC: [A pandemic or an epidemic?](https://www.nytimes.com/2020/02/28/health/coronavirus-pandemic-epidemic.html)
