@@ -1,3 +1,14 @@
+# parameter of timeline benchmark:
+- first case reported
+- soical distancing recommended 
+- social distancing imposed
+- facial mask recommended
+- asymptomatic idea
+- fatality marks
+- infected cases marks
+- travel bans
+
+# Main sources:
 - WHO vs. CDC: [A pandemic or an epidemic?](https://www.nytimes.com/2020/02/28/health/coronavirus-pandemic-epidemic.html)
 - [CDC SARS 2002-03 Timeline](https://www.cdc.gov/about/history/sars/timeline.htm)
 - [CDC H1N1 2009 Timeline](https://www.cdc.gov/flu/pandemic-resources/2009-pandemic-timeline.html)
