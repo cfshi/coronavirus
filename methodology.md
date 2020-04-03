@@ -10,7 +10,7 @@ We will try to conduct focus group and online survey BEFORE the social distancin
 
 # [Online Survey](https://docs.google.com/document/d/1laEd1aGx8mWPhfwYaM9Wa3ys2NF91eMpkANmlR9iw20/edit) (Tik Tok, instgram, twitter and FB):
 - define age groups
-- Should we conduct a few different themes for different groups, so it won't take too long since it's online?  Also, we might get a more detailed info if not too many themes to talk about. Testing, social distancing, policies, herd immunity, mask, hand washing, 
+- Should we conduct a few different themes for different groups, so it won't take too long since it's online?  Also, we might get a more detailed info if not too many themes to talk about. Testing, social distancing, policies, herd immunity, mask, hand washing, etc.  E.g., [timeline in Ontario](https://drive.google.com/file/d/1cL13xouKC--IPH2Yyot5pF8JjavepSly/view)
 
 # Content Analysis/frame/thematic...of news media  WHICH ONE?
 We have to revise the sample selection.  Instead of using AI running through each single article, we will do samples. (due to fudning)
@@ -69,6 +69,7 @@ To explain differnces of users by their socio demographics of the following:
 * CDC seasonal flu clinic visits over years (to compare if people got pre-cautious about COVID-19 from Dec, 2019-.
 * [WHO FluNet](https://www.who.int/influenza/gisrs_laboratory/flunet/en/)
 * [FluServ](https://gis.cdc.gov/GRASP/Fluview/FluHospRates.html) “FluView: Influenza Hospitalization Surveillance Network, Centers for Disease Control and Prevention. WEBSITE. Accessed on DATE”.
+* template for comparison: [timeline in Ontario](https://drive.google.com/file/d/1cL13xouKC--IPH2Yyot5pF8JjavepSly/view)
 
 
 # Data on public events and individual behavior change:
