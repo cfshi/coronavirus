@@ -8,8 +8,8 @@ We will try to conduct focus group and online survey BEFORE the social distancin
 - Who:  senior citizens (senior home), youth, health practitionres?
 
 
-# Online Survey (Tik Tok and instgram):
-- Youth
+# Online Survey (Tik Tok, instgram, twitter and FB):
+- define age groups
 
 # Content Analysis/frame/thematic...of news media  WHICH ONE?
 We have to revise the sample selection.  Instead of using AI running through each single article, we will do samples. (due to fudning)
