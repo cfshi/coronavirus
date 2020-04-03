@@ -3,29 +3,9 @@
 - Is a social ecological model https://www.cdc.gov/violenceprevention/publichealthissue/social-ecologicalmodel.html useful method as our synthesis method?
 
 # checklist
-- budget information 
-- 
-I have:
-- added a challenges/how we manage them section
-- begun a track record section.
-- begun space-saving efforts
-- added a 'fit to the call' section
-- modified phrasing, minor edits, accepted suggestions etc
 
-Next I will (your input helpful for bold items)
-- do the sex/gender statement; thanks for the helpful bits you have sent
-- write a budget justification
-- write a 1page summary
-- following input from 
 # note to ponder on
 - To collect data from public transportation bureau (subway, buses in Taipei, Toronto), a good index and easier to collect ( I hope). Hotels and restaurants data.  We can compare 2018-9 vs. 19-20 vs. 20-21 during selected months.
-
-- Although policy is not a focus in the proposal, I like to do a comparison of health policy in the selected countries and WHO a clear point, even as a secondary research interest, under the grant objective track. It will provide insights of what, who (which country) and when for effeicnecy measurements and give info on what (novel) task to better curtail the outbreak.  This can involve a social perspective by considering country differences. I think its a good selling point.
-
-- to plot death toll into our grande analysis (i.e., combing all the 4 forums)
-
-- to use the term "evidence based knowledge" to  science forum?
-
 
 - Cites for background section
 
@@ -60,6 +40,20 @@ the differential prevalence of infectious diseases might create cross-cultural d
 - to use twitter as a media with caution:
 Big Data in Communication Research: Its Contents and Discontents, Malcolm R. Parks
 Journal of Communication, Volume 64, Issue 2, April 2014, Pages 355–360, https://doi.org/10.1111/jcom.12090
+
+
+# April 3
+==========
+(JD, Nai C,Amy N and CF)
+
+Agenda:
+
+- Focus group:  countries, social-demo groups, 
+- online survey:  instgram, twitter, tik tok 
+	- different targets, different info
+	- a few versions of the surveys to reduce attention span?  basic + policy/symptons/prevention and reduction/personal and social level of impact of this outbream
+- news selection:  sampling, event benchmark
+- comparison of recommendation and policy from governments and WHO
 
 # Feb 13
 ========
