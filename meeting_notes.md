@@ -46,7 +46,8 @@ Journal of Communication, Volume 64, Issue 2, April 2014, Pages 355–360, https
 ==========
 (JD, Nai C,Amy N and CF)
 
-Agenda:
+
+* Agenda: public health communication flow
 
 - Focus group:  countries, social-demo groups, 
 - online survey:  instgram, twitter, tik tok 
@@ -54,6 +55,25 @@ Agenda:
 	- a few versions of the surveys to reduce attention span?  basic + policy/symptons/prevention and reduction/personal and social level of impact of this outbream
 - news selection:  sampling, event benchmark
 - comparison of recommendation and policy from governments and WHO
+- Do we need ethics approval for each country? (Can I use Canada one to survey USA?)
+-  ALPHA 
+- Role distrubtion:
+	- Nai:
+	- Amy: coding book, news sampling, questionnaires of survey and focus group
+	- CS:  -ditto-, ethics approval permission, finding targets,
+- future ideas?
+
+what news?  main themes?
+prisoners, disadvantages groups
+
+Lexicoder  by Mark from McGill, automated  coding software daku
+
+african artists?  Nai.  co-production, co-creation, power relation
+
+economic vs. health/life
+
+Phillips leifield discourse analyzer network
+	
 
 # Feb 13
 ========
