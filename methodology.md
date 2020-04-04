@@ -14,7 +14,8 @@ We will try to conduct focus group and online survey BEFORE the social distancin
 
 # Content Analysis/frame/thematic...of news media  WHICH ONE?
 We have to revise the sample selection.  Instead of using AI running through each single article, we will do samples. (due to fudning)
-* Need to develop coding book for coding
+* Need to develop coding book for coding:  to include the themes:  social distancing, asymptomatic, flatten the curve, face mask, and?
+
 * [NexisUni search](https://advance.lexis.com/bisacademicresearchhome?crid=aa32e889-3f4b-4e3b-95b7-51a5bfc1b15a&pdmfid=1516831&pdisurlapi=true)
 * [NexisUni price](https://www.lexisnexis.ca/en-ca/terms/quicklaw-per-search-pricing.page)
 * New media selected based on circulation (print and [online](https://www.techworm.net/2018/12/best-most-popular-news-websites-world.html), relativity (such as region and language) and online free access to COVID-19 coverage
@@ -59,6 +60,7 @@ To explain differnces of users by their socio demographics of the following:
 
 # Goolge Trend (data mining)
 * We need to be clear about how we use search keywords e.g.,[terms vs. topics](https://support.google.com/trends/answer/4359550?hl=en).  For example, we got different results of coronavirus (as a topic) vs. coronavirus as a search term.
+* main search terms:  coronavirus, COVID-19, social distancing, asymptomatic, flatten the curve, face mask
 * [How to interpret google trends](https://medium.com/google-news-lab/what-is-google-trends-data-and-what-does-it-mean-b48f07342ee8)
 * Also see [MLi's code[(https://github.com/cfshi/coronavirus/blob/master/google_trend.rmd)
 
