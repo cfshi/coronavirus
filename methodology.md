@@ -61,9 +61,8 @@ To explain differnces of users by their socio demographics of the following:
 # Goolge Trend (data mining)
 * We need to be clear about how we use search keywords e.g.,[terms vs. topics](https://support.google.com/trends/answer/4359550?hl=en).  For example, we got different results of coronavirus (as a topic) vs. coronavirus as a search term.
 * main search terms:  coronavirus, COVID-19, social distancing, asymptomatic, flatten the curve, face mask
-* [How to interpret google trends](https://medium.com/google-news-lab/what-is-google-trends-data-and-what-does-it-mean-b48f07342ee8)
-* Also see [MLi's code[(https://github.com/cfshi/coronavirus/blob/master/google_trend.rmd)
-
+* [How to interpret google trends](https://medium.com/google-news-lab/what-is-google-trends-data-and-what-does-it-mean-b48f07342ee8)* Also see [MLi's code[(https://github.com/cfshi/coronavirus/blob/master/google_trend.rmd)
+* [The Virus Changed the Way We Internet](https://www.nytimes.com/interactive/2020/04/07/technology/coronavirus-internet-use.html?action=click&module=Editors%20Picks&pgtype=Homepage) with many useful website data
 # Public Health Data:
 * Collecting governement and WHO update, guideliens and recommondations: CDC of Canada, USA, Italy, Korea, China, Singapore, Japan, Taiwan; WHO
 * [daily case track](https://www.worldometers.info/coronavirus/)
