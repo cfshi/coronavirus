@@ -50,6 +50,8 @@ We have to revise the sample selection.  Instead of using AI running through eac
     - [中國時報 China Times](https://www.chinatimes.com/newspapers/2601?chdtv)
 
 - Ideally, we should include Korea and Italy if not due to lanague limits.
+- UTAustin's Media Engagement [News Sites Selection](https://mediaengagement.org/research/news-site-analysis/)
+- UTAustin's Media Engagement on Coronavirus:[A Snapshot of the Information People Want and What Local Newsrooms are Reporting](https://mediaengagement.org/research/coronavirus-reporting-snapshot/)
 
 # Textual Analysis (data mining):
 
