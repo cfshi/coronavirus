@@ -11,6 +11,7 @@ We will try to conduct focus group and online survey BEFORE the social distancin
 # [Online Survey](https://docs.google.com/document/d/1laEd1aGx8mWPhfwYaM9Wa3ys2NF91eMpkANmlR9iw20/edit) (Tik Tok, instgram, twitter and FB):
 - define age groups
 - Should we conduct a few different themes for different groups, so it won't take too long since it's online?  Also, we might get a more detailed info if not too many themes to talk about. Testing, social distancing, policies, herd immunity, mask, hand washing, etc.  E.g., [timeline in Ontario](https://drive.google.com/file/d/1cL13xouKC--IPH2Yyot5pF8JjavepSly/view)
+- similar studies [](https://746a1e8d-7231-4b96-9bc2-88b2eb5c4964.filesusr.com/ugd/3d9db5_a82c3a15441f4687a0114efc78307e80.pdf)
 
 # Content Analysis/frame/thematic...of news media  WHICH ONE?
 We have to revise the sample selection.  Instead of using AI running through each single article, we will do samples. (due to fudning)
