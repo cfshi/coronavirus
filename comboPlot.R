@@ -3,32 +3,33 @@ library(tidyverse)
 
 mindate <- as.Date("2020-01-15")
 
-gg <- (ggplot(combodat, aes(x=date,y=score,lty=type,color=CountryName))
+gg <- (ggplot(combodat, aes(x=date,y=score,color=type))
 #	+ geom_point()
 	+ geom_line()
-	+ ggtitle("Red = Incidence Score, Blue = Google Trend Score")
+	+ scale_color_manual(values=c("blue","red"))
 	+ theme(legend.position="bottom")
 	+ xlim(mindate,NA)
+	+ facet_wrap(~Country)
 )
 
-
 print(gg)
-print(gg + facet_wrap(~CountryName, scale="free",ncol=2))
 
+
+quit()
 
 labeldf <- (combodat
-	%>% select(CountryName)
+	%>% select(Country)
 	%>% distinct()
-	%>% mutate(date=mindate+3
+	%>% mutate(Date=mindate+3
 		, score = 100
 		)
 )
 
-gg2 <- (ggplot(combodat, aes(x=date, y=score))
+gg2 <- (ggplot(combodat, aes(x=Date, y=score))
 	+ geom_line(aes(lty=type))
-	+ facet_wrap(~CountryName, scale="free",ncol=1)
+	+ facet_wrap(~Country, scale="free",ncol=1)
 	+ xlim(mindate,NA)
-	+ geom_text(data=labeldf,aes(label=CountryName),group=1,vjust=1,guide=FALSE,color="black")
+	+ geom_text(data=labeldf,aes(label=Country),group=1,vjust=1,guide=FALSE,color="black")
 	+ theme(legend.position = "bottom"
 		, strip.background = element_blank()
 		, strip.text.x = element_blank()

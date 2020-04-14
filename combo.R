@@ -11,14 +11,14 @@ country_name <- data.frame(geo = c("world", "CN", "KR", "TW", "IT", "US","SG","C
 
 
 combodat <- (left_join(clean_gt, country_name)
-	%>% left_join(.,dd,by=c("geo"="CountryCode","date"="Date"))
-   %>% filter(date != as.Date("2020-02-14"))
+	%>% left_join(.,ddconfirm,by=c("geo"="Country","date"="Date"))
+   %>% filter(date != as.Date("2020-02-13"))
 	%>% group_by(geo)
-	%>% mutate(scale_cases = 100*incidence/max(incidence,na.rm=TRUE))	
+	%>% mutate(scale_cases = 100*newConfirmations/max(newConfirmations,na.rm=TRUE))	
 	%>% ungroup()
-	%>% select(date, CountryName, hits,scale_cases)
-	%>% gather(key="type", value="score",-date, -CountryName)
-	%>% filter(!is.na(CountryName))
+	%>% select(date, Country=geo, hits,scale_cases)
+	%>% gather(key="type", value="score",-date, -Country)
+	%>% filter(!is.na(Country))
 )
 
 print(combodat)

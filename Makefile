@@ -131,9 +131,6 @@ confirmed_cases_plot.Rout: confirmed_cases.Rout confirmed_cases_plot.R
 combo.Rout: clean_gt.Rout confirmed_cases.Rout combo.R
 	$(run-R)
 
-combo_world.Rout: clean_gt.Rout confirmed_cases.Rout combo_world.R
-	$(run-R)
-
 comboPlot.Rout: combo.Rout comboPlot.R
 	$(run-R)
 
