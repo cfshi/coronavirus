@@ -119,10 +119,7 @@ Sources += $(wildcard *.R)
 gtrends.Rout: gtrends.R
 	$(run-R)
 
-othergtrends.Rout: othergtrends.R
-	$(run-R)
-
-clean_gt.Rout: gtrends.Rout othergtrends.Rout clean_gt.R
+clean_gt.Rout: gtrends.Rout clean_gt.R
 	$(run-R)
 
 confirmed_cases.Rout: confirmed_cases.R

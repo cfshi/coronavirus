@@ -1,7 +1,12 @@
 library(gtrendsR)
 library(tidyverse)
 
-dec2today <- "2019-12-01 2020-03-25"
+first_date <- "2019-12-01"
+today <- Sys.Date()
+dec2today <- paste(first_date,today)
+
+print(dec2today)
+
 lessthan1 <- 0.5
 
 gthits <- function(search_term,location,time){

@@ -1,19 +1,23 @@
 library(tidyverse)
+library(zoo)
 
-dd <- read_csv("https://raw.githubusercontent.com/open-covid-19/data/master/output/data.csv")
+first_date <- as.Date("2019-12-31")
+today <- as.Date(Sys.Date())
 
-dd <- (dd
-	%>% group_by(CountryName)
-	%>% mutate(incidence = diff(c(Confirmed,NA)))
+dd <- read_csv("https://raw.githubusercontent.com/open-covid-19/data/master/output/data_minimal.csv")
+
+
+dateframe <- data.frame(Date = as.Date(first_date:today))
+
+ddcombo <- (left_join(dateframe,dd)
+	%>% group_by(Key)
+	%>% mutate(newConfirmations = diff(c(NA,Confirmed)))
+	%>% ungroup()
+	%>% select(Date, Country=Key, Confirmed, newConfirmations)
 )
 
-ddworld <- (dd
-	%>% group_by(Date)
-	%>% summarise(incidence = sum(incidence,na.rm=TRUE))
-	%>% select(date=Date, incidence)
-)
 
-print(ddworld,n=100)
+print(ddcombo,n=100)
 
 
 
