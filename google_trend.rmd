@@ -17,6 +17,9 @@ We did a systematic search on google trends as follows:
 
   1. We first did a worldwide search from December 1st, 2019, to February 14th, 2020, for the keyword "Coronavirus".
   
+(CF):  Is "Coronavirus" a term or a topic in the search?  We need to clarify the difference between the two as topic is above term.  
+(CF):  If it is a topic, does it include social distancing, for example?
+  
   2. From the list of top regions most interested in this topic, we selected: 
     - Singopore (rank 1)
     - China (rank 2)
@@ -25,6 +28,8 @@ We did a systematic search on google trends as follows:
     - UK (rank 16)
     - USA (rank 21)
     - Taiwan (rank 67)
+    
+ (CF):  Let's add Italy, Korea, Japan and Britain as of April '20.
 
   2. From the list of top "Related topics" related to Coronavirus, we selected: 
     - Symptoms (rank 2)
