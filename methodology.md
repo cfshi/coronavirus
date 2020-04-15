@@ -68,6 +68,8 @@ To explain differnces of users by their socio demographics of the following:
 * [How to interpret google trends](https://medium.com/google-news-lab/what-is-google-trends-data-and-what-does-it-mean-b48f07342ee8)* Also see [MLi's code[(https://github.com/cfshi/coronavirus/blob/master/google_trend.rmd)
 * [The Virus Changed the Way We Internet](https://www.nytimes.com/interactive/2020/04/07/technology/coronavirus-internet-use.html?action=click&module=Editors%20Picks&pgtype=Homepage) with many useful website data
 * [Improved forecasts of influenza-associated hospitalization rates with Google Search Trends](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6597779/)
+* This is what Google Trends search like in terms of people's interest in the topic:
+[Apr 15 14:51](https://trends.google.com/trends/story/US_cu_4Rjdh3ABAABMHM_en)
 # Public Health Data:
 * Collecting governement and WHO update, guideliens and recommondations: CDC of Canada, USA, Italy, Korea, China, Singapore, Japan, Taiwan; WHO
 * [daily case track](https://www.worldometers.info/coronavirus/)
