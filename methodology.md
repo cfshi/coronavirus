@@ -17,6 +17,7 @@ We will try to conduct focus group and online survey BEFORE the social distancin
 We have to revise the sample selection.  Instead of using AI running through each single article, we will do samples. (due to fudning)
 * Need to develop coding book for coding:  to include the themes:  social distancing, asymptomatic, flatten the curve, face mask, and?
 * Using Python for automated [news content analysis](https://journals.sagepub.com/doi/10.1177/1464884917716699)
+* [news index and sampling method](https://www.journalism.org/news_index_methodology/)
 
 * [NexisUni search](https://advance.lexis.com/bisacademicresearchhome?crid=aa32e889-3f4b-4e3b-95b7-51a5bfc1b15a&pdmfid=1516831&pdisurlapi=true)
 * [NexisUni price](https://www.lexisnexis.ca/en-ca/terms/quicklaw-per-search-pricing.page)
