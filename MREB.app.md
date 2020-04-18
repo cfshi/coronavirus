@@ -12,7 +12,8 @@ to this crisis and to improve health communication flow during a crisis.
 Race is part of our socio-demographic factor and we try to include as many races as possible.  
 There is no emphasis on any racial background in this study and it will be questionable 
 to exclude certain races from this study.
-(This rationale of this answer was based on a question of this section:
+
+(This answer was responding to a question of this section:
 6.2
 The following statements are asked to determine whether community engagement is required. Check if applicable.
     > Recruitment criteria will include Canadian Indigenous identities as either a factor for the entire study or for a subgroup in the study)
