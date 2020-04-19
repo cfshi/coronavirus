@@ -1,12 +1,12 @@
 # 3.4 How would you describe the research activity conducted in this protocol to a lay person unfamiliar 
 with your discipline's methodologies and jargon? (max 250 words)?
 
-JD: Changed
+__JD__: Changed
 The Covid-19 Awareness Study is a online anonymous survey conducted by McMaster University.   
 We will collect data on the public's knowledge about the COVID-19 outbreak, and their behavioural responses. 
 Data will be used to help us to better understand patterns of health knowledge and response to this crisis, with the goal of learning how to improve health communication during a crisis.
 
-JD: Let's skip 6.9. We are not targeting FN people for recruitment.
+__JD__: Let's skip 6.9. We are not targeting FN people for recruitment.
 
 # 6.9 Provide the rationale for the exception to the community engagement requirement.
 
@@ -23,23 +23,19 @@ The following statements are asked to determine whether community engagement is 
 # 8/1 Describe concisely and in plain language the study background of the proposed research project 
 (e.g., context of the research, previous research, importance of this area of study, etc.).
 
-COVID-19 pandemic has caused a serious international public health crisis. Understanding the 
-public attitude and knowledge of the disease that may contribute to COVID-19 spread has the 
-potential to improve the control of transmission of another infectious outbreak like this. 
-The effect of public behaviour and the communication flow is especially crucial in the case of 
-COVID-19 and has not yet been evaluated.  By knowing whether the public perception of the disease 
-is align with the guidelines recommended by health authorities is necessary for the control of
-disease outbreak.  This study will capture preliminary data necessary for modelling disease 
-transmission and information flow.
+__JD__: Changed. Communication "flow" is awkward, I think we used information flow in the proposal.
+The interactions between health communication and public behaviour is crucial in controlling COVID-19 and has not yet been evaluated.  __JD__: has not been evaluated seems strong and unnecessary.
+Understanding public attitudes, disease knowledge and behaviour has the potential to improve the control of transmission of COVID-19 and of future outbreaks. 
+__JD__: Is there no previous research that can be cited? Maybe from other diseases?
 
 # 8.2 Describe concisely and in plain language the specific purpose / research question for 
 the proposed study.
 
 The primary goal of this study is to characterize what COVID-19 knowledge the public has and the pattern of responses to the pandemic in relation to the government policy.  
 There are three main questions in this proposed study:
-What are people’s knowledge of COVID-19?
-How do people respond to COVID-19?
-How are people impacted by the COVID-19 outbreak?
+* What are people’s knowledge of COVID-19?
+* How do people respond to COVID-19?
+* How are people impacted by the COVID-19 outbreak? __JD__: I am not sure what this means in this context. Does it differ from "respond"?
 
 # 9.1 What is the approximate number of participants required for this study? 
 Where applicable, also provide a rationale for your choice in sample size 
@@ -47,6 +43,7 @@ and/or the sample size calculation (e.g., to explain how a low sample size
 will still provide meaningful results, or to justify the number of participants 
 needed in research that includes significant risks).
 
+__JD__: This ¶ is confusing to me -- does not seem to say anything.
 We propose a sample size of 1000 online participants in finding a statistically reliable result.  
 It will provide —% of power, and a margin of error of +/-—% and 95(?)% of confidence interval. 
 
@@ -59,16 +56,14 @@ gender, race, health status or other socio-demographic factors.
 
 # 10.1 How will each type of participant be recruited?
 
-There will be no discrimination of recruitment except age and there is no specific type of participants 
-for recruitment.  This survey investigators will post online on public platform of various social media 
-with a link to the anonymous survey questionnaire. 
+Participants are not divided in types for recruitment. 
+This survey investigators will post online on public platform of various social media with a link to the anonymous survey questionnaire. 
 
-We expect to get participants via circulating and retweeting the recruitment message.
+We will encourage social media users to circulating the recruitment message message further.
 
 # 10.2 Who will recruit each type of participant?
 
-The research team will post the recruitment message on social media and there is no exclusion of the 
-potential participants except age (i.e., 16+) and internet access to the survey.
+See above (__JD__: avoid repetition when possible)
 
 # 11.1 Describe sequentially, and in detail all data collection procedures in which the research participants will be involved (e.g., paper and pencil tasks, interviews, focus groups, lab experiments, participant observation, surveys, physical assessments etc. —this is not an exhaustive list). Include information about who will conduct the research (include tasks done by assistants, translators, transcriptionists etc.), how long it will take, where data collection will take place, and the ways in which data will be collected (e.g., computer responses, handwritten notes, audio/video/photo recordings etc.).
 
@@ -76,6 +71,7 @@ The study recruitment message will be circulate on social media and whoever view
 
 # 11.2 Describe your data analysis methods, (e.g. statistical analysis, textual analysis, NVIVO, etc.)?
 
+__JD__: Even if you think this form is just a formality, I think filling in here could be very helpful to _us_ in terms of thinking about our plans.
 Demographic variables will be analyzed with descriptive statistics.  Normally and non-normally distributed continuous variables will be analyzed as mean and standard deviation, and median and interquartile range respectively. Categorical variables will be calculated as counts and percentages.  The results will be presented as a proportion with a 95% confidence interval.
 
 # 14.18 Discuss any potential benefits to the participants, scientific community and/or society that justify involvement of participants in this study.
