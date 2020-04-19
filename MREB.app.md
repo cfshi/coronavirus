@@ -1,11 +1,12 @@
 # 3.4 How would you describe the research activity conducted in this protocol to a lay person unfamiliar 
 with your discipline's methodologies and jargon? (max 250 words)?
 
-The Covid-19 Awareness Study is a online anonymous survey conducted by McMaster University.   The study plans to collect data of the public's knowledge and responses 
-to the COVID-19 outbreak.  The survey is open to participants.  The purpose of this study is 
-to find out how the COVID-19 pandemic is perceived by the public and their response to it. 
-We hope the data will help us to better understand patterns of health knowledge and response 
-to this crisis and to improve health communication flow during a crisis.
+JD: Changed
+The Covid-19 Awareness Study is a online anonymous survey conducted by McMaster University.   
+We will collect data on the public's knowledge about the COVID-19 outbreak, and their behavioural responses. 
+Data will be used to help us to better understand patterns of health knowledge and response to this crisis, with the goal of learning how to improve health communication during a crisis.
+
+JD: Let's skip 6.9. We are not targeting FN people for recruitment.
 
 # 6.9 Provide the rationale for the exception to the community engagement requirement.
 
