@@ -1,4 +1,4 @@
- (Title)
+(Title) Online Survey of the Public Knowledge of and Response to the COVID-19 Pandemic
 
 Take the survey (link)
 
