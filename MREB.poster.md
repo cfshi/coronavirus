@@ -1,8 +1,8 @@
-(Title) Online Survey of the Public Knowledge of and Response to the COVID-19 Pandemic
+(Title) Study of the Public Knowledge of and Response to the COVID-19 Pandemic
 
 Take the survey (link)
 
-COVID-19 Awareness Survey (middle panner, biggiest fond)
+COVID-19 online Survey (middle panner, biggiest fond)
 (text under the banner)
 
 
