@@ -1,32 +1,18 @@
 # 3.4 How would you describe the research activity conducted in this protocol to a lay person unfamiliar 
 with your discipline's methodologies and jargon? (max 250 words)?
 
-__JD__: Changed
 The Covid-19 Awareness Study is a online anonymous survey conducted by McMaster University.   
 We will collect data on the public's knowledge about the COVID-19 outbreak, and their behavioural responses. 
 Data will be used to help us to better understand patterns of health knowledge and response to this crisis, with the goal of learning how to improve health communication during a crisis.
-
-__JD__: Let's skip 6.9. We are not targeting FN people for recruitment.
-
-# 6.9 Provide the rationale for the exception to the community engagement requirement.
-
-Race is part of our socio-demographic factor and we try to include as many races as possible.  
-There is no emphasis on any racial background in this study and it will be questionable 
-to exclude certain races from this study.
-
-(This answer was responding to a question of this section:
-6.2
-The following statements are asked to determine whether community engagement is required. Check if applicable.
-    > Recruitment criteria will include Canadian Indigenous identities as either a factor for the entire study or for a subgroup in the study)
 
 
 # 8/1 Describe concisely and in plain language the study background of the proposed research project 
 (e.g., context of the research, previous research, importance of this area of study, etc.).
 
-__JD__: Changed. Communication "flow" is awkward, I think we used information flow in the proposal.
-The interactions between health communication and public behaviour is crucial in controlling COVID-19 and has not yet been evaluated.  __JD__: has not been evaluated seems strong and unnecessary.
+The interactions between health communication and public behaviour is crucial in controlling COVID-19 and has not yet been evaluated. 
 Understanding public attitudes, disease knowledge and behaviour has the potential to improve the control of transmission of COVID-19 and of future outbreaks. 
 __JD__: Is there no previous research that can be cited? Maybe from other diseases?
+__CS__:  We did cite references in app proposal.  I believe in the app form, we just describe “in plain language” as suggested.
 
 # 8.2 Describe concisely and in plain language the specific purpose / research question for 
 the proposed study.
@@ -35,7 +21,6 @@ The primary goal of this study is to characterize what COVID-19 knowledge the pu
 There are three main questions in this proposed study:
 * What are people’s knowledge of COVID-19?
 * How do people respond to COVID-19?
-* How are people impacted by the COVID-19 outbreak? __JD__: I am not sure what this means in this context. Does it differ from "respond"?
 
 # 9.1 What is the approximate number of participants required for this study? 
 Where applicable, also provide a rationale for your choice in sample size 
@@ -43,9 +28,7 @@ and/or the sample size calculation (e.g., to explain how a low sample size
 will still provide meaningful results, or to justify the number of participants 
 needed in research that includes significant risks).
 
-__JD__: This ¶ is confusing to me -- does not seem to say anything.
-We propose a sample size of 1000 online participants in finding a statistically reliable result.  
-It will provide —% of power, and a margin of error of +/-—% and 95(?)% of confidence interval. 
+A cross-sectional sample of 1,000 is proposed (e.g. representative for age and gender)
 
 # 9.2 What are the salient participant characteristics (e.g., age, gender, location, affiliation, etc.)? 
 Describe any specific inclusion/exclusion criteria (e.g., BMI > 30, immigrated to Canada in the past year, etc.)
@@ -64,15 +47,19 @@ We will encourage social media users to circulating the recruitment message mess
 # 10.2 Who will recruit each type of participant?
 
 See above (__JD__: avoid repetition when possible)
+__CS__ I think it’s OK to repeat since the “above” is a few section past and it’s easier to just repeat.
+
+The research team will post the recruitment message on social media and there is no exclusion of the potential participants except age (i.e., 16+) and internet access to the survey.
+
 
 # 11.1 Describe sequentially, and in detail all data collection procedures in which the research participants will be involved (e.g., paper and pencil tasks, interviews, focus groups, lab experiments, participant observation, surveys, physical assessments etc. —this is not an exhaustive list). Include information about who will conduct the research (include tasks done by assistants, translators, transcriptionists etc.), how long it will take, where data collection will take place, and the ways in which data will be collected (e.g., computer responses, handwritten notes, audio/video/photo recordings etc.).
 
-The study recruitment message will be circulate on social media and whoever view the message and are interested in this survey will proceed to the survey.  The potential participants will read the study summary and information and consent terms.  Once they decide to proceed and agree with the term (i.e. age 16 or older).  They will start the survey.  The potential participants are informed that they can stop the participation anytime during the survey.  When they complete the survey, the information they provide will be stored automatically and safely on cloud storage.  The whole survey will take about 15 minutes.
+The study recruitment message will be circulate on social media and whoever view the message and are interested in this survey will proceed to the survey.  The potential participants will read the study summary and information and consent terms.  Once they decide to proceed and agree with the term (i.e. age 16 or older), they will start the survey.  The potential participants are informed that they can stop the participation anytime during the survey.  When they complete the survey, the information they provide will be stored automatically and safely on cloud storage.  The whole survey will take about 15 minutes.
 
 # 11.2 Describe your data analysis methods, (e.g. statistical analysis, textual analysis, NVIVO, etc.)?
 
-__JD__: Even if you think this form is just a formality, I think filling in here could be very helpful to _us_ in terms of thinking about our plans.
-Demographic variables will be analyzed with descriptive statistics.  Normally and non-normally distributed continuous variables will be analyzed as mean and standard deviation, and median and interquartile range respectively. Categorical variables will be calculated as counts and percentages.  The results will be presented as a proportion with a 95% confidence interval.
+Statistical analysis will be the main method of the survey data.  To describe the base features of the data, we will use descriptive statistics to present patterns of sociodemographic variables in graphics.  We will also apply regression analysis to examine the relationship between variables of interest to identify associations.   The results will be presented as a proportion with a 95% confidence interval. 
+
 
 # 14.18 Discuss any potential benefits to the participants, scientific community and/or society that justify involvement of participants in this study.
 
@@ -85,7 +72,7 @@ Participants will not directly benefit from this study. However, we hope their p
 (c) the research topic.
 
 Dr. Shi holds a doctoral degree in media and communication study and had worked in advertising industry for many years. She is competent in conducting surveys.  Dr. She also obtained a certificate of TCPS2: Course on Research Ethics tutorial in 2020.
-Dr. Dushoff and Dr. Earn are well trained statisticians and disease modellers and will supervise the study and data analysis. 
+Dr. Dushoff and Dr. Earn are well trained disease modellers and will supervise the study and data analysis. 
 Dr. Li, a statistician, will be in charge of sampling and data analysis.
 
 # 15.11.14 Describe the data security procedures that will be used to keep the research data private and secure during data collection and analysis (including where the data will be kept). Refer to the MREB Data Storage and Security Tools documents for recommendations and requirements for data security (go to Help - Templates in the above menu).
