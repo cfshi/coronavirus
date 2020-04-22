@@ -12,6 +12,7 @@ Data will be used to help us better understand patterns of health knowledge and 
 
 The interactions between health communication and public behaviour is crucial in controlling COVID-19 and has not yet been evaluated. 
 Understanding public attitudes, disease knowledge and behaviour has the potential to improve the control of transmission of COVID-19 and of future outbreaks. 
+
 __CS__:  I don’t think citation is common in an MREB application, we just describe “in plain language” as suggested.
 __JD__: I don't know if you need a formal citation, but it says "previous research". The text "has not yet been evaluated" seems naive. Maybe there's a better way to say that?
 
@@ -21,6 +22,7 @@ The primary goal of this study is to characterize what COVID-19 knowledge the pu
 There are two main question areas in this proposed study:
 * What are people’s knowledge of COVID-19?
 * How do are people behaving in response to COVID-19 and distancing orders?
+
 __JD__: Do we need to ask people about the guidance present in their jurisdiction (country, state or province)? Are we planning to look at their answers in the light of the jurisdiction that they are in? If a person is from a place where the rules are different should we interpret their behaviour differently?
 
 # 9.1 What is the approximate number of participants required for this study? 
