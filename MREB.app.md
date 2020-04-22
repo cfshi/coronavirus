@@ -11,7 +11,7 @@ Data will be used to help us better understand patterns of health knowledge and 
 
 The interactions between health communication and public behaviour is crucial in controlling COVID-19 and has not yet been evaluated. 
 Understanding public attitudes, disease knowledge and behaviour has the potential to improve the control of transmission of COVID-19 and of future outbreaks. 
-__CS__:  I don’t think citation is common in an MREB applicaiton, we just describe “in plain language” as suggested.
+__CS__:  I don’t think citation is common in an MREB application, we just describe “in plain language” as suggested.
 __JD__: I don't know if you need a formal citation, but it says "previous research". The text "has not yet been evaluated" seems naive. Maybe there's a better way to say that?
 
 # 8.2 Describe concisely and in plain language the specific purpose / research question for the proposed study.
@@ -27,8 +27,6 @@ Where applicable, also provide a rationale for your choice in sample size
 and/or the sample size calculation (e.g., to explain how a low sample size 
 will still provide meaningful results, or to justify the number of participants 
 needed in research that includes significant risks).
-
-__CS__ need help with this:
 
 We will aim to recruit at least 1,000 people . Since we have limited control over who will participate, a larger number will better allow us to investigate and compensate for biases. There are no particular risks that we are concerned about. 
 
@@ -56,7 +54,7 @@ We will collect only easily categorizable responses, and will study with standar
 
 # 14.18 Discuss any potential benefits to the participants, scientific community and/or society that justify involvement of participants in this study.
 
-Participants will not directly benefit from this study. However, we hope that knowledge we again about health communication will provide indirect benefits to the larger population.
+Participants will not directly benefit from this study. However, we hope that knowledge we gather about health communication will provide indirect benefits to the larger population.
 
 # 14.19 What is your experience with this kind of research? Include information on the experience of all individual(s) who will have contact with the research participants or their data. If this is student research, include the experience of your supervisor. Mention your familiarity with:
 
@@ -92,6 +90,8 @@ Be sure to include these details in the Letter of Information so participants co
 
 The aggregated data will be made public once peer-reviewed papers are published. We will explain this in the LoI. 
 
+__CS__ (to JD):  There is no Lol required.
+
 # 16.1 Describe the process the investigator(s) will use to obtain informed consent from participants with the capacity to provide consent. For participants lacking capacity to consent see the question below.
 
 Please include;
@@ -104,7 +104,7 @@ c) Which member(s) of the research team will be handling the informed consent pr
 
 d) Any unique consent details, for example if the study involves consent in multiple stages or an ongoing consent process.
 
-The information and consent to the study will be stated online before the survey starts and participants will take about 1-2 minutes to read it before starting the survey.  The survey won't begin until participants click to acknowleded and consent to terms. 
+The information and consent to the study will be stated online before the survey starts and participants will take about 1-2 minutes to read it before starting the survey.  The survey won't begin until participants click to acknowledge and consent to terms. 
 
 # 16.9 Explain how participants will learn about study results:
 
