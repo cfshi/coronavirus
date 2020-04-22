@@ -1,3 +1,4 @@
+
 # 3.4 How would you describe the research activity conducted in this protocol to a lay person unfamiliar 
 with your discipline's methodologies and jargon? (max 250 words)?
 
@@ -84,13 +85,9 @@ The electronic database will be kept indefinitely.
 
 There is nothing sensitive about our data, so it is better to retain them in case problems need to be checked or new data become available for comparison. 
 
-# 15.36 Provide the details of sharing the data (e.g. the specific database), the rationale for making your raw data available, and describe the nature of the data that will be made available (e.g., identifiable or not, which variables).
+# 15.36 Provide the details of sharing the data (e.g. the specific database), the rationale for making your raw data available, and describe the nature of the data that will be made available (e.g., identifiable or not, which variables). Be sure to include these details in the Letter of Information so participants consent to this sharing of data. 
 
-Be sure to include these details in the Letter of Information so participants consent to this sharing of data. 
-
-The aggregated data will be made public once peer-reviewed papers are published. We will explain this in the LoI. 
-
-__CS__ (to JD):  There is no Lol required.
+The aggregated data will be made public once peer-reviewed papers are published. We will explain this in the Letter of Information. 
 
 # 16.1 Describe the process the investigator(s) will use to obtain informed consent from participants with the capacity to provide consent. For participants lacking capacity to consent see the question below.
 
@@ -106,9 +103,13 @@ d) Any unique consent details, for example if the study involves consent in mult
 
 The information and consent to the study will be stated online before the survey starts and participants will take about 1-2 minutes to read it before starting the survey.  The survey won't begin until participants click to acknowledge and consent to terms. 
 
+There will be no documentation of consent forms in the online survey.
+
 # 16.9 Explain how participants will learn about study results:
 
 We will provide a link where participants (and others) can sign up to receive bulletins about our research publications and posts about what we learn from the data (independent of filling out the survey).  
+
+__CS__ Is this what we plan to do?  Will be a link to a planned research site on the consent form easier instead of having them sign up?
 
 # 16.10.1 Describe:
 
@@ -127,4 +128,7 @@ Incomplete surveys will be discarded. There will be no consequences for withdraw
 # 16.12 Explain why a participant cannot withdraw their data after it has been submitted/collected (e.g. data collection was anonymous).
 
 It is an anonymous survey and the data collected is not traceable.
+
+
+
 
