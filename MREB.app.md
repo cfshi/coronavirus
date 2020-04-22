@@ -14,6 +14,7 @@ The interactions between health communication and public behaviour is crucial in
 Understanding public attitudes, disease knowledge and behaviour has the potential to improve the control of transmission of COVID-19 and of future outbreaks. 
 
 __CS__:  I don’t think citation is common in an MREB application, we just describe “in plain language” as suggested.
+
 __JD__: I don't know if you need a formal citation, but it says "previous research". The text "has not yet been evaluated" seems naive. Maybe there's a better way to say that?
 
 # 8.2 Describe concisely and in plain language the specific purpose / research question for the proposed study.
