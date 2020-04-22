@@ -3,7 +3,7 @@ with your discipline's methodologies and jargon? (max 250 words)?
 
 The COVID-19 Awareness Study is an online anonymous survey conducted by McMaster University.   
 We will collect data on the public's knowledge about the COVID-19 outbreak, and their behavioural responses. 
-Data will be used to help us to better understand patterns of health knowledge and response to this crisis, with the goal of learning how to improve health communication during a disease outbreak.
+Data will be used to help us better understand patterns of health knowledge and response to this crisis, with the goal of learning how to improve health communication during a disease outbreak.
 
 
 # 8/1 Describe concisely and in plain language the study background of the proposed research project 
@@ -11,16 +11,16 @@ Data will be used to help us to better understand patterns of health knowledge a
 
 The interactions between health communication and public behaviour is crucial in controlling COVID-19 and has not yet been evaluated. 
 Understanding public attitudes, disease knowledge and behaviour has the potential to improve the control of transmission of COVID-19 and of future outbreaks. 
-__JD__: Is there no previous research that can be cited? Maybe from other diseases?
 __CS__:  I don’t think citation is common in an MREB applicaiton, we just describe “in plain language” as suggested.
+__JD__: I don't know if you need a formal citation, but it says "previous research". The text "has not yet been evaluated" seems naive. Maybe there's a better way to say that?
 
-# 8.2 Describe concisely and in plain language the specific purpose / research question for 
-the proposed study.
+# 8.2 Describe concisely and in plain language the specific purpose / research question for the proposed study.
 
 The primary goal of this study is to characterize what COVID-19 knowledge the public has and the pattern of responses to the pandemic in relation to the government policy.  
-There are two main questions in this proposed study:
+There are two main question areas in this proposed study:
 * What are people’s knowledge of COVID-19?
-* How do people respond to COVID-19?
+* How do are people behaving in response to COVID-19 and distancing orders?
+__JD__: Do we need to ask people about the guidance present in their jurisdiction (country, state or province)? Are we planning to look at their answers in the light of the jurisdiction that they are in? If a person is from a place where the rules are different should we interpret their behaviour differently?
 
 # 9.1 What is the approximate number of participants required for this study? 
 Where applicable, also provide a rationale for your choice in sample size 
@@ -29,19 +29,17 @@ will still provide meaningful results, or to justify the number of participants
 needed in research that includes significant risks).
 
 __CS__ need help with this:
-A cross-sectional sample of 1,000 is proposed (e.g. representative for age and gender) to meet the statistically clear resemblance of the population with statistical power(?), sampling error (5%) and confidence interval (95%) 
+
+We will aim to recruit at least 1,000 people . Since we have limited control over who will participate, a larger number will better allow us to investigate and compensate for biases. There are no particular risks that we are concerned about. 
 
 # 9.2 What are the salient participant characteristics (e.g., age, gender, location, affiliation, etc.)? 
 Describe any specific inclusion/exclusion criteria (e.g., BMI > 30, immigrated to Canada in the past year, etc.)
 
-The survey is anonymous and will not collect any identifiable personal information.  The proposed study 
-population is age 16 or older and has access to the online survey. No limitations will be placed on 
-gender, race, health status or other socio-demographic factors.
+The survey is anonymous and will not collect any identifiable personal information. The proposed study population is age 16 or older. No limitations will be placed on gender, race, health status or other socio-demographic factors.
 
 # 10.1 How will each type of participant be recruited?
 
-Recruitment message will be posted online on public platform of various social media with a link to the anonymous survey questionnaire. 
-There is no exclusion of the potential participants except age (i.e., at least 16 years old) and internet access to the survey.
+Recruitment messages will be posted online on public platform of various social media with a link to the anonymous survey questionnaire. 
 
 # 10.2 Who will recruit each type of participant?
 
@@ -50,17 +48,15 @@ We will encourage social media users to circulating the recruitment message furt
 
 # 11.1 Describe sequentially, and in detail all data collection procedures in which the research participants will be involved (e.g., paper and pencil tasks, interviews, focus groups, lab experiments, participant observation, surveys, physical assessments etc. —this is not an exhaustive list). Include information about who will conduct the research (include tasks done by assistants, translators, transcriptionists etc.), how long it will take, where data collection will take place, and the ways in which data will be collected (e.g., computer responses, handwritten notes, audio/video/photo recordings etc.).
 
-The recruitment post will be circulated on social media.  The potential participants who views the message and shows interest in the study will proceed to the survey.  The potential participants will first read the study summary and information and consent terms.  Once they decide to proceed and agree with the term (i.e. age 16 or older), they will start the survey.  The potential participants are informed that they can stop the participation anytime during the survey.  When they complete the survey, the information they provide will be stored automatically and safely on cloud storage.  The whole survey will take about 15 minutes.
+Potential participants will first read the study summary and information and consent terms.  Once they decide to proceed and agree with the terms, they will start the survey.  The potential participants are informed that they can stop participation at any time during the survey.  When they complete the survey, the information they provide will be stored automatically and safely on cloud storage.  The whole survey will take about 15 minutes.
 
 # 11.2 Describe your data analysis methods, (e.g. statistical analysis, textual analysis, NVIVO, etc.)?
 
-__CS__ Please help with this one:
-Statistical analysis will be applied to study the survey data.  To describe the base features of the data, we will use descriptive statistics to present patterns of sociodemographic variables.  We will also apply regression analysis to examine the relationship between variables of interest to identify associations.   The results will be presented as a proportion with a 95% confidence interval. 
-
+We will collect only easily categorizable responses, and will study with standard descriptive and inferential statistical methods.
 
 # 14.18 Discuss any potential benefits to the participants, scientific community and/or society that justify involvement of participants in this study.
 
-Participants will not directly benefit from this study. However, we hope their participation will add to our knowledge to improve health communication and management during public health crises.
+Participants will not directly benefit from this study. However, we hope that knowledge we again about health communication will provide indirect benefits to the larger population.
 
 # 14.19 What is your experience with this kind of research? Include information on the experience of all individual(s) who will have contact with the research participants or their data. If this is student research, include the experience of your supervisor. Mention your familiarity with:
 
@@ -70,17 +66,17 @@ Participants will not directly benefit from this study. However, we hope their p
 
 Dr. Earn and Dr. Dushoff are well trained disease modellers and statisticians and will supervise the study and data analysis. 
 Dr. Shi holds a doctoral degree in media and communication study and had worked in advertising industry for many years.  Dr. Shi also obtained a certificate of TCPS2: Course on Research Ethics tutorial in 2020.
-Dr. Li, a statistician, will be in charge of sampling and data analysis.
+Dr. Li, a statistician, will assist data analysis.
 
 # 15.11.14 Describe the data security procedures that will be used to keep the research data private and secure during data collection and analysis (including where the data will be kept). Refer to the MREB Data Storage and Security Tools documents for recommendations and requirements for data security (go to Help - Templates in the above menu).
 
 The TCPS2 advises that identifiable data obtained through research, and kept on a computer that is connected to the Internet, should be encrypted. Generally, MREB requires researchers to follow this guidance for identifiable research data. In some cases, sensitive identifiable data, even if not on a device connected to the Internet, may need to be encrypted to protect participant privacy and mitigate social risk. See the application section of Art. 5.3.
 
-The electronic database will be stored on a password protected cloud storage.  All computer systems storing the data are encrypted and password protected.
+No personally identifiable data will be collected at any time. The electronic database will be stored on a password protected cloud storage.  
 
 # 15.19 How will the data from study participants be reported in the dissemination of research results (e.g., aggregated data, identifiable descriptors, de-identified descriptors, etc.)?
 
-The data to be collected will be anonymous and no personal data will be identified.  We plan to analyze the aggregated data and publish results at peer reviewed publication.
+The data to be collected will be anonymous.  Only aggregated data will be reported. 
 
 # 15.23 State how long you plan to retain your research data (e.g., interview transcripts, survey answers, EEG readings, etc.).
 
@@ -88,13 +84,13 @@ The electronic database will be kept indefinitely.
 
 # 15.24 Provide the rationale for the retention length of research data.
 
-Another infectious outbreak like COVID-19 is not unthinkable.  We expect to use the data for future comparison if applied.
+There is nothing sensitive about our data, so it is better to retain them in case problems need to be checked or new data become available for comparison. 
 
 # 15.36 Provide the details of sharing the data (e.g. the specific database), the rationale for making your raw data available, and describe the nature of the data that will be made available (e.g., identifiable or not, which variables).
 
 Be sure to include these details in the Letter of Information so participants consent to this sharing of data. 
 
-The data collected will not be shared except upon request by academic journals where we publish this study.   The data is anonymous and no identifiable information will be shown.
+The aggregated data will be made public once peer-reviewed papers are published. We will explain this in the LoI. 
 
 # 16.1 Describe the process the investigator(s) will use to obtain informed consent from participants with the capacity to provide consent. For participants lacking capacity to consent see the question below.
 
@@ -108,14 +104,11 @@ c) Which member(s) of the research team will be handling the informed consent pr
 
 d) Any unique consent details, for example if the study involves consent in multiple stages or an ongoing consent process.
 
-
-The information and consent to the study will be stated online before the survey starts and participants will take about 1-2 minutes to read it before starting the survey.  online survey where proceeding with the survey implies consent.  Proceeding with the survey implies consent when potential participants click the consent button.  The survey won't begin without them acknowledging the information and sending the consent button.
-
-There will be no documentation of consent forms in the online survey.
+The information and consent to the study will be stated online before the survey starts and participants will take about 1-2 minutes to read it before starting the survey.  The survey won't begin until participants click to acknowleded and consent to terms. 
 
 # 16.9 Explain how participants will learn about study results:
 
-There will be basic analysis of the data post online.
+We will provide a link where participants (and others) can sign up to receive bulletins about our research publications and posts about what we learn from the data (independent of filling out the survey).  
 
 # 16.10.1 Describe:
 
@@ -129,7 +122,7 @@ It will be stated on the survey information and consent that the participation i
 a) what will be done with any data collected up to the point of withdrawal, and
 b) consequences withdrawal might have on the participant, including any effect that withdrawal may have on the participant(s) incentive/reimbursement or continuation of services (if applicable).
 
-Incomplete survey will be deemed as invalid and won't be collected.  There will be no consequences from  incompleting the survey anytime before it reaches the end.
+Incomplete surveys will be discarded. There will be no consequences for withdrawal.
 
 # 16.12 Explain why a participant cannot withdraw their data after it has been submitted/collected (e.g. data collection was anonymous).
 
