@@ -32,7 +32,7 @@ and/or the sample size calculation (e.g., to explain how a low sample size
 will still provide meaningful results, or to justify the number of participants 
 needed in research that includes significant risks).
 
-We will aim to recruit at least 1,000 people . Since we have limited control over who will participate, a larger number will better allow us to investigate and compensate for biases.  There may be some risks from participating in this survey. Some of the topics inquired in this study may be sensitive.
+We will aim to recruit at least 1,000 people . Since we have limited control over who will participate, a larger number will better allow us to investigate and compensate for biases.
 
 # 9.2 What are the salient participant characteristics (e.g., age, gender, location, affiliation, etc.)? 
 Describe any specific inclusion/exclusion criteria (e.g., BMI > 30, immigrated to Canada in the past year, etc.)
@@ -55,6 +55,13 @@ Potential participants will first read the study summary and information and con
 # 11.2 Describe your data analysis methods, (e.g. statistical analysis, textual analysis, NVIVO, etc.)?
 
 We will collect only easily categorizable responses, and will study with standard descriptive and inferential statistical methods.
+
+# 14.4	Provide the following;
+a) Description of the potential psychological risk(s).
+b) Explanation of how the psychological risk(s) will be managed or minimized.
+c) If the study includes significant psychological risk, then explain why alternative approaches with less psychological risk cannot be used.
+
+There may be some risks from participating in this survey. Some of the topics inquired in this study may be sensitive.
 
 # 14.18 Discuss any potential benefits to the participants, scientific community and/or society that justify involvement of participants in this study.
 
