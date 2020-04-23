@@ -58,7 +58,7 @@ a) Description of the potential psychological risk(s).
 b) Explanation of how the psychological risk(s) will be managed or minimized.
 c) If the study includes significant psychological risk, then explain why alternative approaches with less psychological risk cannot be used.
 
-There may be some risks from participating in this survey. Some of the topics inquired in this study may be sensitive.
+There may be some minimal risks from participating in this survey. Some of the topics inquired in this study may be sensitive.
 
 # 14.18 Discuss any potential benefits to the participants, scientific community and/or society that justify involvement of participants in this study.
 
