@@ -20,6 +20,7 @@ There are two main question areas in this proposed study:
 * How do are people behaving in response to COVID-19 and distancing orders?
 
 __JD__: Do we need to ask people about the guidance present in their jurisdiction (country, state or province)? Are we planning to look at their answers in the light of the jurisdiction that they are in? If a person is from a place where the rules are different should we interpret their behaviour differently?
+__CS__ That's a good question.  I have to think about it.  
 
 # 9.1 What is the approximate number of participants required for this study? 
 Where applicable, also provide a rationale for your choice in sample size 
