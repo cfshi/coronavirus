@@ -20,6 +20,7 @@ There are two main question areas in this proposed study:
 * How are people behaving in response to COVID-19 and distancing orders?
 
 __JD__: Do we need to ask people about the guidance present in their jurisdiction (country, state or province)? Are we planning to look at their answers in the light of the jurisdiction that they are in? If a person is from a place where the rules are different should we interpret their behaviour differently?
+
 __CS__ That's a good question.  I have to think about it.  
 
 # 9.1 What is the approximate number of participants required for this study? 
@@ -42,11 +43,11 @@ Recruitment messages will be posted online on public platform of various social 
 # 10.2 Who will recruit each type of participant?
 
 The team investigators will be in charge of the recruitment plan and post the message on social media. 
-We will encourage social media users to circulating the recruitment message further.
+We will encourage social media users to circulate the recruitment message further.
 
 # 11.1 Describe sequentially, and in detail all data collection procedures in which the research participants will be involved (e.g., paper and pencil tasks, interviews, focus groups, lab experiments, participant observation, surveys, physical assessments etc. —this is not an exhaustive list). Include information about who will conduct the research (include tasks done by assistants, translators, transcriptionists etc.), how long it will take, where data collection will take place, and the ways in which data will be collected (e.g., computer responses, handwritten notes, audio/video/photo recordings etc.).
 
-Potential participants will first read the study summary and information and consent terms.  Once they decide to proceed and agree with the terms, they will start the survey.  The potential participants are informed that they can stop participation at any time during the survey.  When they complete the survey, the information they provide will be stored automatically and safely on cloud storage.  The whole survey will take about 15 minutes.
+Potential participants will first read the study summary and information, and consent terms.  Once they decide to proceed and agree with the terms, they will start the survey.  The potential participants are informed that they can stop participation at any time during the survey.  When they complete the survey, the information they provide will be stored automatically and safely on cloud storage.  The whole survey will take about 15 minutes.
 
 # 11.2 Describe your data analysis methods, (e.g. statistical analysis, textual analysis, NVIVO, etc.)?
 
@@ -115,7 +116,7 @@ There will be no documentation of consent forms in the online survey.
 
 We will provide a link where participants (and others) can sign up to receive bulletins about our research publications and posts about what we learn from the data (independent of filling out the survey).  
 
-__CS__ Is this what we plan to do?  Will be a link to a planned research site on the consent form easier instead of having them sign up?
+__CS__ Is this what we plan to do?  Will be a link to a planned research site on the consent form easier?
 
 # 16.10.1 Describe:
 
