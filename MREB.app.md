@@ -10,12 +10,7 @@ Data will be used to help us better understand patterns of health knowledge and 
 # 8/1 Describe concisely and in plain language the study background of the proposed research project 
 (e.g., context of the research, previous research, importance of this area of study, etc.).
 
-The interactions between health communication and public behaviour is crucial in controlling COVID-19 and has not yet been evaluated. 
-Understanding public attitudes, disease knowledge and behaviour has the potential to improve the control of transmission of COVID-19 and of future outbreaks. 
-
-__CS__:  I don’t think citation is common in an MREB application, we just describe “in plain language” as suggested.
-
-__JD__: I don't know if you need a formal citation, but it says "previous research". The text "has not yet been evaluated" seems naive. Maybe there's a better way to say that?
+Effective communication during health crises is crucial as the experiences of SARS and other flu outbreaks in the past shown. The interactions between health communication and public behaviour is critical in controlling COVID-19 and has not yet been fully researched.  Understanding public attitudes, disease knowledge and behaviour has the potential to improve the control of transmission of COVID-19 and of future outbreaks.
 
 # 8.2 Describe concisely and in plain language the specific purpose / research question for the proposed study.
 
