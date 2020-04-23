@@ -32,7 +32,7 @@ and/or the sample size calculation (e.g., to explain how a low sample size
 will still provide meaningful results, or to justify the number of participants 
 needed in research that includes significant risks).
 
-We will aim to recruit at least 1,000 people . Since we have limited control over who will participate, a larger number will better allow us to investigate and compensate for biases. There are no particular risks that we are concerned about.  There may be some risks from participating in this survey. Some of the topics inquired in this study may be sensitive.
+We will aim to recruit at least 1,000 people . Since we have limited control over who will participate, a larger number will better allow us to investigate and compensate for biases.  There may be some risks from participating in this survey. Some of the topics inquired in this study may be sensitive.
 
 # 9.2 What are the salient participant characteristics (e.g., age, gender, location, affiliation, etc.)? 
 Describe any specific inclusion/exclusion criteria (e.g., BMI > 30, immigrated to Canada in the past year, etc.)
