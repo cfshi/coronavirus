@@ -17,7 +17,7 @@ Effective communication during health crises is crucial as the experiences of SA
 The primary goal of this study is to characterize what COVID-19 knowledge the public has and the pattern of responses to the pandemic in relation to the government policy.  
 There are two main question areas in this proposed study:
 * What are people’s knowledge of COVID-19?
-* How do are people behaving in response to COVID-19 and distancing orders?
+* How are people behaving in response to COVID-19 and distancing orders?
 
 __JD__: Do we need to ask people about the guidance present in their jurisdiction (country, state or province)? Are we planning to look at their answers in the light of the jurisdiction that they are in? If a person is from a place where the rules are different should we interpret their behaviour differently?
 __CS__ That's a good question.  I have to think about it.  
