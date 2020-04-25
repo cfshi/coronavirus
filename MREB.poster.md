@@ -1,20 +1,40 @@
-(Title)  The Covid-19 Awareness Study
+
+COVID-19 Awareness Study
+
+How well do you know about COVID-19 and
+​what are your responses to the pandemic?
+
+Take the survey
+​
 
 
-Take the survey (link)
+Please share with anyone who might be interested!
+​
+The more people participate the survey, the more we learn
+about COVID-19.  Your participation will inform us to better
+understand information and communication during the pandemic in the world.
 
-Study of the Public Knowledge of and Response to the COVID-19 Pandemic (middle panner, biggiest fond)
-(text under the banner)
+
+Please feel free to reach out with any questions or concerns. 
+You can email or call either of the study investigators:
+Dr. David Earn:  earn@math.mcmaster.ca 905-525-9141 ext.27245
+Dr. Jonathan Dushoff: dushoff@mcmaster.ca, 905-525-9140 ext. 26313
+
+The COVID-19 Awareness Study is run by McMaster University, Canada
+​
 
 
-Please share the survey (https://surveys.mcmaster.ca/limesurvey/index.php/693494) with anyone who might be interested!
 
-Questions or comments?
-(McMaster Logo)
 
-Please contact the study co-investigators:
-Dr. CF Shi at shicf@mcmaster.ca
-​289-527-6192
-Dr. Jonathan Dushoff at dushoff@mcmaster.ca
-​ 905-525-9140 X 26313
+
+
+
+
+
+
+
+
+
+
+
 
