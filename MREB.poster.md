@@ -21,6 +21,29 @@ Dr. David Earn:  earn@math.mcmaster.ca 905-525-9141 ext.27245
 Dr. Jonathan Dushoff: dushoff@mcmaster.ca, 905-525-9140 ext. 26313
 
 The COVID-19 Awareness Study is run by McMaster University, Canada
+
+===
+What have you heard about COVID-19 and
+how are you responding to the pandemic?
+
+
+Take the Survey
+
+You can help us understand how information is influencing the behaviour
+   of people during the pandemic.
+
+Please encourage others to take this survey!
+   The more we hear, the more we'll understand!
+   
+Please reach out with any questions or concerns to the study investigators:
+Dr. David Earn:  earn@math.mcmaster.ca 905-525-9141 ext.27245
+Dr. Chyun Shi: shicf@mcmaster.ca, 905-525-9140 ext. 24203
+
+
+
+​
+by enriquelopezgarre
+
 ​
 
 
