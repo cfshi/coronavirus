@@ -8,7 +8,7 @@ Data will be used to help us better understand patterns of health knowledge and 
 
 # 8/1 Describe concisely and in plain language the study background of the proposed research project (e.g., context of the research, previous research, importance of this area of study, etc.).
 
-Effective communication during health crises is crucial as the outbreaks (e.g., SARS and H1N1) in the past revealed. The interactions between health communication and public behaviour is critical in controlling COVID-19 and has not yet been fully studied.  Understanding public attitudes, disease knowledge and behaviour has the potential to improve the control of transmission of COVID-19 and of future outbreaks.
+Effective communication during health crises is crucial as past outbreaks (e.g., SARS and H1N1) have revealed. The interactions between health communication and public behaviour are critical for control of COVID-19 and have not yet been fully studied.  Understanding public attitudes, disease knowledge, and behaviour has the potential to help us improve the control strategies for the current COVID-19 pandemic and future epidemics.
 
 # 8.2 Describe concisely and in plain language the specific purpose / research question for the proposed study.
 The primary goal of this study is to characterize what COVID-19 knowledge the public has and the pattern of responses to the pandemic in relation to the government policy.  There are two main question areas in this proposed study:
