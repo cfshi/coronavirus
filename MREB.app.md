@@ -31,11 +31,13 @@ We will aim to recruit at least 1,000 people . Since we have limited control ove
 # 9.2 What are the salient participant characteristics (e.g., age, gender, location, affiliation, etc.)? 
 _Describe any specific inclusion/exclusion criteria (e.g., BMI > 30, immigrated to Canada in the past year, etc.)_
 
-The survey is anonymous and will not collect any identifiable personal information.  No limitations will be placed on gender, race, health status or other socio-demographic factors.The proposed study population is age 13 or older.  This is an online study and we aim to circulate the survey via social media platform such as Facebook, Instagram and Twitter.  The minimum age those social media is 13.  We believe that school kids's life are heavily affected with COVID-19 pandemic.  Their awareness of the pandemic and responses to it are valuable in managing health risk communication.
+The survey is anonymous and will not collect any identifiable personal information.  No limitations will be placed on gender, race, health status or other socio-demographic factors. The proposed study population is age 13 or older.  This is an online study and we aim to circulate the survey via social media platforms such as Facebook, Instagram and Twitter.  The minimum age to obtain an account on those social media platforms is 13.  It is important to include all users of these platforms so we can capture data from teenagers, whose lives are strongly affected by the COVID-19 pandemic.  Understanding their awareness of the pandemic and responses to it will be valuable in managing health risk communication.
 
-We believe the adolescents have the capacity to understand the study and the risks involved and provide their own consent.
+We believe the adolescents of age 13 and older have the capacity to understand the study, and the risks involved, and to provide their own consent.
 
 __CS__ Please take a look of the age statement.  I changed it from age 16 to age 13.  I hope it won't be an issue based on the email exchange with Karen of MREB.  The worse scenario will be changed it back to age 16.
+
+__DE__ Revised a bit.
 
 # 10.1 How will each type of participant be recruited?
 
