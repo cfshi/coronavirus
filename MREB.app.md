@@ -21,7 +21,8 @@ There are two main question areas in this proposed study:
 
 __JD__: Do we need to ask people about the guidance present in their jurisdiction (country, state or province)? Are we planning to look at their answers in the light of the jurisdiction that they are in? If a person is from a place where the rules are different should we interpret their behaviour differently?
 
-__CS__ That's a good question.  I have to think about it.  
+__CS__ That's a good question.  My thought is to analyse data based on country they live within the last 6 months.  We can ask for zip code but I'm afraid it will get too complicated beyond my (our) ability to parse.  Analyses at a national level might not be perfect but I feel it should give us a good picture.  Does that make sense statistically?
+
 
 # 9.1 What is the approximate number of participants required for this study? 
 Where applicable, also provide a rationale for your choice in sample size 
@@ -34,7 +35,11 @@ We will aim to recruit at least 1,000 people . Since we have limited control ove
 # 9.2 What are the salient participant characteristics (e.g., age, gender, location, affiliation, etc.)? 
 Describe any specific inclusion/exclusion criteria (e.g., BMI > 30, immigrated to Canada in the past year, etc.)
 
-The survey is anonymous and will not collect any identifiable personal information. The proposed study population is age 16 or older. No limitations will be placed on gender, race, health status or other socio-demographic factors.
+The survey is anonymous and will not collect any identifiable personal information.  No limitations will be placed on gender, race, health status or other socio-demographic factors.The proposed study population is age 13 or older.  This is an online study and we aim to circulate the survey via social media platform such as Facebook, Instagram and Twitter.  The minimum age those social media is 13.  We believe that school kids's life are heavily affected with COVID-19 pandemic.  Their awareness of the pandemic and responses to it are valuable in managing health risk communication.
+
+We believe the adolescents have the capacity to understand the study and the risks involved and provide their own consent.
+
+__CS__ Please take a look of the age statement.  I changed it from age 16 to age 13.  I hope it won't be an issue based on the email exchange with Karen of MREB.  The worse scenario will be changed it back to age 16.
 
 # 10.1 How will each type of participant be recruited?
 
@@ -62,7 +67,7 @@ There may be some minimal risks from participating in this survey. Some of the t
 
 # 14.18 Discuss any potential benefits to the participants, scientific community and/or society that justify involvement of participants in this study.
 
-Participants will not directly benefit from this study. However, we hope that knowledge we gather about health communication will provide indirect benefits to the larger population.
+Participants will not directly benefit from this study. However, we hope that information we gather about health communication will provide indirect benefits to the larger population.
 
 # 14.19 What is your experience with this kind of research? Include information on the experience of all individual(s) who will have contact with the research participants or their data. If this is student research, include the experience of your supervisor. Mention your familiarity with:
 
@@ -70,9 +75,9 @@ Participants will not directly benefit from this study. However, we hope that kn
 (b) the study population(s) and/or
 (c) the research topic.
 
-Dr. Earn and Dr. Dushoff are well trained disease modellers and statisticians and will supervise the study and data analysis. 
-Dr. Shi holds a doctoral degree in media and communication study and had worked in advertising industry for many years.  Dr. Shi also obtained a certificate of TCPS2: Course on Research Ethics tutorial in 2020.
-Dr. Li, a statistician, will assist data analysis.
+Dr. Earn and Dr. Dushoff are both prominent disease modellers and statisticians and will supervise the study and data analysis. 
+Dr. Shi holds a doctoral degree in media and communication study.  Dr. Shi also obtained a certificate of TCPS2: Course on Research Ethics tutorial in 2020.
+Dr. Li, a well-trained statistician, will assist data analysis.
 
 # 15.11.14 Describe the data security procedures that will be used to keep the research data private and secure during data collection and analysis (including where the data will be kept). Refer to the MREB Data Storage and Security Tools documents for recommendations and requirements for data security (go to Help - Templates in the above menu).
 
@@ -114,9 +119,9 @@ There will be no documentation of consent forms in the online survey.
 
 # 16.9 Explain how participants will learn about study results:
 
-We will provide a link where participants (and others) can sign up to receive bulletins about our research publications and posts about what we learn from the data (independent of filling out the survey).  
+We will provide a link where participants can follow our bulletins about our research publications and posts about what we learn from the data (independent of filling out the survey).  
 
-__CS__ Is this what we plan to do?  Will be a link to a planned research site on the consent form easier?
+__CS__ I was thinking of listing a link (e.g., github) on the Weebly page for whoever is intested in the study, instead of having them signing pu.  WDYT?
 
 # 16.10.1 Describe:
 
