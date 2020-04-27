@@ -10,14 +10,12 @@ Data will be used to help us better understand patterns of health knowledge and 
 # 8/1 Describe concisely and in plain language the study background of the proposed research project 
 (e.g., context of the research, previous research, importance of this area of study, etc.).
 
-Effective communication during health crises is crucial as the experiences of SARS and other flu outbreaks in the past shown. The interactions between health communication and public behaviour is critical in controlling COVID-19 and has not yet been fully researched.  Understanding public attitudes, disease knowledge and behaviour has the potential to improve the control of transmission of COVID-19 and of future outbreaks.
+Effective communication during health crises is crucial as the outbreaks (e.g., SARS and H1N1) in the past revealed. The interactions between health communication and public behaviour is critical in controlling COVID-19 and has not yet been fully studied.  Understanding public attitudes, disease knowledge and behaviour has the potential to improve the control of transmission of COVID-19 and of future outbreaks.
 
 # 8.2 Describe concisely and in plain language the specific purpose / research question for the proposed study.
-
-The primary goal of this study is to characterize what COVID-19 knowledge the public has and the pattern of responses to the pandemic in relation to the government policy.  
-There are two main question areas in this proposed study:
+The primary goal of this study is to characterize what COVID-19 knowledge the public has and the pattern of responses to the pandemic in relation to the government policy.  There are two main question areas in this proposed study:
 * What are people’s knowledge of COVID-19?
-* How are people behaving in response to COVID-19 and distancing orders?
+* How are people behaving in response to COVID-19 and government's policy of controlling the outbreak?
 
 __JD__: Do we need to ask people about the guidance present in their jurisdiction (country, state or province)? Are we planning to look at their answers in the light of the jurisdiction that they are in? If a person is from a place where the rules are different should we interpret their behaviour differently?
 
@@ -30,7 +28,7 @@ and/or the sample size calculation (e.g., to explain how a low sample size
 will still provide meaningful results, or to justify the number of participants 
 needed in research that includes significant risks).
 
-We will aim to recruit at least 1,000 people . Since we have limited control over who will participate, a larger number will better allow us to investigate and compensate for biases.
+We will aim to recruit at least 1,000 people . Since we have limited control over who will participate online, a larger number will better allow us to investigate and compensate for biases.
 
 # 9.2 What are the salient participant characteristics (e.g., age, gender, location, affiliation, etc.)? 
 Describe any specific inclusion/exclusion criteria (e.g., BMI > 30, immigrated to Canada in the past year, etc.)
@@ -63,7 +61,7 @@ a) Description of the potential psychological risk(s).
 b) Explanation of how the psychological risk(s) will be managed or minimized.
 c) If the study includes significant psychological risk, then explain why alternative approaches with less psychological risk cannot be used.
 
-There may be some minimal risks from participating in this survey. Some of the topics inquired in this study may be sensitive.
+There are no conceivable psychological risks.  There may be some minimal risks from participating in this survey. Some of the topics inquired in this study may be sensitive.
 
 # 14.18 Discuss any potential benefits to the participants, scientific community and/or society that justify involvement of participants in this study.
 
