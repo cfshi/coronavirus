@@ -74,9 +74,9 @@ Who should I contact if I have questions?
 
 Please feel free to reach out with any questions or concerns.  You can email or call either of the study investigators:
 
-·      Dr. David Earn: earn@math.mcmaster.ca, 905-525-9140 ext. 27245
+·       Dr. Chyun Shi shicf@mcmaster.ca, 905-525-9140 ext. 26313
 
-·       Dr. Jonathan Dushoff dushoff@mcmaster.ca, 905-525-9140 ext. 26313
+·      Dr. David Earn: earn@math.mcmaster.ca, 905-525-9140 ext. 27245
 
 
 If you have any concerns or questions about your rights as a participant, please contact McMaster Research Ethics Secretariat (905) 525-9140 ext. 2314 or email: ethicsoffice@mcmaster.ca
