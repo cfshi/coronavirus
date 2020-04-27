@@ -1,5 +1,5 @@
 
-INFORMATION AND CONSENT
+# INFORMATION AND CONSENT
 
 
 
@@ -21,13 +21,13 @@ The study will have no direct benefits to you. Your participation will help to i
 
 It is voluntary to join the study.  You can choose to participate and you can also change your mind any time during the survey. You may stop answering questions at any point if you do not wish to proceed.  There will be no consequence if you stop taking the survey.
 
-What is the study about? 
+## What is the study about? 
 
 The purpose of this study is to learn the public’s perception of COVID-19, and their responses during the pandemic.
 
 
 
-Who is eligible for the study?
+## Who is eligible for the study?
 
 To participate in this study, you must:
 
@@ -37,7 +37,7 @@ To participate in this study, you must:
 
 
 
-What are you asking me to do and how long will it take?
+## What are you asking me to do and how long will it take?
 
 
 
@@ -45,7 +45,7 @@ If you agree to proceed, your participation in this study will involve completin
 
 
 
-Are there any risks from participating in this survey? 
+## Are there any risks from participating in this survey? 
 
 
 
@@ -53,7 +53,7 @@ The information you provide is anonymous.  There may be some minimal risks fro
 
 
 
-How can the study possibly benefit me or others?
+## How can the study possibly benefit me or others?
 
 
 
@@ -61,7 +61,7 @@ You will not directly benefit from this study. However, we hope your participati
 
 
 
-How will you keep the data safe and private?
+## How will you keep the data safe and private?
 
 
 
@@ -73,7 +73,7 @@ The data collected here will not be shared.  The aggregated data will be made p
 
 
 
-What if I want to refuse or end participation before finishing the survey?
+## What if I want to refuse or end participation before finishing the survey?
 
 
 
@@ -81,7 +81,7 @@ Taking part in this survey is your choice. You also can change your mind at any 
 
 
 
-How to find the study results?
+## How to find the study results?
 
 
 
@@ -89,7 +89,7 @@ When analysis is completed, a summary of study results will be available online 
 
 
 
-Who should I contact if I have questions?
+## Who should I contact if I have questions?
 
 
 
@@ -104,4 +104,21 @@ Please feel free to reach out with any questions or concerns.  You can email or
 
 
 If you have any concerns or questions about your rights as a participant, please contact McMaster Research Ethics Secretariat (905) 525-9140 ext. 2314 or email: ethicsoffice@mcmaster.ca
+
+
+# The End page:
+Thank you for taking part in this survey.
+ 
+Your participation is extremely helpful for understanding people's awareness, and response to COVID-19.  We hope, based on the data collected from the survey, to develop ideas to improve better health communication during an outbreak like this.
+ 
+Please feel free to share this survey COVID-19 Awareness Study with others! 
+ 
+For a summary of our study, please go to the study website: COVID-19 Survey Summary
+ 
+Please email us at shicf@mcmaster.ca if you would like a copy of the survey results.  We also intend to publish findings in open-access journals.
+ 
+*** STAY SAFE AND STAY SANE ***
+
+
+
 
