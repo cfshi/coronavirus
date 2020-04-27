@@ -48,7 +48,8 @@ Recruitment messages will be posted online on public platform of various social 
 The team investigators will be in charge of the recruitment plan and post the message on social media. 
 We will encourage social media users to circulate the recruitment message further.
 
-# 11.1 Describe sequentially, and in detail all data collection procedures in which the research participants will be involved (e.g., paper and pencil tasks, interviews, focus groups, lab experiments, participant observation, surveys, physical assessments etc. —this is not an exhaustive list). Include information about who will conduct the research (include tasks done by assistants, translators, transcriptionists etc.), how long it will take, where data collection will take place, and the ways in which data will be collected (e.g., computer responses, handwritten notes, audio/video/photo recordings etc.).
+# 11.1 Describe sequentially, and in detail all data collection procedures in which the research participants will be involved 
+(e.g., paper and pencil tasks, interviews, focus groups, lab experiments, participant observation, surveys, physical assessments etc. —this is not an exhaustive list). Include information about who will conduct the research (include tasks done by assistants, translators, transcriptionists etc.), how long it will take, where data collection will take place, and the ways in which data will be collected (e.g., computer responses, handwritten notes, audio/video/photo recordings etc.).
 
 Potential participants will first read the study summary and information, and consent terms.  Once they decide to proceed and agree with the terms, they will start the survey.  The potential participants are informed that they can stop participation at any time during the survey.  When they complete the survey, the information they provide will be stored automatically and safely on cloud storage.  The whole survey will take about 15 minutes.
 
