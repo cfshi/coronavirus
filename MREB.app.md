@@ -1,14 +1,12 @@
 
-# 3.4 How would you describe the research activity conducted in this protocol to a lay person unfamiliar 
-with your discipline's methodologies and jargon? (max 250 words)?
+# 3.4 How would you describe the research activity conducted in this protocol to a lay person unfamiliar with your discipline's methodologies and jargon? (max 250 words)?
 
 The COVID-19 Awareness Study is an online anonymous survey conducted by McMaster University.   
 We will collect data on the public's knowledge about the COVID-19 outbreak, and their behavioural responses. 
 Data will be used to help us better understand patterns of health knowledge and response to this crisis, with the goal of learning how to improve health communication during a disease outbreak.
 
 
-# 8/1 Describe concisely and in plain language the study background of the proposed research project 
-(e.g., context of the research, previous research, importance of this area of study, etc.).
+# 8/1 Describe concisely and in plain language the study background of the proposed research project (e.g., context of the research, previous research, importance of this area of study, etc.).
 
 Effective communication during health crises is crucial as the outbreaks (e.g., SARS and H1N1) in the past revealed. The interactions between health communication and public behaviour is critical in controlling COVID-19 and has not yet been fully studied.  Understanding public attitudes, disease knowledge and behaviour has the potential to improve the control of transmission of COVID-19 and of future outbreaks.
 
@@ -23,15 +21,15 @@ __CS__ That's a good question.  My thought is to analyse data based on country t
 
 
 # 9.1 What is the approximate number of participants required for this study? 
-Where applicable, also provide a rationale for your choice in sample size 
+_Where applicable, also provide a rationale for your choice in sample size 
 and/or the sample size calculation (e.g., to explain how a low sample size 
 will still provide meaningful results, or to justify the number of participants 
-needed in research that includes significant risks).
+needed in research that includes significant risks)._
 
 We will aim to recruit at least 1,000 people . Since we have limited control over who will participate online, a larger number will better allow us to investigate and compensate for biases.
 
 # 9.2 What are the salient participant characteristics (e.g., age, gender, location, affiliation, etc.)? 
-Describe any specific inclusion/exclusion criteria (e.g., BMI > 30, immigrated to Canada in the past year, etc.)
+_Describe any specific inclusion/exclusion criteria (e.g., BMI > 30, immigrated to Canada in the past year, etc.)_
 
 The survey is anonymous and will not collect any identifiable personal information.  No limitations will be placed on gender, race, health status or other socio-demographic factors.The proposed study population is age 13 or older.  This is an online study and we aim to circulate the survey via social media platform such as Facebook, Instagram and Twitter.  The minimum age those social media is 13.  We believe that school kids's life are heavily affected with COVID-19 pandemic.  Their awareness of the pandemic and responses to it are valuable in managing health risk communication.
 
@@ -49,7 +47,7 @@ The team investigators will be in charge of the recruitment plan and post the me
 We will encourage social media users to circulate the recruitment message further.
 
 # 11.1 Describe sequentially, and in detail all data collection procedures in which the research participants will be involved 
-(e.g., paper and pencil tasks, interviews, focus groups, lab experiments, participant observation, surveys, physical assessments etc. —this is not an exhaustive list). Include information about who will conduct the research (include tasks done by assistants, translators, transcriptionists etc.), how long it will take, where data collection will take place, and the ways in which data will be collected (e.g., computer responses, handwritten notes, audio/video/photo recordings etc.).
+_(e.g., paper and pencil tasks, interviews, focus groups, lab experiments, participant observation, surveys, physical assessments etc. —this is not an exhaustive list). Include information about who will conduct the research (include tasks done by assistants, translators, transcriptionists etc.), how long it will take, where data collection will take place, and the ways in which data will be collected (e.g., computer responses, handwritten notes, audio/video/photo recordings etc.)._
 
 Potential participants will first read the study summary and information, and consent terms.  Once they decide to proceed and agree with the terms, they will start the survey.  The potential participants are informed that they can stop participation at any time during the survey.  When they complete the survey, the information they provide will be stored automatically and safely on cloud storage.  The whole survey will take about 15 minutes.
 
