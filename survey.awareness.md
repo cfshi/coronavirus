@@ -134,12 +134,15 @@ Session I:
 Primary/elementary school or less Some high school High school diploma or equivalency 	 Some college College or university degree Postgraduate or professional degree (e.g. Master's, MD, PhD)	 I don’t know/I prefer not to answer
 
 4. What is your relationship status?
+
 Single, never married Single, divorced/separated/widowed In a relationship/married and cohabiting In a relationship/married but living apart Other: 
 
 5. What is your employment status?
+
 Still at school Self employed Part-time employed Full-time employed Homemaker/full-time parent Unemployed/seeking work Prefer not to answer
 
 6. Where have you been living during the last six months?
+
 Canada		 United States of America Central/South America Europe South East Asia Far East Asia Middle East	 Africa	 Other: 
 
 7. What is your ethnicity?
@@ -148,24 +151,29 @@ Middle Eastern/Arabian Other ethnic group Prefer not to say
 		
 
 8. Who are you currently living with?
+
 Relatives (e.g., parents, spouse, partner, siblings, children)	 Other people (e.g., housemates) By myself
 Prefer not to answer Other: 
 
 9. Have you had COVID-19 (coronavirus)?
+
 Yes, tested and the result was positive		 Yes, suspected but not confirmed by a test		 No, tested and the result was negative No		 Don't know
 
 10. Do you know people in your immediate social environment who are or have been infected with the COVID-19?
+
 Yes, tested and the result was positive		 Yes, suspected but not confirmed by a test		 No, tested and the result was negative No		 Don't know
 
 Session II:
 
 11. Please choose the appropriate response for each item: (y/n/DK)
+
 Is it possible for people to be infected with COVID-19 without any symptoms?
 Are there drugs to treat COVID-19?
 Is there a vaccine available for COVID-19?
 
 
 12. Which of the following can be symptoms of COVID-19?
+
 Fever, Cough, Shortness of breath, Loss of Appetite, Sore throat,
 Memory loss , Runny or stuffy nose, Muscle or body aches, Upset stomach,
 Headaches, Fatigue (tiredness), Diarrhea, Depression, Loss of taste and smell, Don't know
@@ -173,21 +181,27 @@ Headaches, Fatigue (tiredness), Diarrhea, Depression, Loss of taste and smell, D
 13. Have you heard of 'flatten the curve' in relation to COVID-19? (y/n/DK)
 
 14. Which of the following do you think is true about the virus that causes COVID-19?
+
 Happened naturally		 Developed intentionally Made accidentally Don't know
 
 15. How far apart is social distancing recommended by your government?
+
 Less than 1 meter		 1-2 meters 2 meters or more	 Don’t know
 
 16. How many days is someone supposed to be self-quarantined when possibly exposed to COVID-19?
+
 3 days, 7 days, 14 days, 21 days, 28 days, Don’t Know, Other:
 
 17. Which country reported the first case of COVID-19?
+
 USA, Canada, Italy, China, Japan, Korea, Spain, United Kingdom, Don’t know, Other: 
 
 18. Which country reported the most deaths of COVID-19 so far?
+
 USA, Canada, Italy, China, Japan, Korea, Spain, United Kingdom, Don’t know, Other: 
 
 19. Where do you get your COVID-19 information? (7 point:  never to always)
+
 Public television (e.g., BBC, CTN, PBS)
 Public radio stations (e.g., CBC, NPR)
 Local and network television
@@ -205,6 +219,7 @@ Medical institutions
 20. Everything considered, how clear or confusing is it for the public to interpret COVID-19 information in your opinion? (5 point)
 
 21. How much do you trust or distrust the following sources of information in their reporting about COVID-19? (5 point)
+
 Public television (e.g., BBC, CTN, PBS)
 Public radio stations (e.g., CBC, NPR)
 Local and network television
@@ -221,6 +236,7 @@ Medical institutions
 Session III:
 
 22. How often do you practice the following: (7 point)
+
 Social distancing	
 Wearing face mask	
 Washing hands with soap	
@@ -228,6 +244,7 @@ Staying at home
 Avoiding gatherings	
 
 23. At the moment, how much do you worry about the following?
+
 Health (e.g., not able to see doctors)	
 Comfort and safety because of my race	
 Finance (e.g., not able to pay bills)
@@ -242,6 +259,7 @@ Basic food supply
 24. Overall, how worried are you about the COVID-19 pandemic?  (5 point)
 
 25. What is your opinion on the following statements about COVID-19? (5 point)
+
 If a vaccine becomes available and is recommended for me, I will get it	
 It’s appropriate to avoid certain people on the basis of their country of origin.	
 The government should restrict access to the Internet and social media to combat misinformation about the COVID-19.	
@@ -249,11 +267,13 @@ Anyone moving in public areas should be required to wear a face mask
 More tests for coronavirus infection should be carried out in the population.	
 
 26. Overall, do you think: (5 point)
+
 My daily life has been affected as a result of COVID-19.	
 I know how to protect myself from COVID-19	
 The restrictions that are currently implemented are excessive.	
 
 27. When do you think the COVID-19 epidemic will reach a peak where you live?
+
 A year from now
 Several months from now
 Several weeks from now
