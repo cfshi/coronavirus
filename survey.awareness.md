@@ -235,9 +235,11 @@ Celebrities and social media influencers
 Official, government	
 Medical institutions
 
+22. How would you rate your knowledge level on how to prevent spread of COVID-19? (5-point)
+
 Session III:
 
-22. How often do you practice the following: (7 point)
+23. How often do you practice the following: (7 point)
 
 Social distancing	
 Wearing face mask	
@@ -245,7 +247,7 @@ Washing hands with soap
 Staying at home	
 Avoiding gatherings	
 
-23. At the moment, how much do you worry about the following?
+24. At the moment, how much do you worry about the following?
 
 Health care (e.g., not able to see doctors)	
 Comfort and safety because of my race	
@@ -258,9 +260,9 @@ Family
 Basic food supply
 
 
-24. Overall, how worried are you about the COVID-19 pandemic?  (5 point)
+25. Overall, how worried are you about the COVID-19 pandemic?  (5 point)
 
-25. What is your opinion on the following statements about COVID-19? (5 point)
+26. What is your opinion on the following statements about COVID-19? (5 point)
 
 If a vaccine becomes available and is recommended for me, I will get it	
 It’s appropriate to avoid certain people on the basis of their country of origin.	
@@ -268,13 +270,21 @@ The government should restrict access to the Internet and social media to combat
 Anyone moving in public areas should be required to wear a face mask	
 More tests for coronavirus infection should be carried out in the population.	
 
-26. Overall, do you think: (5 point)
+__CS__:  Each sub Q is too long.  How about:
+To get COVID-19 vaccine when available
+To avoid certain people on the basis of their country of origin.	
+To regulate the Internet and social media to combat misinformation about the COVID-19.	
+To require to wear a face mask in public
+More tests for coronavirus infection in the population.	__CS__:(to delete this one?)
+
+
+27. Overall, do you think: (5 point)
 
 My daily life has been affected as a result of COVID-19.	
 I know how to protect myself from COVID-19	
 The restrictions that are currently implemented are excessive.	
 
-27. When do you think the COVID-19 epidemic will reach a peak where you live?
+28. When do you think the COVID-19 epidemic will reach a peak where you live?
 
 A year from now
 Several months from now
