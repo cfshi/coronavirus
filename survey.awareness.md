@@ -236,6 +236,7 @@ Official, government
 Medical institutions
 
 22. How would you rate your knowledge level on how to prevent spread of COVID-19? (5-point)
+__CS__:  The reason I put this Q back is that participants own perception relates to their behavioral change.  What they actually know is not the same as what they think they know.
 
 Session III:
 
