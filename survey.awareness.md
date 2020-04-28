@@ -188,6 +188,7 @@ Less than 1 meter		 1-2 meters 2 meters or more	 Don’t know
 
 15. Based on where you live, how many days is someone supposed to be self-quarantined when possibly exposed to the COVID-19 virus?
 
+
 3 days, 7 days, 14 days, 21 days, 28 days, Don’t Know, Other:
 
 16. Which country reported the first case of COVID-19?
@@ -272,6 +273,7 @@ Anyone moving in public areas should be required to wear a face mask
 More tests for coronavirus infection should be carried out in the population.	
 
 __CS__:  Each sub Q is too long.  How about:
+
 To get COVID-19 vaccine when available
 To avoid certain people on the basis of their country of origin.	
 To regulate the Internet and social media to combat misinformation about the COVID-19.	
