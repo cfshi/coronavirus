@@ -133,21 +133,23 @@ Session I:
 	
 Primary/elementary school or less Some high school High school diploma or equivalency 	 Some college College or university degree Postgraduate or professional degree (e.g. Master's, MD, PhD)	 I don’t know/I prefer not to answer
 
-4. What is your relationship status?
-
-Single, never married Single, divorced/separated/widowed In a relationship/married and cohabiting In a relationship/married but living apart Other: 
-
-5. What is your employment status?
+4. What is your employment status?
 
 Still at school Self employed Part-time employed Full-time employed Homemaker/full-time parent Unemployed/seeking work Prefer not to answer
 
-6. Where have you been living during the last six months?
+5. What is your relationship status?
+
+Single, never married Single, divorced/separated/widowed In a relationship/married and cohabiting In a relationship/married but living apart Other: 
+
+
+
+6. Where do you live now?
 
 Canada		 United States of America Central/South America Europe South East Asia Far East Asia Middle East	 Africa	 Other: 
 
 7. What is your ethnicity?
 White	 Native/Aboriginal	 Black (e.g., African, Caribbean)	 Mixed race - White and Black	 Mixed race - other	 Central-South American	 Far East Asian (e.g, Chinese, Korean, Japanese, Taiwanese)	 South East Asian (e.g, Filipino. Vietnamese,, Indonesian)	 South Asian (e.g., East Indian, Pakistani, Bangladeshi, Sri Lankan)	
-Middle Eastern/Arabian Other ethnic group Prefer not to say
+Middle Eastern/Arabian (e.g., Arabs, Egyptians, Turks)  Other ethnic group Prefer not to say
 		
 
 8. Who are you currently living with?
@@ -155,13 +157,13 @@ Middle Eastern/Arabian Other ethnic group Prefer not to say
 Relatives (e.g., parents, spouse, partner, siblings, children)	 Other people (e.g., housemates) By myself
 Prefer not to answer Other: 
 
-9. Have you had COVID-19 (coronavirus)?
+9. Have you had COVID-19 (novel coronavirus)?
 
 Yes, tested and the result was positive		 Yes, suspected but not confirmed by a test		 No, tested and the result was negative No		 Don't know
 
-10. Do you know people in your immediate social environment who are or have been infected with the COVID-19?
+10. Do you know people in your immediate social environment who are or have been infected with COVID-19?
 
-Yes, tested and the result was positive		 Yes, suspected but not confirmed by a test		 No, tested and the result was negative No		 Don't know
+At least one confirmed; none confirmed but atleast one suspected; no
 
 Session II:
 
@@ -180,15 +182,11 @@ Headaches, Fatigue (tiredness), Diarrhea, Depression, Loss of taste and smell, D
 
 13. Have you heard of 'flatten the curve' in relation to COVID-19? (y/n/DK)
 
-14. Which of the following do you think is true about the virus that causes COVID-19?
-
-Happened naturally		 Developed intentionally Made accidentally Don't know
-
-15. How far apart is social distancing recommended by your government?
+15. How far apart is social distancing recommended by the government where you live?
 
 Less than 1 meter		 1-2 meters 2 meters or more	 Don’t know
 
-16. How many days is someone supposed to be self-quarantined when possibly exposed to COVID-19?
+16. Based on where you live, how many days is someone supposed to be self-quarantined when possibly exposed to the COVID-19 virus?
 
 3 days, 7 days, 14 days, 21 days, 28 days, Don’t Know, Other:
 
@@ -199,6 +197,10 @@ USA, Canada, Italy, China, Japan, Korea, Spain, United Kingdom, Don’t know, Ot
 18. Which country reported the most deaths of COVID-19 so far?
 
 USA, Canada, Italy, China, Japan, Korea, Spain, United Kingdom, Don’t know, Other: 
+
+14. Which of the following do you think is true about the virus that causes COVID-19?
+
+Happened naturally		 Developed intentionally Made accidentally Don't know
 
 19. Where do you get your COVID-19 information? (7 point:  never to always)
 
@@ -245,14 +247,14 @@ Avoiding gatherings
 
 23. At the moment, how much do you worry about the following?
 
-Health (e.g., not able to see doctors)	
+Health care (e.g., not able to see doctors)	
 Comfort and safety because of my race	
 Finance (e.g., not able to pay bills)
 Work (e.g. job security)
 School (e.g., learning progress)
 Social relationships (not able to see friends)
 Mental health
-Family	Worried	Somewhat worried	
+Family	
 Basic food supply
 
 
@@ -280,8 +282,8 @@ Several weeks from now
 Several days from now
 Now
 Already peaked
-Don't know
-not applied
+No COVID-19 where I live
+
 
 
 
