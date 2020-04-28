@@ -182,23 +182,23 @@ Headaches, Fatigue (tiredness), Diarrhea, Depression, Loss of taste and smell, D
 
 13. Have you heard of 'flatten the curve' in relation to COVID-19? (y/n/DK)
 
-15. How far apart is social distancing recommended by the government where you live?
+14. How far apart is social distancing recommended by the government where you live?
 
 Less than 1 meter		 1-2 meters 2 meters or more	 Don’t know
 
-16. Based on where you live, how many days is someone supposed to be self-quarantined when possibly exposed to the COVID-19 virus?
+15. Based on where you live, how many days is someone supposed to be self-quarantined when possibly exposed to the COVID-19 virus?
 
 3 days, 7 days, 14 days, 21 days, 28 days, Don’t Know, Other:
 
-17. Which country reported the first case of COVID-19?
+16. Which country reported the first case of COVID-19?
 
 USA, Canada, Italy, China, Japan, Korea, Spain, United Kingdom, Don’t know, Other: 
 
-18. Which country reported the most deaths of COVID-19 so far?
+17. Which country reported the most deaths of COVID-19 so far?
 
 USA, Canada, Italy, China, Japan, Korea, Spain, United Kingdom, Don’t know, Other: 
 
-14. Which of the following do you think is true about the virus that causes COVID-19?
+18. Which of the following do you think is true about the virus that causes COVID-19?
 
 Happened naturally		 Developed intentionally Made accidentally Don't know
 
