@@ -142,20 +142,19 @@ Still at school Self employed Part-time employed Full-time employed Home
 Single, never married Single, divorced/separated/widowed In a relationship/married and cohabiting In a relationship/married but living apart Other: 
 
 
-
-6. Where do you live now?
-
-Canada		 United States of America Central/South America Europe South East Asia Far East Asia Middle East	 Africa	 Other: 
-
-7. What is your ethnicity?
-White	 Native/Aboriginal	 Black (e.g., African, Caribbean)	 Mixed race - White and Black	 Mixed race - other	 Central-South American	 Far East Asian (e.g, Chinese, Korean, Japanese, Taiwanese)	 South East Asian (e.g, Filipino. Vietnamese,, Indonesian)	 South Asian (e.g., East Indian, Pakistani, Bangladeshi, Sri Lankan)	
-Middle Eastern/Arabian (e.g., Arabs, Egyptians, Turks)  Other ethnic group Prefer not to say
-		
-
-8. Who are you currently living with?
+6. Who are you currently living with?
 
 Relatives (e.g., parents, spouse, partner, siblings, children)	 Other people (e.g., housemates) By myself
 Prefer not to answer Other: 
+
+7. What is your country of residence?
+
+dropdown: 
+
+8. What is your ethnicity?
+White	 Native/Aboriginal	 Black (e.g., African, Caribbean)	 Mixed race - White and Black	 Mixed race - other	 Central-South American	 Far East Asian (e.g, Chinese, Korean, Japanese, Taiwanese)	 South East Asian (e.g, Filipino. Vietnamese,, Indonesian)	 South Asian (e.g., East Indian, Pakistani, Bangladeshi, Sri Lankan)	
+Middle Eastern/Arabian (e.g., Arabs, Egyptians, Turks)  Other ethnic group Prefer not to say
+		
 
 9. Have you had COVID-19 (novel coronavirus)?
 
