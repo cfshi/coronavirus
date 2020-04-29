@@ -178,7 +178,7 @@ Is there a vaccine available for COVID-19?
 
 Fever, Cough, Shortness of breath, Loss of Appetite, Sore throat,
 Memory loss , Runny or stuffy nose, Muscle or body aches, Upset stomach,
-Headaches, Fatigue (tiredness), Diarrhea, pneumonia, Depression, Loss of taste and smell, Don't know
+Headaches, Fatigue (tiredness), Diarrhea, pneumonia, Depression, Loss of taste or smell, Don't know
 
 13. Have you heard of 'flatten the curve' in relation to COVID-19? (y/n/DK)
 
