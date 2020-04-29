@@ -5,10 +5,6 @@ The COVID-19 Awareness Study is an online anonymous survey conducted by McMaster
 We will collect data on the public's knowledge about the COVID-19 outbreak, and their behavioural responses. 
 Data will be used to help us better understand patterns of health knowledge and response to this crisis, with the goal of learning how to improve health communication during a disease outbreak.
 
-# 4.3.1	What is the grant title?
-
-__CS__: __JD__, Please provide.
-
 # 4.4.8	What is your other source of award and the award or agency number if applicable?
 
 Institute for Infectious Disease Research (IIDR)  at McMaster University.
