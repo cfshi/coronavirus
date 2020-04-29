@@ -183,7 +183,7 @@ Headaches, Fatigue (tiredness), Diarrhea, pneumonia, Depression, Loss of taste o
 
 14. How far apart is social distancing recommended by the government where you live?
 
-Less than 1 meter		 1-2 meters 2 meters or more	 Don’t know
+Less than 4 feet, Between 4 to 6 feet, At least 6 feet, Don’t know
 
 15. Based on where you live, how many days is someone supposed to be self-quarantined when possibly exposed to the COVID-19 virus?
 
