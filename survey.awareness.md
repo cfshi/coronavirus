@@ -170,7 +170,7 @@ Session II:
 11. Please choose the appropriate response for each item: (y/n/DK)
 
 Is it possible for people to be infected with COVID-19 without any symptoms?
-Are there drugs approved by your government to treat COVID-19?
+Are there drugs specifically to treat COVID-19?
 Is there a vaccine available for COVID-19?
 
 
