@@ -15,17 +15,11 @@ __CS__:  right?
 
 Effective communication and hehaviral responses during health crises are crucial as past outbreaks (e.g., SARS and H1N1) have reminded us of. There has been a few studies on COVID-19 and mental health; the interactions between health communication and public behaviour are critical for control of COVID-19 and have not yet been examined.  Understanding public attitudes, disease knowledge, and behaviour has the potential to help us improve the control strategies for the current COVID-19 pandemic and future epidemics.
 
-__CS__: revised. 
 
 # 8.2 Describe concisely and in plain language the specific purpose / research question for the proposed study.
 The primary goal of this study is to characterize what COVID-19 knowledge the public has and the pattern of responses to the pandemic in relation to the government policy.  There are two main question areas in this proposed study:
 * What are people’s knowledge of COVID-19?
 * How are people behaving in response to COVID-19 and government's policy of controlling the outbreak?
-
-__JD__: Do we need to ask people about the guidance present in their jurisdiction (country, state or province)? Are we planning to look at their answers in the light of the jurisdiction that they are in? If a person is from a place where the rules are different should we interpret their behaviour differently?
-
-__CS__ That's a good question.  My thought is to analyse data based on country they live within the last 6 months.  We can ask for zip code but I'm afraid it will get too complicated beyond my (our) ability to parse.  Analyses at a national level might not be perfect but I feel it should give us a good picture.  Does that make sense statistically?
-
 
 # 9.1 What is the approximate number of participants required for this study? 
 _Where applicable, also provide a rationale for your choice in sample size 
@@ -41,10 +35,6 @@ _Describe any specific inclusion/exclusion criteria (e.g., BMI > 30, immigrated 
 The survey is anonymous and will not collect any identifiable personal information.  No limitations will be placed on gender, race, health status or other socio-demographic factors. The proposed study population is age 13 or older.  This is an online study and we aim to circulate the survey via social media platforms such as Facebook, Instagram and Twitter.  The minimum age to obtain an account on those social media platforms is 13.  It is important to include all users of these platforms so we can capture data from teenagers, whose lives are strongly affected by the COVID-19 pandemic.  Understanding their awareness of the pandemic and responses to it will be valuable in managing health risk communication.
 
 We believe the adolescents of age 13 and older have the capacity to understand the study, and the risks involved, and to provide their own consent.
-
-__CS__ Please take a look of the age statement.  I changed it from age 16 to age 13.  I hope it won't be an issue based on the email exchange with Karen of MREB.  The worse scenario will be changed it back to age 16.
-
-__DE__ Revised a bit.
 
 # 10.1 How will each type of participant be recruited?
 
@@ -127,7 +117,6 @@ There will be no documentation of consent forms in the online survey.
 
 We will provide a link where participants can follow our bulletins about our research publications and posts about what we learn from the data (independent of filling out the survey).  
 
-__CS__ I was thinking of listing a link (e.g., github) on the Weebly page for whoever is intested in the study, instead of having them signing pu.  WDYT?
 
 # 16.10.1 Describe:
 
