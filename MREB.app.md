@@ -105,7 +105,7 @@ There is nothing sensitive about our data, so it is better to retain them in cas
 
 # 15.36 Provide the details of sharing the data (e.g. the specific database), the rationale for making your raw data available, and describe the nature of the data that will be made available (e.g., identifiable or not, which variables). Be sure to include these details in the Letter of Information so participants consent to this sharing of data. 
 
-The data is anonymous.  The aggregated data will be made public once peer-reviewed papers are published. We will explain this in the Letter of Information.  We will also share the raw data with research community for research purpose (e.g., systematic review, and comparison study)
+The data is anonymous.  The aggregated data will be made public once peer-reviewed papers are published. We will explain this in the Letter of Information.  We will also share the raw data with research community for research purpose (e.g., systematic review, and comparison study) after the results are published
 
 # 16.1 Describe the process the investigator(s) will use to obtain informed consent from participants with the capacity to provide consent. For participants lacking capacity to consent see the question below.
 
