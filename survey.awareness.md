@@ -3,7 +3,7 @@
 
 
 
-You are being invited to take part in a research project about the public’s awareness of, and responses to the COVID-19 (coronavirus) pandemic.  The purpose of this study is to understand how members of the public perceive the COVID-19 outbreak and how they are responding to it. This survey is part of a study that has been reviewed and cleared by the McMaster Research Ethics Board (MREB:XXXX)
+You are being invited to take part in a research project about the public’s awareness of and responses to the COVID-19 (coronavirus) pandemic.  The purpose of this study is to understand how members of the public perceive the COVID-19 outbreak and how they are responding to it. This survey is part of a study that has been reviewed and cleared by the McMaster Research Ethics Board (MREB:XXXX)
 
 
 
@@ -109,7 +109,7 @@ If you have any concerns or questions about your rights as a participant, please
 # The End page:
 Thank you for taking part in this survey.
  
-Your participation is extremely helpful for understanding people's awareness, and response to COVID-19.  We hope, based on the data collected from the survey, to develop ideas to improve better health communication during an outbreak like this.
+Your participation is extremely helpful for understanding people's awareness and response to COVID-19.  We hope, based on the data collected from the survey, to develop ideas to improve better health communication during an outbreak like this.
  
 Please feel free to share this survey COVID-19 Awareness Study with others! 
  
@@ -170,7 +170,7 @@ Session II:
 11. Please choose the appropriate response for each item: (y/n/DK)
 
 Is it possible for people to be infected with COVID-19 without any symptoms?
-Are there drugs to treat COVID-19?
+Are there drugs approved by your government to treat COVID-19?
 Is there a vaccine available for COVID-19?
 
 
