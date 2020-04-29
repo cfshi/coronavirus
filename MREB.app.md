@@ -5,6 +5,15 @@ The COVID-19 Awareness Study is an online anonymous survey conducted by McMaster
 We will collect data on the public's knowledge about the COVID-19 outbreak, and their behavioural responses. 
 Data will be used to help us better understand patterns of health knowledge and response to this crisis, with the goal of learning how to improve health communication during a disease outbreak.
 
+# 4.3.1	What is the grant title?
+
+__CS__: __JD__, Please provide.
+
+# 4.4.8	What is your other source of award and the award or agency number if applicable?
+
+Institute for Infectious Disease Research (IIDR)  at McMaster University.
+
+__CS__:  right?
 
 # 8/1 Describe concisely and in plain language the study background of the proposed research project (e.g., context of the research, previous research, importance of this area of study, etc.).
 
@@ -64,7 +73,7 @@ a) Description of the potential psychological risk(s).
 b) Explanation of how the psychological risk(s) will be managed or minimized.
 c) If the study includes significant psychological risk, then explain why alternative approaches with less psychological risk cannot be used.
 
-There are no conceivable psychological risks.  There may be some minimal risks from participating in this survey. Some of the topics inquired in this study may be sensitive.
+Some of the topics inquired in this study may be sensitive.  Psychological risks could arise from being questioned about the sensitive topics; we expect these to be minimal.
 
 # 14.18 Discuss any potential benefits to the participants, scientific community and/or society that justify involvement of participants in this study.
 
@@ -100,7 +109,7 @@ There is nothing sensitive about our data, so it is better to retain them in cas
 
 # 15.36 Provide the details of sharing the data (e.g. the specific database), the rationale for making your raw data available, and describe the nature of the data that will be made available (e.g., identifiable or not, which variables). Be sure to include these details in the Letter of Information so participants consent to this sharing of data. 
 
-The aggregated data will be made public once peer-reviewed papers are published. We will explain this in the Letter of Information. 
+The data is anonymous.  The aggregated data will be made public once peer-reviewed papers are published. We will explain this in the Letter of Information.  We will also share the raw data with research community for research purpose (e.g., systematic review, and comparison study)
 
 # 16.1 Describe the process the investigator(s) will use to obtain informed consent from participants with the capacity to provide consent. For participants lacking capacity to consent see the question below.
 
