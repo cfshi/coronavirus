@@ -236,7 +236,6 @@ Official, government
 Medical institutions
 
 22. How would you rate your knowledge level on how to prevent spread of COVID-19? (5-point)
-__CS__:  The reason I put this Q back is that participants own perception relates to their behavioral change.  What they actually know is not the same as what they think they know.
 
 Session III:
 
@@ -277,7 +276,7 @@ To get COVID-19 vaccine when available
 To avoid certain people on the basis of their country of origin.	
 To regulate the Internet and social media to combat misinformation about the COVID-19.	
 To require to wear a face mask in public
-More tests for coronavirus infection in the population.	__CS__:(to delete this one?)
+To provide more tests for coronavirus infection in the population.	__CS__:(to delete this one?)
 
 
 27. Overall, do you think: (5 point)
