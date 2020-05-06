@@ -88,6 +88,10 @@ To explain differnces of users by their socio demographics of the following:
 * [utility meter](), 
 * [Blue Dot-flights etc](https://bluedot.global/products/)
 * Although data like grocery shopping, food stocking can be interesting, but it is more a side question to our RQs.  The behavioral change is like a chain, starting from worrying about getting sick (buying face masks, no hand shaking, not going to movies etc) to stock up food, selling stocks etc to reduct its non medical impact.
+* change of social behavior:
+  - LCBO with drinking
+  - Ontario library online check out?
+
 
 # Others
 * Need to make a theme and timeline
