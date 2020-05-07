@@ -1,5 +1,7 @@
 # What 
-(theme of analysis which would be based on a pilot study):  
+
+- (theme of analysis which would be based on a pilot study):  
+
 	- coronavirus characteristics and disease comparison: what it is and compared to other diseases
 	- flu symptom:
 	- risk (what are the risks:  fantality, infection speed, pandemic likelihood) vs. action (what can we do to prevent and reduce chances of infection)
@@ -25,6 +27,7 @@
 	- country, region and city
 	
 # information vs. misinformation (mabye not fake news?:  To based on guideline and recommendation by WHO and authorities.
+	
 	To identify certain themes based on pilot study and researchers' study:  bleach, hydroxychloroquine, vaccine, 
 
 	- verified
@@ -34,6 +37,7 @@
 # when
 
 	- time of the publicaiton or circulation or tweet
+
 # theme tone: 
 
 	- negative
