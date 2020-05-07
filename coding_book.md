@@ -24,11 +24,13 @@
 # Where
 	- country, region and city
 	
-# information vs. misinformation (mabye not fake news?:
+# information vs. misinformation (mabye not fake news?:  To based on guideline and recommendation by WHO and authorities.
+	To identify certain themes based on pilot study and researchers' study:  bleach, hydroxychloroquine, vaccine, 
 
 	- verified
 	- anonymous
 	- speculation
+	
 # when
 
 	- time of the publicaiton or circulation or tweet
