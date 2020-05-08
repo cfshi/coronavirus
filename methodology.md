@@ -68,6 +68,8 @@ To explain differnces of users by their socio demographics of the following:
 * Twitter
 * Instgram
 * FB
+* YouTube:
+  - top viewed AD with COVID-19 theme ["Stay Home"](https://adage.com/article/digital/youtubes-most-viewed-covid-19-ads-stay-home-messages/22529910
 
 # Goolge Trend (data mining)
 * We need to be clear about how we use search keywords e.g.,[terms vs. topics](https://support.google.com/trends/answer/4359550?hl=en).  For example, we got different results of coronavirus (as a topic) vs. coronavirus as a search term.
