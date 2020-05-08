@@ -18,6 +18,9 @@
 	- trust and faith:  among people, communities, countries etc
 	- economic impact
 	- impact on business.  This can also be a index of how the public’s daily life is affected by the virus.		- international relations, global coordination, response systems and crisis management
+	
+Need to narrow it down to be more manageable (e.g., BascHill20: prevention behaviors, mortality and fear, symptoms,
+transmission and natural history, or other precautions based on CDC and others)
 
 # Who
 	- active subject: WHO, government, business owners, patients, individual etc
