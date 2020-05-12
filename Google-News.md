@@ -38,20 +38,5 @@ May 12.2:00am (the past week (5-7/05/20, the most research):
   - cdc coronavirus map
   - coronavirus news
   
-# May 12.2:30am (the past month, the most research):
 
-## Common questions
-
-  - What to do if you get a symptom of the coronavirus disease?
-  - What is the recovery time for the coronavirus disease?
-  - Which are the first symptoms of the coronavirus disease?
-  - Can you have the coronavirus disease without a fever?
-  - Is headache a symptom of the coronavirus disease?
-  - Can antibiotics treat the coronavirus disease?
-  
-## Common searches
-
- - what is covid-19
- - is covid-19 airborne
- - covid-19 wiki
 
