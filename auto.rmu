@@ -90,6 +90,7 @@ GENDER EQUALITY
 * PMID: 30389192 (AhmeQuin18) social media
 * PMID: 30561302 (GuidCarl19) instgram, zika
 * PMID: 32293582 (LiXu20)** COVID and Weibo (Data Mining Weibo During Early COVID-19 Outbreak)
+* PMID: 32471495 (LwinWin20) Temporal and textual analysis of social media on collective discourses during the Zika virus pandemic
 * PMID: 27853563 (MitcRoss16) traditional media and social media*
 * PMID: 26258077 (PathPoud15) YouTube as a Source of Information on Ebola Virus Disease
 * PMID: 31974552 (SunYang20) wechat
@@ -135,8 +136,7 @@ information.)
 	
 PMID: 16204405 (ShieShan05)* content analysis methods***
 
-PMID: 31956275 (LiuSieg19)* methodology
-	"Classifying texts using Supervised Machine Learning:
+PMID: 31956275 (LiuSieg19)* methodology "Classifying texts using Supervised Machine Learning:
 One type of automated content analysis, Supervised Machine Learning (SML; Grimmer & Stewart, 2013), 
 is well suited for our purposes (Zamith & Lewis, 2015). SML allowed us to effectively scale up our 
 exploration of the corpus by learning from a set of hand-coded training texts, identifying crucial 
