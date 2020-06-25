@@ -6,7 +6,10 @@
 -  There are so many about misinformatio and social media. What's new?
 	- echo chamber:  misinformatio vs. informatio
 	- does misinformation get verified or reinforced?
-	- Is ther a chain of misinformation we can study?  How does it start and by what type of people/sources?  How did it get circulated?
+	- Is ther a chain of misinformation we can study? 
+		- How does it start:  a chain of misinformation flow?
+		- What type of people/sources are involved?
+		- How did it get circulated?
 	- What type of misinformation get mostly circulated?
 	
 - Is a social ecological model https://www.cdc.gov/violenceprevention/publichealthissue/social-ecologicalmodel.html useful method as our synthesis method?
