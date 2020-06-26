@@ -12,6 +12,10 @@
 		- How did it get circulated?
 	- What type of misinformation get mostly circulated?
 	- relation of beliefs of misinformation and the COVID-19 outbreak
+	- topics:  
+		- medicine- western vs. traditional
+		- cultural perspective
+		- purpose of misinformation
 	
 - Is a social ecological model https://www.cdc.gov/violenceprevention/publichealthissue/social-ecologicalmodel.html useful method as our synthesis method?
 
