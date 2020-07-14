@@ -122,6 +122,8 @@ Ignore += cases.csv
 
 Sources += $(wildcard *.R)
 
+runmake = TURE
+
 gtrends.Rout: gtrends.R
 	$(run-R)
 
@@ -158,14 +160,11 @@ makestuff/Makefile:
 
 -include makestuff/os.mk
 
--include makestuff/wrapR.mk
-## -include makestuff/pandoc.mk
-
--include makestuff/git.mk
+-include makestuff/makeR.mk
 -include makestuff/texdeps.mk
--include makestuff/visual.mk
--include makestuff/hotcold.mk
 -include makestuff/cihrpaste.mk
 -include makestuff/autorefs.mk
 -include makestuff/pandoc.mk
--include makestuff/projdir.mk
+
+-include makestuff/git.mk
+-include makestuff/visual.mk
