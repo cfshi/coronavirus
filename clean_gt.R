@@ -1,5 +1,8 @@
 library(tidyverse)
 
+source("makestuff/makeRfuns.R")
+commandFiles()
+
 clean_gt <- (bind_rows(country_gt)
 	%>% rbind(.,worldgt)
 	%>% mutate(date = as.Date(as.character(format(date, format="%Y-%m-%d")
@@ -8,5 +11,7 @@ clean_gt <- (bind_rows(country_gt)
 )
 
 print(clean_gt)
+
+saveEnvironment()
 
 

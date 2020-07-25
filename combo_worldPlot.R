@@ -1,6 +1,9 @@
 library(ggplot2);theme_set(theme_bw())
 library(tidyverse)
 
+source("makestuff/makeRfuns.R")
+commandFiles()
+
 mindate <- as.Date("2020-01-15")
 
 gg <- (ggplot(combodat, aes(x=date,y=score,lty=type,color=interaction(term,type)))
@@ -14,4 +17,4 @@ gg <- (ggplot(combodat, aes(x=date,y=score,lty=type,color=interaction(term,type)
 
 print(gg)
 
-
+saveEnvironment()

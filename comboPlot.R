@@ -1,6 +1,9 @@
 library(ggplot2);theme_set(theme_bw())
 library(tidyverse)
 
+source("makestuff/makeRfuns.R")
+commandFiles()
+
 mindate <- as.Date("2020-01-15")
 
 gg <- (ggplot(combodat, aes(x=date,y=score,color=type))
@@ -9,10 +12,11 @@ gg <- (ggplot(combodat, aes(x=date,y=score,color=type))
 	+ scale_color_manual(values=c("blue","red"))
 	+ theme(legend.position="bottom")
 	+ xlim(mindate,NA)
-	+ facet_wrap(~Country)
+	+ facet_wrap(~CountryName)
 )
 
 print(gg)
+
 
 
 quit()
@@ -38,3 +42,5 @@ gg2 <- (ggplot(combodat, aes(x=Date, y=score))
 )
 
 print(gg2)
+
+saveEnvironment()

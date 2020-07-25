@@ -1,25 +1,30 @@
 library(tidyverse)
 library(zoo)
 
-first_date <- as.Date("2019-12-31")
-today <- as.Date(Sys.Date())
+source("makestuff/makeRfuns.R")
+commandEnvironments()
 
-dd <- read_csv("https://raw.githubusercontent.com/open-covid-19/data/master/output/data_minimal.csv")
+first_date <- as.Date("2019-12-31")
+today <- Sys.Date()
+
+dd <- read_csv("https://open-covid-19.github.io/data/data.csv")
 
 country_of_interest <- c("US","IT","KR","SG","CN","TW","CA")
+print(names(dd))
 
 dateframe <- data.frame(Date = as.Date(first_date:today))
 
 ddconfirm <- (left_join(dateframe,dd)
-	%>% filter(Key %in% country_of_interest)
-	%>% group_by(Key)
+	%>% filter(CountryCode %in% country_of_interest)
+	%>% filter(is.na(RegionName)) ## country level, we don't care about provinces/regions/states
+	%>% group_by(CountryCode)
 	%>% mutate(newConfirmations = diff(c(NA,Confirmed)))
 	%>% ungroup()
-	%>% select(Date, Country=Key, Confirmed, newConfirmations)
+	%>% select(Date, CountryCode, CountryName, Confirmed, newConfirmations)
 )
 
 
 print(ddconfirm,n=100)
 
-
+saveEnvironment()
 

@@ -125,24 +125,29 @@ Sources += $(wildcard *.R)
 runmake = TURE
 
 gtrends.Rout: gtrends.R
-	$(run-R)
+	$(makeR)
 
-clean_gt.Rout: gtrends.Rout clean_gt.R
-	$(run-R)
+clean_gt.Rout: clean_gt.R gtrends.rda
+	$(makeR)
 
 confirmed_cases.Rout: confirmed_cases.R
-	$(run-R)
+	$(makeR)
 
-confirmed_cases_plot.Rout: confirmed_cases.Rout confirmed_cases_plot.R
-	$(run-R)
+confirmed_cases_plot.Rout: confirmed_cases_plot.R confirmed_cases.rda
+	$(makeR)
 
-combo.Rout: clean_gt.Rout confirmed_cases.Rout combo.R
-	$(run-R)
+combo.Rout: combo.R clean_gt.rda confirmed_cases.rda
+	$(makeR)
 
-comboPlot.Rout: combo.Rout comboPlot.R
-	$(run-R)
+comboPlot.Rout: comboPlot.R combo.rda 
+	$(makeR)
 
-combo_worldPlot.Rout: combo_world.Rout combo_worldPlot.R
+
+## Not sure what this is about
+combo_world.Rout: combo_world.R
+	$(makeR)
+
+combo_worldPlot.Rout: combo_worldPlot.R combo_world.rda
 	$(run-R)
 
 ######################################################################

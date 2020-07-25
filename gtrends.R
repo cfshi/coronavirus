@@ -1,6 +1,9 @@
 library(gtrendsR)
 library(tidyverse)
 
+source("makestuff/makeRfuns.R")
+commandEnvironments()
+
 first_date <- "2019-12-01"
 today <- Sys.Date()
 dec2today <- paste(first_date,today)
@@ -28,3 +31,4 @@ country_gt <- lapply(c("US","IT","KR","SG","CN","TW","CA")
 		}
 )
 
+saveEnvironment()
