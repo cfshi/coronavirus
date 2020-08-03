@@ -25,7 +25,7 @@ gthits <- function(search_term,location,time){
 
 worldgt <- gthits(search_term="coronavirus",location="",time=dec2today)
 
-country_gt <- lapply(c("US","IT","KR","SG","CN","TW","CA","BR", "JP", "GB", "SE", "ZA")
+country_gt <- lapply(c("US","IT","KR","SG","CN","TW","CA","BR", "CO", "JP", "GB", "SE", "ZA")
 	, function(x){
 		gthits("coronavirus",location=x,time=dec2today)
 		}
