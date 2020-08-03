@@ -3,7 +3,7 @@ library(tidyverse)
 source("makestuff/makeRfuns.R")
 commandFiles()
 
-country_name <- data.frame(geo = c("CN", "KR", "TW", "IT", "US","SG","CA", "BR", "JP", "UK", "SW", "SA")
+country_name <- data.frame(geo = c("CN", "KR", "TW", "IT", "US","SG","CA", "BR", "JP", "GB", "SE", "ZA")
 	, Country_Region = c("China", "Republic of Korea", "Taiwan", "Italy", "United States of America", "Singapore","Canada", "Brazil", "Japan", "United Kingdom", "Sweden", "South Africa")
 )
 

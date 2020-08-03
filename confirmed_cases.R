@@ -9,7 +9,7 @@ today <- Sys.Date()
 
 dd <- read_csv("https://open-covid-19.github.io/data/data.csv")
 
-country_of_interest <- c("US","IT","KR","SG","CN","TW","CA" ,"BR", "JP", "UK", "SW", "SA")
+country_of_interest <- c("US","IT","KR","SG","CN","TW","CA" ,"BR", "JP", "GB", "SE", "ZA")
 print(names(dd))
 
 dateframe <- data.frame(Date = as.Date(first_date:today))
