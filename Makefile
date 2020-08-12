@@ -142,7 +142,6 @@ combo.Rout: combo.R clean_gt.rda confirmed_cases.rda
 comboPlot.Rout: comboPlot.R combo.rda 
 	$(makeR)
 
-
 ## Not sure what this is about
 combo_world.Rout: combo_world.R
 	$(makeR)
